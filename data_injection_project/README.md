@@ -18,7 +18,7 @@ Before you begin, ensure you have the following installed:
 
 * Clone the repository 
  ```
- git clone git@github.com:damensch/damensch-automation-ops.git
+ https://github.com/anandhm1/automation_pipeline.git
  ```
 
 
