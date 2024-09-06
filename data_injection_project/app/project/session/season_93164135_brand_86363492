@@ -1,0 +1,269 @@
+{
+    "externalId": "AggregatedSeason_75512506-6d3e-5d14-8425-c8162304c317",
+    "clientContentId": "PACK0000000006104502",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "chi": "Documentary",
+                    "tam": "Documentary",
+                    "ind": "Documentary",
+                    "tha": "Documentary"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "chi": "Documentary",
+                    "tam": "Documentary",
+                    "ind": "Documentary",
+                    "tha": "Documentary"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2023,
+    "rating": "12",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Jeff Wise",
+            " Ghislain Wattrelos",
+            " Danica Weeks",
+            " Jiang Hui",
+            " Intan Othman",
+            " Mike Exner",
+            " Mark Dickinson",
+            " Florence de Changy",
+            " Blaine Gibson",
+            " Grace Nathan"
+        ],
+        "may": [
+            "Jeff Wise",
+            " Ghislain Wattrelos",
+            " Danica Weeks",
+            " Jiang Hui",
+            " Intan Othman",
+            " Mike Exner",
+            " Mark Dickinson",
+            " Florence de Changy",
+            " Blaine Gibson",
+            " Grace Nathan"
+        ],
+        "chi": [
+            "Jeff Wise",
+            " Ghislain Wattrelos",
+            " Danica Weeks",
+            " Jiang Hui",
+            " Intan Othman",
+            " Mike Exner",
+            " Mark Dickinson",
+            " Florence de Changy",
+            " Blaine Gibson",
+            " Grace Nathan"
+        ],
+        "tam": [
+            "Jeff Wise",
+            " Ghislain Wattrelos",
+            " Danica Weeks",
+            " Jiang Hui",
+            " Intan Othman",
+            " Mike Exner",
+            " Mark Dickinson",
+            " Florence de Changy",
+            " Blaine Gibson",
+            " Grace Nathan"
+        ],
+        "ind": [
+            "Jeff Wise",
+            " Ghislain Wattrelos",
+            " Danica Weeks",
+            " Jiang Hui",
+            " Intan Othman",
+            " Mike Exner",
+            " Mark Dickinson",
+            " Florence de Changy",
+            " Blaine Gibson",
+            " Grace Nathan"
+        ],
+        "tha": [
+            "Jeff Wise",
+            " Ghislain Wattrelos",
+            " Danica Weeks",
+            " Jiang Hui",
+            " Intan Othman",
+            " Mike Exner",
+            " Mark Dickinson",
+            " Florence de Changy",
+            " Blaine Gibson",
+            " Grace Nathan"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Louise Malkinson"
+        ],
+        "may": [
+            "Louise Malkinson"
+        ],
+        "chi": [
+            "Louise Malkinson"
+        ],
+        "tam": [
+            "Louise Malkinson"
+        ],
+        "ind": [
+            "Louise Malkinson"
+        ],
+        "tha": [
+            "Louise Malkinson"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Harry Hewland"
+        ],
+        "may": [
+            "Harry Hewland"
+        ],
+        "chi": [
+            "Harry Hewland"
+        ],
+        "tam": [
+            "Harry Hewland"
+        ],
+        "ind": [
+            "Harry Hewland"
+        ],
+        "tha": [
+            "Harry Hewland"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_797b7064-efe0-52b6-b059-0a02e7ed21dd",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Mh370 The Plane That Disappeared S01 Ep01",
+            "may": "Mh370 The Plane That Disappeared S01 Ep01",
+            "chi": "Mh370 The Plane That Disappeared S01 Ep01",
+            "tam": "Mh370 The Plane That Disappeared S01 Ep01",
+            "ind": "Mh370 The Plane That Disappeared S01 Ep01",
+            "tha": "Mh370 The Plane That Disappeared S01 Ep01"
+        },
+        "long": {
+            "eng": "Mh370 The Plane That Disappeared S01 Ep01",
+            "may": "Mh370 The Plane That Disappeared S01 Ep01",
+            "chi": "Mh370 The Plane That Disappeared S01 Ep01",
+            "tam": "Mh370 The Plane That Disappeared S01 Ep01",
+            "ind": "Mh370 The Plane That Disappeared S01 Ep01",
+            "tha": "Mh370 The Plane That Disappeared S01 Ep01"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "may": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "chi": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "tam": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "ind": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "tha": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers."
+        },
+        "long": {
+            "eng": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "may": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "chi": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "tam": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "ind": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "tha": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Mh370ThePlaneThatDisappearedS01Ep01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Mh370ThePlaneThatDisappearedS01Ep01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Mh370ThePlaneThatDisappearedS01Ep01_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

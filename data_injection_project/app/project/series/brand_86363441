@@ -1,0 +1,367 @@
+{
+    "externalId": "AggregatedSeries_cdc0fb7d-8f78-57de-8458-5599bb0924b0",
+    "clientContentId": "PACK0000000006122417",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Star Trek Picard",
+            "may": "Star Trek Picard",
+            "tam": "Star Trek Picard",
+            "chi": "Star Trek Picard",
+            "tha": "Star Trek Picard",
+            "ind": "Star Trek Picard"
+        },
+        "long": {
+            "eng": "Star Trek Picard",
+            "may": "Star Trek Picard",
+            "tam": "Star Trek Picard",
+            "chi": "Star Trek Picard",
+            "tha": "Star Trek Picard",
+            "ind": "Star Trek Picard"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Follow-up series to Star Trek: The Next Generation (1987) and Star Trek: Nemesis (2002) that centers on Jean-Luc Picard in the next chapter of his life.",
+            "may": "Follow-up series to Star Trek: The Next Generation (1987) and Star Trek: Nemesis (2002) that centers on Jean-Luc Picard in the next chapter of his life.",
+            "tam": "Follow-up series to Star Trek: The Next Generation (1987) and Star Trek: Nemesis (2002) that centers on Jean-Luc Picard in the next chapter of his life.",
+            "chi": "Follow-up series to Star Trek: The Next Generation (1987) and Star Trek: Nemesis (2002) that centers on Jean-Luc Picard in the next chapter of his life.",
+            "tha": "Follow-up series to Star Trek: The Next Generation (1987) and Star Trek: Nemesis (2002) that centers on Jean-Luc Picard in the next chapter of his life.",
+            "ind": "Follow-up series to Star Trek: The Next Generation (1987) and Star Trek: Nemesis (2002) that centers on Jean-Luc Picard in the next chapter of his life."
+        },
+        "long": {
+            "eng": "Follow-up series to Star Trek: The Next Generation (1987) and Star Trek: Nemesis (2002) that centers on Jean-Luc Picard in the next chapter of his life.",
+            "may": "Follow-up series to Star Trek: The Next Generation (1987) and Star Trek: Nemesis (2002) that centers on Jean-Luc Picard in the next chapter of his life.",
+            "tam": "Follow-up series to Star Trek: The Next Generation (1987) and Star Trek: Nemesis (2002) that centers on Jean-Luc Picard in the next chapter of his life.",
+            "chi": "Follow-up series to Star Trek: The Next Generation (1987) and Star Trek: Nemesis (2002) that centers on Jean-Luc Picard in the next chapter of his life.",
+            "tha": "Follow-up series to Star Trek: The Next Generation (1987) and Star Trek: Nemesis (2002) that centers on Jean-Luc Picard in the next chapter of his life.",
+            "ind": "Follow-up series to Star Trek: The Next Generation (1987) and Star Trek: Nemesis (2002) that centers on Jean-Luc Picard in the next chapter of his life."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Patrick Stewart",
+            " Michelle Hurd",
+            " Jeri Ryan",
+            " Alison Pill",
+            " Santiago Cabrera",
+            " Evan Evagora",
+            " Isa Briones",
+            " Orla Brady",
+            " Kay Bess",
+            " Brent Spiner"
+        ],
+        "may": [
+            "Patrick Stewart",
+            " Michelle Hurd",
+            " Jeri Ryan",
+            " Alison Pill",
+            " Santiago Cabrera",
+            " Evan Evagora",
+            " Isa Briones",
+            " Orla Brady",
+            " Kay Bess",
+            " Brent Spiner"
+        ],
+        "tam": [
+            "Patrick Stewart",
+            " Michelle Hurd",
+            " Jeri Ryan",
+            " Alison Pill",
+            " Santiago Cabrera",
+            " Evan Evagora",
+            " Isa Briones",
+            " Orla Brady",
+            " Kay Bess",
+            " Brent Spiner"
+        ],
+        "chi": [
+            "Patrick Stewart",
+            " Michelle Hurd",
+            " Jeri Ryan",
+            " Alison Pill",
+            " Santiago Cabrera",
+            " Evan Evagora",
+            " Isa Briones",
+            " Orla Brady",
+            " Kay Bess",
+            " Brent Spiner"
+        ],
+        "tha": [
+            "Patrick Stewart",
+            " Michelle Hurd",
+            " Jeri Ryan",
+            " Alison Pill",
+            " Santiago Cabrera",
+            " Evan Evagora",
+            " Isa Briones",
+            " Orla Brady",
+            " Kay Bess",
+            " Brent Spiner"
+        ],
+        "ind": [
+            "Patrick Stewart",
+            " Michelle Hurd",
+            " Jeri Ryan",
+            " Alison Pill",
+            " Santiago Cabrera",
+            " Evan Evagora",
+            " Isa Briones",
+            " Orla Brady",
+            " Kay Bess",
+            " Brent Spiner"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jonathan Frakes",
+            " Douglas Aarniokoski",
+            " Hanelle M. Culpepper",
+            " Akiva Goldsman",
+            " Maja Vrvilo",
+            " Joe Menendez",
+            " Lea Thompson",
+            " Michael Weaver",
+            " Deborah Kampmeier",
+            " Dan Liu"
+        ],
+        "may": [
+            "Jonathan Frakes",
+            " Douglas Aarniokoski",
+            " Hanelle M. Culpepper",
+            " Akiva Goldsman",
+            " Maja Vrvilo",
+            " Joe Menendez",
+            " Lea Thompson",
+            " Michael Weaver",
+            " Deborah Kampmeier",
+            " Dan Liu"
+        ],
+        "tam": [
+            "Jonathan Frakes",
+            " Douglas Aarniokoski",
+            " Hanelle M. Culpepper",
+            " Akiva Goldsman",
+            " Maja Vrvilo",
+            " Joe Menendez",
+            " Lea Thompson",
+            " Michael Weaver",
+            " Deborah Kampmeier",
+            " Dan Liu"
+        ],
+        "chi": [
+            "Jonathan Frakes",
+            " Douglas Aarniokoski",
+            " Hanelle M. Culpepper",
+            " Akiva Goldsman",
+            " Maja Vrvilo",
+            " Joe Menendez",
+            " Lea Thompson",
+            " Michael Weaver",
+            " Deborah Kampmeier",
+            " Dan Liu"
+        ],
+        "tha": [
+            "Jonathan Frakes",
+            " Douglas Aarniokoski",
+            " Hanelle M. Culpepper",
+            " Akiva Goldsman",
+            " Maja Vrvilo",
+            " Joe Menendez",
+            " Lea Thompson",
+            " Michael Weaver",
+            " Deborah Kampmeier",
+            " Dan Liu"
+        ],
+        "ind": [
+            "Jonathan Frakes",
+            " Douglas Aarniokoski",
+            " Hanelle M. Culpepper",
+            " Akiva Goldsman",
+            " Maja Vrvilo",
+            " Joe Menendez",
+            " Lea Thompson",
+            " Michael Weaver",
+            " Deborah Kampmeier",
+            " Dan Liu"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Akiva Goldsman",
+            " Alex Kurtzman",
+            " Patrick Stewart",
+            " Douglas Aarniokoski",
+            " Aaron Baiers",
+            " Heather Kadin",
+            " Dylan K. Massin",
+            " Rod Roddenberry",
+            " Trevor Roth",
+            " Jason Michael Zimmerman"
+        ],
+        "may": [
+            "Akiva Goldsman",
+            " Alex Kurtzman",
+            " Patrick Stewart",
+            " Douglas Aarniokoski",
+            " Aaron Baiers",
+            " Heather Kadin",
+            " Dylan K. Massin",
+            " Rod Roddenberry",
+            " Trevor Roth",
+            " Jason Michael Zimmerman"
+        ],
+        "tam": [
+            "Akiva Goldsman",
+            " Alex Kurtzman",
+            " Patrick Stewart",
+            " Douglas Aarniokoski",
+            " Aaron Baiers",
+            " Heather Kadin",
+            " Dylan K. Massin",
+            " Rod Roddenberry",
+            " Trevor Roth",
+            " Jason Michael Zimmerman"
+        ],
+        "chi": [
+            "Akiva Goldsman",
+            " Alex Kurtzman",
+            " Patrick Stewart",
+            " Douglas Aarniokoski",
+            " Aaron Baiers",
+            " Heather Kadin",
+            " Dylan K. Massin",
+            " Rod Roddenberry",
+            " Trevor Roth",
+            " Jason Michael Zimmerman"
+        ],
+        "tha": [
+            "Akiva Goldsman",
+            " Alex Kurtzman",
+            " Patrick Stewart",
+            " Douglas Aarniokoski",
+            " Aaron Baiers",
+            " Heather Kadin",
+            " Dylan K. Massin",
+            " Rod Roddenberry",
+            " Trevor Roth",
+            " Jason Michael Zimmerman"
+        ],
+        "ind": [
+            "Akiva Goldsman",
+            " Alex Kurtzman",
+            " Patrick Stewart",
+            " Douglas Aarniokoski",
+            " Aaron Baiers",
+            " Heather Kadin",
+            " Dylan K. Massin",
+            " Rod Roddenberry",
+            " Trevor Roth",
+            " Jason Michael Zimmerman"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StarTrekPicardS03E01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StarTrekPicardS03E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StarTrekPicardS03E01_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "9",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2020,
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,299 @@
+{
+    "externalId": "AggregatedSeason_322cf2a1-cc8f-534e-802f-2cbda64ded18",
+    "clientContentId": "PACK0000000003454568",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "chi": "Crime",
+                    "tam": "Crime",
+                    "ind": "Crime",
+                    "tha": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "15",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Sarah Greene",
+            " Killian Scott",
+            " Michael D'Arcy"
+        ],
+        "may": [
+            "Sarah Greene",
+            " Killian Scott",
+            " Michael D'Arcy"
+        ],
+        "chi": [
+            "Sarah Greene",
+            " Killian Scott",
+            " Michael D'Arcy"
+        ],
+        "tam": [
+            "Sarah Greene",
+            " Killian Scott",
+            " Michael D'Arcy"
+        ],
+        "ind": [
+            "Sarah Greene",
+            " Killian Scott",
+            " Michael D'Arcy"
+        ],
+        "tha": [
+            "Sarah Greene",
+            " Killian Scott",
+            " Michael D'Arcy"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "John Hayes",
+            " Saul Dibb",
+            " Rebecca Gatward"
+        ],
+        "may": [
+            "John Hayes",
+            " Saul Dibb",
+            " Rebecca Gatward"
+        ],
+        "chi": [
+            "John Hayes",
+            " Saul Dibb",
+            " Rebecca Gatward"
+        ],
+        "tam": [
+            "John Hayes",
+            " Saul Dibb",
+            " Rebecca Gatward"
+        ],
+        "ind": [
+            "John Hayes",
+            " Saul Dibb",
+            " Rebecca Gatward"
+        ],
+        "tha": [
+            "John Hayes",
+            " Saul Dibb",
+            " Rebecca Gatward"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Tommy Bulfin",
+            " Saul Dibb",
+            " Alan Gasmer",
+            " Ed Guiney",
+            " Kate Harwood",
+            " Peter Jaysen",
+            " Elizabeth Kilgarriff",
+            " Carmel Maloney",
+            " Katrina McBriarty",
+            " Sarah Phelps",
+            " Noemi Spanos"
+        ],
+        "may": [
+            "Tommy Bulfin",
+            " Saul Dibb",
+            " Alan Gasmer",
+            " Ed Guiney",
+            " Kate Harwood",
+            " Peter Jaysen",
+            " Elizabeth Kilgarriff",
+            " Carmel Maloney",
+            " Katrina McBriarty",
+            " Sarah Phelps",
+            " Noemi Spanos"
+        ],
+        "chi": [
+            "Tommy Bulfin",
+            " Saul Dibb",
+            " Alan Gasmer",
+            " Ed Guiney",
+            " Kate Harwood",
+            " Peter Jaysen",
+            " Elizabeth Kilgarriff",
+            " Carmel Maloney",
+            " Katrina McBriarty",
+            " Sarah Phelps",
+            " Noemi Spanos"
+        ],
+        "tam": [
+            "Tommy Bulfin",
+            " Saul Dibb",
+            " Alan Gasmer",
+            " Ed Guiney",
+            " Kate Harwood",
+            " Peter Jaysen",
+            " Elizabeth Kilgarriff",
+            " Carmel Maloney",
+            " Katrina McBriarty",
+            " Sarah Phelps",
+            " Noemi Spanos"
+        ],
+        "ind": [
+            "Tommy Bulfin",
+            " Saul Dibb",
+            " Alan Gasmer",
+            " Ed Guiney",
+            " Kate Harwood",
+            " Peter Jaysen",
+            " Elizabeth Kilgarriff",
+            " Carmel Maloney",
+            " Katrina McBriarty",
+            " Sarah Phelps",
+            " Noemi Spanos"
+        ],
+        "tha": [
+            "Tommy Bulfin",
+            " Saul Dibb",
+            " Alan Gasmer",
+            " Ed Guiney",
+            " Kate Harwood",
+            " Peter Jaysen",
+            " Elizabeth Kilgarriff",
+            " Carmel Maloney",
+            " Katrina McBriarty",
+            " Sarah Phelps",
+            " Noemi Spanos"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_6a2d9733-c75f-5e39-a060-4881e3736e6b",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Dublin Murders Season 1",
+            "may": "Dublin Murders Season 1",
+            "chi": "Dublin Murders Season 1",
+            "tam": "Dublin Murders Season 1",
+            "ind": "Dublin Murders Season 1",
+            "tha": "Dublin Murders Season 1"
+        },
+        "long": {
+            "eng": "Dublin Murders Season 1",
+            "may": "Dublin Murders Season 1",
+            "chi": "Dublin Murders Season 1",
+            "tam": "Dublin Murders Season 1",
+            "ind": "Dublin Murders Season 1",
+            "tha": "Dublin Murders Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "may": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "chi": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "tam": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "ind": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "tha": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives."
+        },
+        "long": {
+            "eng": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "may": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "chi": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "tam": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "ind": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "tha": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DublinMurdersSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DublinMurdersSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DublinMurdersSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

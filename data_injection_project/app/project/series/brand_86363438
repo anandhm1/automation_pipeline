@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedSeries_303a949a-f7f9-5a62-b610-13a9b2a8729c",
+    "clientContentId": "PACK0000000006111577",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Showtrial",
+            "may": "Showtrial",
+            "tam": "Showtrial",
+            "chi": "Showtrial",
+            "tha": "Showtrial",
+            "ind": "Showtrial"
+        },
+        "long": {
+            "eng": "Showtrial",
+            "may": "Showtrial",
+            "tam": "Showtrial",
+            "chi": "Showtrial",
+            "tha": "Showtrial",
+            "ind": "Showtrial"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "may": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "tam": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "chi": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "tha": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "ind": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight."
+        },
+        "long": {
+            "eng": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "may": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "tam": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "chi": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "tha": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "ind": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Celine Buckens",
+            " Joseph Payne",
+            " Kerr Logan",
+            " Tracy Ifeachor",
+            " Sin\u00e9ad Keenan",
+            " Lolita Chakrabarti",
+            " Sharon D Clarke",
+            " James Frain",
+            " Rupert Holliday-Evans",
+            " Christopher Hatherall"
+        ],
+        "may": [
+            "Celine Buckens",
+            " Joseph Payne",
+            " Kerr Logan",
+            " Tracy Ifeachor",
+            " Sin\u00e9ad Keenan",
+            " Lolita Chakrabarti",
+            " Sharon D Clarke",
+            " James Frain",
+            " Rupert Holliday-Evans",
+            " Christopher Hatherall"
+        ],
+        "tam": [
+            "Celine Buckens",
+            " Joseph Payne",
+            " Kerr Logan",
+            " Tracy Ifeachor",
+            " Sin\u00e9ad Keenan",
+            " Lolita Chakrabarti",
+            " Sharon D Clarke",
+            " James Frain",
+            " Rupert Holliday-Evans",
+            " Christopher Hatherall"
+        ],
+        "chi": [
+            "Celine Buckens",
+            " Joseph Payne",
+            " Kerr Logan",
+            " Tracy Ifeachor",
+            " Sin\u00e9ad Keenan",
+            " Lolita Chakrabarti",
+            " Sharon D Clarke",
+            " James Frain",
+            " Rupert Holliday-Evans",
+            " Christopher Hatherall"
+        ],
+        "tha": [
+            "Celine Buckens",
+            " Joseph Payne",
+            " Kerr Logan",
+            " Tracy Ifeachor",
+            " Sin\u00e9ad Keenan",
+            " Lolita Chakrabarti",
+            " Sharon D Clarke",
+            " James Frain",
+            " Rupert Holliday-Evans",
+            " Christopher Hatherall"
+        ],
+        "ind": [
+            "Celine Buckens",
+            " Joseph Payne",
+            " Kerr Logan",
+            " Tracy Ifeachor",
+            " Sin\u00e9ad Keenan",
+            " Lolita Chakrabarti",
+            " Sharon D Clarke",
+            " James Frain",
+            " Rupert Holliday-Evans",
+            " Christopher Hatherall"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Zara Hayes"
+        ],
+        "may": [
+            "Zara Hayes"
+        ],
+        "tam": [
+            "Zara Hayes"
+        ],
+        "chi": [
+            "Zara Hayes"
+        ],
+        "tha": [
+            "Zara Hayes"
+        ],
+        "ind": [
+            "Zara Hayes"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Elizabeth Binns",
+            " Christopher Hall",
+            " Simon Heath",
+            " Emma Luffingham",
+            " Mona Qureshi",
+            " Ben Richards",
+            " Emily Shapland"
+        ],
+        "may": [
+            "Elizabeth Binns",
+            " Christopher Hall",
+            " Simon Heath",
+            " Emma Luffingham",
+            " Mona Qureshi",
+            " Ben Richards",
+            " Emily Shapland"
+        ],
+        "tam": [
+            "Elizabeth Binns",
+            " Christopher Hall",
+            " Simon Heath",
+            " Emma Luffingham",
+            " Mona Qureshi",
+            " Ben Richards",
+            " Emily Shapland"
+        ],
+        "chi": [
+            "Elizabeth Binns",
+            " Christopher Hall",
+            " Simon Heath",
+            " Emma Luffingham",
+            " Mona Qureshi",
+            " Ben Richards",
+            " Emily Shapland"
+        ],
+        "tha": [
+            "Elizabeth Binns",
+            " Christopher Hall",
+            " Simon Heath",
+            " Emma Luffingham",
+            " Mona Qureshi",
+            " Ben Richards",
+            " Emily Shapland"
+        ],
+        "ind": [
+            "Elizabeth Binns",
+            " Christopher Hall",
+            " Simon Heath",
+            " Emma Luffingham",
+            " Mona Qureshi",
+            " Ben Richards",
+            " Emily Shapland"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ShowtrialSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ShowtrialSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ShowtrialSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "9",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2021,
+    "maxConcurrentStreams": 0
+}

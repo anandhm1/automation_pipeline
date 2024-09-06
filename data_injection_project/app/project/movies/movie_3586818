@@ -1,0 +1,319 @@
+{
+    "externalId": "AggregatedMovie_dcfba098-aff1-5b3f-aeb3-7edb2273055c",
+    "clientContentId": "PACK0000000008309736",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Run",
+            "may": "Run",
+            "tam": "Run",
+            "chi": "Run",
+            "tha": "Run",
+            "ind": "Run"
+        },
+        "long": {
+            "eng": "Run",
+            "may": "Run",
+            "tam": "Run",
+            "chi": "Run",
+            "tha": "Run",
+            "ind": "Run"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A homeschooled teenager begins to suspect her mother is keeping a dark secret from her.",
+            "may": "A homeschooled teenager begins to suspect her mother is keeping a dark secret from her.",
+            "tam": "A homeschooled teenager begins to suspect her mother is keeping a dark secret from her.",
+            "chi": "A homeschooled teenager begins to suspect her mother is keeping a dark secret from her.",
+            "tha": "A homeschooled teenager begins to suspect her mother is keeping a dark secret from her.",
+            "ind": "A homeschooled teenager begins to suspect her mother is keeping a dark secret from her."
+        },
+        "long": {
+            "eng": "A homeschooled teenager begins to suspect her mother is keeping a dark secret from her.",
+            "may": "A homeschooled teenager begins to suspect her mother is keeping a dark secret from her.",
+            "tam": "A homeschooled teenager begins to suspect her mother is keeping a dark secret from her.",
+            "chi": "A homeschooled teenager begins to suspect her mother is keeping a dark secret from her.",
+            "tha": "A homeschooled teenager begins to suspect her mother is keeping a dark secret from her.",
+            "ind": "A homeschooled teenager begins to suspect her mother is keeping a dark secret from her."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Sarah Paulson",
+            " Kiera Allen",
+            " Sara Sohn",
+            " Pat Healy",
+            " Erik Athavale",
+            " BJ Harrison",
+            " Sharon Bajer",
+            " Onalee Ames",
+            " Joanne Rodriguez",
+            " Ernie Foort"
+        ],
+        "may": [
+            "Sarah Paulson",
+            " Kiera Allen",
+            " Sara Sohn",
+            " Pat Healy",
+            " Erik Athavale",
+            " BJ Harrison",
+            " Sharon Bajer",
+            " Onalee Ames",
+            " Joanne Rodriguez",
+            " Ernie Foort"
+        ],
+        "tam": [
+            "Sarah Paulson",
+            " Kiera Allen",
+            " Sara Sohn",
+            " Pat Healy",
+            " Erik Athavale",
+            " BJ Harrison",
+            " Sharon Bajer",
+            " Onalee Ames",
+            " Joanne Rodriguez",
+            " Ernie Foort"
+        ],
+        "chi": [
+            "Sarah Paulson",
+            " Kiera Allen",
+            " Sara Sohn",
+            " Pat Healy",
+            " Erik Athavale",
+            " BJ Harrison",
+            " Sharon Bajer",
+            " Onalee Ames",
+            " Joanne Rodriguez",
+            " Ernie Foort"
+        ],
+        "tha": [
+            "Sarah Paulson",
+            " Kiera Allen",
+            " Sara Sohn",
+            " Pat Healy",
+            " Erik Athavale",
+            " BJ Harrison",
+            " Sharon Bajer",
+            " Onalee Ames",
+            " Joanne Rodriguez",
+            " Ernie Foort"
+        ],
+        "ind": [
+            "Sarah Paulson",
+            " Kiera Allen",
+            " Sara Sohn",
+            " Pat Healy",
+            " Erik Athavale",
+            " BJ Harrison",
+            " Sharon Bajer",
+            " Onalee Ames",
+            " Joanne Rodriguez",
+            " Ernie Foort"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Aneesh Chaganty"
+        ],
+        "may": [
+            "Aneesh Chaganty"
+        ],
+        "tam": [
+            "Aneesh Chaganty"
+        ],
+        "chi": [
+            "Aneesh Chaganty"
+        ],
+        "tha": [
+            "Aneesh Chaganty"
+        ],
+        "ind": [
+            "Aneesh Chaganty"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Rhonda Baker",
+            " Kevin Kuhia",
+            " Colleen Mitchell",
+            " Sev Ohanian",
+            " Natalie Qasabian",
+            " Ellen Rutter"
+        ],
+        "may": [
+            "Rhonda Baker",
+            " Kevin Kuhia",
+            " Colleen Mitchell",
+            " Sev Ohanian",
+            " Natalie Qasabian",
+            " Ellen Rutter"
+        ],
+        "tam": [
+            "Rhonda Baker",
+            " Kevin Kuhia",
+            " Colleen Mitchell",
+            " Sev Ohanian",
+            " Natalie Qasabian",
+            " Ellen Rutter"
+        ],
+        "chi": [
+            "Rhonda Baker",
+            " Kevin Kuhia",
+            " Colleen Mitchell",
+            " Sev Ohanian",
+            " Natalie Qasabian",
+            " Ellen Rutter"
+        ],
+        "tha": [
+            "Rhonda Baker",
+            " Kevin Kuhia",
+            " Colleen Mitchell",
+            " Sev Ohanian",
+            " Natalie Qasabian",
+            " Ellen Rutter"
+        ],
+        "ind": [
+            "Rhonda Baker",
+            " Kevin Kuhia",
+            " Colleen Mitchell",
+            " Sev Ohanian",
+            " Natalie Qasabian",
+            " Ellen Rutter"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Mystery",
+                    "may": "Mystery",
+                    "tam": "Mystery",
+                    "chi": "Mystery",
+                    "tha": "Mystery",
+                    "ind": "Mystery"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Thriller",
+                    "may": " Thriller",
+                    "tam": " Thriller",
+                    "chi": " Thriller",
+                    "tha": " Thriller",
+                    "ind": " Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Run_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Run_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Run_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2020,
+    "rating": "6.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

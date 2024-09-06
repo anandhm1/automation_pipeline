@@ -1,0 +1,331 @@
+{
+    "externalId": "AggregatedMovie_c2ad79f7-0e99-59fa-adbd-6ebba85c5c2c",
+    "clientContentId": "PACK0000000009322922",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Violent Night",
+            "may": "Violent Night",
+            "tam": "Violent Night",
+            "chi": "Violent Night",
+            "tha": "Violent Night",
+            "ind": "Violent Night"
+        },
+        "long": {
+            "eng": "Violent Night",
+            "may": "Violent Night",
+            "tam": "Violent Night",
+            "chi": "Violent Night",
+            "tha": "Violent Night",
+            "ind": "Violent Night"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "When a group of mercenaries attack the estate of a wealthy family, Santa Claus must step in to save the day (and Christmas).",
+            "may": "When a group of mercenaries attack the estate of a wealthy family, Santa Claus must step in to save the day (and Christmas).",
+            "tam": "When a group of mercenaries attack the estate of a wealthy family, Santa Claus must step in to save the day (and Christmas).",
+            "chi": "When a group of mercenaries attack the estate of a wealthy family, Santa Claus must step in to save the day (and Christmas).",
+            "tha": "When a group of mercenaries attack the estate of a wealthy family, Santa Claus must step in to save the day (and Christmas).",
+            "ind": "When a group of mercenaries attack the estate of a wealthy family, Santa Claus must step in to save the day (and Christmas)."
+        },
+        "long": {
+            "eng": "When a group of mercenaries attack the estate of a wealthy family, Santa Claus must step in to save the day (and Christmas).",
+            "may": "When a group of mercenaries attack the estate of a wealthy family, Santa Claus must step in to save the day (and Christmas).",
+            "tam": "When a group of mercenaries attack the estate of a wealthy family, Santa Claus must step in to save the day (and Christmas).",
+            "chi": "When a group of mercenaries attack the estate of a wealthy family, Santa Claus must step in to save the day (and Christmas).",
+            "tha": "When a group of mercenaries attack the estate of a wealthy family, Santa Claus must step in to save the day (and Christmas).",
+            "ind": "When a group of mercenaries attack the estate of a wealthy family, Santa Claus must step in to save the day (and Christmas)."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "David Harbour",
+            " John Leguizamo",
+            " Beverly D'Angelo",
+            " Alex Hassell",
+            " Alexis Louder",
+            " Edi Patterson",
+            " Cam Gigandet",
+            " Leah Brady",
+            " Andr\u00e9 Eriksen",
+            " Brendan Fletcher"
+        ],
+        "may": [
+            "David Harbour",
+            " John Leguizamo",
+            " Beverly D'Angelo",
+            " Alex Hassell",
+            " Alexis Louder",
+            " Edi Patterson",
+            " Cam Gigandet",
+            " Leah Brady",
+            " Andr\u00e9 Eriksen",
+            " Brendan Fletcher"
+        ],
+        "tam": [
+            "David Harbour",
+            " John Leguizamo",
+            " Beverly D'Angelo",
+            " Alex Hassell",
+            " Alexis Louder",
+            " Edi Patterson",
+            " Cam Gigandet",
+            " Leah Brady",
+            " Andr\u00e9 Eriksen",
+            " Brendan Fletcher"
+        ],
+        "chi": [
+            "David Harbour",
+            " John Leguizamo",
+            " Beverly D'Angelo",
+            " Alex Hassell",
+            " Alexis Louder",
+            " Edi Patterson",
+            " Cam Gigandet",
+            " Leah Brady",
+            " Andr\u00e9 Eriksen",
+            " Brendan Fletcher"
+        ],
+        "tha": [
+            "David Harbour",
+            " John Leguizamo",
+            " Beverly D'Angelo",
+            " Alex Hassell",
+            " Alexis Louder",
+            " Edi Patterson",
+            " Cam Gigandet",
+            " Leah Brady",
+            " Andr\u00e9 Eriksen",
+            " Brendan Fletcher"
+        ],
+        "ind": [
+            "David Harbour",
+            " John Leguizamo",
+            " Beverly D'Angelo",
+            " Alex Hassell",
+            " Alexis Louder",
+            " Edi Patterson",
+            " Cam Gigandet",
+            " Leah Brady",
+            " Andr\u00e9 Eriksen",
+            " Brendan Fletcher"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Tommy Wirkola"
+        ],
+        "may": [
+            "Tommy Wirkola"
+        ],
+        "tam": [
+            "Tommy Wirkola"
+        ],
+        "chi": [
+            "Tommy Wirkola"
+        ],
+        "tha": [
+            "Tommy Wirkola"
+        ],
+        "ind": [
+            "Tommy Wirkola"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Matt Akey",
+            " Paul Barry",
+            " Guy Danella",
+            " Marc S. Fischer",
+            " Brandy Hagborg",
+            " David Leitch",
+            " Kelly McCormick",
+            " Scott Watson"
+        ],
+        "may": [
+            "Matt Akey",
+            " Paul Barry",
+            " Guy Danella",
+            " Marc S. Fischer",
+            " Brandy Hagborg",
+            " David Leitch",
+            " Kelly McCormick",
+            " Scott Watson"
+        ],
+        "tam": [
+            "Matt Akey",
+            " Paul Barry",
+            " Guy Danella",
+            " Marc S. Fischer",
+            " Brandy Hagborg",
+            " David Leitch",
+            " Kelly McCormick",
+            " Scott Watson"
+        ],
+        "chi": [
+            "Matt Akey",
+            " Paul Barry",
+            " Guy Danella",
+            " Marc S. Fischer",
+            " Brandy Hagborg",
+            " David Leitch",
+            " Kelly McCormick",
+            " Scott Watson"
+        ],
+        "tha": [
+            "Matt Akey",
+            " Paul Barry",
+            " Guy Danella",
+            " Marc S. Fischer",
+            " Brandy Hagborg",
+            " David Leitch",
+            " Kelly McCormick",
+            " Scott Watson"
+        ],
+        "ind": [
+            "Matt Akey",
+            " Paul Barry",
+            " Guy Danella",
+            " Marc S. Fischer",
+            " Brandy Hagborg",
+            " David Leitch",
+            " Kelly McCormick",
+            " Scott Watson"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Comedy",
+                    "may": " Comedy",
+                    "tam": " Comedy",
+                    "chi": " Comedy",
+                    "tha": " Comedy",
+                    "ind": " Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ViolentNight_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ViolentNight_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ViolentNight_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "6.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

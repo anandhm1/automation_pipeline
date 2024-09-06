@@ -1,0 +1,373 @@
+{
+    "externalId": "AggregatedTvShow_0173ac25-031a-5174-8756-6d09212c1c1b",
+    "clientContentId": "PACK0000000009826304",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": NaN,
+            "may": NaN,
+            "tam": NaN,
+            "chi": NaN,
+            "tha": NaN,
+            "ind": NaN
+        },
+        "long": {
+            "eng": NaN,
+            "may": NaN,
+            "tam": NaN,
+            "chi": NaN,
+            "tha": NaN,
+            "ind": NaN
+        }
+    },
+    "description": {
+        "short": {
+            "eng": NaN,
+            "may": NaN,
+            "tam": NaN,
+            "chi": NaN,
+            "tha": NaN,
+            "ind": NaN
+        },
+        "long": {
+            "eng": NaN,
+            "may": NaN,
+            "tam": NaN,
+            "chi": NaN,
+            "tha": NaN,
+            "ind": NaN
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "may": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "tam": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "chi": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "tha": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "ind": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "may": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "tam": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "chi": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "tha": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "ind": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "may": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "tam": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "chi": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "tha": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "ind": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/nan"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/nan"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/nan"
+        }
+    ],
+    "seriesId": "AggregatedSeries_668bbd80-71df-5511-987d-28e15226f5ee",
+    "seasonId": "AggregatedSeason_b9848599-bbcf-536d-921d-404aa0db594b",
+    "boxsetIds": [],
+    "episodeNumber": "nan",
+    "seasonNumber": "1",
+    "yearOfRelease": 2017,
+    "rating": "nan",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

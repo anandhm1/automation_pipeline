@@ -1,0 +1,353 @@
+{
+    "externalId": "AggregatedSeason_440a2295-7467-5bea-8a54-04fe4760cd4f",
+    "clientContentId": "PACK0000000009839302",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "chi": "Crime",
+                    "tam": "Crime",
+                    "ind": "Crime",
+                    "tha": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "TV-14",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Sasha Pieterse",
+            " Janel Parrish",
+            " Sofia Carson",
+            " Sydney Park",
+            " Eli Brown",
+            " Hayley Erin",
+            " Graeme Thomas King",
+            " Kelly Rutherford",
+            " Kassidy Matthews",
+            " Noah Gray-Cabey"
+        ],
+        "may": [
+            "Sasha Pieterse",
+            " Janel Parrish",
+            " Sofia Carson",
+            " Sydney Park",
+            " Eli Brown",
+            " Hayley Erin",
+            " Graeme Thomas King",
+            " Kelly Rutherford",
+            " Kassidy Matthews",
+            " Noah Gray-Cabey"
+        ],
+        "chi": [
+            "Sasha Pieterse",
+            " Janel Parrish",
+            " Sofia Carson",
+            " Sydney Park",
+            " Eli Brown",
+            " Hayley Erin",
+            " Graeme Thomas King",
+            " Kelly Rutherford",
+            " Kassidy Matthews",
+            " Noah Gray-Cabey"
+        ],
+        "tam": [
+            "Sasha Pieterse",
+            " Janel Parrish",
+            " Sofia Carson",
+            " Sydney Park",
+            " Eli Brown",
+            " Hayley Erin",
+            " Graeme Thomas King",
+            " Kelly Rutherford",
+            " Kassidy Matthews",
+            " Noah Gray-Cabey"
+        ],
+        "ind": [
+            "Sasha Pieterse",
+            " Janel Parrish",
+            " Sofia Carson",
+            " Sydney Park",
+            " Eli Brown",
+            " Hayley Erin",
+            " Graeme Thomas King",
+            " Kelly Rutherford",
+            " Kassidy Matthews",
+            " Noah Gray-Cabey"
+        ],
+        "tha": [
+            "Sasha Pieterse",
+            " Janel Parrish",
+            " Sofia Carson",
+            " Sydney Park",
+            " Eli Brown",
+            " Hayley Erin",
+            " Graeme Thomas King",
+            " Kelly Rutherford",
+            " Kassidy Matthews",
+            " Noah Gray-Cabey"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Norman Buckley",
+            " Roger Kumble",
+            " Elizabeth Allen Rosenbaum",
+            " Arlene Sanford",
+            " Shiri Appleby",
+            " Geary McLeod"
+        ],
+        "may": [
+            "Norman Buckley",
+            " Roger Kumble",
+            " Elizabeth Allen Rosenbaum",
+            " Arlene Sanford",
+            " Shiri Appleby",
+            " Geary McLeod"
+        ],
+        "chi": [
+            "Norman Buckley",
+            " Roger Kumble",
+            " Elizabeth Allen Rosenbaum",
+            " Arlene Sanford",
+            " Shiri Appleby",
+            " Geary McLeod"
+        ],
+        "tam": [
+            "Norman Buckley",
+            " Roger Kumble",
+            " Elizabeth Allen Rosenbaum",
+            " Arlene Sanford",
+            " Shiri Appleby",
+            " Geary McLeod"
+        ],
+        "ind": [
+            "Norman Buckley",
+            " Roger Kumble",
+            " Elizabeth Allen Rosenbaum",
+            " Arlene Sanford",
+            " Shiri Appleby",
+            " Geary McLeod"
+        ],
+        "tha": [
+            "Norman Buckley",
+            " Roger Kumble",
+            " Elizabeth Allen Rosenbaum",
+            " Arlene Sanford",
+            " Shiri Appleby",
+            " Geary McLeod"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Bruce Carter",
+            " Charles Grant Craig",
+            " Joseph Dougherty",
+            " I. Marlene King",
+            " Norman Buckley",
+            " Nelson Soler",
+            " Paula Yoo",
+            " Lisa Cochran-Neilan",
+            " Elizabeth Allen Rosenbaum",
+            " "
+        ],
+        "may": [
+            "Bruce Carter",
+            " Charles Grant Craig",
+            " Joseph Dougherty",
+            " I. Marlene King",
+            " Norman Buckley",
+            " Nelson Soler",
+            " Paula Yoo",
+            " Lisa Cochran-Neilan",
+            " Elizabeth Allen Rosenbaum",
+            " "
+        ],
+        "chi": [
+            "Bruce Carter",
+            " Charles Grant Craig",
+            " Joseph Dougherty",
+            " I. Marlene King",
+            " Norman Buckley",
+            " Nelson Soler",
+            " Paula Yoo",
+            " Lisa Cochran-Neilan",
+            " Elizabeth Allen Rosenbaum",
+            " "
+        ],
+        "tam": [
+            "Bruce Carter",
+            " Charles Grant Craig",
+            " Joseph Dougherty",
+            " I. Marlene King",
+            " Norman Buckley",
+            " Nelson Soler",
+            " Paula Yoo",
+            " Lisa Cochran-Neilan",
+            " Elizabeth Allen Rosenbaum",
+            " "
+        ],
+        "ind": [
+            "Bruce Carter",
+            " Charles Grant Craig",
+            " Joseph Dougherty",
+            " I. Marlene King",
+            " Norman Buckley",
+            " Nelson Soler",
+            " Paula Yoo",
+            " Lisa Cochran-Neilan",
+            " Elizabeth Allen Rosenbaum",
+            " "
+        ],
+        "tha": [
+            "Bruce Carter",
+            " Charles Grant Craig",
+            " Joseph Dougherty",
+            " I. Marlene King",
+            " Norman Buckley",
+            " Nelson Soler",
+            " Paula Yoo",
+            " Lisa Cochran-Neilan",
+            " Elizabeth Allen Rosenbaum",
+            " "
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_810927bd-ebcd-5bc8-a607-4899254a675b",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Pretty Little Liars The Perfectionists S01 E01",
+            "may": "Pretty Little Liars The Perfectionists S01 E01",
+            "chi": "Pretty Little Liars The Perfectionists S01 E01",
+            "tam": "Pretty Little Liars The Perfectionists S01 E01",
+            "ind": "Pretty Little Liars The Perfectionists S01 E01",
+            "tha": "Pretty Little Liars The Perfectionists S01 E01"
+        },
+        "long": {
+            "eng": "Pretty Little Liars The Perfectionists S01 E01",
+            "may": "Pretty Little Liars The Perfectionists S01 E01",
+            "chi": "Pretty Little Liars The Perfectionists S01 E01",
+            "tam": "Pretty Little Liars The Perfectionists S01 E01",
+            "ind": "Pretty Little Liars The Perfectionists S01 E01",
+            "tha": "Pretty Little Liars The Perfectionists S01 E01"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "may": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "chi": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "tam": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "ind": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "tha": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder."
+        },
+        "long": {
+            "eng": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "may": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "chi": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "tam": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "ind": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "tha": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PrettyLittleLiarsThePerfectionistsS01E01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PrettyLittleLiarsThePerfectionistsS01E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PrettyLittleLiarsThePerfectionistsS01E01_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

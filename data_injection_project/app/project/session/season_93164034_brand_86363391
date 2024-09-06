@@ -1,0 +1,377 @@
+{
+    "externalId": "AggregatedSeason_e2b3c4a5-c3a1-5e16-8212-fde12cc4d981",
+    "clientContentId": "PACK0000000005017877",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "chi": "Comedy",
+                    "tam": "Comedy",
+                    "ind": "Comedy",
+                    "tha": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "chi": " Crime",
+                    "tam": " Crime",
+                    "ind": " Crime",
+                    "tha": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Christina Applegate",
+            " Linda Cardellini",
+            " Sam McCarthy",
+            " Luke Roessler",
+            " James Marsden",
+            " Max Jenkins",
+            " Diana Maria Riva",
+            " Brandon Scott",
+            " Keong Sim",
+            " Valerie Mahaffey"
+        ],
+        "may": [
+            "Christina Applegate",
+            " Linda Cardellini",
+            " Sam McCarthy",
+            " Luke Roessler",
+            " James Marsden",
+            " Max Jenkins",
+            " Diana Maria Riva",
+            " Brandon Scott",
+            " Keong Sim",
+            " Valerie Mahaffey"
+        ],
+        "chi": [
+            "Christina Applegate",
+            " Linda Cardellini",
+            " Sam McCarthy",
+            " Luke Roessler",
+            " James Marsden",
+            " Max Jenkins",
+            " Diana Maria Riva",
+            " Brandon Scott",
+            " Keong Sim",
+            " Valerie Mahaffey"
+        ],
+        "tam": [
+            "Christina Applegate",
+            " Linda Cardellini",
+            " Sam McCarthy",
+            " Luke Roessler",
+            " James Marsden",
+            " Max Jenkins",
+            " Diana Maria Riva",
+            " Brandon Scott",
+            " Keong Sim",
+            " Valerie Mahaffey"
+        ],
+        "ind": [
+            "Christina Applegate",
+            " Linda Cardellini",
+            " Sam McCarthy",
+            " Luke Roessler",
+            " James Marsden",
+            " Max Jenkins",
+            " Diana Maria Riva",
+            " Brandon Scott",
+            " Keong Sim",
+            " Valerie Mahaffey"
+        ],
+        "tha": [
+            "Christina Applegate",
+            " Linda Cardellini",
+            " Sam McCarthy",
+            " Luke Roessler",
+            " James Marsden",
+            " Max Jenkins",
+            " Diana Maria Riva",
+            " Brandon Scott",
+            " Keong Sim",
+            " Valerie Mahaffey"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Rebecca Asher",
+            " Silver Tree",
+            " Kat Coiro",
+            " Geeta Vasant Patel",
+            " Minkie Spiro",
+            " Abe Sylvia",
+            " Amy York Rubin",
+            " Tamra Davis",
+            " Jennifer Getzinger",
+            " Liza Johnson"
+        ],
+        "may": [
+            "Rebecca Asher",
+            " Silver Tree",
+            " Kat Coiro",
+            " Geeta Vasant Patel",
+            " Minkie Spiro",
+            " Abe Sylvia",
+            " Amy York Rubin",
+            " Tamra Davis",
+            " Jennifer Getzinger",
+            " Liza Johnson"
+        ],
+        "chi": [
+            "Rebecca Asher",
+            " Silver Tree",
+            " Kat Coiro",
+            " Geeta Vasant Patel",
+            " Minkie Spiro",
+            " Abe Sylvia",
+            " Amy York Rubin",
+            " Tamra Davis",
+            " Jennifer Getzinger",
+            " Liza Johnson"
+        ],
+        "tam": [
+            "Rebecca Asher",
+            " Silver Tree",
+            " Kat Coiro",
+            " Geeta Vasant Patel",
+            " Minkie Spiro",
+            " Abe Sylvia",
+            " Amy York Rubin",
+            " Tamra Davis",
+            " Jennifer Getzinger",
+            " Liza Johnson"
+        ],
+        "ind": [
+            "Rebecca Asher",
+            " Silver Tree",
+            " Kat Coiro",
+            " Geeta Vasant Patel",
+            " Minkie Spiro",
+            " Abe Sylvia",
+            " Amy York Rubin",
+            " Tamra Davis",
+            " Jennifer Getzinger",
+            " Liza Johnson"
+        ],
+        "tha": [
+            "Rebecca Asher",
+            " Silver Tree",
+            " Kat Coiro",
+            " Geeta Vasant Patel",
+            " Minkie Spiro",
+            " Abe Sylvia",
+            " Amy York Rubin",
+            " Tamra Davis",
+            " Jennifer Getzinger",
+            " Liza Johnson"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Liz Feldman",
+            " Will Ferrell",
+            " Christina Applegate",
+            " Linda Cardellini",
+            " Jessica Elbaum",
+            " Joe Hardesty",
+            " Adam McKay",
+            " Christie Smith",
+            " Buddy Enright",
+            " Elizabeth Benjamin"
+        ],
+        "may": [
+            "Liz Feldman",
+            " Will Ferrell",
+            " Christina Applegate",
+            " Linda Cardellini",
+            " Jessica Elbaum",
+            " Joe Hardesty",
+            " Adam McKay",
+            " Christie Smith",
+            " Buddy Enright",
+            " Elizabeth Benjamin"
+        ],
+        "chi": [
+            "Liz Feldman",
+            " Will Ferrell",
+            " Christina Applegate",
+            " Linda Cardellini",
+            " Jessica Elbaum",
+            " Joe Hardesty",
+            " Adam McKay",
+            " Christie Smith",
+            " Buddy Enright",
+            " Elizabeth Benjamin"
+        ],
+        "tam": [
+            "Liz Feldman",
+            " Will Ferrell",
+            " Christina Applegate",
+            " Linda Cardellini",
+            " Jessica Elbaum",
+            " Joe Hardesty",
+            " Adam McKay",
+            " Christie Smith",
+            " Buddy Enright",
+            " Elizabeth Benjamin"
+        ],
+        "ind": [
+            "Liz Feldman",
+            " Will Ferrell",
+            " Christina Applegate",
+            " Linda Cardellini",
+            " Jessica Elbaum",
+            " Joe Hardesty",
+            " Adam McKay",
+            " Christie Smith",
+            " Buddy Enright",
+            " Elizabeth Benjamin"
+        ],
+        "tha": [
+            "Liz Feldman",
+            " Will Ferrell",
+            " Christina Applegate",
+            " Linda Cardellini",
+            " Jessica Elbaum",
+            " Joe Hardesty",
+            " Adam McKay",
+            " Christie Smith",
+            " Buddy Enright",
+            " Elizabeth Benjamin"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_42f347ce-f860-5b9a-8b33-f7771e51af2c",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Dead to Me   Season 1",
+            "may": "Dead to Me   Season 1",
+            "chi": "Dead to Me   Season 1",
+            "tam": "Dead to Me   Season 1",
+            "ind": "Dead to Me   Season 1",
+            "tha": "Dead to Me   Season 1"
+        },
+        "long": {
+            "eng": "Dead to Me   Season 1",
+            "may": "Dead to Me   Season 1",
+            "chi": "Dead to Me   Season 1",
+            "tam": "Dead to Me   Season 1",
+            "ind": "Dead to Me   Season 1",
+            "tha": "Dead to Me   Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A series about a powerful friendship that blossoms between a tightly wound widow and a free spirit with a shocking secret.",
+            "may": "A series about a powerful friendship that blossoms between a tightly wound widow and a free spirit with a shocking secret.",
+            "chi": "A series about a powerful friendship that blossoms between a tightly wound widow and a free spirit with a shocking secret.",
+            "tam": "A series about a powerful friendship that blossoms between a tightly wound widow and a free spirit with a shocking secret.",
+            "ind": "A series about a powerful friendship that blossoms between a tightly wound widow and a free spirit with a shocking secret.",
+            "tha": "A series about a powerful friendship that blossoms between a tightly wound widow and a free spirit with a shocking secret."
+        },
+        "long": {
+            "eng": "A series about a powerful friendship that blossoms between a tightly wound widow and a free spirit with a shocking secret.",
+            "may": "A series about a powerful friendship that blossoms between a tightly wound widow and a free spirit with a shocking secret.",
+            "chi": "A series about a powerful friendship that blossoms between a tightly wound widow and a free spirit with a shocking secret.",
+            "tam": "A series about a powerful friendship that blossoms between a tightly wound widow and a free spirit with a shocking secret.",
+            "ind": "A series about a powerful friendship that blossoms between a tightly wound widow and a free spirit with a shocking secret.",
+            "tha": "A series about a powerful friendship that blossoms between a tightly wound widow and a free spirit with a shocking secret."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DeadtoMeSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DeadtoMeSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DeadtoMeSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

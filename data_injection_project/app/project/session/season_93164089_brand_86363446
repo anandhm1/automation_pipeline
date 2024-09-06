@@ -1,0 +1,323 @@
+{
+    "externalId": "AggregatedSeason_d215097f-026f-584b-b0ed-b8e233d90e61",
+    "clientContentId": "PACK0000000005267030",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "chi": "Crime",
+                    "tam": "Crime",
+                    "ind": "Crime",
+                    "tha": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2018,
+    "rating": "12",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Lisa Ambalavanar",
+            " Ellie Duckles",
+            " Rosie Dwyer",
+            " Jack Kane",
+            " Georgina Sadler",
+            " Benjamin Nugent",
+            " Eleanor Bennett",
+            " Savannah Baker",
+            " Max Lohan",
+            " Indianna Ryan"
+        ],
+        "may": [
+            "Lisa Ambalavanar",
+            " Ellie Duckles",
+            " Rosie Dwyer",
+            " Jack Kane",
+            " Georgina Sadler",
+            " Benjamin Nugent",
+            " Eleanor Bennett",
+            " Savannah Baker",
+            " Max Lohan",
+            " Indianna Ryan"
+        ],
+        "chi": [
+            "Lisa Ambalavanar",
+            " Ellie Duckles",
+            " Rosie Dwyer",
+            " Jack Kane",
+            " Georgina Sadler",
+            " Benjamin Nugent",
+            " Eleanor Bennett",
+            " Savannah Baker",
+            " Max Lohan",
+            " Indianna Ryan"
+        ],
+        "tam": [
+            "Lisa Ambalavanar",
+            " Ellie Duckles",
+            " Rosie Dwyer",
+            " Jack Kane",
+            " Georgina Sadler",
+            " Benjamin Nugent",
+            " Eleanor Bennett",
+            " Savannah Baker",
+            " Max Lohan",
+            " Indianna Ryan"
+        ],
+        "ind": [
+            "Lisa Ambalavanar",
+            " Ellie Duckles",
+            " Rosie Dwyer",
+            " Jack Kane",
+            " Georgina Sadler",
+            " Benjamin Nugent",
+            " Eleanor Bennett",
+            " Savannah Baker",
+            " Max Lohan",
+            " Indianna Ryan"
+        ],
+        "tha": [
+            "Lisa Ambalavanar",
+            " Ellie Duckles",
+            " Rosie Dwyer",
+            " Jack Kane",
+            " Georgina Sadler",
+            " Benjamin Nugent",
+            " Eleanor Bennett",
+            " Savannah Baker",
+            " Max Lohan",
+            " Indianna Ryan"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Dan Berlinka",
+            " Patrick Harkins",
+            " Jim Shields",
+            " Neil J. Wilkinson"
+        ],
+        "may": [
+            "Dan Berlinka",
+            " Patrick Harkins",
+            " Jim Shields",
+            " Neil J. Wilkinson"
+        ],
+        "chi": [
+            "Dan Berlinka",
+            " Patrick Harkins",
+            " Jim Shields",
+            " Neil J. Wilkinson"
+        ],
+        "tam": [
+            "Dan Berlinka",
+            " Patrick Harkins",
+            " Jim Shields",
+            " Neil J. Wilkinson"
+        ],
+        "ind": [
+            "Dan Berlinka",
+            " Patrick Harkins",
+            " Jim Shields",
+            " Neil J. Wilkinson"
+        ],
+        "tha": [
+            "Dan Berlinka",
+            " Patrick Harkins",
+            " Jim Shields",
+            " Neil J. Wilkinson"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Anne Brogan",
+            " Matt Anderson",
+            " Alec Spiteri",
+            " Valerie Ames",
+            " Dan Berlinka",
+            " Nina Metivier",
+            " Sandra MacIver"
+        ],
+        "may": [
+            "Anne Brogan",
+            " Matt Anderson",
+            " Alec Spiteri",
+            " Valerie Ames",
+            " Dan Berlinka",
+            " Nina Metivier",
+            " Sandra MacIver"
+        ],
+        "chi": [
+            "Anne Brogan",
+            " Matt Anderson",
+            " Alec Spiteri",
+            " Valerie Ames",
+            " Dan Berlinka",
+            " Nina Metivier",
+            " Sandra MacIver"
+        ],
+        "tam": [
+            "Anne Brogan",
+            " Matt Anderson",
+            " Alec Spiteri",
+            " Valerie Ames",
+            " Dan Berlinka",
+            " Nina Metivier",
+            " Sandra MacIver"
+        ],
+        "ind": [
+            "Anne Brogan",
+            " Matt Anderson",
+            " Alec Spiteri",
+            " Valerie Ames",
+            " Dan Berlinka",
+            " Nina Metivier",
+            " Sandra MacIver"
+        ],
+        "tha": [
+            "Anne Brogan",
+            " Matt Anderson",
+            " Alec Spiteri",
+            " Valerie Ames",
+            " Dan Berlinka",
+            " Nina Metivier",
+            " Sandra MacIver"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_b8217334-7543-5d9f-a9d5-85633cdc89d9",
+    "seasonNumber": ")",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The A List Season 1 (2018)",
+            "may": "The A List Season 1 (2018)",
+            "chi": "The A List Season 1 (2018)",
+            "tam": "The A List Season 1 (2018)",
+            "ind": "The A List Season 1 (2018)",
+            "tha": "The A List Season 1 (2018)"
+        },
+        "long": {
+            "eng": "The A List Season 1 (2018)",
+            "may": "The A List Season 1 (2018)",
+            "chi": "The A List Season 1 (2018)",
+            "tam": "The A List Season 1 (2018)",
+            "ind": "The A List Season 1 (2018)",
+            "tha": "The A List Season 1 (2018)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Mia arrives at an idyllic summer camp expecting to be Queen Bee, but the holiday of a lifetime turns into a twisted nightmare.",
+            "may": "Mia arrives at an idyllic summer camp expecting to be Queen Bee, but the holiday of a lifetime turns into a twisted nightmare.",
+            "chi": "Mia arrives at an idyllic summer camp expecting to be Queen Bee, but the holiday of a lifetime turns into a twisted nightmare.",
+            "tam": "Mia arrives at an idyllic summer camp expecting to be Queen Bee, but the holiday of a lifetime turns into a twisted nightmare.",
+            "ind": "Mia arrives at an idyllic summer camp expecting to be Queen Bee, but the holiday of a lifetime turns into a twisted nightmare.",
+            "tha": "Mia arrives at an idyllic summer camp expecting to be Queen Bee, but the holiday of a lifetime turns into a twisted nightmare."
+        },
+        "long": {
+            "eng": "Mia arrives at an idyllic summer camp expecting to be Queen Bee, but the holiday of a lifetime turns into a twisted nightmare.",
+            "may": "Mia arrives at an idyllic summer camp expecting to be Queen Bee, but the holiday of a lifetime turns into a twisted nightmare.",
+            "chi": "Mia arrives at an idyllic summer camp expecting to be Queen Bee, but the holiday of a lifetime turns into a twisted nightmare.",
+            "tam": "Mia arrives at an idyllic summer camp expecting to be Queen Bee, but the holiday of a lifetime turns into a twisted nightmare.",
+            "ind": "Mia arrives at an idyllic summer camp expecting to be Queen Bee, but the holiday of a lifetime turns into a twisted nightmare.",
+            "tha": "Mia arrives at an idyllic summer camp expecting to be Queen Bee, but the holiday of a lifetime turns into a twisted nightmare."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheAListSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheAListSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheAListSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

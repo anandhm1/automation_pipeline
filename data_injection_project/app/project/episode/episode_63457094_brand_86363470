@@ -1,0 +1,349 @@
+{
+    "externalId": "AggregatedTvShow_c2a72c67-40c7-559c-bbdd-479390daf19b",
+    "clientContentId": "PACK0000000007218229",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Engram",
+            "may": "The Engram",
+            "tam": "The Engram",
+            "chi": "The Engram",
+            "tha": "The Engram",
+            "ind": "The Engram"
+        },
+        "long": {
+            "eng": "The Engram",
+            "may": "The Engram",
+            "tam": "The Engram",
+            "chi": "The Engram",
+            "tha": "The Engram",
+            "ind": "The Engram"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "may": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "tam": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "chi": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "tha": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "ind": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability."
+        },
+        "long": {
+            "eng": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "may": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "tam": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "chi": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "tha": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "ind": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Chris Pratt",
+            " Constance Wu",
+            " Taylor Kitsch",
+            " Riley Keough",
+            " Arlo Mertz",
+            " Jeanne Tripplehorn",
+            " Jared Shaw",
+            " JD Pardo",
+            " LaMonica Garrett",
+            " Christina Vidal"
+        ],
+        "may": [
+            "Chris Pratt",
+            " Constance Wu",
+            " Taylor Kitsch",
+            " Riley Keough",
+            " Arlo Mertz",
+            " Jeanne Tripplehorn",
+            " Jared Shaw",
+            " JD Pardo",
+            " LaMonica Garrett",
+            " Christina Vidal"
+        ],
+        "tam": [
+            "Chris Pratt",
+            " Constance Wu",
+            " Taylor Kitsch",
+            " Riley Keough",
+            " Arlo Mertz",
+            " Jeanne Tripplehorn",
+            " Jared Shaw",
+            " JD Pardo",
+            " LaMonica Garrett",
+            " Christina Vidal"
+        ],
+        "chi": [
+            "Chris Pratt",
+            " Constance Wu",
+            " Taylor Kitsch",
+            " Riley Keough",
+            " Arlo Mertz",
+            " Jeanne Tripplehorn",
+            " Jared Shaw",
+            " JD Pardo",
+            " LaMonica Garrett",
+            " Christina Vidal"
+        ],
+        "tha": [
+            "Chris Pratt",
+            " Constance Wu",
+            " Taylor Kitsch",
+            " Riley Keough",
+            " Arlo Mertz",
+            " Jeanne Tripplehorn",
+            " Jared Shaw",
+            " JD Pardo",
+            " LaMonica Garrett",
+            " Christina Vidal"
+        ],
+        "ind": [
+            "Chris Pratt",
+            " Constance Wu",
+            " Taylor Kitsch",
+            " Riley Keough",
+            " Arlo Mertz",
+            " Jeanne Tripplehorn",
+            " Jared Shaw",
+            " JD Pardo",
+            " LaMonica Garrett",
+            " Christina Vidal"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Frederick E.O. Toye",
+            " Sylvain White",
+            " M.J. Bassett",
+            " Antoine Fuqua",
+            " Tucker Gates",
+            " Ellen Kuras"
+        ],
+        "may": [
+            "Frederick E.O. Toye",
+            " Sylvain White",
+            " M.J. Bassett",
+            " Antoine Fuqua",
+            " Tucker Gates",
+            " Ellen Kuras"
+        ],
+        "tam": [
+            "Frederick E.O. Toye",
+            " Sylvain White",
+            " M.J. Bassett",
+            " Antoine Fuqua",
+            " Tucker Gates",
+            " Ellen Kuras"
+        ],
+        "chi": [
+            "Frederick E.O. Toye",
+            " Sylvain White",
+            " M.J. Bassett",
+            " Antoine Fuqua",
+            " Tucker Gates",
+            " Ellen Kuras"
+        ],
+        "tha": [
+            "Frederick E.O. Toye",
+            " Sylvain White",
+            " M.J. Bassett",
+            " Antoine Fuqua",
+            " Tucker Gates",
+            " Ellen Kuras"
+        ],
+        "ind": [
+            "Frederick E.O. Toye",
+            " Sylvain White",
+            " M.J. Bassett",
+            " Antoine Fuqua",
+            " Tucker Gates",
+            " Ellen Kuras"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Max Adams",
+            " David Auge",
+            " Jack Carr",
+            " David DiGilio",
+            " Justin Epifanio",
+            " Antoine FuquaMelanie KirkLisa LongJohn LopezChris Pratt"
+        ],
+        "may": [
+            "Max Adams",
+            " David Auge",
+            " Jack Carr",
+            " David DiGilio",
+            " Justin Epifanio",
+            " Antoine FuquaMelanie KirkLisa LongJohn LopezChris Pratt"
+        ],
+        "tam": [
+            "Max Adams",
+            " David Auge",
+            " Jack Carr",
+            " David DiGilio",
+            " Justin Epifanio",
+            " Antoine FuquaMelanie KirkLisa LongJohn LopezChris Pratt"
+        ],
+        "chi": [
+            "Max Adams",
+            " David Auge",
+            " Jack Carr",
+            " David DiGilio",
+            " Justin Epifanio",
+            " Antoine FuquaMelanie KirkLisa LongJohn LopezChris Pratt"
+        ],
+        "tha": [
+            "Max Adams",
+            " David Auge",
+            " Jack Carr",
+            " David DiGilio",
+            " Justin Epifanio",
+            " Antoine FuquaMelanie KirkLisa LongJohn LopezChris Pratt"
+        ],
+        "ind": [
+            "Max Adams",
+            " David Auge",
+            " Jack Carr",
+            " David DiGilio",
+            " Justin Epifanio",
+            " Antoine FuquaMelanie KirkLisa LongJohn LopezChris Pratt"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheTerminalListS01E01_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheTerminalListS01E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheTerminalListS01E01_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_f0dcbcf4-c36d-5b46-93c3-543838d0140f",
+    "seasonId": "AggregatedSeason_18d406d4-6472-594c-a4a6-3332fa01dcde",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

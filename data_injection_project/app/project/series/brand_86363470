@@ -1,0 +1,319 @@
+{
+    "externalId": "AggregatedSeries_f0dcbcf4-c36d-5b46-93c3-543838d0140f",
+    "clientContentId": "PACK0000000007961339",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Terminal List",
+            "may": "The Terminal List",
+            "tam": "The Terminal List",
+            "chi": "The Terminal List",
+            "tha": "The Terminal List",
+            "ind": "The Terminal List"
+        },
+        "long": {
+            "eng": "The Terminal List",
+            "may": "The Terminal List",
+            "tam": "The Terminal List",
+            "chi": "The Terminal List",
+            "tha": "The Terminal List",
+            "ind": "The Terminal List"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A former Navy SEAL officer investigates why his entire platoon was ambushed during a high-stakes covert mission.",
+            "may": "A former Navy SEAL officer investigates why his entire platoon was ambushed during a high-stakes covert mission.",
+            "tam": "A former Navy SEAL officer investigates why his entire platoon was ambushed during a high-stakes covert mission.",
+            "chi": "A former Navy SEAL officer investigates why his entire platoon was ambushed during a high-stakes covert mission.",
+            "tha": "A former Navy SEAL officer investigates why his entire platoon was ambushed during a high-stakes covert mission.",
+            "ind": "A former Navy SEAL officer investigates why his entire platoon was ambushed during a high-stakes covert mission."
+        },
+        "long": {
+            "eng": "A former Navy SEAL officer investigates why his entire platoon was ambushed during a high-stakes covert mission.",
+            "may": "A former Navy SEAL officer investigates why his entire platoon was ambushed during a high-stakes covert mission.",
+            "tam": "A former Navy SEAL officer investigates why his entire platoon was ambushed during a high-stakes covert mission.",
+            "chi": "A former Navy SEAL officer investigates why his entire platoon was ambushed during a high-stakes covert mission.",
+            "tha": "A former Navy SEAL officer investigates why his entire platoon was ambushed during a high-stakes covert mission.",
+            "ind": "A former Navy SEAL officer investigates why his entire platoon was ambushed during a high-stakes covert mission."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Chris Pratt",
+            " Constance Wu",
+            " Taylor Kitsch",
+            " Riley Keough",
+            " Arlo Mertz",
+            " Jeanne Tripplehorn",
+            " Jared Shaw",
+            " JD Pardo",
+            " LaMonica Garrett",
+            " Christina Vidal"
+        ],
+        "may": [
+            "Chris Pratt",
+            " Constance Wu",
+            " Taylor Kitsch",
+            " Riley Keough",
+            " Arlo Mertz",
+            " Jeanne Tripplehorn",
+            " Jared Shaw",
+            " JD Pardo",
+            " LaMonica Garrett",
+            " Christina Vidal"
+        ],
+        "tam": [
+            "Chris Pratt",
+            " Constance Wu",
+            " Taylor Kitsch",
+            " Riley Keough",
+            " Arlo Mertz",
+            " Jeanne Tripplehorn",
+            " Jared Shaw",
+            " JD Pardo",
+            " LaMonica Garrett",
+            " Christina Vidal"
+        ],
+        "chi": [
+            "Chris Pratt",
+            " Constance Wu",
+            " Taylor Kitsch",
+            " Riley Keough",
+            " Arlo Mertz",
+            " Jeanne Tripplehorn",
+            " Jared Shaw",
+            " JD Pardo",
+            " LaMonica Garrett",
+            " Christina Vidal"
+        ],
+        "tha": [
+            "Chris Pratt",
+            " Constance Wu",
+            " Taylor Kitsch",
+            " Riley Keough",
+            " Arlo Mertz",
+            " Jeanne Tripplehorn",
+            " Jared Shaw",
+            " JD Pardo",
+            " LaMonica Garrett",
+            " Christina Vidal"
+        ],
+        "ind": [
+            "Chris Pratt",
+            " Constance Wu",
+            " Taylor Kitsch",
+            " Riley Keough",
+            " Arlo Mertz",
+            " Jeanne Tripplehorn",
+            " Jared Shaw",
+            " JD Pardo",
+            " LaMonica Garrett",
+            " Christina Vidal"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Frederick E.O. Toye",
+            " Sylvain White",
+            " M.J. Bassett",
+            " Antoine Fuqua",
+            " Tucker Gates",
+            " Ellen Kuras"
+        ],
+        "may": [
+            "Frederick E.O. Toye",
+            " Sylvain White",
+            " M.J. Bassett",
+            " Antoine Fuqua",
+            " Tucker Gates",
+            " Ellen Kuras"
+        ],
+        "tam": [
+            "Frederick E.O. Toye",
+            " Sylvain White",
+            " M.J. Bassett",
+            " Antoine Fuqua",
+            " Tucker Gates",
+            " Ellen Kuras"
+        ],
+        "chi": [
+            "Frederick E.O. Toye",
+            " Sylvain White",
+            " M.J. Bassett",
+            " Antoine Fuqua",
+            " Tucker Gates",
+            " Ellen Kuras"
+        ],
+        "tha": [
+            "Frederick E.O. Toye",
+            " Sylvain White",
+            " M.J. Bassett",
+            " Antoine Fuqua",
+            " Tucker Gates",
+            " Ellen Kuras"
+        ],
+        "ind": [
+            "Frederick E.O. Toye",
+            " Sylvain White",
+            " M.J. Bassett",
+            " Antoine Fuqua",
+            " Tucker Gates",
+            " Ellen Kuras"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Max Adams",
+            " David Auge",
+            " Jack Carr",
+            " David DiGilio",
+            " Justin Epifanio",
+            " Antoine FuquaMelanie KirkLisa LongJohn LopezChris Pratt"
+        ],
+        "may": [
+            "Max Adams",
+            " David Auge",
+            " Jack Carr",
+            " David DiGilio",
+            " Justin Epifanio",
+            " Antoine FuquaMelanie KirkLisa LongJohn LopezChris Pratt"
+        ],
+        "tam": [
+            "Max Adams",
+            " David Auge",
+            " Jack Carr",
+            " David DiGilio",
+            " Justin Epifanio",
+            " Antoine FuquaMelanie KirkLisa LongJohn LopezChris Pratt"
+        ],
+        "chi": [
+            "Max Adams",
+            " David Auge",
+            " Jack Carr",
+            " David DiGilio",
+            " Justin Epifanio",
+            " Antoine FuquaMelanie KirkLisa LongJohn LopezChris Pratt"
+        ],
+        "tha": [
+            "Max Adams",
+            " David Auge",
+            " Jack Carr",
+            " David DiGilio",
+            " Justin Epifanio",
+            " Antoine FuquaMelanie KirkLisa LongJohn LopezChris Pratt"
+        ],
+        "ind": [
+            "Max Adams",
+            " David Auge",
+            " Jack Carr",
+            " David DiGilio",
+            " Justin Epifanio",
+            " Antoine FuquaMelanie KirkLisa LongJohn LopezChris Pratt"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheTerminalListS01E01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheTerminalListS01E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheTerminalListS01E01_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "7",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2022,
+    "maxConcurrentStreams": 0
+}

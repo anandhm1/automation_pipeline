@@ -1,0 +1,367 @@
+{
+    "externalId": "AggregatedSeries_4cfb45c1-2292-5d83-bee9-13d2926872bd",
+    "clientContentId": "PACK0000000007740335",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Hunters",
+            "may": "Hunters",
+            "tam": "Hunters",
+            "chi": "Hunters",
+            "tha": "Hunters",
+            "ind": "Hunters"
+        },
+        "long": {
+            "eng": "Hunters",
+            "may": "Hunters",
+            "tam": "Hunters",
+            "chi": "Hunters",
+            "tha": "Hunters",
+            "ind": "Hunters"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "In 1977 New York City, a troubled young Jewish man bent on revenge is taken in by a secret group of Nazi hunters fighting a clandestine war against the cabal of high-ranking Nazi officials in hiding who work to create the Fourth Reich.",
+            "may": "In 1977 New York City, a troubled young Jewish man bent on revenge is taken in by a secret group of Nazi hunters fighting a clandestine war against the cabal of high-ranking Nazi officials in hiding who work to create the Fourth Reich.",
+            "tam": "In 1977 New York City, a troubled young Jewish man bent on revenge is taken in by a secret group of Nazi hunters fighting a clandestine war against the cabal of high-ranking Nazi officials in hiding who work to create the Fourth Reich.",
+            "chi": "In 1977 New York City, a troubled young Jewish man bent on revenge is taken in by a secret group of Nazi hunters fighting a clandestine war against the cabal of high-ranking Nazi officials in hiding who work to create the Fourth Reich.",
+            "tha": "In 1977 New York City, a troubled young Jewish man bent on revenge is taken in by a secret group of Nazi hunters fighting a clandestine war against the cabal of high-ranking Nazi officials in hiding who work to create the Fourth Reich.",
+            "ind": "In 1977 New York City, a troubled young Jewish man bent on revenge is taken in by a secret group of Nazi hunters fighting a clandestine war against the cabal of high-ranking Nazi officials in hiding who work to create the Fourth Reich."
+        },
+        "long": {
+            "eng": "In 1977 New York City, a troubled young Jewish man bent on revenge is taken in by a secret group of Nazi hunters fighting a clandestine war against the cabal of high-ranking Nazi officials in hiding who work to create the Fourth Reich.",
+            "may": "In 1977 New York City, a troubled young Jewish man bent on revenge is taken in by a secret group of Nazi hunters fighting a clandestine war against the cabal of high-ranking Nazi officials in hiding who work to create the Fourth Reich.",
+            "tam": "In 1977 New York City, a troubled young Jewish man bent on revenge is taken in by a secret group of Nazi hunters fighting a clandestine war against the cabal of high-ranking Nazi officials in hiding who work to create the Fourth Reich.",
+            "chi": "In 1977 New York City, a troubled young Jewish man bent on revenge is taken in by a secret group of Nazi hunters fighting a clandestine war against the cabal of high-ranking Nazi officials in hiding who work to create the Fourth Reich.",
+            "tha": "In 1977 New York City, a troubled young Jewish man bent on revenge is taken in by a secret group of Nazi hunters fighting a clandestine war against the cabal of high-ranking Nazi officials in hiding who work to create the Fourth Reich.",
+            "ind": "In 1977 New York City, a troubled young Jewish man bent on revenge is taken in by a secret group of Nazi hunters fighting a clandestine war against the cabal of high-ranking Nazi officials in hiding who work to create the Fourth Reich."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Josh Radnor",
+            " Logan Lerman",
+            " Jerrika Hinton",
+            " Lena Olin",
+            " Carol Kane",
+            " Greg Austin",
+            " Tiffany Boone",
+            " Louis Ozawa",
+            " Kate Mulvany",
+            " Al Pacino"
+        ],
+        "may": [
+            "Josh Radnor",
+            " Logan Lerman",
+            " Jerrika Hinton",
+            " Lena Olin",
+            " Carol Kane",
+            " Greg Austin",
+            " Tiffany Boone",
+            " Louis Ozawa",
+            " Kate Mulvany",
+            " Al Pacino"
+        ],
+        "tam": [
+            "Josh Radnor",
+            " Logan Lerman",
+            " Jerrika Hinton",
+            " Lena Olin",
+            " Carol Kane",
+            " Greg Austin",
+            " Tiffany Boone",
+            " Louis Ozawa",
+            " Kate Mulvany",
+            " Al Pacino"
+        ],
+        "chi": [
+            "Josh Radnor",
+            " Logan Lerman",
+            " Jerrika Hinton",
+            " Lena Olin",
+            " Carol Kane",
+            " Greg Austin",
+            " Tiffany Boone",
+            " Louis Ozawa",
+            " Kate Mulvany",
+            " Al Pacino"
+        ],
+        "tha": [
+            "Josh Radnor",
+            " Logan Lerman",
+            " Jerrika Hinton",
+            " Lena Olin",
+            " Carol Kane",
+            " Greg Austin",
+            " Tiffany Boone",
+            " Louis Ozawa",
+            " Kate Mulvany",
+            " Al Pacino"
+        ],
+        "ind": [
+            "Josh Radnor",
+            " Logan Lerman",
+            " Jerrika Hinton",
+            " Lena Olin",
+            " Carol Kane",
+            " Greg Austin",
+            " Tiffany Boone",
+            " Louis Ozawa",
+            " Kate Mulvany",
+            " Al Pacino"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Phil Abraham",
+            " Nelson McCormick",
+            " Michael Uppendahl",
+            " Wayne Yip",
+            " Alfonso Gomez-Rejon",
+            " Dennie Gordon",
+            " Millicent Shelton",
+            " Kelsey Bollig",
+            " Tiffany Johnson",
+            " Sam Taylor-Johnson"
+        ],
+        "may": [
+            "Phil Abraham",
+            " Nelson McCormick",
+            " Michael Uppendahl",
+            " Wayne Yip",
+            " Alfonso Gomez-Rejon",
+            " Dennie Gordon",
+            " Millicent Shelton",
+            " Kelsey Bollig",
+            " Tiffany Johnson",
+            " Sam Taylor-Johnson"
+        ],
+        "tam": [
+            "Phil Abraham",
+            " Nelson McCormick",
+            " Michael Uppendahl",
+            " Wayne Yip",
+            " Alfonso Gomez-Rejon",
+            " Dennie Gordon",
+            " Millicent Shelton",
+            " Kelsey Bollig",
+            " Tiffany Johnson",
+            " Sam Taylor-Johnson"
+        ],
+        "chi": [
+            "Phil Abraham",
+            " Nelson McCormick",
+            " Michael Uppendahl",
+            " Wayne Yip",
+            " Alfonso Gomez-Rejon",
+            " Dennie Gordon",
+            " Millicent Shelton",
+            " Kelsey Bollig",
+            " Tiffany Johnson",
+            " Sam Taylor-Johnson"
+        ],
+        "tha": [
+            "Phil Abraham",
+            " Nelson McCormick",
+            " Michael Uppendahl",
+            " Wayne Yip",
+            " Alfonso Gomez-Rejon",
+            " Dennie Gordon",
+            " Millicent Shelton",
+            " Kelsey Bollig",
+            " Tiffany Johnson",
+            " Sam Taylor-Johnson"
+        ],
+        "ind": [
+            "Phil Abraham",
+            " Nelson McCormick",
+            " Michael Uppendahl",
+            " Wayne Yip",
+            " Alfonso Gomez-Rejon",
+            " Dennie Gordon",
+            " Millicent Shelton",
+            " Kelsey Bollig",
+            " Tiffany Johnson",
+            " Sam Taylor-Johnson"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jordan Peele",
+            " David Weil",
+            " Kris Baucom",
+            " David Ellender",
+            " Alfonso Gomez-Rejon",
+            " Jerry Kupfer",
+            " Christopher Rosati",
+            " David Rosen",
+            " Win Rosenfeld",
+            " William Sell"
+        ],
+        "may": [
+            "Jordan Peele",
+            " David Weil",
+            " Kris Baucom",
+            " David Ellender",
+            " Alfonso Gomez-Rejon",
+            " Jerry Kupfer",
+            " Christopher Rosati",
+            " David Rosen",
+            " Win Rosenfeld",
+            " William Sell"
+        ],
+        "tam": [
+            "Jordan Peele",
+            " David Weil",
+            " Kris Baucom",
+            " David Ellender",
+            " Alfonso Gomez-Rejon",
+            " Jerry Kupfer",
+            " Christopher Rosati",
+            " David Rosen",
+            " Win Rosenfeld",
+            " William Sell"
+        ],
+        "chi": [
+            "Jordan Peele",
+            " David Weil",
+            " Kris Baucom",
+            " David Ellender",
+            " Alfonso Gomez-Rejon",
+            " Jerry Kupfer",
+            " Christopher Rosati",
+            " David Rosen",
+            " Win Rosenfeld",
+            " William Sell"
+        ],
+        "tha": [
+            "Jordan Peele",
+            " David Weil",
+            " Kris Baucom",
+            " David Ellender",
+            " Alfonso Gomez-Rejon",
+            " Jerry Kupfer",
+            " Christopher Rosati",
+            " David Rosen",
+            " Win Rosenfeld",
+            " William Sell"
+        ],
+        "ind": [
+            "Jordan Peele",
+            " David Weil",
+            " Kris Baucom",
+            " David Ellender",
+            " Alfonso Gomez-Rejon",
+            " Jerry Kupfer",
+            " Christopher Rosati",
+            " David Rosen",
+            " Win Rosenfeld",
+            " William Sell"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HuntersSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HuntersSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HuntersSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "9",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2020,
+    "maxConcurrentStreams": 0
+}

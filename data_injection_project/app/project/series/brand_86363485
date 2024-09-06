@@ -1,0 +1,367 @@
+{
+    "externalId": "AggregatedSeries_02ac9617-81d5-553b-949c-aa711e3e0dbd",
+    "clientContentId": "PACK0000000009508751",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Virgin River",
+            "may": "Virgin River",
+            "tam": "Virgin River",
+            "chi": "Virgin River",
+            "tha": "Virgin River",
+            "ind": "Virgin River"
+        },
+        "long": {
+            "eng": "Virgin River",
+            "may": "Virgin River",
+            "tam": "Virgin River",
+            "chi": "Virgin River",
+            "tha": "Virgin River",
+            "ind": "Virgin River"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "may": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "tam": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "chi": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "tha": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "ind": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds."
+        },
+        "long": {
+            "eng": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "may": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "tam": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "chi": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "tha": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "ind": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Martin Henderson",
+            " Tim Matheson",
+            " Alexandra Breckenridge",
+            " Colin Lawrence",
+            " Benjamin Hollingsworth",
+            " Grayson Maxwell Gurnsey",
+            " Annette O'Toole",
+            " Lauren Hammersley",
+            " Nicola Cavendish",
+            " Sarah Dugdale"
+        ],
+        "may": [
+            "Martin Henderson",
+            " Tim Matheson",
+            " Alexandra Breckenridge",
+            " Colin Lawrence",
+            " Benjamin Hollingsworth",
+            " Grayson Maxwell Gurnsey",
+            " Annette O'Toole",
+            " Lauren Hammersley",
+            " Nicola Cavendish",
+            " Sarah Dugdale"
+        ],
+        "tam": [
+            "Martin Henderson",
+            " Tim Matheson",
+            " Alexandra Breckenridge",
+            " Colin Lawrence",
+            " Benjamin Hollingsworth",
+            " Grayson Maxwell Gurnsey",
+            " Annette O'Toole",
+            " Lauren Hammersley",
+            " Nicola Cavendish",
+            " Sarah Dugdale"
+        ],
+        "chi": [
+            "Martin Henderson",
+            " Tim Matheson",
+            " Alexandra Breckenridge",
+            " Colin Lawrence",
+            " Benjamin Hollingsworth",
+            " Grayson Maxwell Gurnsey",
+            " Annette O'Toole",
+            " Lauren Hammersley",
+            " Nicola Cavendish",
+            " Sarah Dugdale"
+        ],
+        "tha": [
+            "Martin Henderson",
+            " Tim Matheson",
+            " Alexandra Breckenridge",
+            " Colin Lawrence",
+            " Benjamin Hollingsworth",
+            " Grayson Maxwell Gurnsey",
+            " Annette O'Toole",
+            " Lauren Hammersley",
+            " Nicola Cavendish",
+            " Sarah Dugdale"
+        ],
+        "ind": [
+            "Martin Henderson",
+            " Tim Matheson",
+            " Alexandra Breckenridge",
+            " Colin Lawrence",
+            " Benjamin Hollingsworth",
+            " Grayson Maxwell Gurnsey",
+            " Annette O'Toole",
+            " Lauren Hammersley",
+            " Nicola Cavendish",
+            " Sarah Dugdale"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Martin Wood",
+            " Andy Mikita",
+            " Gail Harvey",
+            " Monika Mitchell",
+            " Tim Matheson",
+            " Jann Turner",
+            " Siobhan Devine",
+            " Nimisha Mukerji",
+            " Felipe Rodriguez",
+            " "
+        ],
+        "may": [
+            "Martin Wood",
+            " Andy Mikita",
+            " Gail Harvey",
+            " Monika Mitchell",
+            " Tim Matheson",
+            " Jann Turner",
+            " Siobhan Devine",
+            " Nimisha Mukerji",
+            " Felipe Rodriguez",
+            " "
+        ],
+        "tam": [
+            "Martin Wood",
+            " Andy Mikita",
+            " Gail Harvey",
+            " Monika Mitchell",
+            " Tim Matheson",
+            " Jann Turner",
+            " Siobhan Devine",
+            " Nimisha Mukerji",
+            " Felipe Rodriguez",
+            " "
+        ],
+        "chi": [
+            "Martin Wood",
+            " Andy Mikita",
+            " Gail Harvey",
+            " Monika Mitchell",
+            " Tim Matheson",
+            " Jann Turner",
+            " Siobhan Devine",
+            " Nimisha Mukerji",
+            " Felipe Rodriguez",
+            " "
+        ],
+        "tha": [
+            "Martin Wood",
+            " Andy Mikita",
+            " Gail Harvey",
+            " Monika Mitchell",
+            " Tim Matheson",
+            " Jann Turner",
+            " Siobhan Devine",
+            " Nimisha Mukerji",
+            " Felipe Rodriguez",
+            " "
+        ],
+        "ind": [
+            "Martin Wood",
+            " Andy Mikita",
+            " Gail Harvey",
+            " Monika Mitchell",
+            " Tim Matheson",
+            " Jann Turner",
+            " Siobhan Devine",
+            " Nimisha Mukerji",
+            " Felipe Rodriguez",
+            " "
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ian Hay",
+            " Sue Tenney",
+            " Jocelyn Freid",
+            " Sally Dixon",
+            " Roma Roth",
+            " Christopher E. Perry",
+            " Robyn Carr",
+            " Amy Palmer Robertson",
+            " Lisa Marie Petersen",
+            " Lana Gudlaugson"
+        ],
+        "may": [
+            "Ian Hay",
+            " Sue Tenney",
+            " Jocelyn Freid",
+            " Sally Dixon",
+            " Roma Roth",
+            " Christopher E. Perry",
+            " Robyn Carr",
+            " Amy Palmer Robertson",
+            " Lisa Marie Petersen",
+            " Lana Gudlaugson"
+        ],
+        "tam": [
+            "Ian Hay",
+            " Sue Tenney",
+            " Jocelyn Freid",
+            " Sally Dixon",
+            " Roma Roth",
+            " Christopher E. Perry",
+            " Robyn Carr",
+            " Amy Palmer Robertson",
+            " Lisa Marie Petersen",
+            " Lana Gudlaugson"
+        ],
+        "chi": [
+            "Ian Hay",
+            " Sue Tenney",
+            " Jocelyn Freid",
+            " Sally Dixon",
+            " Roma Roth",
+            " Christopher E. Perry",
+            " Robyn Carr",
+            " Amy Palmer Robertson",
+            " Lisa Marie Petersen",
+            " Lana Gudlaugson"
+        ],
+        "tha": [
+            "Ian Hay",
+            " Sue Tenney",
+            " Jocelyn Freid",
+            " Sally Dixon",
+            " Roma Roth",
+            " Christopher E. Perry",
+            " Robyn Carr",
+            " Amy Palmer Robertson",
+            " Lisa Marie Petersen",
+            " Lana Gudlaugson"
+        ],
+        "ind": [
+            "Ian Hay",
+            " Sue Tenney",
+            " Jocelyn Freid",
+            " Sally Dixon",
+            " Roma Roth",
+            " Christopher E. Perry",
+            " Robyn Carr",
+            " Amy Palmer Robertson",
+            " Lisa Marie Petersen",
+            " Lana Gudlaugson"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Romance",
+                    "may": " Romance",
+                    "tam": " Romance",
+                    "chi": " Romance",
+                    "tha": " Romance",
+                    "ind": " Romance"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VirginRiverSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VirginRiverSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VirginRiverSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "8",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2019,
+    "maxConcurrentStreams": 0
+}

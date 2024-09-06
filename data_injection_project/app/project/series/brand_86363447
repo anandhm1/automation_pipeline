@@ -1,0 +1,325 @@
+{
+    "externalId": "AggregatedSeries_df68762c-29c7-52f5-a2fa-daed48441d09",
+    "clientContentId": "PACK0000000003150620",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Bastard Son & The Devil Himself",
+            "may": "The Bastard Son & The Devil Himself",
+            "tam": "The Bastard Son & The Devil Himself",
+            "chi": "The Bastard Son & The Devil Himself",
+            "tha": "The Bastard Son & The Devil Himself",
+            "ind": "The Bastard Son & The Devil Himself"
+        },
+        "long": {
+            "eng": "The Bastard Son & The Devil Himself",
+            "may": "The Bastard Son & The Devil Himself",
+            "tam": "The Bastard Son & The Devil Himself",
+            "chi": "The Bastard Son & The Devil Himself",
+            "tha": "The Bastard Son & The Devil Himself",
+            "ind": "The Bastard Son & The Devil Himself"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "may": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "tam": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "chi": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "tha": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "ind": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers."
+        },
+        "long": {
+            "eng": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "may": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "tam": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "chi": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "tha": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "ind": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Jay Lycurgo",
+            " Nadia Parkes",
+            " Paul Ready",
+            " Isobel Jesper Jones",
+            " Karen Connell",
+            " Jeska Pike",
+            " Hector Hewer",
+            " Emilien Vekemans",
+            " Fehinti Balogun",
+            " Luke Polie"
+        ],
+        "may": [
+            "Jay Lycurgo",
+            " Nadia Parkes",
+            " Paul Ready",
+            " Isobel Jesper Jones",
+            " Karen Connell",
+            " Jeska Pike",
+            " Hector Hewer",
+            " Emilien Vekemans",
+            " Fehinti Balogun",
+            " Luke Polie"
+        ],
+        "tam": [
+            "Jay Lycurgo",
+            " Nadia Parkes",
+            " Paul Ready",
+            " Isobel Jesper Jones",
+            " Karen Connell",
+            " Jeska Pike",
+            " Hector Hewer",
+            " Emilien Vekemans",
+            " Fehinti Balogun",
+            " Luke Polie"
+        ],
+        "chi": [
+            "Jay Lycurgo",
+            " Nadia Parkes",
+            " Paul Ready",
+            " Isobel Jesper Jones",
+            " Karen Connell",
+            " Jeska Pike",
+            " Hector Hewer",
+            " Emilien Vekemans",
+            " Fehinti Balogun",
+            " Luke Polie"
+        ],
+        "tha": [
+            "Jay Lycurgo",
+            " Nadia Parkes",
+            " Paul Ready",
+            " Isobel Jesper Jones",
+            " Karen Connell",
+            " Jeska Pike",
+            " Hector Hewer",
+            " Emilien Vekemans",
+            " Fehinti Balogun",
+            " Luke Polie"
+        ],
+        "ind": [
+            "Jay Lycurgo",
+            " Nadia Parkes",
+            " Paul Ready",
+            " Isobel Jesper Jones",
+            " Karen Connell",
+            " Jeska Pike",
+            " Hector Hewer",
+            " Emilien Vekemans",
+            " Fehinti Balogun",
+            " Luke Polie"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Colm McCarthy",
+            " Debs Paterson",
+            " Rachna Suri"
+        ],
+        "may": [
+            "Colm McCarthy",
+            " Debs Paterson",
+            " Rachna Suri"
+        ],
+        "tam": [
+            "Colm McCarthy",
+            " Debs Paterson",
+            " Rachna Suri"
+        ],
+        "chi": [
+            "Colm McCarthy",
+            " Debs Paterson",
+            " Rachna Suri"
+        ],
+        "tha": [
+            "Colm McCarthy",
+            " Debs Paterson",
+            " Rachna Suri"
+        ],
+        "ind": [
+            "Colm McCarthy",
+            " Debs Paterson",
+            " Rachna Suri"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jonathan Cavendish",
+            " Steve Clark-Hall",
+            " Colm McCarthy",
+            " Lizzie Rusbridger",
+            " Catherine Slater",
+            " Adrian Sturges",
+            " Will Tennant",
+            " Emily Thomas",
+            " Joe Barton",
+            " Andy Serkis"
+        ],
+        "may": [
+            "Jonathan Cavendish",
+            " Steve Clark-Hall",
+            " Colm McCarthy",
+            " Lizzie Rusbridger",
+            " Catherine Slater",
+            " Adrian Sturges",
+            " Will Tennant",
+            " Emily Thomas",
+            " Joe Barton",
+            " Andy Serkis"
+        ],
+        "tam": [
+            "Jonathan Cavendish",
+            " Steve Clark-Hall",
+            " Colm McCarthy",
+            " Lizzie Rusbridger",
+            " Catherine Slater",
+            " Adrian Sturges",
+            " Will Tennant",
+            " Emily Thomas",
+            " Joe Barton",
+            " Andy Serkis"
+        ],
+        "chi": [
+            "Jonathan Cavendish",
+            " Steve Clark-Hall",
+            " Colm McCarthy",
+            " Lizzie Rusbridger",
+            " Catherine Slater",
+            " Adrian Sturges",
+            " Will Tennant",
+            " Emily Thomas",
+            " Joe Barton",
+            " Andy Serkis"
+        ],
+        "tha": [
+            "Jonathan Cavendish",
+            " Steve Clark-Hall",
+            " Colm McCarthy",
+            " Lizzie Rusbridger",
+            " Catherine Slater",
+            " Adrian Sturges",
+            " Will Tennant",
+            " Emily Thomas",
+            " Joe Barton",
+            " Andy Serkis"
+        ],
+        "ind": [
+            "Jonathan Cavendish",
+            " Steve Clark-Hall",
+            " Colm McCarthy",
+            " Lizzie Rusbridger",
+            " Catherine Slater",
+            " Adrian Sturges",
+            " Will Tennant",
+            " Emily Thomas",
+            " Joe Barton",
+            " Andy Serkis"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheBastardSon&TheDevilHimselfSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheBastardSon&TheDevilHimselfSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheBastardSon&TheDevilHimselfSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "9",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2022,
+    "maxConcurrentStreams": 0
+}

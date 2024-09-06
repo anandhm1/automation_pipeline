@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_934d5c43-4eb7-5041-b54e-ccb359e8b6a0",
+    "clientContentId": "PACK0000000006922943",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "John Wick Chapter 4",
+            "may": "John Wick Chapter 4",
+            "tam": "John Wick Chapter 4",
+            "chi": "John Wick Chapter 4",
+            "tha": "John Wick Chapter 4",
+            "ind": "John Wick Chapter 4"
+        },
+        "long": {
+            "eng": "John Wick Chapter 4",
+            "may": "John Wick Chapter 4",
+            "tam": "John Wick Chapter 4",
+            "chi": "John Wick Chapter 4",
+            "tha": "John Wick Chapter 4",
+            "ind": "John Wick Chapter 4"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+            "may": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+            "tam": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+            "chi": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+            "tha": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+            "ind": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes."
+        },
+        "long": {
+            "eng": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+            "may": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+            "tam": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+            "chi": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+            "tha": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+            "ind": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Keanu Reeves",
+            " Donnie Yen",
+            " Bill Skarsg\u00e5rd",
+            " Laurence Fishburne",
+            " Hiroyuki Sanada",
+            " Shamier Anderson",
+            " Lance Reddick",
+            " Rina Sawayama",
+            " Scott Adkins",
+            " Ian McShane"
+        ],
+        "may": [
+            "Keanu Reeves",
+            " Donnie Yen",
+            " Bill Skarsg\u00e5rd",
+            " Laurence Fishburne",
+            " Hiroyuki Sanada",
+            " Shamier Anderson",
+            " Lance Reddick",
+            " Rina Sawayama",
+            " Scott Adkins",
+            " Ian McShane"
+        ],
+        "tam": [
+            "Keanu Reeves",
+            " Donnie Yen",
+            " Bill Skarsg\u00e5rd",
+            " Laurence Fishburne",
+            " Hiroyuki Sanada",
+            " Shamier Anderson",
+            " Lance Reddick",
+            " Rina Sawayama",
+            " Scott Adkins",
+            " Ian McShane"
+        ],
+        "chi": [
+            "Keanu Reeves",
+            " Donnie Yen",
+            " Bill Skarsg\u00e5rd",
+            " Laurence Fishburne",
+            " Hiroyuki Sanada",
+            " Shamier Anderson",
+            " Lance Reddick",
+            " Rina Sawayama",
+            " Scott Adkins",
+            " Ian McShane"
+        ],
+        "tha": [
+            "Keanu Reeves",
+            " Donnie Yen",
+            " Bill Skarsg\u00e5rd",
+            " Laurence Fishburne",
+            " Hiroyuki Sanada",
+            " Shamier Anderson",
+            " Lance Reddick",
+            " Rina Sawayama",
+            " Scott Adkins",
+            " Ian McShane"
+        ],
+        "ind": [
+            "Keanu Reeves",
+            " Donnie Yen",
+            " Bill Skarsg\u00e5rd",
+            " Laurence Fishburne",
+            " Hiroyuki Sanada",
+            " Shamier Anderson",
+            " Lance Reddick",
+            " Rina Sawayama",
+            " Scott Adkins",
+            " Ian McShane"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Chad Stahelski"
+        ],
+        "may": [
+            "Chad Stahelski"
+        ],
+        "tam": [
+            "Chad Stahelski"
+        ],
+        "chi": [
+            "Chad Stahelski"
+        ],
+        "tha": [
+            "Chad Stahelski"
+        ],
+        "ind": [
+            "Chad Stahelski"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Christoph Fisser",
+            " Basil Iwanyk",
+            " Erica Lee",
+            " David Leitch",
+            " Henning Molfenter",
+            " Michael Paseornek",
+            " Keanu Reeves",
+            " Louise Rosner",
+            " Chad Stahelski",
+            " Charlie Woebcken"
+        ],
+        "may": [
+            "Christoph Fisser",
+            " Basil Iwanyk",
+            " Erica Lee",
+            " David Leitch",
+            " Henning Molfenter",
+            " Michael Paseornek",
+            " Keanu Reeves",
+            " Louise Rosner",
+            " Chad Stahelski",
+            " Charlie Woebcken"
+        ],
+        "tam": [
+            "Christoph Fisser",
+            " Basil Iwanyk",
+            " Erica Lee",
+            " David Leitch",
+            " Henning Molfenter",
+            " Michael Paseornek",
+            " Keanu Reeves",
+            " Louise Rosner",
+            " Chad Stahelski",
+            " Charlie Woebcken"
+        ],
+        "chi": [
+            "Christoph Fisser",
+            " Basil Iwanyk",
+            " Erica Lee",
+            " David Leitch",
+            " Henning Molfenter",
+            " Michael Paseornek",
+            " Keanu Reeves",
+            " Louise Rosner",
+            " Chad Stahelski",
+            " Charlie Woebcken"
+        ],
+        "tha": [
+            "Christoph Fisser",
+            " Basil Iwanyk",
+            " Erica Lee",
+            " David Leitch",
+            " Henning Molfenter",
+            " Michael Paseornek",
+            " Keanu Reeves",
+            " Louise Rosner",
+            " Chad Stahelski",
+            " Charlie Woebcken"
+        ],
+        "ind": [
+            "Christoph Fisser",
+            " Basil Iwanyk",
+            " Erica Lee",
+            " David Leitch",
+            " Henning Molfenter",
+            " Michael Paseornek",
+            " Keanu Reeves",
+            " Louise Rosner",
+            " Chad Stahelski",
+            " Charlie Woebcken"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/JohnWickChapter4_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/JohnWickChapter4_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/JohnWickChapter4_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2023,
+    "rating": "9.2",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_b422e495-c831-5da9-beeb-6e3915a76208",
+    "clientContentId": "PACK0000000003822042",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Hitman\u2019s Bodyguard",
+            "may": "The Hitman\u2019s Bodyguard",
+            "tam": "The Hitman\u2019s Bodyguard",
+            "chi": "The Hitman\u2019s Bodyguard",
+            "tha": "The Hitman\u2019s Bodyguard",
+            "ind": "The Hitman\u2019s Bodyguard"
+        },
+        "long": {
+            "eng": "The Hitman\u2019s Bodyguard",
+            "may": "The Hitman\u2019s Bodyguard",
+            "tam": "The Hitman\u2019s Bodyguard",
+            "chi": "The Hitman\u2019s Bodyguard",
+            "tha": "The Hitman\u2019s Bodyguard",
+            "ind": "The Hitman\u2019s Bodyguard"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "One of the world's top bodyguards gets a new client, a world class hitman who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial alive and on time.",
+            "may": "One of the world's top bodyguards gets a new client, a world class hitman who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial alive and on time.",
+            "tam": "One of the world's top bodyguards gets a new client, a world class hitman who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial alive and on time.",
+            "chi": "One of the world's top bodyguards gets a new client, a world class hitman who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial alive and on time.",
+            "tha": "One of the world's top bodyguards gets a new client, a world class hitman who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial alive and on time.",
+            "ind": "One of the world's top bodyguards gets a new client, a world class hitman who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial alive and on time."
+        },
+        "long": {
+            "eng": "One of the world's top bodyguards gets a new client, a world class hitman who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial alive and on time.",
+            "may": "One of the world's top bodyguards gets a new client, a world class hitman who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial alive and on time.",
+            "tam": "One of the world's top bodyguards gets a new client, a world class hitman who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial alive and on time.",
+            "chi": "One of the world's top bodyguards gets a new client, a world class hitman who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial alive and on time.",
+            "tha": "One of the world's top bodyguards gets a new client, a world class hitman who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial alive and on time.",
+            "ind": "One of the world's top bodyguards gets a new client, a world class hitman who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial alive and on time."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Elodie Yung",
+            " Ryan Reynolds",
+            " Tsuwayuki Saotome",
+            " Roy Hill",
+            " Richard E. Grant",
+            " Gary Oldman",
+            " Rod Hallett",
+            " Yuri Kolokolnikov",
+            " Nadia Konakchieva",
+            " Valentin Stojanov"
+        ],
+        "may": [
+            "Elodie Yung",
+            " Ryan Reynolds",
+            " Tsuwayuki Saotome",
+            " Roy Hill",
+            " Richard E. Grant",
+            " Gary Oldman",
+            " Rod Hallett",
+            " Yuri Kolokolnikov",
+            " Nadia Konakchieva",
+            " Valentin Stojanov"
+        ],
+        "tam": [
+            "Elodie Yung",
+            " Ryan Reynolds",
+            " Tsuwayuki Saotome",
+            " Roy Hill",
+            " Richard E. Grant",
+            " Gary Oldman",
+            " Rod Hallett",
+            " Yuri Kolokolnikov",
+            " Nadia Konakchieva",
+            " Valentin Stojanov"
+        ],
+        "chi": [
+            "Elodie Yung",
+            " Ryan Reynolds",
+            " Tsuwayuki Saotome",
+            " Roy Hill",
+            " Richard E. Grant",
+            " Gary Oldman",
+            " Rod Hallett",
+            " Yuri Kolokolnikov",
+            " Nadia Konakchieva",
+            " Valentin Stojanov"
+        ],
+        "tha": [
+            "Elodie Yung",
+            " Ryan Reynolds",
+            " Tsuwayuki Saotome",
+            " Roy Hill",
+            " Richard E. Grant",
+            " Gary Oldman",
+            " Rod Hallett",
+            " Yuri Kolokolnikov",
+            " Nadia Konakchieva",
+            " Valentin Stojanov"
+        ],
+        "ind": [
+            "Elodie Yung",
+            " Ryan Reynolds",
+            " Tsuwayuki Saotome",
+            " Roy Hill",
+            " Richard E. Grant",
+            " Gary Oldman",
+            " Rod Hallett",
+            " Yuri Kolokolnikov",
+            " Nadia Konakchieva",
+            " Valentin Stojanov"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Patrick Hughes"
+        ],
+        "may": [
+            "Patrick Hughes"
+        ],
+        "tam": [
+            "Patrick Hughes"
+        ],
+        "chi": [
+            "Patrick Hughes"
+        ],
+        "tha": [
+            "Patrick Hughes"
+        ],
+        "ind": [
+            "Patrick Hughes"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Mark Birmingham",
+            " Jason Bloom",
+            " Christa Campbell",
+            " William Paul Clark",
+            " Boaz Davidson",
+            " Marcel de Block",
+            " Tom de Mol",
+            " Valentin Dimitrov",
+            " Scott Einbinder",
+            " Mark Gill"
+        ],
+        "may": [
+            "Mark Birmingham",
+            " Jason Bloom",
+            " Christa Campbell",
+            " William Paul Clark",
+            " Boaz Davidson",
+            " Marcel de Block",
+            " Tom de Mol",
+            " Valentin Dimitrov",
+            " Scott Einbinder",
+            " Mark Gill"
+        ],
+        "tam": [
+            "Mark Birmingham",
+            " Jason Bloom",
+            " Christa Campbell",
+            " William Paul Clark",
+            " Boaz Davidson",
+            " Marcel de Block",
+            " Tom de Mol",
+            " Valentin Dimitrov",
+            " Scott Einbinder",
+            " Mark Gill"
+        ],
+        "chi": [
+            "Mark Birmingham",
+            " Jason Bloom",
+            " Christa Campbell",
+            " William Paul Clark",
+            " Boaz Davidson",
+            " Marcel de Block",
+            " Tom de Mol",
+            " Valentin Dimitrov",
+            " Scott Einbinder",
+            " Mark Gill"
+        ],
+        "tha": [
+            "Mark Birmingham",
+            " Jason Bloom",
+            " Christa Campbell",
+            " William Paul Clark",
+            " Boaz Davidson",
+            " Marcel de Block",
+            " Tom de Mol",
+            " Valentin Dimitrov",
+            " Scott Einbinder",
+            " Mark Gill"
+        ],
+        "ind": [
+            "Mark Birmingham",
+            " Jason Bloom",
+            " Christa Campbell",
+            " William Paul Clark",
+            " Boaz Davidson",
+            " Marcel de Block",
+            " Tom de Mol",
+            " Valentin Dimitrov",
+            " Scott Einbinder",
+            " Mark Gill"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Comedy",
+                    "may": " Comedy",
+                    "tam": " Comedy",
+                    "chi": " Comedy",
+                    "tha": " Comedy",
+                    "ind": " Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheHitman\u2019sBodyguard_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheHitman\u2019sBodyguard_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheHitman\u2019sBodyguard_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2017,
+    "rating": "6.9",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

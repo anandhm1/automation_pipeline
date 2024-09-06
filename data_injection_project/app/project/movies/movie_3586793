@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_58a9d92b-f20b-5264-a3a6-a547e0125f7a",
+    "clientContentId": "PACK0000000003522803",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Wire Room (2022)",
+            "may": "Wire Room (2022)",
+            "tam": "Wire Room (2022)",
+            "chi": "Wire Room (2022)",
+            "tha": "Wire Room (2022)",
+            "ind": "Wire Room (2022)"
+        },
+        "long": {
+            "eng": "Wire Room (2022)",
+            "may": "Wire Room (2022)",
+            "tam": "Wire Room (2022)",
+            "chi": "Wire Room (2022)",
+            "tha": "Wire Room (2022)",
+            "ind": "Wire Room (2022)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "While on wire room duty, a federal agent listens in as the target is attacked in his home by a hit squad. Without burning the wire, he must protect the investigation and the target's life from the confines of a room fifty miles away.",
+            "may": "While on wire room duty, a federal agent listens in as the target is attacked in his home by a hit squad. Without burning the wire, he must protect the investigation and the target's life from the confines of a room fifty miles away.",
+            "tam": "While on wire room duty, a federal agent listens in as the target is attacked in his home by a hit squad. Without burning the wire, he must protect the investigation and the target's life from the confines of a room fifty miles away.",
+            "chi": "While on wire room duty, a federal agent listens in as the target is attacked in his home by a hit squad. Without burning the wire, he must protect the investigation and the target's life from the confines of a room fifty miles away.",
+            "tha": "While on wire room duty, a federal agent listens in as the target is attacked in his home by a hit squad. Without burning the wire, he must protect the investigation and the target's life from the confines of a room fifty miles away.",
+            "ind": "While on wire room duty, a federal agent listens in as the target is attacked in his home by a hit squad. Without burning the wire, he must protect the investigation and the target's life from the confines of a room fifty miles away."
+        },
+        "long": {
+            "eng": "While on wire room duty, a federal agent listens in as the target is attacked in his home by a hit squad. Without burning the wire, he must protect the investigation and the target's life from the confines of a room fifty miles away.",
+            "may": "While on wire room duty, a federal agent listens in as the target is attacked in his home by a hit squad. Without burning the wire, he must protect the investigation and the target's life from the confines of a room fifty miles away.",
+            "tam": "While on wire room duty, a federal agent listens in as the target is attacked in his home by a hit squad. Without burning the wire, he must protect the investigation and the target's life from the confines of a room fifty miles away.",
+            "chi": "While on wire room duty, a federal agent listens in as the target is attacked in his home by a hit squad. Without burning the wire, he must protect the investigation and the target's life from the confines of a room fifty miles away.",
+            "tha": "While on wire room duty, a federal agent listens in as the target is attacked in his home by a hit squad. Without burning the wire, he must protect the investigation and the target's life from the confines of a room fifty miles away.",
+            "ind": "While on wire room duty, a federal agent listens in as the target is attacked in his home by a hit squad. Without burning the wire, he must protect the investigation and the target's life from the confines of a room fifty miles away."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Kevin Dillon",
+            " Bruce Willis",
+            " Oliver Trevena",
+            " Texas Battle",
+            " Amber Townsend",
+            " Cameron Douglas",
+            " Shelby Cobb",
+            " Faith Stowers",
+            " Larken Woodward",
+            " Adam Huel Potter"
+        ],
+        "may": [
+            "Kevin Dillon",
+            " Bruce Willis",
+            " Oliver Trevena",
+            " Texas Battle",
+            " Amber Townsend",
+            " Cameron Douglas",
+            " Shelby Cobb",
+            " Faith Stowers",
+            " Larken Woodward",
+            " Adam Huel Potter"
+        ],
+        "tam": [
+            "Kevin Dillon",
+            " Bruce Willis",
+            " Oliver Trevena",
+            " Texas Battle",
+            " Amber Townsend",
+            " Cameron Douglas",
+            " Shelby Cobb",
+            " Faith Stowers",
+            " Larken Woodward",
+            " Adam Huel Potter"
+        ],
+        "chi": [
+            "Kevin Dillon",
+            " Bruce Willis",
+            " Oliver Trevena",
+            " Texas Battle",
+            " Amber Townsend",
+            " Cameron Douglas",
+            " Shelby Cobb",
+            " Faith Stowers",
+            " Larken Woodward",
+            " Adam Huel Potter"
+        ],
+        "tha": [
+            "Kevin Dillon",
+            " Bruce Willis",
+            " Oliver Trevena",
+            " Texas Battle",
+            " Amber Townsend",
+            " Cameron Douglas",
+            " Shelby Cobb",
+            " Faith Stowers",
+            " Larken Woodward",
+            " Adam Huel Potter"
+        ],
+        "ind": [
+            "Kevin Dillon",
+            " Bruce Willis",
+            " Oliver Trevena",
+            " Texas Battle",
+            " Amber Townsend",
+            " Cameron Douglas",
+            " Shelby Cobb",
+            " Faith Stowers",
+            " Larken Woodward",
+            " Adam Huel Potter"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Matt Eskandari"
+        ],
+        "may": [
+            "Matt Eskandari"
+        ],
+        "tam": [
+            "Matt Eskandari"
+        ],
+        "chi": [
+            "Matt Eskandari"
+        ],
+        "tha": [
+            "Matt Eskandari"
+        ],
+        "ind": [
+            "Matt Eskandari"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Noel Ashman",
+            " Jeffrey Belkin",
+            " Barry Brooker",
+            " Alastair Burlingham",
+            " Danny Chan",
+            " Danny Croizat",
+            " Charlie Dombek",
+            " Randall Emmett",
+            " Ted Fox",
+            " Arianne Fraser"
+        ],
+        "may": [
+            "Noel Ashman",
+            " Jeffrey Belkin",
+            " Barry Brooker",
+            " Alastair Burlingham",
+            " Danny Chan",
+            " Danny Croizat",
+            " Charlie Dombek",
+            " Randall Emmett",
+            " Ted Fox",
+            " Arianne Fraser"
+        ],
+        "tam": [
+            "Noel Ashman",
+            " Jeffrey Belkin",
+            " Barry Brooker",
+            " Alastair Burlingham",
+            " Danny Chan",
+            " Danny Croizat",
+            " Charlie Dombek",
+            " Randall Emmett",
+            " Ted Fox",
+            " Arianne Fraser"
+        ],
+        "chi": [
+            "Noel Ashman",
+            " Jeffrey Belkin",
+            " Barry Brooker",
+            " Alastair Burlingham",
+            " Danny Chan",
+            " Danny Croizat",
+            " Charlie Dombek",
+            " Randall Emmett",
+            " Ted Fox",
+            " Arianne Fraser"
+        ],
+        "tha": [
+            "Noel Ashman",
+            " Jeffrey Belkin",
+            " Barry Brooker",
+            " Alastair Burlingham",
+            " Danny Chan",
+            " Danny Croizat",
+            " Charlie Dombek",
+            " Randall Emmett",
+            " Ted Fox",
+            " Arianne Fraser"
+        ],
+        "ind": [
+            "Noel Ashman",
+            " Jeffrey Belkin",
+            " Barry Brooker",
+            " Alastair Burlingham",
+            " Danny Chan",
+            " Danny Croizat",
+            " Charlie Dombek",
+            " Randall Emmett",
+            " Ted Fox",
+            " Arianne Fraser"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Thriller",
+                    "may": " Thriller",
+                    "tam": " Thriller",
+                    "chi": " Thriller",
+                    "tha": " Thriller",
+                    "ind": " Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/WireRoom_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/WireRoom_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/WireRoom_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "3.6",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

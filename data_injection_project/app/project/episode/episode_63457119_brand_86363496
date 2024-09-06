@@ -1,0 +1,247 @@
+{
+    "externalId": "AggregatedTvShow_473a611e-c650-5334-b55f-a6d4e7c2ed15",
+    "clientContentId": "PACK0000000003252466",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Feels Like Home S1 E1",
+            "may": "Feels Like Home S1 E1",
+            "tam": "Feels Like Home S1 E1",
+            "chi": "Feels Like Home S1 E1",
+            "tha": "Feels Like Home S1 E1",
+            "ind": "Feels Like Home S1 E1"
+        },
+        "long": {
+            "eng": "Feels Like Home S1 E1",
+            "may": "Feels Like Home S1 E1",
+            "tam": "Feels Like Home S1 E1",
+            "chi": "Feels Like Home S1 E1",
+            "tha": "Feels Like Home S1 E1",
+            "ind": "Feels Like Home S1 E1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "may": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "tam": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "chi": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "tha": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "ind": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home."
+        },
+        "long": {
+            "eng": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "may": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "tam": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "chi": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "tha": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "ind": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Prit Kamani",
+            " Anshuman Malhotra",
+            " Mihir Ahuja"
+        ],
+        "may": [
+            "Prit Kamani",
+            " Anshuman Malhotra",
+            " Mihir Ahuja"
+        ],
+        "tam": [
+            "Prit Kamani",
+            " Anshuman Malhotra",
+            " Mihir Ahuja"
+        ],
+        "chi": [
+            "Prit Kamani",
+            " Anshuman Malhotra",
+            " Mihir Ahuja"
+        ],
+        "tha": [
+            "Prit Kamani",
+            " Anshuman Malhotra",
+            " Mihir Ahuja"
+        ],
+        "ind": [
+            "Prit Kamani",
+            " Anshuman Malhotra",
+            " Mihir Ahuja"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Sahir Raza"
+        ],
+        "may": [
+            "Sahir Raza"
+        ],
+        "tam": [
+            "Sahir Raza"
+        ],
+        "chi": [
+            "Sahir Raza"
+        ],
+        "tha": [
+            "Sahir Raza"
+        ],
+        "ind": [
+            "Sahir Raza"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Sahir Raza"
+        ],
+        "may": [
+            "Sahir Raza"
+        ],
+        "tam": [
+            "Sahir Raza"
+        ],
+        "chi": [
+            "Sahir Raza"
+        ],
+        "tha": [
+            "Sahir Raza"
+        ],
+        "ind": [
+            "Sahir Raza"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/FriendsWhoFeelLikeHome_S01_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/FriendsWhoFeelLikeHome_S01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/FriendsWhoFeelLikeHome_S01_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_e79a9448-5175-5e9e-ae8f-88a8de93774c",
+    "seasonId": "AggregatedSeason_1fcdb38d-ee32-588c-9a61-884c76ad979f",
+    "boxsetIds": [],
+    "episodeNumber": "2.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "8.5",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

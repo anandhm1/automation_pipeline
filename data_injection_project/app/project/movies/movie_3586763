@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_944e7b96-ab66-54d4-9910-6b52b4755d54",
+    "clientContentId": "PACK0000000007384534",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Nanny",
+            "may": "Nanny",
+            "tam": "Nanny",
+            "chi": "Nanny",
+            "tha": "Nanny",
+            "ind": "Nanny"
+        },
+        "long": {
+            "eng": "Nanny",
+            "may": "Nanny",
+            "tam": "Nanny",
+            "chi": "Nanny",
+            "tha": "Nanny",
+            "ind": "Nanny"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Immigrant nanny Aisha, piecing together a new life in New York City while caring for the child of an Upper East Side family, is forced to confront a concealed truth that threatens to shatter her precarious American Dream.",
+            "may": "Immigrant nanny Aisha, piecing together a new life in New York City while caring for the child of an Upper East Side family, is forced to confront a concealed truth that threatens to shatter her precarious American Dream.",
+            "tam": "Immigrant nanny Aisha, piecing together a new life in New York City while caring for the child of an Upper East Side family, is forced to confront a concealed truth that threatens to shatter her precarious American Dream.",
+            "chi": "Immigrant nanny Aisha, piecing together a new life in New York City while caring for the child of an Upper East Side family, is forced to confront a concealed truth that threatens to shatter her precarious American Dream.",
+            "tha": "Immigrant nanny Aisha, piecing together a new life in New York City while caring for the child of an Upper East Side family, is forced to confront a concealed truth that threatens to shatter her precarious American Dream.",
+            "ind": "Immigrant nanny Aisha, piecing together a new life in New York City while caring for the child of an Upper East Side family, is forced to confront a concealed truth that threatens to shatter her precarious American Dream."
+        },
+        "long": {
+            "eng": "Immigrant nanny Aisha, piecing together a new life in New York City while caring for the child of an Upper East Side family, is forced to confront a concealed truth that threatens to shatter her precarious American Dream.",
+            "may": "Immigrant nanny Aisha, piecing together a new life in New York City while caring for the child of an Upper East Side family, is forced to confront a concealed truth that threatens to shatter her precarious American Dream.",
+            "tam": "Immigrant nanny Aisha, piecing together a new life in New York City while caring for the child of an Upper East Side family, is forced to confront a concealed truth that threatens to shatter her precarious American Dream.",
+            "chi": "Immigrant nanny Aisha, piecing together a new life in New York City while caring for the child of an Upper East Side family, is forced to confront a concealed truth that threatens to shatter her precarious American Dream.",
+            "tha": "Immigrant nanny Aisha, piecing together a new life in New York City while caring for the child of an Upper East Side family, is forced to confront a concealed truth that threatens to shatter her precarious American Dream.",
+            "ind": "Immigrant nanny Aisha, piecing together a new life in New York City while caring for the child of an Upper East Side family, is forced to confront a concealed truth that threatens to shatter her precarious American Dream."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Anna Diop",
+            " Michelle Monaghan",
+            " Sinqua Walls",
+            " Morgan Spector",
+            " Rose Decker",
+            " Leslie Uggams",
+            " Olamide Candide-Johnson",
+            " Jahleel Kamara",
+            " Princess Adenike",
+            " Mitzie Pratt"
+        ],
+        "may": [
+            "Anna Diop",
+            " Michelle Monaghan",
+            " Sinqua Walls",
+            " Morgan Spector",
+            " Rose Decker",
+            " Leslie Uggams",
+            " Olamide Candide-Johnson",
+            " Jahleel Kamara",
+            " Princess Adenike",
+            " Mitzie Pratt"
+        ],
+        "tam": [
+            "Anna Diop",
+            " Michelle Monaghan",
+            " Sinqua Walls",
+            " Morgan Spector",
+            " Rose Decker",
+            " Leslie Uggams",
+            " Olamide Candide-Johnson",
+            " Jahleel Kamara",
+            " Princess Adenike",
+            " Mitzie Pratt"
+        ],
+        "chi": [
+            "Anna Diop",
+            " Michelle Monaghan",
+            " Sinqua Walls",
+            " Morgan Spector",
+            " Rose Decker",
+            " Leslie Uggams",
+            " Olamide Candide-Johnson",
+            " Jahleel Kamara",
+            " Princess Adenike",
+            " Mitzie Pratt"
+        ],
+        "tha": [
+            "Anna Diop",
+            " Michelle Monaghan",
+            " Sinqua Walls",
+            " Morgan Spector",
+            " Rose Decker",
+            " Leslie Uggams",
+            " Olamide Candide-Johnson",
+            " Jahleel Kamara",
+            " Princess Adenike",
+            " Mitzie Pratt"
+        ],
+        "ind": [
+            "Anna Diop",
+            " Michelle Monaghan",
+            " Sinqua Walls",
+            " Morgan Spector",
+            " Rose Decker",
+            " Leslie Uggams",
+            " Olamide Candide-Johnson",
+            " Jahleel Kamara",
+            " Princess Adenike",
+            " Mitzie Pratt"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Nikyatu Jusu"
+        ],
+        "may": [
+            "Nikyatu Jusu"
+        ],
+        "tam": [
+            "Nikyatu Jusu"
+        ],
+        "chi": [
+            "Nikyatu Jusu"
+        ],
+        "tha": [
+            "Nikyatu Jusu"
+        ],
+        "ind": [
+            "Nikyatu Jusu"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Nnamdi Asomugha",
+            " Bill Benenson",
+            " Laurie Benenson",
+            " Alysse Bezahler",
+            " Michael Bloom",
+            " Jason Blum",
+            " Rebecca Cammarata",
+            " Kim Coleman",
+            " Ged Dickersin",
+            " Jeremy Gold"
+        ],
+        "may": [
+            "Nnamdi Asomugha",
+            " Bill Benenson",
+            " Laurie Benenson",
+            " Alysse Bezahler",
+            " Michael Bloom",
+            " Jason Blum",
+            " Rebecca Cammarata",
+            " Kim Coleman",
+            " Ged Dickersin",
+            " Jeremy Gold"
+        ],
+        "tam": [
+            "Nnamdi Asomugha",
+            " Bill Benenson",
+            " Laurie Benenson",
+            " Alysse Bezahler",
+            " Michael Bloom",
+            " Jason Blum",
+            " Rebecca Cammarata",
+            " Kim Coleman",
+            " Ged Dickersin",
+            " Jeremy Gold"
+        ],
+        "chi": [
+            "Nnamdi Asomugha",
+            " Bill Benenson",
+            " Laurie Benenson",
+            " Alysse Bezahler",
+            " Michael Bloom",
+            " Jason Blum",
+            " Rebecca Cammarata",
+            " Kim Coleman",
+            " Ged Dickersin",
+            " Jeremy Gold"
+        ],
+        "tha": [
+            "Nnamdi Asomugha",
+            " Bill Benenson",
+            " Laurie Benenson",
+            " Alysse Bezahler",
+            " Michael Bloom",
+            " Jason Blum",
+            " Rebecca Cammarata",
+            " Kim Coleman",
+            " Ged Dickersin",
+            " Jeremy Gold"
+        ],
+        "ind": [
+            "Nnamdi Asomugha",
+            " Bill Benenson",
+            " Laurie Benenson",
+            " Alysse Bezahler",
+            " Michael Bloom",
+            " Jason Blum",
+            " Rebecca Cammarata",
+            " Kim Coleman",
+            " Ged Dickersin",
+            " Jeremy Gold"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "tam": " Horror",
+                    "chi": " Horror",
+                    "tha": " Horror",
+                    "ind": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Nanny_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Nanny_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Nanny_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "5.3",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,319 @@
+{
+    "externalId": "AggregatedSeries_a55899b1-b4be-525a-be7d-a2f4d81e8210",
+    "clientContentId": "PACK0000000005478521",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Great Expectations",
+            "may": "Great Expectations",
+            "tam": "Great Expectations",
+            "chi": "Great Expectations",
+            "tha": "Great Expectations",
+            "ind": "Great Expectations"
+        },
+        "long": {
+            "eng": "Great Expectations",
+            "may": "Great Expectations",
+            "tam": "Great Expectations",
+            "chi": "Great Expectations",
+            "tha": "Great Expectations",
+            "ind": "Great Expectations"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "may": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "tam": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "chi": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "tha": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "ind": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society."
+        },
+        "long": {
+            "eng": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "may": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "tam": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "chi": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "tha": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "ind": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Bronte Carmichael",
+            " Tom Sweet",
+            " Gianni Calchetti",
+            " Olivia Colman",
+            " Matt Berry",
+            " Fionn Whitehead",
+            " Shalom Brune-Franklin",
+            " Hayley Squires",
+            " Johnny Harris",
+            " Trystan Gravelle"
+        ],
+        "may": [
+            "Bronte Carmichael",
+            " Tom Sweet",
+            " Gianni Calchetti",
+            " Olivia Colman",
+            " Matt Berry",
+            " Fionn Whitehead",
+            " Shalom Brune-Franklin",
+            " Hayley Squires",
+            " Johnny Harris",
+            " Trystan Gravelle"
+        ],
+        "tam": [
+            "Bronte Carmichael",
+            " Tom Sweet",
+            " Gianni Calchetti",
+            " Olivia Colman",
+            " Matt Berry",
+            " Fionn Whitehead",
+            " Shalom Brune-Franklin",
+            " Hayley Squires",
+            " Johnny Harris",
+            " Trystan Gravelle"
+        ],
+        "chi": [
+            "Bronte Carmichael",
+            " Tom Sweet",
+            " Gianni Calchetti",
+            " Olivia Colman",
+            " Matt Berry",
+            " Fionn Whitehead",
+            " Shalom Brune-Franklin",
+            " Hayley Squires",
+            " Johnny Harris",
+            " Trystan Gravelle"
+        ],
+        "tha": [
+            "Bronte Carmichael",
+            " Tom Sweet",
+            " Gianni Calchetti",
+            " Olivia Colman",
+            " Matt Berry",
+            " Fionn Whitehead",
+            " Shalom Brune-Franklin",
+            " Hayley Squires",
+            " Johnny Harris",
+            " Trystan Gravelle"
+        ],
+        "ind": [
+            "Bronte Carmichael",
+            " Tom Sweet",
+            " Gianni Calchetti",
+            " Olivia Colman",
+            " Matt Berry",
+            " Fionn Whitehead",
+            " Shalom Brune-Franklin",
+            " Hayley Squires",
+            " Johnny Harris",
+            " Trystan Gravelle"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Brady Hood",
+            " Samira Radsi"
+        ],
+        "may": [
+            "Brady Hood",
+            " Samira Radsi"
+        ],
+        "tam": [
+            "Brady Hood",
+            " Samira Radsi"
+        ],
+        "chi": [
+            "Brady Hood",
+            " Samira Radsi"
+        ],
+        "tha": [
+            "Brady Hood",
+            " Samira Radsi"
+        ],
+        "ind": [
+            "Brady Hood",
+            " Samira Radsi"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Dean Baker",
+            " Kate Crowe",
+            " Greg Harris",
+            " Mark Kinsella",
+            " Matt Jennings",
+            " Tom Hardy",
+            " Steven Knight",
+            " Ridley Scott",
+            " David W. Zucker",
+            " "
+        ],
+        "may": [
+            "Dean Baker",
+            " Kate Crowe",
+            " Greg Harris",
+            " Mark Kinsella",
+            " Matt Jennings",
+            " Tom Hardy",
+            " Steven Knight",
+            " Ridley Scott",
+            " David W. Zucker",
+            " "
+        ],
+        "tam": [
+            "Dean Baker",
+            " Kate Crowe",
+            " Greg Harris",
+            " Mark Kinsella",
+            " Matt Jennings",
+            " Tom Hardy",
+            " Steven Knight",
+            " Ridley Scott",
+            " David W. Zucker",
+            " "
+        ],
+        "chi": [
+            "Dean Baker",
+            " Kate Crowe",
+            " Greg Harris",
+            " Mark Kinsella",
+            " Matt Jennings",
+            " Tom Hardy",
+            " Steven Knight",
+            " Ridley Scott",
+            " David W. Zucker",
+            " "
+        ],
+        "tha": [
+            "Dean Baker",
+            " Kate Crowe",
+            " Greg Harris",
+            " Mark Kinsella",
+            " Matt Jennings",
+            " Tom Hardy",
+            " Steven Knight",
+            " Ridley Scott",
+            " David W. Zucker",
+            " "
+        ],
+        "ind": [
+            "Dean Baker",
+            " Kate Crowe",
+            " Greg Harris",
+            " Mark Kinsella",
+            " Matt Jennings",
+            " Tom Hardy",
+            " Steven Knight",
+            " Ridley Scott",
+            " David W. Zucker",
+            " "
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " History",
+                    "may": " History",
+                    "tam": " History",
+                    "chi": " History",
+                    "tha": " History",
+                    "ind": " History"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/GreatExpectationsSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/GreatExpectationsSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/GreatExpectationsSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "6",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2023,
+    "maxConcurrentStreams": 0
+}

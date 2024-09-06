@@ -1,0 +1,301 @@
+{
+    "externalId": "AggregatedMovie_04dbbb8e-45f9-5fd6-80da-80b5030f37d6",
+    "clientContentId": "PACK0000000003636055",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "One December Night 2021",
+            "may": "One December Night 2021",
+            "tam": "One December Night 2021",
+            "chi": "One December Night 2021",
+            "tha": "One December Night 2021",
+            "ind": "One December Night 2021"
+        },
+        "long": {
+            "eng": "One December Night 2021",
+            "may": "One December Night 2021",
+            "tam": "One December Night 2021",
+            "chi": "One December Night 2021",
+            "tha": "One December Night 2021",
+            "ind": "One December Night 2021"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Two Musical managers must put their history aside to oversee the televised reunion performances of their rock-star fathers with a fractured past.",
+            "may": "Two Musical managers must put their history aside to oversee the televised reunion performances of their rock-star fathers with a fractured past.",
+            "tam": "Two Musical managers must put their history aside to oversee the televised reunion performances of their rock-star fathers with a fractured past.",
+            "chi": "Two Musical managers must put their history aside to oversee the televised reunion performances of their rock-star fathers with a fractured past.",
+            "tha": "Two Musical managers must put their history aside to oversee the televised reunion performances of their rock-star fathers with a fractured past.",
+            "ind": "Two Musical managers must put their history aside to oversee the televised reunion performances of their rock-star fathers with a fractured past."
+        },
+        "long": {
+            "eng": "Two Musical managers must put their history aside to oversee the televised reunion performances of their rock-star fathers with a fractured past.",
+            "may": "Two Musical managers must put their history aside to oversee the televised reunion performances of their rock-star fathers with a fractured past.",
+            "tam": "Two Musical managers must put their history aside to oversee the televised reunion performances of their rock-star fathers with a fractured past.",
+            "chi": "Two Musical managers must put their history aside to oversee the televised reunion performances of their rock-star fathers with a fractured past.",
+            "tha": "Two Musical managers must put their history aside to oversee the televised reunion performances of their rock-star fathers with a fractured past.",
+            "ind": "Two Musical managers must put their history aside to oversee the televised reunion performances of their rock-star fathers with a fractured past."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Peter Gallagher",
+            " Bruce Campbell",
+            " Eloise Mumford",
+            " Brett Dalton",
+            " Andrew Durand",
+            " Jenna Stern",
+            " Jasmine Forsberg",
+            " Beth Fowler",
+            " Julia Blanchard",
+            " Didi Conn"
+        ],
+        "may": [
+            "Peter Gallagher",
+            " Bruce Campbell",
+            " Eloise Mumford",
+            " Brett Dalton",
+            " Andrew Durand",
+            " Jenna Stern",
+            " Jasmine Forsberg",
+            " Beth Fowler",
+            " Julia Blanchard",
+            " Didi Conn"
+        ],
+        "tam": [
+            "Peter Gallagher",
+            " Bruce Campbell",
+            " Eloise Mumford",
+            " Brett Dalton",
+            " Andrew Durand",
+            " Jenna Stern",
+            " Jasmine Forsberg",
+            " Beth Fowler",
+            " Julia Blanchard",
+            " Didi Conn"
+        ],
+        "chi": [
+            "Peter Gallagher",
+            " Bruce Campbell",
+            " Eloise Mumford",
+            " Brett Dalton",
+            " Andrew Durand",
+            " Jenna Stern",
+            " Jasmine Forsberg",
+            " Beth Fowler",
+            " Julia Blanchard",
+            " Didi Conn"
+        ],
+        "tha": [
+            "Peter Gallagher",
+            " Bruce Campbell",
+            " Eloise Mumford",
+            " Brett Dalton",
+            " Andrew Durand",
+            " Jenna Stern",
+            " Jasmine Forsberg",
+            " Beth Fowler",
+            " Julia Blanchard",
+            " Didi Conn"
+        ],
+        "ind": [
+            "Peter Gallagher",
+            " Bruce Campbell",
+            " Eloise Mumford",
+            " Brett Dalton",
+            " Andrew Durand",
+            " Jenna Stern",
+            " Jasmine Forsberg",
+            " Beth Fowler",
+            " Julia Blanchard",
+            " Didi Conn"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Clare Niederpruem"
+        ],
+        "may": [
+            "Clare Niederpruem"
+        ],
+        "tam": [
+            "Clare Niederpruem"
+        ],
+        "chi": [
+            "Clare Niederpruem"
+        ],
+        "tha": [
+            "Clare Niederpruem"
+        ],
+        "ind": [
+            "Clare Niederpruem"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Nancy Bennett",
+            " Tony Glazer",
+            " Summer Crockett Moore"
+        ],
+        "may": [
+            "Nancy Bennett",
+            " Tony Glazer",
+            " Summer Crockett Moore"
+        ],
+        "tam": [
+            "Nancy Bennett",
+            " Tony Glazer",
+            " Summer Crockett Moore"
+        ],
+        "chi": [
+            "Nancy Bennett",
+            " Tony Glazer",
+            " Summer Crockett Moore"
+        ],
+        "tha": [
+            "Nancy Bennett",
+            " Tony Glazer",
+            " Summer Crockett Moore"
+        ],
+        "ind": [
+            "Nancy Bennett",
+            " Tony Glazer",
+            " Summer Crockett Moore"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Family",
+                    "may": "Family",
+                    "tam": "Family",
+                    "chi": "Family",
+                    "tha": "Family",
+                    "ind": "Family"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Musical",
+                    "may": " Musical",
+                    "tam": " Musical",
+                    "chi": " Musical",
+                    "tha": " Musical",
+                    "ind": " Musical"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/OneDecemberNight_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/OneDecemberNight_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/OneDecemberNight_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2021,
+    "rating": "7.0",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

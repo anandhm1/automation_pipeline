@@ -1,0 +1,217 @@
+{
+    "externalId": "AggregatedSeries_eefbcff4-5907-5cec-a616-4edd48bee4ab",
+    "clientContentId": "PACK0000000002456111",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Showtrial",
+            "may": "Showtrial",
+            "tam": "Showtrial",
+            "chi": "Showtrial",
+            "tha": "Showtrial",
+            "ind": "Showtrial"
+        },
+        "long": {
+            "eng": "Showtrial",
+            "may": "Showtrial",
+            "tam": "Showtrial",
+            "chi": "Showtrial",
+            "tha": "Showtrial",
+            "ind": "Showtrial"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "may": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "tam": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "chi": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "tha": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "ind": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates."
+        },
+        "long": {
+            "eng": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "may": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "tam": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "chi": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "tha": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "ind": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Faiz Khan",
+            " Kira Narayanan",
+            " Aisha Ahmed"
+        ],
+        "may": [
+            "Faiz Khan",
+            " Kira Narayanan",
+            " Aisha Ahmed"
+        ],
+        "tam": [
+            "Faiz Khan",
+            " Kira Narayanan",
+            " Aisha Ahmed"
+        ],
+        "chi": [
+            "Faiz Khan",
+            " Kira Narayanan",
+            " Aisha Ahmed"
+        ],
+        "tha": [
+            "Faiz Khan",
+            " Kira Narayanan",
+            " Aisha Ahmed"
+        ],
+        "ind": [
+            "Faiz Khan",
+            " Kira Narayanan",
+            " Aisha Ahmed"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Shubham Yogi"
+        ],
+        "may": [
+            "Shubham Yogi"
+        ],
+        "tam": [
+            "Shubham Yogi"
+        ],
+        "chi": [
+            "Shubham Yogi"
+        ],
+        "tha": [
+            "Shubham Yogi"
+        ],
+        "ind": [
+            "Shubham Yogi"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Shubham Yogi"
+        ],
+        "may": [
+            "Shubham Yogi"
+        ],
+        "tam": [
+            "Shubham Yogi"
+        ],
+        "chi": [
+            "Shubham Yogi"
+        ],
+        "tha": [
+            "Shubham Yogi"
+        ],
+        "ind": [
+            "Shubham Yogi"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/MinusOne_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/MinusOne_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/MinusOne_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "7",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2019,
+    "maxConcurrentStreams": 0
+}

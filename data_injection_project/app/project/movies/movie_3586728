@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_46447e7d-73fc-5ea3-93f1-c083886c1f0d",
+    "clientContentId": "PACK0000000009908746",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Chaos Walking (2021)",
+            "may": "Chaos Walking (2021)",
+            "tam": "Chaos Walking (2021)",
+            "chi": "Chaos Walking (2021)",
+            "tha": "Chaos Walking (2021)",
+            "ind": "Chaos Walking (2021)"
+        },
+        "long": {
+            "eng": "Chaos Walking (2021)",
+            "may": "Chaos Walking (2021)",
+            "tam": "Chaos Walking (2021)",
+            "chi": "Chaos Walking (2021)",
+            "tha": "Chaos Walking (2021)",
+            "ind": "Chaos Walking (2021)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality where all thoughts are seen and heard by everyone.",
+            "may": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality where all thoughts are seen and heard by everyone.",
+            "tam": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality where all thoughts are seen and heard by everyone.",
+            "chi": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality where all thoughts are seen and heard by everyone.",
+            "tha": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality where all thoughts are seen and heard by everyone.",
+            "ind": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality where all thoughts are seen and heard by everyone."
+        },
+        "long": {
+            "eng": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality where all thoughts are seen and heard by everyone.",
+            "may": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality where all thoughts are seen and heard by everyone.",
+            "tam": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality where all thoughts are seen and heard by everyone.",
+            "chi": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality where all thoughts are seen and heard by everyone.",
+            "tha": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality where all thoughts are seen and heard by everyone.",
+            "ind": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality where all thoughts are seen and heard by everyone."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Tom Holland",
+            " Daisy Ridley",
+            " Demi\u00e1n Bichir",
+            " David Oyelowo",
+            " Kurt Sutter",
+            " Cynthia Erivo",
+            " Bethany Anne Lind",
+            " Mads Mikkelsen",
+            " Nick Jonas",
+            " Ray McKinnon"
+        ],
+        "may": [
+            "Tom Holland",
+            " Daisy Ridley",
+            " Demi\u00e1n Bichir",
+            " David Oyelowo",
+            " Kurt Sutter",
+            " Cynthia Erivo",
+            " Bethany Anne Lind",
+            " Mads Mikkelsen",
+            " Nick Jonas",
+            " Ray McKinnon"
+        ],
+        "tam": [
+            "Tom Holland",
+            " Daisy Ridley",
+            " Demi\u00e1n Bichir",
+            " David Oyelowo",
+            " Kurt Sutter",
+            " Cynthia Erivo",
+            " Bethany Anne Lind",
+            " Mads Mikkelsen",
+            " Nick Jonas",
+            " Ray McKinnon"
+        ],
+        "chi": [
+            "Tom Holland",
+            " Daisy Ridley",
+            " Demi\u00e1n Bichir",
+            " David Oyelowo",
+            " Kurt Sutter",
+            " Cynthia Erivo",
+            " Bethany Anne Lind",
+            " Mads Mikkelsen",
+            " Nick Jonas",
+            " Ray McKinnon"
+        ],
+        "tha": [
+            "Tom Holland",
+            " Daisy Ridley",
+            " Demi\u00e1n Bichir",
+            " David Oyelowo",
+            " Kurt Sutter",
+            " Cynthia Erivo",
+            " Bethany Anne Lind",
+            " Mads Mikkelsen",
+            " Nick Jonas",
+            " Ray McKinnon"
+        ],
+        "ind": [
+            "Tom Holland",
+            " Daisy Ridley",
+            " Demi\u00e1n Bichir",
+            " David Oyelowo",
+            " Kurt Sutter",
+            " Cynthia Erivo",
+            " Bethany Anne Lind",
+            " Mads Mikkelsen",
+            " Nick Jonas",
+            " Ray McKinnon"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Doug Liman"
+        ],
+        "may": [
+            "Doug Liman"
+        ],
+        "tam": [
+            "Doug Liman"
+        ],
+        "chi": [
+            "Doug Liman"
+        ],
+        "tha": [
+            "Doug Liman"
+        ],
+        "ind": [
+            "Doug Liman"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ray Angelic",
+            " Iron Chen",
+            " Jason Cloth",
+            " Doug Davison",
+            " Erik Feig",
+            " Matthew Hirsch",
+            " Paris Kassidokostas-Latsis",
+            " Allison Shearmur",
+            " Sheng Shen",
+            " Erwin Stoff"
+        ],
+        "may": [
+            "Ray Angelic",
+            " Iron Chen",
+            " Jason Cloth",
+            " Doug Davison",
+            " Erik Feig",
+            " Matthew Hirsch",
+            " Paris Kassidokostas-Latsis",
+            " Allison Shearmur",
+            " Sheng Shen",
+            " Erwin Stoff"
+        ],
+        "tam": [
+            "Ray Angelic",
+            " Iron Chen",
+            " Jason Cloth",
+            " Doug Davison",
+            " Erik Feig",
+            " Matthew Hirsch",
+            " Paris Kassidokostas-Latsis",
+            " Allison Shearmur",
+            " Sheng Shen",
+            " Erwin Stoff"
+        ],
+        "chi": [
+            "Ray Angelic",
+            " Iron Chen",
+            " Jason Cloth",
+            " Doug Davison",
+            " Erik Feig",
+            " Matthew Hirsch",
+            " Paris Kassidokostas-Latsis",
+            " Allison Shearmur",
+            " Sheng Shen",
+            " Erwin Stoff"
+        ],
+        "tha": [
+            "Ray Angelic",
+            " Iron Chen",
+            " Jason Cloth",
+            " Doug Davison",
+            " Erik Feig",
+            " Matthew Hirsch",
+            " Paris Kassidokostas-Latsis",
+            " Allison Shearmur",
+            " Sheng Shen",
+            " Erwin Stoff"
+        ],
+        "ind": [
+            "Ray Angelic",
+            " Iron Chen",
+            " Jason Cloth",
+            " Doug Davison",
+            " Erik Feig",
+            " Matthew Hirsch",
+            " Paris Kassidokostas-Latsis",
+            " Allison Shearmur",
+            " Sheng Shen",
+            " Erwin Stoff"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ChaosWalking_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ChaosWalking_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ChaosWalking_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2021,
+    "rating": "5.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

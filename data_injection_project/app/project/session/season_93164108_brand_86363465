@@ -1,0 +1,329 @@
+{
+    "externalId": "AggregatedSeason_11b58027-385e-5450-aca9-0b53b2ed8a1e",
+    "clientContentId": "PACK0000000002185403",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2023,
+    "rating": "18",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Aaron Hilmer",
+            " Jeanette Hain",
+            " Henning Fl\u00fcsloh",
+            " Lena Urzendowsky",
+            " Karsten Antonio Mielke",
+            " Stefan Konarske",
+            " Stephan Kampwirth",
+            " Ada Philine Stappenbeck",
+            " Nicki von Tempelhoff",
+            " Tim Wilde"
+        ],
+        "may": [
+            "Aaron Hilmer",
+            " Jeanette Hain",
+            " Henning Fl\u00fcsloh",
+            " Lena Urzendowsky",
+            " Karsten Antonio Mielke",
+            " Stefan Konarske",
+            " Stephan Kampwirth",
+            " Ada Philine Stappenbeck",
+            " Nicki von Tempelhoff",
+            " Tim Wilde"
+        ],
+        "chi": [
+            "Aaron Hilmer",
+            " Jeanette Hain",
+            " Henning Fl\u00fcsloh",
+            " Lena Urzendowsky",
+            " Karsten Antonio Mielke",
+            " Stefan Konarske",
+            " Stephan Kampwirth",
+            " Ada Philine Stappenbeck",
+            " Nicki von Tempelhoff",
+            " Tim Wilde"
+        ],
+        "tam": [
+            "Aaron Hilmer",
+            " Jeanette Hain",
+            " Henning Fl\u00fcsloh",
+            " Lena Urzendowsky",
+            " Karsten Antonio Mielke",
+            " Stefan Konarske",
+            " Stephan Kampwirth",
+            " Ada Philine Stappenbeck",
+            " Nicki von Tempelhoff",
+            " Tim Wilde"
+        ],
+        "ind": [
+            "Aaron Hilmer",
+            " Jeanette Hain",
+            " Henning Fl\u00fcsloh",
+            " Lena Urzendowsky",
+            " Karsten Antonio Mielke",
+            " Stefan Konarske",
+            " Stephan Kampwirth",
+            " Ada Philine Stappenbeck",
+            " Nicki von Tempelhoff",
+            " Tim Wilde"
+        ],
+        "tha": [
+            "Aaron Hilmer",
+            " Jeanette Hain",
+            " Henning Fl\u00fcsloh",
+            " Lena Urzendowsky",
+            " Karsten Antonio Mielke",
+            " Stefan Konarske",
+            " Stephan Kampwirth",
+            " Ada Philine Stappenbeck",
+            " Nicki von Tempelhoff",
+            " Tim Wilde"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Laura Lackmann",
+            " Stefan A. Lukacs"
+        ],
+        "may": [
+            "Laura Lackmann",
+            " Stefan A. Lukacs"
+        ],
+        "chi": [
+            "Laura Lackmann",
+            " Stefan A. Lukacs"
+        ],
+        "tam": [
+            "Laura Lackmann",
+            " Stefan A. Lukacs"
+        ],
+        "ind": [
+            "Laura Lackmann",
+            " Stefan A. Lukacs"
+        ],
+        "tha": [
+            "Laura Lackmann",
+            " Stefan A. Lukacs"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Simon Amberger",
+            " Angelina Auer",
+            " Korbinian Dufter",
+            " Julia Nisslein",
+            " Rafael Parente",
+            " Dorian Roth",
+            " Nina Rothermund",
+            " Marius Ehlayil",
+            " Patrick Wosien",
+            " "
+        ],
+        "may": [
+            "Simon Amberger",
+            " Angelina Auer",
+            " Korbinian Dufter",
+            " Julia Nisslein",
+            " Rafael Parente",
+            " Dorian Roth",
+            " Nina Rothermund",
+            " Marius Ehlayil",
+            " Patrick Wosien",
+            " "
+        ],
+        "chi": [
+            "Simon Amberger",
+            " Angelina Auer",
+            " Korbinian Dufter",
+            " Julia Nisslein",
+            " Rafael Parente",
+            " Dorian Roth",
+            " Nina Rothermund",
+            " Marius Ehlayil",
+            " Patrick Wosien",
+            " "
+        ],
+        "tam": [
+            "Simon Amberger",
+            " Angelina Auer",
+            " Korbinian Dufter",
+            " Julia Nisslein",
+            " Rafael Parente",
+            " Dorian Roth",
+            " Nina Rothermund",
+            " Marius Ehlayil",
+            " Patrick Wosien",
+            " "
+        ],
+        "ind": [
+            "Simon Amberger",
+            " Angelina Auer",
+            " Korbinian Dufter",
+            " Julia Nisslein",
+            " Rafael Parente",
+            " Dorian Roth",
+            " Nina Rothermund",
+            " Marius Ehlayil",
+            " Patrick Wosien",
+            " "
+        ],
+        "tha": [
+            "Simon Amberger",
+            " Angelina Auer",
+            " Korbinian Dufter",
+            " Julia Nisslein",
+            " Rafael Parente",
+            " Dorian Roth",
+            " Nina Rothermund",
+            " Marius Ehlayil",
+            " Patrick Wosien",
+            " "
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_7995ddff-87e0-5a4e-9e6f-cad5a140dcdc",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Pimp No Fing Fairytale S01 E01",
+            "may": "The Pimp No Fing Fairytale S01 E01",
+            "chi": "The Pimp No Fing Fairytale S01 E01",
+            "tam": "The Pimp No Fing Fairytale S01 E01",
+            "ind": "The Pimp No Fing Fairytale S01 E01",
+            "tha": "The Pimp No Fing Fairytale S01 E01"
+        },
+        "long": {
+            "eng": "The Pimp No Fing Fairytale S01 E01",
+            "may": "The Pimp No Fing Fairytale S01 E01",
+            "chi": "The Pimp No Fing Fairytale S01 E01",
+            "tam": "The Pimp No Fing Fairytale S01 E01",
+            "ind": "The Pimp No Fing Fairytale S01 E01",
+            "tha": "The Pimp No Fing Fairytale S01 E01"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "may": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "chi": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "tam": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "ind": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "tha": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH."
+        },
+        "long": {
+            "eng": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "may": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "chi": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "tam": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "ind": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "tha": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePimpNoFingFairytaleS01E01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePimpNoFingFairytaleS01E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePimpNoFingFairytaleS01E01_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

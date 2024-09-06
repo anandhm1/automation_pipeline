@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_02e25352-2a1c-5d0c-b760-3cebba2dad52",
+    "clientContentId": "PACK0000000002232725",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Down A Dark Hall (2018)",
+            "may": "Down A Dark Hall (2018)",
+            "tam": "Down A Dark Hall (2018)",
+            "chi": "Down A Dark Hall (2018)",
+            "tha": "Down A Dark Hall (2018)",
+            "ind": "Down A Dark Hall (2018)"
+        },
+        "long": {
+            "eng": "Down A Dark Hall (2018)",
+            "may": "Down A Dark Hall (2018)",
+            "tam": "Down A Dark Hall (2018)",
+            "chi": "Down A Dark Hall (2018)",
+            "tha": "Down A Dark Hall (2018)",
+            "ind": "Down A Dark Hall (2018)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A troubled teen named Kit Gordy is forced to join the exclusive Blackwood Boarding School, just to find herself trapped by dark forces around its mysterious headmistress, Madame Duret.",
+            "may": "A troubled teen named Kit Gordy is forced to join the exclusive Blackwood Boarding School, just to find herself trapped by dark forces around its mysterious headmistress, Madame Duret.",
+            "tam": "A troubled teen named Kit Gordy is forced to join the exclusive Blackwood Boarding School, just to find herself trapped by dark forces around its mysterious headmistress, Madame Duret.",
+            "chi": "A troubled teen named Kit Gordy is forced to join the exclusive Blackwood Boarding School, just to find herself trapped by dark forces around its mysterious headmistress, Madame Duret.",
+            "tha": "A troubled teen named Kit Gordy is forced to join the exclusive Blackwood Boarding School, just to find herself trapped by dark forces around its mysterious headmistress, Madame Duret.",
+            "ind": "A troubled teen named Kit Gordy is forced to join the exclusive Blackwood Boarding School, just to find herself trapped by dark forces around its mysterious headmistress, Madame Duret."
+        },
+        "long": {
+            "eng": "A troubled teen named Kit Gordy is forced to join the exclusive Blackwood Boarding School, just to find herself trapped by dark forces around its mysterious headmistress, Madame Duret.",
+            "may": "A troubled teen named Kit Gordy is forced to join the exclusive Blackwood Boarding School, just to find herself trapped by dark forces around its mysterious headmistress, Madame Duret.",
+            "tam": "A troubled teen named Kit Gordy is forced to join the exclusive Blackwood Boarding School, just to find herself trapped by dark forces around its mysterious headmistress, Madame Duret.",
+            "chi": "A troubled teen named Kit Gordy is forced to join the exclusive Blackwood Boarding School, just to find herself trapped by dark forces around its mysterious headmistress, Madame Duret.",
+            "tha": "A troubled teen named Kit Gordy is forced to join the exclusive Blackwood Boarding School, just to find herself trapped by dark forces around its mysterious headmistress, Madame Duret.",
+            "ind": "A troubled teen named Kit Gordy is forced to join the exclusive Blackwood Boarding School, just to find herself trapped by dark forces around its mysterious headmistress, Madame Duret."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "AnnaSophia Robb",
+            " Uma Thurman",
+            " Isabelle Fuhrman",
+            " Victoria Moroles",
+            " Noah Silver",
+            " Taylor Russell",
+            " Rosie Day",
+            " Rebecca Front",
+            " Jodhi May",
+            " Pip Torrens"
+        ],
+        "may": [
+            "AnnaSophia Robb",
+            " Uma Thurman",
+            " Isabelle Fuhrman",
+            " Victoria Moroles",
+            " Noah Silver",
+            " Taylor Russell",
+            " Rosie Day",
+            " Rebecca Front",
+            " Jodhi May",
+            " Pip Torrens"
+        ],
+        "tam": [
+            "AnnaSophia Robb",
+            " Uma Thurman",
+            " Isabelle Fuhrman",
+            " Victoria Moroles",
+            " Noah Silver",
+            " Taylor Russell",
+            " Rosie Day",
+            " Rebecca Front",
+            " Jodhi May",
+            " Pip Torrens"
+        ],
+        "chi": [
+            "AnnaSophia Robb",
+            " Uma Thurman",
+            " Isabelle Fuhrman",
+            " Victoria Moroles",
+            " Noah Silver",
+            " Taylor Russell",
+            " Rosie Day",
+            " Rebecca Front",
+            " Jodhi May",
+            " Pip Torrens"
+        ],
+        "tha": [
+            "AnnaSophia Robb",
+            " Uma Thurman",
+            " Isabelle Fuhrman",
+            " Victoria Moroles",
+            " Noah Silver",
+            " Taylor Russell",
+            " Rosie Day",
+            " Rebecca Front",
+            " Jodhi May",
+            " Pip Torrens"
+        ],
+        "ind": [
+            "AnnaSophia Robb",
+            " Uma Thurman",
+            " Isabelle Fuhrman",
+            " Victoria Moroles",
+            " Noah Silver",
+            " Taylor Russell",
+            " Rosie Day",
+            " Rebecca Front",
+            " Jodhi May",
+            " Pip Torrens"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Rodrigo Cort\u00e9s"
+        ],
+        "may": [
+            "Rodrigo Cort\u00e9s"
+        ],
+        "tam": [
+            "Rodrigo Cort\u00e9s"
+        ],
+        "chi": [
+            "Rodrigo Cort\u00e9s"
+        ],
+        "tha": [
+            "Rodrigo Cort\u00e9s"
+        ],
+        "ind": [
+            "Rodrigo Cort\u00e9s"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Marty Bowen",
+            " Wyck Godfrey",
+            " Adri\u00e1n Guerra",
+            " Meghan Hibbett",
+            " Isaac Klausner",
+            " Stephenie Meyer",
+            " Nicol\u00e1s Tapia",
+            " Jes\u00fas Ulled Nadal",
+            " N\u00faria Valls",
+            " "
+        ],
+        "may": [
+            "Marty Bowen",
+            " Wyck Godfrey",
+            " Adri\u00e1n Guerra",
+            " Meghan Hibbett",
+            " Isaac Klausner",
+            " Stephenie Meyer",
+            " Nicol\u00e1s Tapia",
+            " Jes\u00fas Ulled Nadal",
+            " N\u00faria Valls",
+            " "
+        ],
+        "tam": [
+            "Marty Bowen",
+            " Wyck Godfrey",
+            " Adri\u00e1n Guerra",
+            " Meghan Hibbett",
+            " Isaac Klausner",
+            " Stephenie Meyer",
+            " Nicol\u00e1s Tapia",
+            " Jes\u00fas Ulled Nadal",
+            " N\u00faria Valls",
+            " "
+        ],
+        "chi": [
+            "Marty Bowen",
+            " Wyck Godfrey",
+            " Adri\u00e1n Guerra",
+            " Meghan Hibbett",
+            " Isaac Klausner",
+            " Stephenie Meyer",
+            " Nicol\u00e1s Tapia",
+            " Jes\u00fas Ulled Nadal",
+            " N\u00faria Valls",
+            " "
+        ],
+        "tha": [
+            "Marty Bowen",
+            " Wyck Godfrey",
+            " Adri\u00e1n Guerra",
+            " Meghan Hibbett",
+            " Isaac Klausner",
+            " Stephenie Meyer",
+            " Nicol\u00e1s Tapia",
+            " Jes\u00fas Ulled Nadal",
+            " N\u00faria Valls",
+            " "
+        ],
+        "ind": [
+            "Marty Bowen",
+            " Wyck Godfrey",
+            " Adri\u00e1n Guerra",
+            " Meghan Hibbett",
+            " Isaac Klausner",
+            " Stephenie Meyer",
+            " Nicol\u00e1s Tapia",
+            " Jes\u00fas Ulled Nadal",
+            " N\u00faria Valls",
+            " "
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Fantasy",
+                    "may": " Fantasy",
+                    "tam": " Fantasy",
+                    "chi": " Fantasy",
+                    "tha": " Fantasy",
+                    "ind": " Fantasy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/DownADarkHall_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/DownADarkHall_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/DownADarkHall_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2018,
+    "rating": "5.0",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

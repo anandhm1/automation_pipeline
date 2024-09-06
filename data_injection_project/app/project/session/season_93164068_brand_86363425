@@ -1,0 +1,377 @@
+{
+    "externalId": "AggregatedSeason_cb3d1362-a46f-5ba2-a939-50a79c03ddbb",
+    "clientContentId": "PACK0000000008251938",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "chi": "Comedy",
+                    "tam": "Comedy",
+                    "ind": "Comedy",
+                    "tha": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "chi": " Crime",
+                    "tam": " Crime",
+                    "ind": " Crime",
+                    "tha": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2013,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Taylor Schilling",
+            " Kate Mulgrew",
+            " Uzo Aduba",
+            " Danielle Brooks",
+            " Dascha Polanco",
+            " Selenis Leyva",
+            " Nick Sandow",
+            " Yael Stone",
+            " Taryn Manning",
+            " Jackie Cruz"
+        ],
+        "may": [
+            "Taylor Schilling",
+            " Kate Mulgrew",
+            " Uzo Aduba",
+            " Danielle Brooks",
+            " Dascha Polanco",
+            " Selenis Leyva",
+            " Nick Sandow",
+            " Yael Stone",
+            " Taryn Manning",
+            " Jackie Cruz"
+        ],
+        "chi": [
+            "Taylor Schilling",
+            " Kate Mulgrew",
+            " Uzo Aduba",
+            " Danielle Brooks",
+            " Dascha Polanco",
+            " Selenis Leyva",
+            " Nick Sandow",
+            " Yael Stone",
+            " Taryn Manning",
+            " Jackie Cruz"
+        ],
+        "tam": [
+            "Taylor Schilling",
+            " Kate Mulgrew",
+            " Uzo Aduba",
+            " Danielle Brooks",
+            " Dascha Polanco",
+            " Selenis Leyva",
+            " Nick Sandow",
+            " Yael Stone",
+            " Taryn Manning",
+            " Jackie Cruz"
+        ],
+        "ind": [
+            "Taylor Schilling",
+            " Kate Mulgrew",
+            " Uzo Aduba",
+            " Danielle Brooks",
+            " Dascha Polanco",
+            " Selenis Leyva",
+            " Nick Sandow",
+            " Yael Stone",
+            " Taryn Manning",
+            " Jackie Cruz"
+        ],
+        "tha": [
+            "Taylor Schilling",
+            " Kate Mulgrew",
+            " Uzo Aduba",
+            " Danielle Brooks",
+            " Dascha Polanco",
+            " Selenis Leyva",
+            " Nick Sandow",
+            " Yael Stone",
+            " Taryn Manning",
+            " Jackie Cruz"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Andrew McCarthy",
+            " Phil Abraham",
+            " Michael Trim",
+            " Constantine Makris",
+            " Mark A. Burley",
+            " Nick Sandow",
+            " Uta Briesewitz",
+            " Erin Feeley",
+            " Laura Prepon",
+            " Jodie Foster"
+        ],
+        "may": [
+            "Andrew McCarthy",
+            " Phil Abraham",
+            " Michael Trim",
+            " Constantine Makris",
+            " Mark A. Burley",
+            " Nick Sandow",
+            " Uta Briesewitz",
+            " Erin Feeley",
+            " Laura Prepon",
+            " Jodie Foster"
+        ],
+        "chi": [
+            "Andrew McCarthy",
+            " Phil Abraham",
+            " Michael Trim",
+            " Constantine Makris",
+            " Mark A. Burley",
+            " Nick Sandow",
+            " Uta Briesewitz",
+            " Erin Feeley",
+            " Laura Prepon",
+            " Jodie Foster"
+        ],
+        "tam": [
+            "Andrew McCarthy",
+            " Phil Abraham",
+            " Michael Trim",
+            " Constantine Makris",
+            " Mark A. Burley",
+            " Nick Sandow",
+            " Uta Briesewitz",
+            " Erin Feeley",
+            " Laura Prepon",
+            " Jodie Foster"
+        ],
+        "ind": [
+            "Andrew McCarthy",
+            " Phil Abraham",
+            " Michael Trim",
+            " Constantine Makris",
+            " Mark A. Burley",
+            " Nick Sandow",
+            " Uta Briesewitz",
+            " Erin Feeley",
+            " Laura Prepon",
+            " Jodie Foster"
+        ],
+        "tha": [
+            "Andrew McCarthy",
+            " Phil Abraham",
+            " Michael Trim",
+            " Constantine Makris",
+            " Mark A. Burley",
+            " Nick Sandow",
+            " Uta Briesewitz",
+            " Erin Feeley",
+            " Laura Prepon",
+            " Jodie Foster"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Mark A. Burley",
+            " Tara Herrmann",
+            " Jenji Kohan",
+            " Neri Kyle Tannenbaum",
+            " Lisa Vinnecour",
+            " Arturo Guzman",
+            " Sara Hess",
+            " David Price",
+            " Aimee Roth",
+            " Lauren Morelli"
+        ],
+        "may": [
+            "Mark A. Burley",
+            " Tara Herrmann",
+            " Jenji Kohan",
+            " Neri Kyle Tannenbaum",
+            " Lisa Vinnecour",
+            " Arturo Guzman",
+            " Sara Hess",
+            " David Price",
+            " Aimee Roth",
+            " Lauren Morelli"
+        ],
+        "chi": [
+            "Mark A. Burley",
+            " Tara Herrmann",
+            " Jenji Kohan",
+            " Neri Kyle Tannenbaum",
+            " Lisa Vinnecour",
+            " Arturo Guzman",
+            " Sara Hess",
+            " David Price",
+            " Aimee Roth",
+            " Lauren Morelli"
+        ],
+        "tam": [
+            "Mark A. Burley",
+            " Tara Herrmann",
+            " Jenji Kohan",
+            " Neri Kyle Tannenbaum",
+            " Lisa Vinnecour",
+            " Arturo Guzman",
+            " Sara Hess",
+            " David Price",
+            " Aimee Roth",
+            " Lauren Morelli"
+        ],
+        "ind": [
+            "Mark A. Burley",
+            " Tara Herrmann",
+            " Jenji Kohan",
+            " Neri Kyle Tannenbaum",
+            " Lisa Vinnecour",
+            " Arturo Guzman",
+            " Sara Hess",
+            " David Price",
+            " Aimee Roth",
+            " Lauren Morelli"
+        ],
+        "tha": [
+            "Mark A. Burley",
+            " Tara Herrmann",
+            " Jenji Kohan",
+            " Neri Kyle Tannenbaum",
+            " Lisa Vinnecour",
+            " Arturo Guzman",
+            " Sara Hess",
+            " David Price",
+            " Aimee Roth",
+            " Lauren Morelli"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_0ff01f93-9703-55e6-aa6b-ed50e25784e2",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Orange Is the New Black Season 1",
+            "may": "Orange Is the New Black Season 1",
+            "chi": "Orange Is the New Black Season 1",
+            "tam": "Orange Is the New Black Season 1",
+            "ind": "Orange Is the New Black Season 1",
+            "tha": "Orange Is the New Black Season 1"
+        },
+        "long": {
+            "eng": "Orange Is the New Black Season 1",
+            "may": "Orange Is the New Black Season 1",
+            "chi": "Orange Is the New Black Season 1",
+            "tam": "Orange Is the New Black Season 1",
+            "ind": "Orange Is the New Black Season 1",
+            "tha": "Orange Is the New Black Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "may": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "chi": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "tam": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "ind": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "tha": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be."
+        },
+        "long": {
+            "eng": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "may": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "chi": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "tam": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "ind": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "tha": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/OrangeIstheNewBlackSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/OrangeIstheNewBlackSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/OrangeIstheNewBlackSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

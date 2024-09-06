@@ -1,0 +1,377 @@
+{
+    "externalId": "AggregatedSeason_7916a329-35d9-5d1b-b9d9-a8fdff49cfb4",
+    "clientContentId": "PACK0000000004047742",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "chi": "Action",
+                    "tam": "Action",
+                    "ind": "Action",
+                    "tha": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2018,
+    "rating": "TV-PG",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Molly Parker",
+            " Toby Stephens",
+            " Maxwell Jenkins",
+            " Taylor Russell",
+            " Mina Sundwall",
+            " Ignacio Serricchio",
+            " Parker Posey",
+            " Brian Steele",
+            " Ajay Friese",
+            " Raza Jaffrey"
+        ],
+        "may": [
+            "Molly Parker",
+            " Toby Stephens",
+            " Maxwell Jenkins",
+            " Taylor Russell",
+            " Mina Sundwall",
+            " Ignacio Serricchio",
+            " Parker Posey",
+            " Brian Steele",
+            " Ajay Friese",
+            " Raza Jaffrey"
+        ],
+        "chi": [
+            "Molly Parker",
+            " Toby Stephens",
+            " Maxwell Jenkins",
+            " Taylor Russell",
+            " Mina Sundwall",
+            " Ignacio Serricchio",
+            " Parker Posey",
+            " Brian Steele",
+            " Ajay Friese",
+            " Raza Jaffrey"
+        ],
+        "tam": [
+            "Molly Parker",
+            " Toby Stephens",
+            " Maxwell Jenkins",
+            " Taylor Russell",
+            " Mina Sundwall",
+            " Ignacio Serricchio",
+            " Parker Posey",
+            " Brian Steele",
+            " Ajay Friese",
+            " Raza Jaffrey"
+        ],
+        "ind": [
+            "Molly Parker",
+            " Toby Stephens",
+            " Maxwell Jenkins",
+            " Taylor Russell",
+            " Mina Sundwall",
+            " Ignacio Serricchio",
+            " Parker Posey",
+            " Brian Steele",
+            " Ajay Friese",
+            " Raza Jaffrey"
+        ],
+        "tha": [
+            "Molly Parker",
+            " Toby Stephens",
+            " Maxwell Jenkins",
+            " Taylor Russell",
+            " Mina Sundwall",
+            " Ignacio Serricchio",
+            " Parker Posey",
+            " Brian Steele",
+            " Ajay Friese",
+            " Raza Jaffrey"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Tim Southam",
+            " Stephen Surjik",
+            " Leslie Hope",
+            " Alex Graves",
+            " Neil Marshall",
+            " Jabbar Raisani",
+            " Jon East",
+            " Julian Holmes",
+            " Deborah Chow",
+            " Vincenzo Natali"
+        ],
+        "may": [
+            "Tim Southam",
+            " Stephen Surjik",
+            " Leslie Hope",
+            " Alex Graves",
+            " Neil Marshall",
+            " Jabbar Raisani",
+            " Jon East",
+            " Julian Holmes",
+            " Deborah Chow",
+            " Vincenzo Natali"
+        ],
+        "chi": [
+            "Tim Southam",
+            " Stephen Surjik",
+            " Leslie Hope",
+            " Alex Graves",
+            " Neil Marshall",
+            " Jabbar Raisani",
+            " Jon East",
+            " Julian Holmes",
+            " Deborah Chow",
+            " Vincenzo Natali"
+        ],
+        "tam": [
+            "Tim Southam",
+            " Stephen Surjik",
+            " Leslie Hope",
+            " Alex Graves",
+            " Neil Marshall",
+            " Jabbar Raisani",
+            " Jon East",
+            " Julian Holmes",
+            " Deborah Chow",
+            " Vincenzo Natali"
+        ],
+        "ind": [
+            "Tim Southam",
+            " Stephen Surjik",
+            " Leslie Hope",
+            " Alex Graves",
+            " Neil Marshall",
+            " Jabbar Raisani",
+            " Jon East",
+            " Julian Holmes",
+            " Deborah Chow",
+            " Vincenzo Natali"
+        ],
+        "tha": [
+            "Tim Southam",
+            " Stephen Surjik",
+            " Leslie Hope",
+            " Alex Graves",
+            " Neil Marshall",
+            " Jabbar Raisani",
+            " Jon East",
+            " Julian Holmes",
+            " Deborah Chow",
+            " Vincenzo Natali"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Zack Estrin",
+            " Jon Jashni",
+            " Matt Sazama",
+            " Scott Schofield",
+            " Burk Sharpless",
+            " Brad Van Arragon",
+            " Kevin Burns",
+            " Katherine Collins",
+            " Kari Drake",
+            " Marc Helwig"
+        ],
+        "may": [
+            "Zack Estrin",
+            " Jon Jashni",
+            " Matt Sazama",
+            " Scott Schofield",
+            " Burk Sharpless",
+            " Brad Van Arragon",
+            " Kevin Burns",
+            " Katherine Collins",
+            " Kari Drake",
+            " Marc Helwig"
+        ],
+        "chi": [
+            "Zack Estrin",
+            " Jon Jashni",
+            " Matt Sazama",
+            " Scott Schofield",
+            " Burk Sharpless",
+            " Brad Van Arragon",
+            " Kevin Burns",
+            " Katherine Collins",
+            " Kari Drake",
+            " Marc Helwig"
+        ],
+        "tam": [
+            "Zack Estrin",
+            " Jon Jashni",
+            " Matt Sazama",
+            " Scott Schofield",
+            " Burk Sharpless",
+            " Brad Van Arragon",
+            " Kevin Burns",
+            " Katherine Collins",
+            " Kari Drake",
+            " Marc Helwig"
+        ],
+        "ind": [
+            "Zack Estrin",
+            " Jon Jashni",
+            " Matt Sazama",
+            " Scott Schofield",
+            " Burk Sharpless",
+            " Brad Van Arragon",
+            " Kevin Burns",
+            " Katherine Collins",
+            " Kari Drake",
+            " Marc Helwig"
+        ],
+        "tha": [
+            "Zack Estrin",
+            " Jon Jashni",
+            " Matt Sazama",
+            " Scott Schofield",
+            " Burk Sharpless",
+            " Brad Van Arragon",
+            " Kevin Burns",
+            " Katherine Collins",
+            " Kari Drake",
+            " Marc Helwig"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_16da0757-0bdc-553a-8ceb-bd23358d95ba",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Lost in Space Season 1",
+            "may": "Lost in Space Season 1",
+            "chi": "Lost in Space Season 1",
+            "tam": "Lost in Space Season 1",
+            "ind": "Lost in Space Season 1",
+            "tha": "Lost in Space Season 1"
+        },
+        "long": {
+            "eng": "Lost in Space Season 1",
+            "may": "Lost in Space Season 1",
+            "chi": "Lost in Space Season 1",
+            "tam": "Lost in Space Season 1",
+            "ind": "Lost in Space Season 1",
+            "tha": "Lost in Space Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "may": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "chi": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "tam": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "ind": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "tha": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers."
+        },
+        "long": {
+            "eng": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "may": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "chi": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "tam": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "ind": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "tha": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LostinSpaceSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LostinSpaceSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LostinSpaceSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

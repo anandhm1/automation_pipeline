@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedSeries_ce57d1e5-2164-5c87-a97e-46e35e76b099",
+    "clientContentId": "PACK0000000003430270",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Wu Assassins",
+            "may": "Wu Assassins",
+            "tam": "Wu Assassins",
+            "chi": "Wu Assassins",
+            "tha": "Wu Assassins",
+            "ind": "Wu Assassins"
+        },
+        "long": {
+            "eng": "Wu Assassins",
+            "may": "Wu Assassins",
+            "tam": "Wu Assassins",
+            "chi": "Wu Assassins",
+            "tha": "Wu Assassins",
+            "ind": "Wu Assassins"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A warrior chosen as the latest and last Wu Assassin must search for the powers of an ancient triad and restore balance in San Francisco's Chinatown.",
+            "may": "A warrior chosen as the latest and last Wu Assassin must search for the powers of an ancient triad and restore balance in San Francisco's Chinatown.",
+            "tam": "A warrior chosen as the latest and last Wu Assassin must search for the powers of an ancient triad and restore balance in San Francisco's Chinatown.",
+            "chi": "A warrior chosen as the latest and last Wu Assassin must search for the powers of an ancient triad and restore balance in San Francisco's Chinatown.",
+            "tha": "A warrior chosen as the latest and last Wu Assassin must search for the powers of an ancient triad and restore balance in San Francisco's Chinatown.",
+            "ind": "A warrior chosen as the latest and last Wu Assassin must search for the powers of an ancient triad and restore balance in San Francisco's Chinatown."
+        },
+        "long": {
+            "eng": "A warrior chosen as the latest and last Wu Assassin must search for the powers of an ancient triad and restore balance in San Francisco's Chinatown.",
+            "may": "A warrior chosen as the latest and last Wu Assassin must search for the powers of an ancient triad and restore balance in San Francisco's Chinatown.",
+            "tam": "A warrior chosen as the latest and last Wu Assassin must search for the powers of an ancient triad and restore balance in San Francisco's Chinatown.",
+            "chi": "A warrior chosen as the latest and last Wu Assassin must search for the powers of an ancient triad and restore balance in San Francisco's Chinatown.",
+            "tha": "A warrior chosen as the latest and last Wu Assassin must search for the powers of an ancient triad and restore balance in San Francisco's Chinatown.",
+            "ind": "A warrior chosen as the latest and last Wu Assassin must search for the powers of an ancient triad and restore balance in San Francisco's Chinatown."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Iko Uwais",
+            " Byron Mann",
+            " Li Jun Li",
+            " Lawrence Kao",
+            " Katheryn Winnick",
+            " JuJu Chan Szeto",
+            " Lewis Tan",
+            " Celia Au",
+            " Tommy Flanagan",
+            " Tzi Ma"
+        ],
+        "may": [
+            "Iko Uwais",
+            " Byron Mann",
+            " Li Jun Li",
+            " Lawrence Kao",
+            " Katheryn Winnick",
+            " JuJu Chan Szeto",
+            " Lewis Tan",
+            " Celia Au",
+            " Tommy Flanagan",
+            " Tzi Ma"
+        ],
+        "tam": [
+            "Iko Uwais",
+            " Byron Mann",
+            " Li Jun Li",
+            " Lawrence Kao",
+            " Katheryn Winnick",
+            " JuJu Chan Szeto",
+            " Lewis Tan",
+            " Celia Au",
+            " Tommy Flanagan",
+            " Tzi Ma"
+        ],
+        "chi": [
+            "Iko Uwais",
+            " Byron Mann",
+            " Li Jun Li",
+            " Lawrence Kao",
+            " Katheryn Winnick",
+            " JuJu Chan Szeto",
+            " Lewis Tan",
+            " Celia Au",
+            " Tommy Flanagan",
+            " Tzi Ma"
+        ],
+        "tha": [
+            "Iko Uwais",
+            " Byron Mann",
+            " Li Jun Li",
+            " Lawrence Kao",
+            " Katheryn Winnick",
+            " JuJu Chan Szeto",
+            " Lewis Tan",
+            " Celia Au",
+            " Tommy Flanagan",
+            " Tzi Ma"
+        ],
+        "ind": [
+            "Iko Uwais",
+            " Byron Mann",
+            " Li Jun Li",
+            " Lawrence Kao",
+            " Katheryn Winnick",
+            " JuJu Chan Szeto",
+            " Lewis Tan",
+            " Celia Au",
+            " Tommy Flanagan",
+            " Tzi Ma"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Toa Fraser",
+            " Stephen Fung",
+            " Michael Nankin",
+            " Roel Rein\u00e9",
+            " Tony Krantz",
+            " Katheryn Winnick"
+        ],
+        "may": [
+            "Toa Fraser",
+            " Stephen Fung",
+            " Michael Nankin",
+            " Roel Rein\u00e9",
+            " Tony Krantz",
+            " Katheryn Winnick"
+        ],
+        "tam": [
+            "Toa Fraser",
+            " Stephen Fung",
+            " Michael Nankin",
+            " Roel Rein\u00e9",
+            " Tony Krantz",
+            " Katheryn Winnick"
+        ],
+        "chi": [
+            "Toa Fraser",
+            " Stephen Fung",
+            " Michael Nankin",
+            " Roel Rein\u00e9",
+            " Tony Krantz",
+            " Katheryn Winnick"
+        ],
+        "tha": [
+            "Toa Fraser",
+            " Stephen Fung",
+            " Michael Nankin",
+            " Roel Rein\u00e9",
+            " Tony Krantz",
+            " Katheryn Winnick"
+        ],
+        "ind": [
+            "Toa Fraser",
+            " Stephen Fung",
+            " Michael Nankin",
+            " Roel Rein\u00e9",
+            " Tony Krantz",
+            " Katheryn Winnick"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jay Daniel Beechinor",
+            " Julie Benson",
+            " Shawna Benson",
+            " Morris Chapdelaine",
+            " Michael Frislev",
+            " Stephen Fung",
+            " Todd Giroux",
+            " Tony Krantz",
+            " Cameron Litvack",
+            " Chad Oakes"
+        ],
+        "may": [
+            "Jay Daniel Beechinor",
+            " Julie Benson",
+            " Shawna Benson",
+            " Morris Chapdelaine",
+            " Michael Frislev",
+            " Stephen Fung",
+            " Todd Giroux",
+            " Tony Krantz",
+            " Cameron Litvack",
+            " Chad Oakes"
+        ],
+        "tam": [
+            "Jay Daniel Beechinor",
+            " Julie Benson",
+            " Shawna Benson",
+            " Morris Chapdelaine",
+            " Michael Frislev",
+            " Stephen Fung",
+            " Todd Giroux",
+            " Tony Krantz",
+            " Cameron Litvack",
+            " Chad Oakes"
+        ],
+        "chi": [
+            "Jay Daniel Beechinor",
+            " Julie Benson",
+            " Shawna Benson",
+            " Morris Chapdelaine",
+            " Michael Frislev",
+            " Stephen Fung",
+            " Todd Giroux",
+            " Tony Krantz",
+            " Cameron Litvack",
+            " Chad Oakes"
+        ],
+        "tha": [
+            "Jay Daniel Beechinor",
+            " Julie Benson",
+            " Shawna Benson",
+            " Morris Chapdelaine",
+            " Michael Frislev",
+            " Stephen Fung",
+            " Todd Giroux",
+            " Tony Krantz",
+            " Cameron Litvack",
+            " Chad Oakes"
+        ],
+        "ind": [
+            "Jay Daniel Beechinor",
+            " Julie Benson",
+            " Shawna Benson",
+            " Morris Chapdelaine",
+            " Michael Frislev",
+            " Stephen Fung",
+            " Todd Giroux",
+            " Tony Krantz",
+            " Cameron Litvack",
+            " Chad Oakes"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/WuAssassinsSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/WuAssassinsSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/WuAssassinsSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "6",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2019,
+    "maxConcurrentStreams": 0
+}

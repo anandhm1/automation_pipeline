@@ -1,0 +1,205 @@
+{
+    "externalId": "AggregatedSeries_47652aa0-a2db-436d-866c-856d75e8cdrt",
+    "clientContentId": "PACK0000000001012120",
+    "provider": null,
+    "title": {
+      "short": {
+        "eng": "Ely Test - FREE Open Series 3 (PCT=FREE)",
+        "may": "Ely Test - FREE Open Series 3 (PCT=FREE)",
+        "tam": "Ely Test - FREE Open Series 3 (PCT=FREE)",
+        "chi": "Ely Test - FREE Open Series 3 (PCT=FREE)",
+        "tha": "Ely Test - FREE Open Series 3 (PCT=FREE)",
+        "ind": "Ely Test - FREE Open Series 3 (PCT=FREE)"
+      },
+      "long": {
+        "eng": "Ely Test - FREE Open Series 3 (PCT=FREE)",
+        "may": "Ely Test - FREE Open Series 3 (PCT=FREE)",
+        "tam": "Ely Test - FREE Open Series 3 (PCT=FREE)",
+        "chi": "Ely Test - FREE Open Series 3 (PCT=FREE)",
+        "tha": "Ely Test - FREE Open Series 3 (PCT=FREE)",
+        "ind": "Ely Test - FREE Open Series 3 (PCT=FREE)"
+      }
+    },
+    "description": {
+      "short": {
+        "eng": "Ely Test - FREE Open Series 3 (PCT=FREE) - Offer Start=2023-05-01; Offer End = 2024-12-31 - Short Synopsis",
+        "may": "Ely Test - FREE Open Series 3 (PCT=FREE) - Offer Start=2023-05-01; Offer End = 2024-12-31 - Short Synopsis",
+        "tam": "Ely Test - FREE Open Series 3 (PCT=FREE) - Offer Start=2023-05-01; Offer End = 2024-12-31 - Short Synopsis",
+        "chi": "Ely Test - FREE Open Series 3 (PCT=FREE) - Offer Start=2023-05-01; Offer End = 2024-12-31 - Short Synopsis",
+        "tha": "Ely Test - FREE Open Series 3 (PCT=FREE) - Offer Start=2023-05-01; Offer End = 2024-12-31 - Short Synopsis",
+        "ind": "Ely Test - FREE Open Series 3 (PCT=FREE) - Offer Start=2023-05-01; Offer End = 2024-12-31 - Short Synopsis"
+      },
+      "long": {
+        "eng": "Ely Test - FREE Open Series 3 (PCT=FREE) - Offer Start=2023-05-01; Offer End = 2024-12-31 - Short Synopsis",
+        "may": "Ely Test - FREE Open Series 3 (PCT=FREE) - Offer Start=2023-05-01; Offer End = 2024-12-31 - Short Synopsis",
+        "tam": "Ely Test - FREE Open Series 3 (PCT=FREE) - Offer Start=2023-05-01; Offer End = 2024-12-31 - Short Synopsis",
+        "chi": "Ely Test - FREE Open Series 3 (PCT=FREE) - Offer Start=2023-05-01; Offer End = 2024-12-31 - Short Synopsis",
+        "tha": "Ely Test - FREE Open Series 3 (PCT=FREE) - Offer Start=2023-05-01; Offer End = 2024-12-31 - Short Synopsis",
+        "ind": "Ely Test - FREE Open Series 3 (PCT=FREE) - Offer Start=2023-05-01; Offer End = 2024-12-31 - Short Synopsis"
+      }
+    },
+    "offers": [
+      {
+        "contractType": "SVOD",
+        "offerStartDate": "2023-05-01T00:00:00Z",
+        "offerEndDate": "2033-12-31T00:00:00Z",
+        "offerRegion": "Malaysia",
+        "rentalExpiry": 2,
+        "entitlements": [
+          "dummy_entitlement1",
+          "dummy_entitlement2"
+        ],
+        "adsEnabled": false,
+        "adsType": {
+          "adsPreRoll": null,
+          "adsMidRoll": null,
+          "adsPostRoll": null
+        },
+        "adsSupplier": null,
+        "allowedOnApplicationDevices": {
+          "sooka": [
+            "Mobile",
+            "Web",
+            "SmartTV",
+            "Dongle"
+          ],
+          "astroGo": null
+        }
+      }
+    ],
+    "playUrls": [],
+    "actor": {
+      "eng": [
+        "Ely T"
+      ],
+      "may": [
+        "Ely T"
+      ],
+      "tam": [
+        "Ely T"
+      ],
+      "chi": [
+        "Ely T"
+      ],
+      "tha": [
+        "Ely T"
+      ],
+      "ind": [
+        "Ely T"
+      ],
+      "image": null
+    },
+    "director": {
+      "eng": [
+        "Tubigan"
+      ],
+      "may": [
+        "Tubigan"
+      ],
+      "tam": [
+        "Tubigan"
+      ],
+      "chi": [
+        "Tubigan"
+      ],
+      "tha": [
+        "Tubigan"
+      ],
+      "ind": [
+        "Tubigan"
+      ],
+      "image": null
+    },
+    "producer": {
+      "eng": [
+        "E. T."
+      ],
+      "may": [
+        "E. T."
+      ],
+      "tam": [
+        "E. T."
+      ],
+      "chi": [
+        "E. T."
+      ],
+      "tha": [
+        "E. T."
+      ],
+      "ind": [
+        "E. T."
+      ],
+      "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+      "eng": [
+        "ind"
+      ],
+      "may": [
+        "ind"
+      ],
+      "tam": [
+        "ind"
+      ],
+      "chi": [
+        "ind"
+      ],
+      "tha": [
+        "ind"
+      ],
+      "ind": [
+        "ind"
+      ]
+    },
+    "genre": {
+      "primary": [
+        {
+          "name": {
+            "eng": "TV Show",
+            "may": "TV Show",
+            "tam": "TV Show",
+            "chi": "TV Show",
+            "tha": "TV Show",
+            "ind": "TV Show"
+          },
+          "image": null
+        }
+      ],
+      "secondary": [
+        {
+          "name": {
+            "eng": "TV Shows (General)",
+            "may": "TV Shows (General)",
+            "tam": "TV Shows (General)",
+            "chi": "TV Shows (General)",
+            "tha": "TV Shows (General)",
+            "ind": "TV Shows (General)"
+          },
+          "image": null
+        }
+      ]
+    },
+    "images": [
+      {
+        "type": "boxcover",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/ams-astro-tvp-nonprod/staging/images/elytestOpenSeriesFreeEp01VipEntEp02Free.jpg"
+      },
+      {
+        "type": "poster",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/ams-astro-tvp-nonprod/staging/images/elytestOpenSeriesFreeEp01VipEntEp02Free.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/ams-astro-tvp-nonprod/staging/images/elytestOpenSeriesFreeEp01VipEntEp02Free.jpg"
+      }
+    ],
+    "boxsetIds": [],
+    "rating": "13",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2023,
+    "maxConcurrentStreams": 0
+  }

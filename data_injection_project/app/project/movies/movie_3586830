@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_ce37e2fc-750d-50bb-80c6-e7b30a11b82c",
+    "clientContentId": "PACK0000000002217840",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "AQUAMAN",
+            "may": "AQUAMAN",
+            "tam": "AQUAMAN",
+            "chi": "AQUAMAN",
+            "tha": "AQUAMAN",
+            "ind": "AQUAMAN"
+        },
+        "long": {
+            "eng": "AQUAMAN",
+            "may": "AQUAMAN",
+            "tam": "AQUAMAN",
+            "chi": "AQUAMAN",
+            "tha": "AQUAMAN",
+            "ind": "AQUAMAN"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+            "may": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+            "tam": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+            "chi": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+            "tha": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+            "ind": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land."
+        },
+        "long": {
+            "eng": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+            "may": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+            "tam": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+            "chi": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+            "tha": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+            "ind": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jason Momoa",
+            " Amber Heard",
+            " Willem Dafoe",
+            " Patrick Wilson",
+            " Nicole Kidman",
+            " Dolph Lundgren",
+            " Yahya Abdul-Mateen II",
+            " Temuera Morrison",
+            " Ludi Lin",
+            " Michael Beach"
+        ],
+        "may": [
+            "Jason Momoa",
+            " Amber Heard",
+            " Willem Dafoe",
+            " Patrick Wilson",
+            " Nicole Kidman",
+            " Dolph Lundgren",
+            " Yahya Abdul-Mateen II",
+            " Temuera Morrison",
+            " Ludi Lin",
+            " Michael Beach"
+        ],
+        "tam": [
+            "Jason Momoa",
+            " Amber Heard",
+            " Willem Dafoe",
+            " Patrick Wilson",
+            " Nicole Kidman",
+            " Dolph Lundgren",
+            " Yahya Abdul-Mateen II",
+            " Temuera Morrison",
+            " Ludi Lin",
+            " Michael Beach"
+        ],
+        "chi": [
+            "Jason Momoa",
+            " Amber Heard",
+            " Willem Dafoe",
+            " Patrick Wilson",
+            " Nicole Kidman",
+            " Dolph Lundgren",
+            " Yahya Abdul-Mateen II",
+            " Temuera Morrison",
+            " Ludi Lin",
+            " Michael Beach"
+        ],
+        "tha": [
+            "Jason Momoa",
+            " Amber Heard",
+            " Willem Dafoe",
+            " Patrick Wilson",
+            " Nicole Kidman",
+            " Dolph Lundgren",
+            " Yahya Abdul-Mateen II",
+            " Temuera Morrison",
+            " Ludi Lin",
+            " Michael Beach"
+        ],
+        "ind": [
+            "Jason Momoa",
+            " Amber Heard",
+            " Willem Dafoe",
+            " Patrick Wilson",
+            " Nicole Kidman",
+            " Dolph Lundgren",
+            " Yahya Abdul-Mateen II",
+            " Temuera Morrison",
+            " Ludi Lin",
+            " Michael Beach"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "James Wan"
+        ],
+        "may": [
+            "James Wan"
+        ],
+        "tam": [
+            "James Wan"
+        ],
+        "chi": [
+            "James Wan"
+        ],
+        "tha": [
+            "James Wan"
+        ],
+        "ind": [
+            "James Wan"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Khadija Alami",
+            " Jon Berg",
+            " Rob Cowan",
+            " Walter Hamada",
+            " Geoff Johns",
+            " Mark O'Neill",
+            " Peter Safran",
+            " Enzo Sisti",
+            " Deborah Snyder",
+            " Zack Snyder"
+        ],
+        "may": [
+            "Khadija Alami",
+            " Jon Berg",
+            " Rob Cowan",
+            " Walter Hamada",
+            " Geoff Johns",
+            " Mark O'Neill",
+            " Peter Safran",
+            " Enzo Sisti",
+            " Deborah Snyder",
+            " Zack Snyder"
+        ],
+        "tam": [
+            "Khadija Alami",
+            " Jon Berg",
+            " Rob Cowan",
+            " Walter Hamada",
+            " Geoff Johns",
+            " Mark O'Neill",
+            " Peter Safran",
+            " Enzo Sisti",
+            " Deborah Snyder",
+            " Zack Snyder"
+        ],
+        "chi": [
+            "Khadija Alami",
+            " Jon Berg",
+            " Rob Cowan",
+            " Walter Hamada",
+            " Geoff Johns",
+            " Mark O'Neill",
+            " Peter Safran",
+            " Enzo Sisti",
+            " Deborah Snyder",
+            " Zack Snyder"
+        ],
+        "tha": [
+            "Khadija Alami",
+            " Jon Berg",
+            " Rob Cowan",
+            " Walter Hamada",
+            " Geoff Johns",
+            " Mark O'Neill",
+            " Peter Safran",
+            " Enzo Sisti",
+            " Deborah Snyder",
+            " Zack Snyder"
+        ],
+        "ind": [
+            "Khadija Alami",
+            " Jon Berg",
+            " Rob Cowan",
+            " Walter Hamada",
+            " Geoff Johns",
+            " Mark O'Neill",
+            " Peter Safran",
+            " Enzo Sisti",
+            " Deborah Snyder",
+            " Zack Snyder"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AQUAMAN_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AQUAMAN_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AQUAMAN_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2018,
+    "rating": "6.8",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,397 @@
+{
+    "externalId": "AggregatedTvShow_432207de-cdb5-570b-a852-7ae1da56b85a",
+    "clientContentId": "PACK0000000008351637",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Ozark - Trailer",
+            "may": "Ozark - Trailer",
+            "tam": "Ozark - Trailer",
+            "chi": "Ozark - Trailer",
+            "tha": "Ozark - Trailer",
+            "ind": "Ozark - Trailer"
+        },
+        "long": {
+            "eng": "Ozark - Trailer",
+            "may": "Ozark - Trailer",
+            "tam": "Ozark - Trailer",
+            "chi": "Ozark - Trailer",
+            "tha": "Ozark - Trailer",
+            "ind": "Ozark - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "may": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "tam": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "chi": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "tha": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "ind": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss."
+        },
+        "long": {
+            "eng": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "may": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "tam": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "chi": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "tha": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "ind": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jason Bateman",
+            " Laura Linney",
+            " Sofia Hublitz",
+            " Skylar Gaertner",
+            " Julia Garner",
+            " Charlie Tahan",
+            " Lisa Emery",
+            " Carson Holmes",
+            " Jordana Spiro",
+            " Jessica Frances Dukes"
+        ],
+        "may": [
+            "Jason Bateman",
+            " Laura Linney",
+            " Sofia Hublitz",
+            " Skylar Gaertner",
+            " Julia Garner",
+            " Charlie Tahan",
+            " Lisa Emery",
+            " Carson Holmes",
+            " Jordana Spiro",
+            " Jessica Frances Dukes"
+        ],
+        "tam": [
+            "Jason Bateman",
+            " Laura Linney",
+            " Sofia Hublitz",
+            " Skylar Gaertner",
+            " Julia Garner",
+            " Charlie Tahan",
+            " Lisa Emery",
+            " Carson Holmes",
+            " Jordana Spiro",
+            " Jessica Frances Dukes"
+        ],
+        "chi": [
+            "Jason Bateman",
+            " Laura Linney",
+            " Sofia Hublitz",
+            " Skylar Gaertner",
+            " Julia Garner",
+            " Charlie Tahan",
+            " Lisa Emery",
+            " Carson Holmes",
+            " Jordana Spiro",
+            " Jessica Frances Dukes"
+        ],
+        "tha": [
+            "Jason Bateman",
+            " Laura Linney",
+            " Sofia Hublitz",
+            " Skylar Gaertner",
+            " Julia Garner",
+            " Charlie Tahan",
+            " Lisa Emery",
+            " Carson Holmes",
+            " Jordana Spiro",
+            " Jessica Frances Dukes"
+        ],
+        "ind": [
+            "Jason Bateman",
+            " Laura Linney",
+            " Sofia Hublitz",
+            " Skylar Gaertner",
+            " Julia Garner",
+            " Charlie Tahan",
+            " Lisa Emery",
+            " Carson Holmes",
+            " Jordana Spiro",
+            " Jessica Frances Dukes"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jason Bateman",
+            " Alik Sakharov",
+            " Andrew Bernstein",
+            " Amanda Marsalis",
+            " Ellen Kuras",
+            " Daniel Sackheim",
+            " Ben Semanoff",
+            " Phil Abraham",
+            " Cherien Dabis",
+            " Robin Wright"
+        ],
+        "may": [
+            "Jason Bateman",
+            " Alik Sakharov",
+            " Andrew Bernstein",
+            " Amanda Marsalis",
+            " Ellen Kuras",
+            " Daniel Sackheim",
+            " Ben Semanoff",
+            " Phil Abraham",
+            " Cherien Dabis",
+            " Robin Wright"
+        ],
+        "tam": [
+            "Jason Bateman",
+            " Alik Sakharov",
+            " Andrew Bernstein",
+            " Amanda Marsalis",
+            " Ellen Kuras",
+            " Daniel Sackheim",
+            " Ben Semanoff",
+            " Phil Abraham",
+            " Cherien Dabis",
+            " Robin Wright"
+        ],
+        "chi": [
+            "Jason Bateman",
+            " Alik Sakharov",
+            " Andrew Bernstein",
+            " Amanda Marsalis",
+            " Ellen Kuras",
+            " Daniel Sackheim",
+            " Ben Semanoff",
+            " Phil Abraham",
+            " Cherien Dabis",
+            " Robin Wright"
+        ],
+        "tha": [
+            "Jason Bateman",
+            " Alik Sakharov",
+            " Andrew Bernstein",
+            " Amanda Marsalis",
+            " Ellen Kuras",
+            " Daniel Sackheim",
+            " Ben Semanoff",
+            " Phil Abraham",
+            " Cherien Dabis",
+            " Robin Wright"
+        ],
+        "ind": [
+            "Jason Bateman",
+            " Alik Sakharov",
+            " Andrew Bernstein",
+            " Amanda Marsalis",
+            " Ellen Kuras",
+            " Daniel Sackheim",
+            " Ben Semanoff",
+            " Phil Abraham",
+            " Cherien Dabis",
+            " Robin Wright"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jason Bateman",
+            " Bill Dubuque",
+            " Patrick Markey",
+            " Chris Mundy",
+            " Mark Williams",
+            " Erin Mitchell",
+            " Matthew Spiegel",
+            " Miki Johnson",
+            " Paul Kolsby",
+            " John Shiban"
+        ],
+        "may": [
+            "Jason Bateman",
+            " Bill Dubuque",
+            " Patrick Markey",
+            " Chris Mundy",
+            " Mark Williams",
+            " Erin Mitchell",
+            " Matthew Spiegel",
+            " Miki Johnson",
+            " Paul Kolsby",
+            " John Shiban"
+        ],
+        "tam": [
+            "Jason Bateman",
+            " Bill Dubuque",
+            " Patrick Markey",
+            " Chris Mundy",
+            " Mark Williams",
+            " Erin Mitchell",
+            " Matthew Spiegel",
+            " Miki Johnson",
+            " Paul Kolsby",
+            " John Shiban"
+        ],
+        "chi": [
+            "Jason Bateman",
+            " Bill Dubuque",
+            " Patrick Markey",
+            " Chris Mundy",
+            " Mark Williams",
+            " Erin Mitchell",
+            " Matthew Spiegel",
+            " Miki Johnson",
+            " Paul Kolsby",
+            " John Shiban"
+        ],
+        "tha": [
+            "Jason Bateman",
+            " Bill Dubuque",
+            " Patrick Markey",
+            " Chris Mundy",
+            " Mark Williams",
+            " Erin Mitchell",
+            " Matthew Spiegel",
+            " Miki Johnson",
+            " Paul Kolsby",
+            " John Shiban"
+        ],
+        "ind": [
+            "Jason Bateman",
+            " Bill Dubuque",
+            " Patrick Markey",
+            " Chris Mundy",
+            " Mark Williams",
+            " Erin Mitchell",
+            " Matthew Spiegel",
+            " Miki Johnson",
+            " Paul Kolsby",
+            " John Shiban"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/OzarkSeason4_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/OzarkSeason4_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/OzarkSeason4_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_767edc10-d283-58f1-a479-dc9976ebe91c",
+    "seasonId": "AggregatedSeason_5b436bd3-924f-5dba-967a-db2fee894982",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "4",
+    "yearOfRelease": 2017,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

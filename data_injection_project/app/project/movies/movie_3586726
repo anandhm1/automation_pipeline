@@ -1,0 +1,313 @@
+{
+    "externalId": "AggregatedMovie_ee8a3564-d2a2-567f-b308-1c943a9b5304",
+    "clientContentId": "PACK0000000007620569",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Candy Land",
+            "may": "Candy Land",
+            "tam": "Candy Land",
+            "chi": "Candy Land",
+            "tha": "Candy Land",
+            "ind": "Candy Land"
+        },
+        "long": {
+            "eng": "Candy Land",
+            "may": "Candy Land",
+            "tam": "Candy Land",
+            "chi": "Candy Land",
+            "tha": "Candy Land",
+            "ind": "Candy Land"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A seemingly naive and devout young woman finds her way in the underground world of truck stop sex workers a.k.a. lot lizards.",
+            "may": "A seemingly naive and devout young woman finds her way in the underground world of truck stop sex workers a.k.a. lot lizards.",
+            "tam": "A seemingly naive and devout young woman finds her way in the underground world of truck stop sex workers a.k.a. lot lizards.",
+            "chi": "A seemingly naive and devout young woman finds her way in the underground world of truck stop sex workers a.k.a. lot lizards.",
+            "tha": "A seemingly naive and devout young woman finds her way in the underground world of truck stop sex workers a.k.a. lot lizards.",
+            "ind": "A seemingly naive and devout young woman finds her way in the underground world of truck stop sex workers a.k.a. lot lizards."
+        },
+        "long": {
+            "eng": "A seemingly naive and devout young woman finds her way in the underground world of truck stop sex workers a.k.a. lot lizards.",
+            "may": "A seemingly naive and devout young woman finds her way in the underground world of truck stop sex workers a.k.a. lot lizards.",
+            "tam": "A seemingly naive and devout young woman finds her way in the underground world of truck stop sex workers a.k.a. lot lizards.",
+            "chi": "A seemingly naive and devout young woman finds her way in the underground world of truck stop sex workers a.k.a. lot lizards.",
+            "tha": "A seemingly naive and devout young woman finds her way in the underground world of truck stop sex workers a.k.a. lot lizards.",
+            "ind": "A seemingly naive and devout young woman finds her way in the underground world of truck stop sex workers a.k.a. lot lizards."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Olivia Luccardi",
+            " Sam Quartin",
+            " Eden Brolin",
+            " Owen Campbell",
+            " Virginia Rand",
+            " William Baldwin",
+            " Guinevere Turner",
+            " Brad Carter",
+            " Bruce Davis",
+            " Mark Ward"
+        ],
+        "may": [
+            "Olivia Luccardi",
+            " Sam Quartin",
+            " Eden Brolin",
+            " Owen Campbell",
+            " Virginia Rand",
+            " William Baldwin",
+            " Guinevere Turner",
+            " Brad Carter",
+            " Bruce Davis",
+            " Mark Ward"
+        ],
+        "tam": [
+            "Olivia Luccardi",
+            " Sam Quartin",
+            " Eden Brolin",
+            " Owen Campbell",
+            " Virginia Rand",
+            " William Baldwin",
+            " Guinevere Turner",
+            " Brad Carter",
+            " Bruce Davis",
+            " Mark Ward"
+        ],
+        "chi": [
+            "Olivia Luccardi",
+            " Sam Quartin",
+            " Eden Brolin",
+            " Owen Campbell",
+            " Virginia Rand",
+            " William Baldwin",
+            " Guinevere Turner",
+            " Brad Carter",
+            " Bruce Davis",
+            " Mark Ward"
+        ],
+        "tha": [
+            "Olivia Luccardi",
+            " Sam Quartin",
+            " Eden Brolin",
+            " Owen Campbell",
+            " Virginia Rand",
+            " William Baldwin",
+            " Guinevere Turner",
+            " Brad Carter",
+            " Bruce Davis",
+            " Mark Ward"
+        ],
+        "ind": [
+            "Olivia Luccardi",
+            " Sam Quartin",
+            " Eden Brolin",
+            " Owen Campbell",
+            " Virginia Rand",
+            " William Baldwin",
+            " Guinevere Turner",
+            " Brad Carter",
+            " Bruce Davis",
+            " Mark Ward"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "John Swab"
+        ],
+        "may": [
+            "John Swab"
+        ],
+        "tam": [
+            "John Swab"
+        ],
+        "chi": [
+            "John Swab"
+        ],
+        "tha": [
+            "John Swab"
+        ],
+        "ind": [
+            "John Swab"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Robert Ogden Barnum",
+            " Nicole Flores",
+            " Michael Reiser",
+            " Jeremy M. Rosen",
+            " John Swab"
+        ],
+        "may": [
+            "Robert Ogden Barnum",
+            " Nicole Flores",
+            " Michael Reiser",
+            " Jeremy M. Rosen",
+            " John Swab"
+        ],
+        "tam": [
+            "Robert Ogden Barnum",
+            " Nicole Flores",
+            " Michael Reiser",
+            " Jeremy M. Rosen",
+            " John Swab"
+        ],
+        "chi": [
+            "Robert Ogden Barnum",
+            " Nicole Flores",
+            " Michael Reiser",
+            " Jeremy M. Rosen",
+            " John Swab"
+        ],
+        "tha": [
+            "Robert Ogden Barnum",
+            " Nicole Flores",
+            " Michael Reiser",
+            " Jeremy M. Rosen",
+            " John Swab"
+        ],
+        "ind": [
+            "Robert Ogden Barnum",
+            " Nicole Flores",
+            " Michael Reiser",
+            " Jeremy M. Rosen",
+            " John Swab"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Horror",
+                    "may": "Horror",
+                    "tam": "Horror",
+                    "chi": "Horror",
+                    "tha": "Horror",
+                    "ind": "Horror"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Thriller",
+                    "may": " Thriller",
+                    "tam": " Thriller",
+                    "chi": " Thriller",
+                    "tha": " Thriller",
+                    "ind": " Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/CandyLand_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/CandyLand_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/CandyLand_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2023,
+    "rating": "5.2",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

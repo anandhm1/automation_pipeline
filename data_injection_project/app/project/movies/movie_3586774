@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedMovie_d4478acc-96d6-577a-891d-3e49f5e79051",
+    "clientContentId": "PACK0000000009787383",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "SHE SAID",
+            "may": "SHE SAID",
+            "tam": "SHE SAID",
+            "chi": "SHE SAID",
+            "tha": "SHE SAID",
+            "ind": "SHE SAID"
+        },
+        "long": {
+            "eng": "SHE SAID",
+            "may": "SHE SAID",
+            "tam": "SHE SAID",
+            "chi": "SHE SAID",
+            "tha": "SHE SAID",
+            "ind": "SHE SAID"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation - a story that helped ignite a movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+            "may": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation - a story that helped ignite a movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+            "tam": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation - a story that helped ignite a movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+            "chi": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation - a story that helped ignite a movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+            "tha": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation - a story that helped ignite a movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+            "ind": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation - a story that helped ignite a movement and shattered decades of silence around the subject of sexual assault in Hollywood."
+        },
+        "long": {
+            "eng": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation - a story that helped ignite a movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+            "may": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation - a story that helped ignite a movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+            "tam": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation - a story that helped ignite a movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+            "chi": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation - a story that helped ignite a movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+            "tha": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation - a story that helped ignite a movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+            "ind": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation - a story that helped ignite a movement and shattered decades of silence around the subject of sexual assault in Hollywood."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Lola Petticrew",
+            " Katherine Laheen",
+            " Zoe Kazan",
+            " Carey Mulligan",
+            " Emma O'Connor",
+            " Tom PelphreyDalya KnappEmery Ellis HarperAdam ShapiroJames Austin Johnson"
+        ],
+        "may": [
+            "Lola Petticrew",
+            " Katherine Laheen",
+            " Zoe Kazan",
+            " Carey Mulligan",
+            " Emma O'Connor",
+            " Tom PelphreyDalya KnappEmery Ellis HarperAdam ShapiroJames Austin Johnson"
+        ],
+        "tam": [
+            "Lola Petticrew",
+            " Katherine Laheen",
+            " Zoe Kazan",
+            " Carey Mulligan",
+            " Emma O'Connor",
+            " Tom PelphreyDalya KnappEmery Ellis HarperAdam ShapiroJames Austin Johnson"
+        ],
+        "chi": [
+            "Lola Petticrew",
+            " Katherine Laheen",
+            " Zoe Kazan",
+            " Carey Mulligan",
+            " Emma O'Connor",
+            " Tom PelphreyDalya KnappEmery Ellis HarperAdam ShapiroJames Austin Johnson"
+        ],
+        "tha": [
+            "Lola Petticrew",
+            " Katherine Laheen",
+            " Zoe Kazan",
+            " Carey Mulligan",
+            " Emma O'Connor",
+            " Tom PelphreyDalya KnappEmery Ellis HarperAdam ShapiroJames Austin Johnson"
+        ],
+        "ind": [
+            "Lola Petticrew",
+            " Katherine Laheen",
+            " Zoe Kazan",
+            " Carey Mulligan",
+            " Emma O'Connor",
+            " Tom PelphreyDalya KnappEmery Ellis HarperAdam ShapiroJames Austin Johnson"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Maria Schrader"
+        ],
+        "may": [
+            "Maria Schrader"
+        ],
+        "tam": [
+            "Maria Schrader"
+        ],
+        "chi": [
+            "Maria Schrader"
+        ],
+        "tha": [
+            "Maria Schrader"
+        ],
+        "ind": [
+            "Maria Schrader"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Lexi Barta",
+            " Megan Ellison",
+            " Dede Gardner",
+            " Jeremy Kleiner",
+            " Sue Naegle",
+            " Alexander O'NealBrad PittLila Yacoub"
+        ],
+        "may": [
+            "Lexi Barta",
+            " Megan Ellison",
+            " Dede Gardner",
+            " Jeremy Kleiner",
+            " Sue Naegle",
+            " Alexander O'NealBrad PittLila Yacoub"
+        ],
+        "tam": [
+            "Lexi Barta",
+            " Megan Ellison",
+            " Dede Gardner",
+            " Jeremy Kleiner",
+            " Sue Naegle",
+            " Alexander O'NealBrad PittLila Yacoub"
+        ],
+        "chi": [
+            "Lexi Barta",
+            " Megan Ellison",
+            " Dede Gardner",
+            " Jeremy Kleiner",
+            " Sue Naegle",
+            " Alexander O'NealBrad PittLila Yacoub"
+        ],
+        "tha": [
+            "Lexi Barta",
+            " Megan Ellison",
+            " Dede Gardner",
+            " Jeremy Kleiner",
+            " Sue Naegle",
+            " Alexander O'NealBrad PittLila Yacoub"
+        ],
+        "ind": [
+            "Lexi Barta",
+            " Megan Ellison",
+            " Dede Gardner",
+            " Jeremy Kleiner",
+            " Sue Naegle",
+            " Alexander O'NealBrad PittLila Yacoub"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " History",
+                    "may": " History",
+                    "tam": " History",
+                    "chi": " History",
+                    "tha": " History",
+                    "ind": " History"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/SHESAID_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/SHESAID_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/SHESAID_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "7.2",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

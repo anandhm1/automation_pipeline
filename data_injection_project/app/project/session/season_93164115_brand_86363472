@@ -1,0 +1,377 @@
+{
+    "externalId": "AggregatedSeason_b29ab3ee-6183-5c23-b2a0-66fe9ff39d4f",
+    "clientContentId": "PACK0000000001298693",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "chi": "Action",
+                    "tam": "Action",
+                    "ind": "Action",
+                    "tha": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "chi": " Adventure",
+                    "tam": " Adventure",
+                    "ind": " Adventure",
+                    "tha": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "TV-14",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Elliot Page",
+            " Tom Hopper",
+            " David Casta\u00f1eda",
+            " Emmy Raver-Lampman",
+            " Robert Sheehan",
+            " Aidan Gallagher",
+            " Justin H. Min",
+            " Colm Feore",
+            " Jordan Claire Robbins",
+            " Ritu Arya"
+        ],
+        "may": [
+            "Elliot Page",
+            " Tom Hopper",
+            " David Casta\u00f1eda",
+            " Emmy Raver-Lampman",
+            " Robert Sheehan",
+            " Aidan Gallagher",
+            " Justin H. Min",
+            " Colm Feore",
+            " Jordan Claire Robbins",
+            " Ritu Arya"
+        ],
+        "chi": [
+            "Elliot Page",
+            " Tom Hopper",
+            " David Casta\u00f1eda",
+            " Emmy Raver-Lampman",
+            " Robert Sheehan",
+            " Aidan Gallagher",
+            " Justin H. Min",
+            " Colm Feore",
+            " Jordan Claire Robbins",
+            " Ritu Arya"
+        ],
+        "tam": [
+            "Elliot Page",
+            " Tom Hopper",
+            " David Casta\u00f1eda",
+            " Emmy Raver-Lampman",
+            " Robert Sheehan",
+            " Aidan Gallagher",
+            " Justin H. Min",
+            " Colm Feore",
+            " Jordan Claire Robbins",
+            " Ritu Arya"
+        ],
+        "ind": [
+            "Elliot Page",
+            " Tom Hopper",
+            " David Casta\u00f1eda",
+            " Emmy Raver-Lampman",
+            " Robert Sheehan",
+            " Aidan Gallagher",
+            " Justin H. Min",
+            " Colm Feore",
+            " Jordan Claire Robbins",
+            " Ritu Arya"
+        ],
+        "tha": [
+            "Elliot Page",
+            " Tom Hopper",
+            " David Casta\u00f1eda",
+            " Emmy Raver-Lampman",
+            " Robert Sheehan",
+            " Aidan Gallagher",
+            " Justin H. Min",
+            " Colm Feore",
+            " Jordan Claire Robbins",
+            " Ritu Arya"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jeremy Webb",
+            " Ellen Kuras",
+            " Stephen Surjik",
+            " Sylvain White",
+            " Andrew Bernstein",
+            " Peter Hoar",
+            " Amanda Marsalis",
+            " Tom Verica",
+            " Paco Cabezas",
+            " Cheryl Dunye"
+        ],
+        "may": [
+            "Jeremy Webb",
+            " Ellen Kuras",
+            " Stephen Surjik",
+            " Sylvain White",
+            " Andrew Bernstein",
+            " Peter Hoar",
+            " Amanda Marsalis",
+            " Tom Verica",
+            " Paco Cabezas",
+            " Cheryl Dunye"
+        ],
+        "chi": [
+            "Jeremy Webb",
+            " Ellen Kuras",
+            " Stephen Surjik",
+            " Sylvain White",
+            " Andrew Bernstein",
+            " Peter Hoar",
+            " Amanda Marsalis",
+            " Tom Verica",
+            " Paco Cabezas",
+            " Cheryl Dunye"
+        ],
+        "tam": [
+            "Jeremy Webb",
+            " Ellen Kuras",
+            " Stephen Surjik",
+            " Sylvain White",
+            " Andrew Bernstein",
+            " Peter Hoar",
+            " Amanda Marsalis",
+            " Tom Verica",
+            " Paco Cabezas",
+            " Cheryl Dunye"
+        ],
+        "ind": [
+            "Jeremy Webb",
+            " Ellen Kuras",
+            " Stephen Surjik",
+            " Sylvain White",
+            " Andrew Bernstein",
+            " Peter Hoar",
+            " Amanda Marsalis",
+            " Tom Verica",
+            " Paco Cabezas",
+            " Cheryl Dunye"
+        ],
+        "tha": [
+            "Jeremy Webb",
+            " Ellen Kuras",
+            " Stephen Surjik",
+            " Sylvain White",
+            " Andrew Bernstein",
+            " Peter Hoar",
+            " Amanda Marsalis",
+            " Tom Verica",
+            " Paco Cabezas",
+            " Cheryl Dunye"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jason Neese",
+            " Jamie Neese",
+            " Steve Blackman",
+            " Jeff King",
+            " Keith Goldberg",
+            " Mike Richardson",
+            " Chris Tongue",
+            " Everett Burrell",
+            " Gabriel B\u00e1",
+            " Gerard Way"
+        ],
+        "may": [
+            "Jason Neese",
+            " Jamie Neese",
+            " Steve Blackman",
+            " Jeff King",
+            " Keith Goldberg",
+            " Mike Richardson",
+            " Chris Tongue",
+            " Everett Burrell",
+            " Gabriel B\u00e1",
+            " Gerard Way"
+        ],
+        "chi": [
+            "Jason Neese",
+            " Jamie Neese",
+            " Steve Blackman",
+            " Jeff King",
+            " Keith Goldberg",
+            " Mike Richardson",
+            " Chris Tongue",
+            " Everett Burrell",
+            " Gabriel B\u00e1",
+            " Gerard Way"
+        ],
+        "tam": [
+            "Jason Neese",
+            " Jamie Neese",
+            " Steve Blackman",
+            " Jeff King",
+            " Keith Goldberg",
+            " Mike Richardson",
+            " Chris Tongue",
+            " Everett Burrell",
+            " Gabriel B\u00e1",
+            " Gerard Way"
+        ],
+        "ind": [
+            "Jason Neese",
+            " Jamie Neese",
+            " Steve Blackman",
+            " Jeff King",
+            " Keith Goldberg",
+            " Mike Richardson",
+            " Chris Tongue",
+            " Everett Burrell",
+            " Gabriel B\u00e1",
+            " Gerard Way"
+        ],
+        "tha": [
+            "Jason Neese",
+            " Jamie Neese",
+            " Steve Blackman",
+            " Jeff King",
+            " Keith Goldberg",
+            " Mike Richardson",
+            " Chris Tongue",
+            " Everett Burrell",
+            " Gabriel B\u00e1",
+            " Gerard Way"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_ed75990d-87ec-51e5-8983-b1884808ecfe",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Umbrella Academy Season 1",
+            "may": "The Umbrella Academy Season 1",
+            "chi": "The Umbrella Academy Season 1",
+            "tam": "The Umbrella Academy Season 1",
+            "ind": "The Umbrella Academy Season 1",
+            "tha": "The Umbrella Academy Season 1"
+        },
+        "long": {
+            "eng": "The Umbrella Academy Season 1",
+            "may": "The Umbrella Academy Season 1",
+            "chi": "The Umbrella Academy Season 1",
+            "tam": "The Umbrella Academy Season 1",
+            "ind": "The Umbrella Academy Season 1",
+            "tha": "The Umbrella Academy Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+            "may": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+            "chi": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+            "tam": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+            "ind": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+            "tha": "A family of former child heroes, now grown apart, must reunite to continue to protect the world."
+        },
+        "long": {
+            "eng": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+            "may": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+            "chi": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+            "tam": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+            "ind": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+            "tha": "A family of former child heroes, now grown apart, must reunite to continue to protect the world."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheUmbrellaAcademySeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheUmbrellaAcademySeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheUmbrellaAcademySeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

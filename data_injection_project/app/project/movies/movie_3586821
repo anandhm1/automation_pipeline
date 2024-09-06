@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_1098d3b5-5d60-5c20-8931-f673759ff04c",
+    "clientContentId": "PACK0000000008159213",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Wonder",
+            "may": "Wonder",
+            "tam": "Wonder",
+            "chi": "Wonder",
+            "tha": "Wonder",
+            "ind": "Wonder"
+        },
+        "long": {
+            "eng": "Wonder",
+            "may": "Wonder",
+            "tam": "Wonder",
+            "chi": "Wonder",
+            "tha": "Wonder",
+            "ind": "Wonder"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time.",
+            "may": "Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time.",
+            "tam": "Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time.",
+            "chi": "Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time.",
+            "tha": "Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time.",
+            "ind": "Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time."
+        },
+        "long": {
+            "eng": "Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time.",
+            "may": "Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time.",
+            "tam": "Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time.",
+            "chi": "Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time.",
+            "tha": "Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time.",
+            "ind": "Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jacob Tremblay",
+            " Owen Wilson",
+            " Izabela Vidovic",
+            " Julia Roberts",
+            " Mark Dozlaw",
+            " Rukiya Bernard",
+            " Jennifer March",
+            " Mandy Patinkin",
+            " Noah Jupe",
+            " Bryce Gheisar"
+        ],
+        "may": [
+            "Jacob Tremblay",
+            " Owen Wilson",
+            " Izabela Vidovic",
+            " Julia Roberts",
+            " Mark Dozlaw",
+            " Rukiya Bernard",
+            " Jennifer March",
+            " Mandy Patinkin",
+            " Noah Jupe",
+            " Bryce Gheisar"
+        ],
+        "tam": [
+            "Jacob Tremblay",
+            " Owen Wilson",
+            " Izabela Vidovic",
+            " Julia Roberts",
+            " Mark Dozlaw",
+            " Rukiya Bernard",
+            " Jennifer March",
+            " Mandy Patinkin",
+            " Noah Jupe",
+            " Bryce Gheisar"
+        ],
+        "chi": [
+            "Jacob Tremblay",
+            " Owen Wilson",
+            " Izabela Vidovic",
+            " Julia Roberts",
+            " Mark Dozlaw",
+            " Rukiya Bernard",
+            " Jennifer March",
+            " Mandy Patinkin",
+            " Noah Jupe",
+            " Bryce Gheisar"
+        ],
+        "tha": [
+            "Jacob Tremblay",
+            " Owen Wilson",
+            " Izabela Vidovic",
+            " Julia Roberts",
+            " Mark Dozlaw",
+            " Rukiya Bernard",
+            " Jennifer March",
+            " Mandy Patinkin",
+            " Noah Jupe",
+            " Bryce Gheisar"
+        ],
+        "ind": [
+            "Jacob Tremblay",
+            " Owen Wilson",
+            " Izabela Vidovic",
+            " Julia Roberts",
+            " Mark Dozlaw",
+            " Rukiya Bernard",
+            " Jennifer March",
+            " Mandy Patinkin",
+            " Noah Jupe",
+            " Bryce Gheisar"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Stephen Chbosky"
+        ],
+        "may": [
+            "Stephen Chbosky"
+        ],
+        "tam": [
+            "Stephen Chbosky"
+        ],
+        "chi": [
+            "Stephen Chbosky"
+        ],
+        "tha": [
+            "Stephen Chbosky"
+        ],
+        "ind": [
+            "Stephen Chbosky"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Michael Beugg",
+            " Dan Clarke",
+            " Jeffrey Harlacker",
+            " David Hoberman",
+            " Robert Kessel",
+            " Todd Lieberman",
+            " Qiuyun Long",
+            " R.J. Palacio",
+            " Bo Shen",
+            " Jeff Skoll"
+        ],
+        "may": [
+            "Michael Beugg",
+            " Dan Clarke",
+            " Jeffrey Harlacker",
+            " David Hoberman",
+            " Robert Kessel",
+            " Todd Lieberman",
+            " Qiuyun Long",
+            " R.J. Palacio",
+            " Bo Shen",
+            " Jeff Skoll"
+        ],
+        "tam": [
+            "Michael Beugg",
+            " Dan Clarke",
+            " Jeffrey Harlacker",
+            " David Hoberman",
+            " Robert Kessel",
+            " Todd Lieberman",
+            " Qiuyun Long",
+            " R.J. Palacio",
+            " Bo Shen",
+            " Jeff Skoll"
+        ],
+        "chi": [
+            "Michael Beugg",
+            " Dan Clarke",
+            " Jeffrey Harlacker",
+            " David Hoberman",
+            " Robert Kessel",
+            " Todd Lieberman",
+            " Qiuyun Long",
+            " R.J. Palacio",
+            " Bo Shen",
+            " Jeff Skoll"
+        ],
+        "tha": [
+            "Michael Beugg",
+            " Dan Clarke",
+            " Jeffrey Harlacker",
+            " David Hoberman",
+            " Robert Kessel",
+            " Todd Lieberman",
+            " Qiuyun Long",
+            " R.J. Palacio",
+            " Bo Shen",
+            " Jeff Skoll"
+        ],
+        "ind": [
+            "Michael Beugg",
+            " Dan Clarke",
+            " Jeffrey Harlacker",
+            " David Hoberman",
+            " Robert Kessel",
+            " Todd Lieberman",
+            " Qiuyun Long",
+            " R.J. Palacio",
+            " Bo Shen",
+            " Jeff Skoll"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Family",
+                    "may": " Family",
+                    "tam": " Family",
+                    "chi": " Family",
+                    "tha": " Family",
+                    "ind": " Family"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Wonder_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Wonder_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Wonder_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2017,
+    "rating": "7.9",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

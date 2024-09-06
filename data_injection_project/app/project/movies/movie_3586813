@@ -1,0 +1,313 @@
+{
+    "externalId": "AggregatedMovie_42c9f961-9de4-5bd8-8f98-027051e93ff3",
+    "clientContentId": "PACK0000000007544397",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Love And Monsters",
+            "may": "Love And Monsters",
+            "tam": "Love And Monsters",
+            "chi": "Love And Monsters",
+            "tha": "Love And Monsters",
+            "ind": "Love And Monsters"
+        },
+        "long": {
+            "eng": "Love And Monsters",
+            "may": "Love And Monsters",
+            "tam": "Love And Monsters",
+            "chi": "Love And Monsters",
+            "tha": "Love And Monsters",
+            "ind": "Love And Monsters"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Seven years after he survived the monster apocalypse, lovably hapless Joel leaves his cozy underground bunker behind on a quest to reunite with his ex.",
+            "may": "Seven years after he survived the monster apocalypse, lovably hapless Joel leaves his cozy underground bunker behind on a quest to reunite with his ex.",
+            "tam": "Seven years after he survived the monster apocalypse, lovably hapless Joel leaves his cozy underground bunker behind on a quest to reunite with his ex.",
+            "chi": "Seven years after he survived the monster apocalypse, lovably hapless Joel leaves his cozy underground bunker behind on a quest to reunite with his ex.",
+            "tha": "Seven years after he survived the monster apocalypse, lovably hapless Joel leaves his cozy underground bunker behind on a quest to reunite with his ex.",
+            "ind": "Seven years after he survived the monster apocalypse, lovably hapless Joel leaves his cozy underground bunker behind on a quest to reunite with his ex."
+        },
+        "long": {
+            "eng": "Seven years after he survived the monster apocalypse, lovably hapless Joel leaves his cozy underground bunker behind on a quest to reunite with his ex.",
+            "may": "Seven years after he survived the monster apocalypse, lovably hapless Joel leaves his cozy underground bunker behind on a quest to reunite with his ex.",
+            "tam": "Seven years after he survived the monster apocalypse, lovably hapless Joel leaves his cozy underground bunker behind on a quest to reunite with his ex.",
+            "chi": "Seven years after he survived the monster apocalypse, lovably hapless Joel leaves his cozy underground bunker behind on a quest to reunite with his ex.",
+            "tha": "Seven years after he survived the monster apocalypse, lovably hapless Joel leaves his cozy underground bunker behind on a quest to reunite with his ex.",
+            "ind": "Seven years after he survived the monster apocalypse, lovably hapless Joel leaves his cozy underground bunker behind on a quest to reunite with his ex."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Dylan O'Brien",
+            " Jessica Henwick",
+            " Michael Rooker",
+            " Dan Ewing",
+            " Ariana Greenblatt",
+            " Ellen Hollman",
+            " Tre Hale",
+            " Pacharo Mzembe",
+            " Senie Priti",
+            " Amali Golden"
+        ],
+        "may": [
+            "Dylan O'Brien",
+            " Jessica Henwick",
+            " Michael Rooker",
+            " Dan Ewing",
+            " Ariana Greenblatt",
+            " Ellen Hollman",
+            " Tre Hale",
+            " Pacharo Mzembe",
+            " Senie Priti",
+            " Amali Golden"
+        ],
+        "tam": [
+            "Dylan O'Brien",
+            " Jessica Henwick",
+            " Michael Rooker",
+            " Dan Ewing",
+            " Ariana Greenblatt",
+            " Ellen Hollman",
+            " Tre Hale",
+            " Pacharo Mzembe",
+            " Senie Priti",
+            " Amali Golden"
+        ],
+        "chi": [
+            "Dylan O'Brien",
+            " Jessica Henwick",
+            " Michael Rooker",
+            " Dan Ewing",
+            " Ariana Greenblatt",
+            " Ellen Hollman",
+            " Tre Hale",
+            " Pacharo Mzembe",
+            " Senie Priti",
+            " Amali Golden"
+        ],
+        "tha": [
+            "Dylan O'Brien",
+            " Jessica Henwick",
+            " Michael Rooker",
+            " Dan Ewing",
+            " Ariana Greenblatt",
+            " Ellen Hollman",
+            " Tre Hale",
+            " Pacharo Mzembe",
+            " Senie Priti",
+            " Amali Golden"
+        ],
+        "ind": [
+            "Dylan O'Brien",
+            " Jessica Henwick",
+            " Michael Rooker",
+            " Dan Ewing",
+            " Ariana Greenblatt",
+            " Ellen Hollman",
+            " Tre Hale",
+            " Pacharo Mzembe",
+            " Senie Priti",
+            " Amali Golden"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Michael Matthews"
+        ],
+        "may": [
+            "Michael Matthews"
+        ],
+        "tam": [
+            "Michael Matthews"
+        ],
+        "chi": [
+            "Michael Matthews"
+        ],
+        "tha": [
+            "Michael Matthews"
+        ],
+        "ind": [
+            "Michael Matthews"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Allegra Clegg",
+            " Dan Cohen",
+            " Becca Edelman",
+            " Shawn Levy",
+            " John H. Starke"
+        ],
+        "may": [
+            "Allegra Clegg",
+            " Dan Cohen",
+            " Becca Edelman",
+            " Shawn Levy",
+            " John H. Starke"
+        ],
+        "tam": [
+            "Allegra Clegg",
+            " Dan Cohen",
+            " Becca Edelman",
+            " Shawn Levy",
+            " John H. Starke"
+        ],
+        "chi": [
+            "Allegra Clegg",
+            " Dan Cohen",
+            " Becca Edelman",
+            " Shawn Levy",
+            " John H. Starke"
+        ],
+        "tha": [
+            "Allegra Clegg",
+            " Dan Cohen",
+            " Becca Edelman",
+            " Shawn Levy",
+            " John H. Starke"
+        ],
+        "ind": [
+            "Allegra Clegg",
+            " Dan Cohen",
+            " Becca Edelman",
+            " Shawn Levy",
+            " John H. Starke"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/LOVEANDMONSTERS_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/LOVEANDMONSTERS_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/LOVEANDMONSTERS_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2020,
+    "rating": "6.9",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

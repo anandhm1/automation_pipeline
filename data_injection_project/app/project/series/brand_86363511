@@ -1,0 +1,253 @@
+{
+    "externalId": "AggregatedSeries_d412c77b-2e73-541f-8134-822c801c555a",
+    "clientContentId": "PACK0000000008351184",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Pier",
+            "may": "The Pier",
+            "tam": "The Pier",
+            "chi": "The Pier",
+            "tha": "The Pier",
+            "ind": "The Pier"
+        },
+        "long": {
+            "eng": "The Pier",
+            "may": "The Pier",
+            "tam": "The Pier",
+            "chi": "The Pier",
+            "tha": "The Pier",
+            "ind": "The Pier"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "may": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "tam": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "chi": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "tha": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "ind": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death."
+        },
+        "long": {
+            "eng": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "may": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "tam": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "chi": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "tha": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "ind": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "\u00c1lvaro Morte",
+            " Ver\u00f3nica S\u00e1nchez",
+            " Irene Arcos"
+        ],
+        "may": [
+            "\u00c1lvaro Morte",
+            " Ver\u00f3nica S\u00e1nchez",
+            " Irene Arcos"
+        ],
+        "tam": [
+            "\u00c1lvaro Morte",
+            " Ver\u00f3nica S\u00e1nchez",
+            " Irene Arcos"
+        ],
+        "chi": [
+            "\u00c1lvaro Morte",
+            " Ver\u00f3nica S\u00e1nchez",
+            " Irene Arcos"
+        ],
+        "tha": [
+            "\u00c1lvaro Morte",
+            " Ver\u00f3nica S\u00e1nchez",
+            " Irene Arcos"
+        ],
+        "ind": [
+            "\u00c1lvaro Morte",
+            " Ver\u00f3nica S\u00e1nchez",
+            " Irene Arcos"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "may": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "tam": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "chi": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "tha": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "ind": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "may": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "tam": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "chi": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "tha": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "ind": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/THEPIER_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/THEPIER_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/THEPIER_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "8",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2019,
+    "maxConcurrentStreams": 0
+}

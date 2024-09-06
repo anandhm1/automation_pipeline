@@ -1,0 +1,313 @@
+{
+    "externalId": "AggregatedMovie_de5c16ac-688e-567b-8599-3645050a8123",
+    "clientContentId": "PACK0000000005832731",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Pebble And The Boy 2021",
+            "may": "The Pebble And The Boy 2021",
+            "tam": "The Pebble And The Boy 2021",
+            "chi": "The Pebble And The Boy 2021",
+            "tha": "The Pebble And The Boy 2021",
+            "ind": "The Pebble And The Boy 2021"
+        },
+        "long": {
+            "eng": "The Pebble And The Boy 2021",
+            "may": "The Pebble And The Boy 2021",
+            "tam": "The Pebble And The Boy 2021",
+            "chi": "The Pebble And The Boy 2021",
+            "tha": "The Pebble And The Boy 2021",
+            "ind": "The Pebble And The Boy 2021"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The story follows John Parker, a 19 year old from Manchester who embarks on a journey to Brighton, the spiritual home of the Mods, on an old Lambretta scooter left to him by his father. The film is a celebration of Mod culture and fashion and features Musical by Paul Weller and The Jam.",
+            "may": "The story follows John Parker, a 19 year old from Manchester who embarks on a journey to Brighton, the spiritual home of the Mods, on an old Lambretta scooter left to him by his father. The film is a celebration of Mod culture and fashion and features Musical by Paul Weller and The Jam.",
+            "tam": "The story follows John Parker, a 19 year old from Manchester who embarks on a journey to Brighton, the spiritual home of the Mods, on an old Lambretta scooter left to him by his father. The film is a celebration of Mod culture and fashion and features Musical by Paul Weller and The Jam.",
+            "chi": "The story follows John Parker, a 19 year old from Manchester who embarks on a journey to Brighton, the spiritual home of the Mods, on an old Lambretta scooter left to him by his father. The film is a celebration of Mod culture and fashion and features Musical by Paul Weller and The Jam.",
+            "tha": "The story follows John Parker, a 19 year old from Manchester who embarks on a journey to Brighton, the spiritual home of the Mods, on an old Lambretta scooter left to him by his father. The film is a celebration of Mod culture and fashion and features Musical by Paul Weller and The Jam.",
+            "ind": "The story follows John Parker, a 19 year old from Manchester who embarks on a journey to Brighton, the spiritual home of the Mods, on an old Lambretta scooter left to him by his father. The film is a celebration of Mod culture and fashion and features Musical by Paul Weller and The Jam."
+        },
+        "long": {
+            "eng": "The story follows John Parker, a 19 year old from Manchester who embarks on a journey to Brighton, the spiritual home of the Mods, on an old Lambretta scooter left to him by his father. The film is a celebration of Mod culture and fashion and features Musical by Paul Weller and The Jam.",
+            "may": "The story follows John Parker, a 19 year old from Manchester who embarks on a journey to Brighton, the spiritual home of the Mods, on an old Lambretta scooter left to him by his father. The film is a celebration of Mod culture and fashion and features Musical by Paul Weller and The Jam.",
+            "tam": "The story follows John Parker, a 19 year old from Manchester who embarks on a journey to Brighton, the spiritual home of the Mods, on an old Lambretta scooter left to him by his father. The film is a celebration of Mod culture and fashion and features Musical by Paul Weller and The Jam.",
+            "chi": "The story follows John Parker, a 19 year old from Manchester who embarks on a journey to Brighton, the spiritual home of the Mods, on an old Lambretta scooter left to him by his father. The film is a celebration of Mod culture and fashion and features Musical by Paul Weller and The Jam.",
+            "tha": "The story follows John Parker, a 19 year old from Manchester who embarks on a journey to Brighton, the spiritual home of the Mods, on an old Lambretta scooter left to him by his father. The film is a celebration of Mod culture and fashion and features Musical by Paul Weller and The Jam.",
+            "ind": "The story follows John Parker, a 19 year old from Manchester who embarks on a journey to Brighton, the spiritual home of the Mods, on an old Lambretta scooter left to him by his father. The film is a celebration of Mod culture and fashion and features Musical by Paul Weller and The Jam."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jesse Birdsall",
+            " Max Boast",
+            " Rick S. Carr",
+            " Julian Clapton",
+            " Brian Croucher",
+            " Chez Davis",
+            " Adele Fearn",
+            " Ricci Harnett",
+            " Patsy Kensit",
+            " Alice Kerrigan"
+        ],
+        "may": [
+            "Jesse Birdsall",
+            " Max Boast",
+            " Rick S. Carr",
+            " Julian Clapton",
+            " Brian Croucher",
+            " Chez Davis",
+            " Adele Fearn",
+            " Ricci Harnett",
+            " Patsy Kensit",
+            " Alice Kerrigan"
+        ],
+        "tam": [
+            "Jesse Birdsall",
+            " Max Boast",
+            " Rick S. Carr",
+            " Julian Clapton",
+            " Brian Croucher",
+            " Chez Davis",
+            " Adele Fearn",
+            " Ricci Harnett",
+            " Patsy Kensit",
+            " Alice Kerrigan"
+        ],
+        "chi": [
+            "Jesse Birdsall",
+            " Max Boast",
+            " Rick S. Carr",
+            " Julian Clapton",
+            " Brian Croucher",
+            " Chez Davis",
+            " Adele Fearn",
+            " Ricci Harnett",
+            " Patsy Kensit",
+            " Alice Kerrigan"
+        ],
+        "tha": [
+            "Jesse Birdsall",
+            " Max Boast",
+            " Rick S. Carr",
+            " Julian Clapton",
+            " Brian Croucher",
+            " Chez Davis",
+            " Adele Fearn",
+            " Ricci Harnett",
+            " Patsy Kensit",
+            " Alice Kerrigan"
+        ],
+        "ind": [
+            "Jesse Birdsall",
+            " Max Boast",
+            " Rick S. Carr",
+            " Julian Clapton",
+            " Brian Croucher",
+            " Chez Davis",
+            " Adele Fearn",
+            " Ricci Harnett",
+            " Patsy Kensit",
+            " Alice Kerrigan"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Chris Green"
+        ],
+        "may": [
+            "Chris Green"
+        ],
+        "tam": [
+            "Chris Green"
+        ],
+        "chi": [
+            "Chris Green"
+        ],
+        "tha": [
+            "Chris Green"
+        ],
+        "ind": [
+            "Chris Green"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Chris Green",
+            " Michael Knowles",
+            " Jo Mifsud",
+            " Neil Primett",
+            " Martin Riley"
+        ],
+        "may": [
+            "Chris Green",
+            " Michael Knowles",
+            " Jo Mifsud",
+            " Neil Primett",
+            " Martin Riley"
+        ],
+        "tam": [
+            "Chris Green",
+            " Michael Knowles",
+            " Jo Mifsud",
+            " Neil Primett",
+            " Martin Riley"
+        ],
+        "chi": [
+            "Chris Green",
+            " Michael Knowles",
+            " Jo Mifsud",
+            " Neil Primett",
+            " Martin Riley"
+        ],
+        "tha": [
+            "Chris Green",
+            " Michael Knowles",
+            " Jo Mifsud",
+            " Neil Primett",
+            " Martin Riley"
+        ],
+        "ind": [
+            "Chris Green",
+            " Michael Knowles",
+            " Jo Mifsud",
+            " Neil Primett",
+            " Martin Riley"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ThePebbleAndTheBoy_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ThePebbleAndTheBoy_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ThePebbleAndTheBoy_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2021,
+    "rating": "5.9",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

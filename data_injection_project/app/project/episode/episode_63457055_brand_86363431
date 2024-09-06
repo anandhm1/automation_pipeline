@@ -1,0 +1,397 @@
+{
+    "externalId": "AggregatedTvShow_e9fa194c-18c9-5cbf-ae69-f62aed2525f0",
+    "clientContentId": "PACK0000000002300807",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Power Book IV Force - Trailer",
+            "may": "Power Book IV Force - Trailer",
+            "tam": "Power Book IV Force - Trailer",
+            "chi": "Power Book IV Force - Trailer",
+            "tha": "Power Book IV Force - Trailer",
+            "ind": "Power Book IV Force - Trailer"
+        },
+        "long": {
+            "eng": "Power Book IV Force - Trailer",
+            "may": "Power Book IV Force - Trailer",
+            "tam": "Power Book IV Force - Trailer",
+            "chi": "Power Book IV Force - Trailer",
+            "tha": "Power Book IV Force - Trailer",
+            "ind": "Power Book IV Force - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "may": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "tam": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "chi": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "tha": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "ind": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good."
+        },
+        "long": {
+            "eng": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "may": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "tam": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "chi": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "tha": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "ind": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Joseph Sikora",
+            " Shane Harper",
+            " Isaac Keys",
+            " Kris D. Lofton",
+            " Lucien Cambric",
+            " Anthony Fleming III",
+            " Gabrielle Ryan",
+            " Lili Simmons",
+            " Tommy Flanagan",
+            " Guy Van Swearingen"
+        ],
+        "may": [
+            "Joseph Sikora",
+            " Shane Harper",
+            " Isaac Keys",
+            " Kris D. Lofton",
+            " Lucien Cambric",
+            " Anthony Fleming III",
+            " Gabrielle Ryan",
+            " Lili Simmons",
+            " Tommy Flanagan",
+            " Guy Van Swearingen"
+        ],
+        "tam": [
+            "Joseph Sikora",
+            " Shane Harper",
+            " Isaac Keys",
+            " Kris D. Lofton",
+            " Lucien Cambric",
+            " Anthony Fleming III",
+            " Gabrielle Ryan",
+            " Lili Simmons",
+            " Tommy Flanagan",
+            " Guy Van Swearingen"
+        ],
+        "chi": [
+            "Joseph Sikora",
+            " Shane Harper",
+            " Isaac Keys",
+            " Kris D. Lofton",
+            " Lucien Cambric",
+            " Anthony Fleming III",
+            " Gabrielle Ryan",
+            " Lili Simmons",
+            " Tommy Flanagan",
+            " Guy Van Swearingen"
+        ],
+        "tha": [
+            "Joseph Sikora",
+            " Shane Harper",
+            " Isaac Keys",
+            " Kris D. Lofton",
+            " Lucien Cambric",
+            " Anthony Fleming III",
+            " Gabrielle Ryan",
+            " Lili Simmons",
+            " Tommy Flanagan",
+            " Guy Van Swearingen"
+        ],
+        "ind": [
+            "Joseph Sikora",
+            " Shane Harper",
+            " Isaac Keys",
+            " Kris D. Lofton",
+            " Lucien Cambric",
+            " Anthony Fleming III",
+            " Gabrielle Ryan",
+            " Lili Simmons",
+            " Tommy Flanagan",
+            " Guy Van Swearingen"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Kieron Hawkes",
+            " Rob Hardy",
+            " Larysa Kondracki",
+            " Eif Rivera",
+            " Carl Seaton",
+            " Shana Stein",
+            " Deon Taylor",
+            " Bart Wenrich",
+            " Lisa Demaine",
+            " "
+        ],
+        "may": [
+            "Kieron Hawkes",
+            " Rob Hardy",
+            " Larysa Kondracki",
+            " Eif Rivera",
+            " Carl Seaton",
+            " Shana Stein",
+            " Deon Taylor",
+            " Bart Wenrich",
+            " Lisa Demaine",
+            " "
+        ],
+        "tam": [
+            "Kieron Hawkes",
+            " Rob Hardy",
+            " Larysa Kondracki",
+            " Eif Rivera",
+            " Carl Seaton",
+            " Shana Stein",
+            " Deon Taylor",
+            " Bart Wenrich",
+            " Lisa Demaine",
+            " "
+        ],
+        "chi": [
+            "Kieron Hawkes",
+            " Rob Hardy",
+            " Larysa Kondracki",
+            " Eif Rivera",
+            " Carl Seaton",
+            " Shana Stein",
+            " Deon Taylor",
+            " Bart Wenrich",
+            " Lisa Demaine",
+            " "
+        ],
+        "tha": [
+            "Kieron Hawkes",
+            " Rob Hardy",
+            " Larysa Kondracki",
+            " Eif Rivera",
+            " Carl Seaton",
+            " Shana Stein",
+            " Deon Taylor",
+            " Bart Wenrich",
+            " Lisa Demaine",
+            " "
+        ],
+        "ind": [
+            "Kieron Hawkes",
+            " Rob Hardy",
+            " Larysa Kondracki",
+            " Eif Rivera",
+            " Carl Seaton",
+            " Shana Stein",
+            " Deon Taylor",
+            " Bart Wenrich",
+            " Lisa Demaine",
+            " "
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Richard S. Lederer",
+            " Aaron Carew",
+            " Michael Cobian",
+            " Frank L. Fleming",
+            " Tara McSherry",
+            " Robert Munic",
+            " Elle Triedman",
+            " Bart Wenrich",
+            " Brian Badie",
+            " James R. McAllister"
+        ],
+        "may": [
+            "Richard S. Lederer",
+            " Aaron Carew",
+            " Michael Cobian",
+            " Frank L. Fleming",
+            " Tara McSherry",
+            " Robert Munic",
+            " Elle Triedman",
+            " Bart Wenrich",
+            " Brian Badie",
+            " James R. McAllister"
+        ],
+        "tam": [
+            "Richard S. Lederer",
+            " Aaron Carew",
+            " Michael Cobian",
+            " Frank L. Fleming",
+            " Tara McSherry",
+            " Robert Munic",
+            " Elle Triedman",
+            " Bart Wenrich",
+            " Brian Badie",
+            " James R. McAllister"
+        ],
+        "chi": [
+            "Richard S. Lederer",
+            " Aaron Carew",
+            " Michael Cobian",
+            " Frank L. Fleming",
+            " Tara McSherry",
+            " Robert Munic",
+            " Elle Triedman",
+            " Bart Wenrich",
+            " Brian Badie",
+            " James R. McAllister"
+        ],
+        "tha": [
+            "Richard S. Lederer",
+            " Aaron Carew",
+            " Michael Cobian",
+            " Frank L. Fleming",
+            " Tara McSherry",
+            " Robert Munic",
+            " Elle Triedman",
+            " Bart Wenrich",
+            " Brian Badie",
+            " James R. McAllister"
+        ],
+        "ind": [
+            "Richard S. Lederer",
+            " Aaron Carew",
+            " Michael Cobian",
+            " Frank L. Fleming",
+            " Tara McSherry",
+            " Robert Munic",
+            " Elle Triedman",
+            " Bart Wenrich",
+            " Brian Badie",
+            " James R. McAllister"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PowerBookIVForceSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PowerBookIVForceSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PowerBookIVForceSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_959e5540-dd5b-55a8-8893-e66ab76100d7",
+    "seasonId": "AggregatedSeason_6532ed4a-ae01-55ca-bea2-28e5b302a573",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

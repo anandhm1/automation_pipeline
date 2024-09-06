@@ -1,0 +1,287 @@
+{
+    "externalId": "AggregatedSeason_02f45e6f-d560-5e9a-9497-864231ebc795",
+    "clientContentId": "PACK0000000006337559",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "chi": "Crime",
+                    "tam": "Crime",
+                    "ind": "Crime",
+                    "tha": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "15",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "David Tennant",
+            " Stanley Tucci",
+            " Dolly Wells",
+            " Lydia West",
+            " Lyndsey Marshal",
+            " Louis Oliver",
+            " Atkins Estimond",
+            " Dylan Baker",
+            " Eke Chukwu",
+            " Kate Dickie"
+        ],
+        "may": [
+            "David Tennant",
+            " Stanley Tucci",
+            " Dolly Wells",
+            " Lydia West",
+            " Lyndsey Marshal",
+            " Louis Oliver",
+            " Atkins Estimond",
+            " Dylan Baker",
+            " Eke Chukwu",
+            " Kate Dickie"
+        ],
+        "chi": [
+            "David Tennant",
+            " Stanley Tucci",
+            " Dolly Wells",
+            " Lydia West",
+            " Lyndsey Marshal",
+            " Louis Oliver",
+            " Atkins Estimond",
+            " Dylan Baker",
+            " Eke Chukwu",
+            " Kate Dickie"
+        ],
+        "tam": [
+            "David Tennant",
+            " Stanley Tucci",
+            " Dolly Wells",
+            " Lydia West",
+            " Lyndsey Marshal",
+            " Louis Oliver",
+            " Atkins Estimond",
+            " Dylan Baker",
+            " Eke Chukwu",
+            " Kate Dickie"
+        ],
+        "ind": [
+            "David Tennant",
+            " Stanley Tucci",
+            " Dolly Wells",
+            " Lydia West",
+            " Lyndsey Marshal",
+            " Louis Oliver",
+            " Atkins Estimond",
+            " Dylan Baker",
+            " Eke Chukwu",
+            " Kate Dickie"
+        ],
+        "tha": [
+            "David Tennant",
+            " Stanley Tucci",
+            " Dolly Wells",
+            " Lydia West",
+            " Lyndsey Marshal",
+            " Louis Oliver",
+            " Atkins Estimond",
+            " Dylan Baker",
+            " Eke Chukwu",
+            " Kate Dickie"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Paul McGuigan"
+        ],
+        "may": [
+            "Paul McGuigan"
+        ],
+        "chi": [
+            "Paul McGuigan"
+        ],
+        "tam": [
+            "Paul McGuigan"
+        ],
+        "ind": [
+            "Paul McGuigan"
+        ],
+        "tha": [
+            "Paul McGuigan"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ben Irving",
+            " Paul McGuigan",
+            " Alex Mercer",
+            " Sue Vertue"
+        ],
+        "may": [
+            "Ben Irving",
+            " Paul McGuigan",
+            " Alex Mercer",
+            " Sue Vertue"
+        ],
+        "chi": [
+            "Ben Irving",
+            " Paul McGuigan",
+            " Alex Mercer",
+            " Sue Vertue"
+        ],
+        "tam": [
+            "Ben Irving",
+            " Paul McGuigan",
+            " Alex Mercer",
+            " Sue Vertue"
+        ],
+        "ind": [
+            "Ben Irving",
+            " Paul McGuigan",
+            " Alex Mercer",
+            " Sue Vertue"
+        ],
+        "tha": [
+            "Ben Irving",
+            " Paul McGuigan",
+            " Alex Mercer",
+            " Sue Vertue"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_ecd3fc34-aaff-5ec4-94ef-615123c3370e",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Inside Man Season 1",
+            "may": "Inside Man Season 1",
+            "chi": "Inside Man Season 1",
+            "tam": "Inside Man Season 1",
+            "ind": "Inside Man Season 1",
+            "tha": "Inside Man Season 1"
+        },
+        "long": {
+            "eng": "Inside Man Season 1",
+            "may": "Inside Man Season 1",
+            "chi": "Inside Man Season 1",
+            "tam": "Inside Man Season 1",
+            "ind": "Inside Man Season 1",
+            "tha": "Inside Man Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "may": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "chi": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "tam": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "ind": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "tha": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way."
+        },
+        "long": {
+            "eng": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "may": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "chi": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "tam": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "ind": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "tha": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/InsideManSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/InsideManSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/InsideManSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

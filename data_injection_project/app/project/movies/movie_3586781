@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_d4ab0cf4-0deb-5397-8fd5-3fa64afc1615",
+    "clientContentId": "PACK0000000006007116",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "THE CONJURING THE DEVIL MADE ME DO IT",
+            "may": "THE CONJURING THE DEVIL MADE ME DO IT",
+            "tam": "THE CONJURING THE DEVIL MADE ME DO IT",
+            "chi": "THE CONJURING THE DEVIL MADE ME DO IT",
+            "tha": "THE CONJURING THE DEVIL MADE ME DO IT",
+            "ind": "THE CONJURING THE DEVIL MADE ME DO IT"
+        },
+        "long": {
+            "eng": "THE CONJURING THE DEVIL MADE ME DO IT",
+            "may": "THE CONJURING THE DEVIL MADE ME DO IT",
+            "tam": "THE CONJURING THE DEVIL MADE ME DO IT",
+            "chi": "THE CONJURING THE DEVIL MADE ME DO IT",
+            "tha": "THE CONJURING THE DEVIL MADE ME DO IT",
+            "ind": "THE CONJURING THE DEVIL MADE ME DO IT"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The Warrens investigate a murder that may be linked to a demonic possession.",
+            "may": "The Warrens investigate a murder that may be linked to a demonic possession.",
+            "tam": "The Warrens investigate a murder that may be linked to a demonic possession.",
+            "chi": "The Warrens investigate a murder that may be linked to a demonic possession.",
+            "tha": "The Warrens investigate a murder that may be linked to a demonic possession.",
+            "ind": "The Warrens investigate a murder that may be linked to a demonic possession."
+        },
+        "long": {
+            "eng": "The Warrens investigate a murder that may be linked to a demonic possession.",
+            "may": "The Warrens investigate a murder that may be linked to a demonic possession.",
+            "tam": "The Warrens investigate a murder that may be linked to a demonic possession.",
+            "chi": "The Warrens investigate a murder that may be linked to a demonic possession.",
+            "tha": "The Warrens investigate a murder that may be linked to a demonic possession.",
+            "ind": "The Warrens investigate a murder that may be linked to a demonic possession."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Patrick Wilson",
+            " Vera Farmiga",
+            " Ruairi O'Connor",
+            " Sarah Catherine Hook",
+            " Julian Hilliard",
+            " John Noble",
+            " Eugenie Bondurant",
+            " Shannon Kook",
+            " Ronnie Gene Blevins",
+            " Keith Arthur Bolden"
+        ],
+        "may": [
+            "Patrick Wilson",
+            " Vera Farmiga",
+            " Ruairi O'Connor",
+            " Sarah Catherine Hook",
+            " Julian Hilliard",
+            " John Noble",
+            " Eugenie Bondurant",
+            " Shannon Kook",
+            " Ronnie Gene Blevins",
+            " Keith Arthur Bolden"
+        ],
+        "tam": [
+            "Patrick Wilson",
+            " Vera Farmiga",
+            " Ruairi O'Connor",
+            " Sarah Catherine Hook",
+            " Julian Hilliard",
+            " John Noble",
+            " Eugenie Bondurant",
+            " Shannon Kook",
+            " Ronnie Gene Blevins",
+            " Keith Arthur Bolden"
+        ],
+        "chi": [
+            "Patrick Wilson",
+            " Vera Farmiga",
+            " Ruairi O'Connor",
+            " Sarah Catherine Hook",
+            " Julian Hilliard",
+            " John Noble",
+            " Eugenie Bondurant",
+            " Shannon Kook",
+            " Ronnie Gene Blevins",
+            " Keith Arthur Bolden"
+        ],
+        "tha": [
+            "Patrick Wilson",
+            " Vera Farmiga",
+            " Ruairi O'Connor",
+            " Sarah Catherine Hook",
+            " Julian Hilliard",
+            " John Noble",
+            " Eugenie Bondurant",
+            " Shannon Kook",
+            " Ronnie Gene Blevins",
+            " Keith Arthur Bolden"
+        ],
+        "ind": [
+            "Patrick Wilson",
+            " Vera Farmiga",
+            " Ruairi O'Connor",
+            " Sarah Catherine Hook",
+            " Julian Hilliard",
+            " John Noble",
+            " Eugenie Bondurant",
+            " Shannon Kook",
+            " Ronnie Gene Blevins",
+            " Keith Arthur Bolden"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Michael Chaves"
+        ],
+        "may": [
+            "Michael Chaves"
+        ],
+        "tam": [
+            "Michael Chaves"
+        ],
+        "chi": [
+            "Michael Chaves"
+        ],
+        "tha": [
+            "Michael Chaves"
+        ],
+        "ind": [
+            "Michael Chaves"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Richard Brener",
+            " Michael Clear",
+            " Will Greenfield",
+            " Michelle Morrissey",
+            " Dave Neustadter",
+            " Victoria Palmeri",
+            " Peter Safran",
+            " Judson Scott",
+            " James Wan",
+            " "
+        ],
+        "may": [
+            "Richard Brener",
+            " Michael Clear",
+            " Will Greenfield",
+            " Michelle Morrissey",
+            " Dave Neustadter",
+            " Victoria Palmeri",
+            " Peter Safran",
+            " Judson Scott",
+            " James Wan",
+            " "
+        ],
+        "tam": [
+            "Richard Brener",
+            " Michael Clear",
+            " Will Greenfield",
+            " Michelle Morrissey",
+            " Dave Neustadter",
+            " Victoria Palmeri",
+            " Peter Safran",
+            " Judson Scott",
+            " James Wan",
+            " "
+        ],
+        "chi": [
+            "Richard Brener",
+            " Michael Clear",
+            " Will Greenfield",
+            " Michelle Morrissey",
+            " Dave Neustadter",
+            " Victoria Palmeri",
+            " Peter Safran",
+            " Judson Scott",
+            " James Wan",
+            " "
+        ],
+        "tha": [
+            "Richard Brener",
+            " Michael Clear",
+            " Will Greenfield",
+            " Michelle Morrissey",
+            " Dave Neustadter",
+            " Victoria Palmeri",
+            " Peter Safran",
+            " Judson Scott",
+            " James Wan",
+            " "
+        ],
+        "ind": [
+            "Richard Brener",
+            " Michael Clear",
+            " Will Greenfield",
+            " Michelle Morrissey",
+            " Dave Neustadter",
+            " Victoria Palmeri",
+            " Peter Safran",
+            " Judson Scott",
+            " James Wan",
+            " "
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Horror",
+                    "may": "Horror",
+                    "tam": "Horror",
+                    "chi": "Horror",
+                    "tha": "Horror",
+                    "ind": "Horror"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Mystery",
+                    "may": " Mystery",
+                    "tam": " Mystery",
+                    "chi": " Mystery",
+                    "tha": " Mystery",
+                    "ind": " Mystery"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/THECONJURINGTHEDEVILMADEMEDOIT_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/THECONJURINGTHEDEVILMADEMEDOIT_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/THECONJURINGTHEDEVILMADEMEDOIT_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2021,
+    "rating": "6.3",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

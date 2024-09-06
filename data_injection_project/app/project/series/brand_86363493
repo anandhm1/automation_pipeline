@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedSeries_668bbd80-71df-5511-987d-28e15226f5ee",
+    "clientContentId": "PACK0000000007402180",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Mindhunter",
+            "may": "Mindhunter",
+            "tam": "Mindhunter",
+            "chi": "Mindhunter",
+            "tha": "Mindhunter",
+            "ind": "Mindhunter"
+        },
+        "long": {
+            "eng": "Mindhunter",
+            "may": "Mindhunter",
+            "tam": "Mindhunter",
+            "chi": "Mindhunter",
+            "tha": "Mindhunter",
+            "ind": "Mindhunter"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "may": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "tam": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "chi": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "tha": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "ind": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases."
+        },
+        "long": {
+            "eng": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "may": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "tam": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "chi": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "tha": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "ind": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "may": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "tam": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "chi": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "tha": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "ind": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "may": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "tam": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "chi": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "tha": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "ind": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "may": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "tam": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "chi": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "tha": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "ind": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MindhunterS01Ep01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MindhunterS01Ep01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MindhunterS01Ep01_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "7",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2017,
+    "maxConcurrentStreams": 0
+}

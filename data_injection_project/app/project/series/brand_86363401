@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedSeries_1e89b846-b881-514f-86b1-f154e65ba353",
+    "clientContentId": "PACK0000000008551193",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "House Of The Dragon",
+            "may": "House Of The Dragon",
+            "tam": "House Of The Dragon",
+            "chi": "House Of The Dragon",
+            "tha": "House Of The Dragon",
+            "ind": "House Of The Dragon"
+        },
+        "long": {
+            "eng": "House Of The Dragon",
+            "may": "House Of The Dragon",
+            "tam": "House Of The Dragon",
+            "chi": "House Of The Dragon",
+            "tha": "House Of The Dragon",
+            "ind": "House Of The Dragon"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+            "may": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+            "tam": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+            "chi": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+            "tha": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+            "ind": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen."
+        },
+        "long": {
+            "eng": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+            "may": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+            "tam": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+            "chi": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+            "tha": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+            "ind": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Matt Smith",
+            " Graham McTavish",
+            " Eve Best",
+            " Steve Toussaint",
+            " Emma D'Arcy",
+            " Matthew Needham",
+            " Olivia Cooke",
+            " Ewan Mitchell",
+            " Harry Collett",
+            " Tom Glynn-Carney"
+        ],
+        "may": [
+            "Matt Smith",
+            " Graham McTavish",
+            " Eve Best",
+            " Steve Toussaint",
+            " Emma D'Arcy",
+            " Matthew Needham",
+            " Olivia Cooke",
+            " Ewan Mitchell",
+            " Harry Collett",
+            " Tom Glynn-Carney"
+        ],
+        "tam": [
+            "Matt Smith",
+            " Graham McTavish",
+            " Eve Best",
+            " Steve Toussaint",
+            " Emma D'Arcy",
+            " Matthew Needham",
+            " Olivia Cooke",
+            " Ewan Mitchell",
+            " Harry Collett",
+            " Tom Glynn-Carney"
+        ],
+        "chi": [
+            "Matt Smith",
+            " Graham McTavish",
+            " Eve Best",
+            " Steve Toussaint",
+            " Emma D'Arcy",
+            " Matthew Needham",
+            " Olivia Cooke",
+            " Ewan Mitchell",
+            " Harry Collett",
+            " Tom Glynn-Carney"
+        ],
+        "tha": [
+            "Matt Smith",
+            " Graham McTavish",
+            " Eve Best",
+            " Steve Toussaint",
+            " Emma D'Arcy",
+            " Matthew Needham",
+            " Olivia Cooke",
+            " Ewan Mitchell",
+            " Harry Collett",
+            " Tom Glynn-Carney"
+        ],
+        "ind": [
+            "Matt Smith",
+            " Graham McTavish",
+            " Eve Best",
+            " Steve Toussaint",
+            " Emma D'Arcy",
+            " Matthew Needham",
+            " Olivia Cooke",
+            " Ewan Mitchell",
+            " Harry Collett",
+            " Tom Glynn-Carney"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Clare Kilner",
+            " Miguel Sapochnik",
+            " Greg Yaitanes",
+            " Geeta Vasant Patel",
+            " Alan Taylor",
+            " Andrij Parekh"
+        ],
+        "may": [
+            "Clare Kilner",
+            " Miguel Sapochnik",
+            " Greg Yaitanes",
+            " Geeta Vasant Patel",
+            " Alan Taylor",
+            " Andrij Parekh"
+        ],
+        "tam": [
+            "Clare Kilner",
+            " Miguel Sapochnik",
+            " Greg Yaitanes",
+            " Geeta Vasant Patel",
+            " Alan Taylor",
+            " Andrij Parekh"
+        ],
+        "chi": [
+            "Clare Kilner",
+            " Miguel Sapochnik",
+            " Greg Yaitanes",
+            " Geeta Vasant Patel",
+            " Alan Taylor",
+            " Andrij Parekh"
+        ],
+        "tha": [
+            "Clare Kilner",
+            " Miguel Sapochnik",
+            " Greg Yaitanes",
+            " Geeta Vasant Patel",
+            " Alan Taylor",
+            " Andrij Parekh"
+        ],
+        "ind": [
+            "Clare Kilner",
+            " Miguel Sapochnik",
+            " Greg Yaitanes",
+            " Geeta Vasant Patel",
+            " Alan Taylor",
+            " Andrij Parekh"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ryan J. Condal",
+            " Charmaine De Grate",
+            " Jocelyn Diaz",
+            " Pam Fitzgerald",
+            " Gabe Fonseca",
+            " Toby Ford",
+            " Vince Gerardis",
+            " Hannah Godwin",
+            " David Hancock",
+            " Sara Hess"
+        ],
+        "may": [
+            "Ryan J. Condal",
+            " Charmaine De Grate",
+            " Jocelyn Diaz",
+            " Pam Fitzgerald",
+            " Gabe Fonseca",
+            " Toby Ford",
+            " Vince Gerardis",
+            " Hannah Godwin",
+            " David Hancock",
+            " Sara Hess"
+        ],
+        "tam": [
+            "Ryan J. Condal",
+            " Charmaine De Grate",
+            " Jocelyn Diaz",
+            " Pam Fitzgerald",
+            " Gabe Fonseca",
+            " Toby Ford",
+            " Vince Gerardis",
+            " Hannah Godwin",
+            " David Hancock",
+            " Sara Hess"
+        ],
+        "chi": [
+            "Ryan J. Condal",
+            " Charmaine De Grate",
+            " Jocelyn Diaz",
+            " Pam Fitzgerald",
+            " Gabe Fonseca",
+            " Toby Ford",
+            " Vince Gerardis",
+            " Hannah Godwin",
+            " David Hancock",
+            " Sara Hess"
+        ],
+        "tha": [
+            "Ryan J. Condal",
+            " Charmaine De Grate",
+            " Jocelyn Diaz",
+            " Pam Fitzgerald",
+            " Gabe Fonseca",
+            " Toby Ford",
+            " Vince Gerardis",
+            " Hannah Godwin",
+            " David Hancock",
+            " Sara Hess"
+        ],
+        "ind": [
+            "Ryan J. Condal",
+            " Charmaine De Grate",
+            " Jocelyn Diaz",
+            " Pam Fitzgerald",
+            " Gabe Fonseca",
+            " Toby Ford",
+            " Vince Gerardis",
+            " Hannah Godwin",
+            " David Hancock",
+            " Sara Hess"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HouseoftheDragonSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HouseoftheDragonSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HouseoftheDragonSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "8",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2022,
+    "maxConcurrentStreams": 0
+}

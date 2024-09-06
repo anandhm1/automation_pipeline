@@ -1,0 +1,319 @@
+{
+    "externalId": "AggregatedSeries_4d151638-6082-56d5-b1fa-d968930749fa",
+    "clientContentId": "PACK0000000007998509",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "She-Hulk Attorney At Law",
+            "may": "She-Hulk Attorney At Law",
+            "tam": "She-Hulk Attorney At Law",
+            "chi": "She-Hulk Attorney At Law",
+            "tha": "She-Hulk Attorney At Law",
+            "ind": "She-Hulk Attorney At Law"
+        },
+        "long": {
+            "eng": "She-Hulk Attorney At Law",
+            "may": "She-Hulk Attorney At Law",
+            "tam": "She-Hulk Attorney At Law",
+            "chi": "She-Hulk Attorney At Law",
+            "tha": "She-Hulk Attorney At Law",
+            "ind": "She-Hulk Attorney At Law"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "may": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "tam": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "chi": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "tha": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "ind": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk."
+        },
+        "long": {
+            "eng": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "may": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "tam": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "chi": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "tha": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "ind": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Tatiana Maslany",
+            " Ginger Gonzaga",
+            " Malia Arrayah",
+            " Jameela Jamil",
+            " Steve Coulter",
+            " Ren\u00e9e Elise Goldsberry",
+            " Josh Segarra",
+            " Tim Roth",
+            " Mark Linn-Baker",
+            " Jon Bass"
+        ],
+        "may": [
+            "Tatiana Maslany",
+            " Ginger Gonzaga",
+            " Malia Arrayah",
+            " Jameela Jamil",
+            " Steve Coulter",
+            " Ren\u00e9e Elise Goldsberry",
+            " Josh Segarra",
+            " Tim Roth",
+            " Mark Linn-Baker",
+            " Jon Bass"
+        ],
+        "tam": [
+            "Tatiana Maslany",
+            " Ginger Gonzaga",
+            " Malia Arrayah",
+            " Jameela Jamil",
+            " Steve Coulter",
+            " Ren\u00e9e Elise Goldsberry",
+            " Josh Segarra",
+            " Tim Roth",
+            " Mark Linn-Baker",
+            " Jon Bass"
+        ],
+        "chi": [
+            "Tatiana Maslany",
+            " Ginger Gonzaga",
+            " Malia Arrayah",
+            " Jameela Jamil",
+            " Steve Coulter",
+            " Ren\u00e9e Elise Goldsberry",
+            " Josh Segarra",
+            " Tim Roth",
+            " Mark Linn-Baker",
+            " Jon Bass"
+        ],
+        "tha": [
+            "Tatiana Maslany",
+            " Ginger Gonzaga",
+            " Malia Arrayah",
+            " Jameela Jamil",
+            " Steve Coulter",
+            " Ren\u00e9e Elise Goldsberry",
+            " Josh Segarra",
+            " Tim Roth",
+            " Mark Linn-Baker",
+            " Jon Bass"
+        ],
+        "ind": [
+            "Tatiana Maslany",
+            " Ginger Gonzaga",
+            " Malia Arrayah",
+            " Jameela Jamil",
+            " Steve Coulter",
+            " Ren\u00e9e Elise Goldsberry",
+            " Josh Segarra",
+            " Tim Roth",
+            " Mark Linn-Baker",
+            " Jon Bass"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Kat Coiro",
+            " Anu Valia"
+        ],
+        "may": [
+            "Kat Coiro",
+            " Anu Valia"
+        ],
+        "tam": [
+            "Kat Coiro",
+            " Anu Valia"
+        ],
+        "chi": [
+            "Kat Coiro",
+            " Anu Valia"
+        ],
+        "tha": [
+            "Kat Coiro",
+            " Anu Valia"
+        ],
+        "ind": [
+            "Kat Coiro",
+            " Anu Valia"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Victoria Alonso",
+            " Jennifer Booth",
+            " Kara Brown",
+            " Kat Coiro",
+            " Barbara Curry",
+            " Louis D'Esposito",
+            " Ken Farrington",
+            " Kevin Feige",
+            " Sarah Finn",
+            " Jessica Gao"
+        ],
+        "may": [
+            "Victoria Alonso",
+            " Jennifer Booth",
+            " Kara Brown",
+            " Kat Coiro",
+            " Barbara Curry",
+            " Louis D'Esposito",
+            " Ken Farrington",
+            " Kevin Feige",
+            " Sarah Finn",
+            " Jessica Gao"
+        ],
+        "tam": [
+            "Victoria Alonso",
+            " Jennifer Booth",
+            " Kara Brown",
+            " Kat Coiro",
+            " Barbara Curry",
+            " Louis D'Esposito",
+            " Ken Farrington",
+            " Kevin Feige",
+            " Sarah Finn",
+            " Jessica Gao"
+        ],
+        "chi": [
+            "Victoria Alonso",
+            " Jennifer Booth",
+            " Kara Brown",
+            " Kat Coiro",
+            " Barbara Curry",
+            " Louis D'Esposito",
+            " Ken Farrington",
+            " Kevin Feige",
+            " Sarah Finn",
+            " Jessica Gao"
+        ],
+        "tha": [
+            "Victoria Alonso",
+            " Jennifer Booth",
+            " Kara Brown",
+            " Kat Coiro",
+            " Barbara Curry",
+            " Louis D'Esposito",
+            " Ken Farrington",
+            " Kevin Feige",
+            " Sarah Finn",
+            " Jessica Gao"
+        ],
+        "ind": [
+            "Victoria Alonso",
+            " Jennifer Booth",
+            " Kara Brown",
+            " Kat Coiro",
+            " Barbara Curry",
+            " Louis D'Esposito",
+            " Ken Farrington",
+            " Kevin Feige",
+            " Sarah Finn",
+            " Jessica Gao"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/She-HulkAttorneyatLawSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/She-HulkAttorneyatLawSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/She-HulkAttorneyatLawSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "8",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2022,
+    "maxConcurrentStreams": 0
+}

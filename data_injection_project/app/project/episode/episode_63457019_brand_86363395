@@ -1,0 +1,325 @@
+{
+    "externalId": "AggregatedTvShow_9d7aa1ba-e438-5bce-88bf-63abd8e6158b",
+    "clientContentId": "PACK0000000006127217",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Echoes - Trailer",
+            "may": "Echoes - Trailer",
+            "tam": "Echoes - Trailer",
+            "chi": "Echoes - Trailer",
+            "tha": "Echoes - Trailer",
+            "ind": "Echoes - Trailer"
+        },
+        "long": {
+            "eng": "Echoes - Trailer",
+            "may": "Echoes - Trailer",
+            "tam": "Echoes - Trailer",
+            "chi": "Echoes - Trailer",
+            "tha": "Echoes - Trailer",
+            "ind": "Echoes - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "may": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "tam": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "chi": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "tha": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "ind": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos."
+        },
+        "long": {
+            "eng": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "may": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "tam": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "chi": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "tha": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "ind": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Michelle Monaghan",
+            " Matt Bomer",
+            " Karen Robinson",
+            " Ali Stroker",
+            " Gable Swanlund",
+            " Rosanny ZayasMichael O'NeillJonathan TuckerDaniel SunjataMadison Abbott"
+        ],
+        "may": [
+            "Michelle Monaghan",
+            " Matt Bomer",
+            " Karen Robinson",
+            " Ali Stroker",
+            " Gable Swanlund",
+            " Rosanny ZayasMichael O'NeillJonathan TuckerDaniel SunjataMadison Abbott"
+        ],
+        "tam": [
+            "Michelle Monaghan",
+            " Matt Bomer",
+            " Karen Robinson",
+            " Ali Stroker",
+            " Gable Swanlund",
+            " Rosanny ZayasMichael O'NeillJonathan TuckerDaniel SunjataMadison Abbott"
+        ],
+        "chi": [
+            "Michelle Monaghan",
+            " Matt Bomer",
+            " Karen Robinson",
+            " Ali Stroker",
+            " Gable Swanlund",
+            " Rosanny ZayasMichael O'NeillJonathan TuckerDaniel SunjataMadison Abbott"
+        ],
+        "tha": [
+            "Michelle Monaghan",
+            " Matt Bomer",
+            " Karen Robinson",
+            " Ali Stroker",
+            " Gable Swanlund",
+            " Rosanny ZayasMichael O'NeillJonathan TuckerDaniel SunjataMadison Abbott"
+        ],
+        "ind": [
+            "Michelle Monaghan",
+            " Matt Bomer",
+            " Karen Robinson",
+            " Ali Stroker",
+            " Gable Swanlund",
+            " Rosanny ZayasMichael O'NeillJonathan TuckerDaniel SunjataMadison Abbott"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Kat Candler",
+            " Li Lu",
+            " Anna Mastro",
+            " Valerie Weiss",
+            " ",
+            " "
+        ],
+        "may": [
+            "Kat Candler",
+            " Li Lu",
+            " Anna Mastro",
+            " Valerie Weiss",
+            " ",
+            " "
+        ],
+        "tam": [
+            "Kat Candler",
+            " Li Lu",
+            " Anna Mastro",
+            " Valerie Weiss",
+            " ",
+            " "
+        ],
+        "chi": [
+            "Kat Candler",
+            " Li Lu",
+            " Anna Mastro",
+            " Valerie Weiss",
+            " ",
+            " "
+        ],
+        "tha": [
+            "Kat Candler",
+            " Li Lu",
+            " Anna Mastro",
+            " Valerie Weiss",
+            " ",
+            " "
+        ],
+        "ind": [
+            "Kat Candler",
+            " Li Lu",
+            " Anna Mastro",
+            " Valerie Weiss",
+            " ",
+            " "
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Imogen Banks",
+            " Vanessa Gazy",
+            " Thomas Glinkowski",
+            " Julie H\u00e9bert",
+            " Paul M. Leonard",
+            " Quinton PeeplesCarole PetermanMimi Won TechentinBrian YorkeyBrian Moraga"
+        ],
+        "may": [
+            "Imogen Banks",
+            " Vanessa Gazy",
+            " Thomas Glinkowski",
+            " Julie H\u00e9bert",
+            " Paul M. Leonard",
+            " Quinton PeeplesCarole PetermanMimi Won TechentinBrian YorkeyBrian Moraga"
+        ],
+        "tam": [
+            "Imogen Banks",
+            " Vanessa Gazy",
+            " Thomas Glinkowski",
+            " Julie H\u00e9bert",
+            " Paul M. Leonard",
+            " Quinton PeeplesCarole PetermanMimi Won TechentinBrian YorkeyBrian Moraga"
+        ],
+        "chi": [
+            "Imogen Banks",
+            " Vanessa Gazy",
+            " Thomas Glinkowski",
+            " Julie H\u00e9bert",
+            " Paul M. Leonard",
+            " Quinton PeeplesCarole PetermanMimi Won TechentinBrian YorkeyBrian Moraga"
+        ],
+        "tha": [
+            "Imogen Banks",
+            " Vanessa Gazy",
+            " Thomas Glinkowski",
+            " Julie H\u00e9bert",
+            " Paul M. Leonard",
+            " Quinton PeeplesCarole PetermanMimi Won TechentinBrian YorkeyBrian Moraga"
+        ],
+        "ind": [
+            "Imogen Banks",
+            " Vanessa Gazy",
+            " Thomas Glinkowski",
+            " Julie H\u00e9bert",
+            " Paul M. Leonard",
+            " Quinton PeeplesCarole PetermanMimi Won TechentinBrian YorkeyBrian Moraga"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Mystery",
+                    "may": " Mystery",
+                    "tam": " Mystery",
+                    "chi": " Mystery",
+                    "tha": " Mystery",
+                    "ind": " Mystery"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/EchoesSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/EchoesSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/EchoesSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_02f59420-00f1-510c-9056-695031655a15",
+    "seasonId": "AggregatedSeason_8b4c64e1-3239-5f4d-817a-d1cc88431fce",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "MA15+",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

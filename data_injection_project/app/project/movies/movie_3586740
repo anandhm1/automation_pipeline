@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedMovie_2c8d04c1-15a1-59de-a801-6b61d06da39b",
+    "clientContentId": "PACK0000000008362721",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Emily",
+            "may": "Emily",
+            "tam": "Emily",
+            "chi": "Emily",
+            "tha": "Emily",
+            "ind": "Emily"
+        },
+        "long": {
+            "eng": "Emily",
+            "may": "Emily",
+            "tam": "Emily",
+            "chi": "Emily",
+            "tha": "Emily",
+            "ind": "Emily"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Emily imagines the transformative, exhilarating, and uplifting journey to womanhood of a rebel and a misfit, one of the world's most famous, enigmatic, and provocative writers, who died, too soon, at age 30.",
+            "may": "Emily imagines the transformative, exhilarating, and uplifting journey to womanhood of a rebel and a misfit, one of the world's most famous, enigmatic, and provocative writers, who died, too soon, at age 30.",
+            "tam": "Emily imagines the transformative, exhilarating, and uplifting journey to womanhood of a rebel and a misfit, one of the world's most famous, enigmatic, and provocative writers, who died, too soon, at age 30.",
+            "chi": "Emily imagines the transformative, exhilarating, and uplifting journey to womanhood of a rebel and a misfit, one of the world's most famous, enigmatic, and provocative writers, who died, too soon, at age 30.",
+            "tha": "Emily imagines the transformative, exhilarating, and uplifting journey to womanhood of a rebel and a misfit, one of the world's most famous, enigmatic, and provocative writers, who died, too soon, at age 30.",
+            "ind": "Emily imagines the transformative, exhilarating, and uplifting journey to womanhood of a rebel and a misfit, one of the world's most famous, enigmatic, and provocative writers, who died, too soon, at age 30."
+        },
+        "long": {
+            "eng": "Emily imagines the transformative, exhilarating, and uplifting journey to womanhood of a rebel and a misfit, one of the world's most famous, enigmatic, and provocative writers, who died, too soon, at age 30.",
+            "may": "Emily imagines the transformative, exhilarating, and uplifting journey to womanhood of a rebel and a misfit, one of the world's most famous, enigmatic, and provocative writers, who died, too soon, at age 30.",
+            "tam": "Emily imagines the transformative, exhilarating, and uplifting journey to womanhood of a rebel and a misfit, one of the world's most famous, enigmatic, and provocative writers, who died, too soon, at age 30.",
+            "chi": "Emily imagines the transformative, exhilarating, and uplifting journey to womanhood of a rebel and a misfit, one of the world's most famous, enigmatic, and provocative writers, who died, too soon, at age 30.",
+            "tha": "Emily imagines the transformative, exhilarating, and uplifting journey to womanhood of a rebel and a misfit, one of the world's most famous, enigmatic, and provocative writers, who died, too soon, at age 30.",
+            "ind": "Emily imagines the transformative, exhilarating, and uplifting journey to womanhood of a rebel and a misfit, one of the world's most famous, enigmatic, and provocative writers, who died, too soon, at age 30."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Emma Mackey",
+            " Oliver Jackson-Cohen",
+            " Fionn Whitehead",
+            " Alexandra Dowling",
+            " Amelia Gething",
+            " Adrian DunbarGemma JonesVeronica RobertsGerald LepkowskiCara Foley"
+        ],
+        "may": [
+            "Emma Mackey",
+            " Oliver Jackson-Cohen",
+            " Fionn Whitehead",
+            " Alexandra Dowling",
+            " Amelia Gething",
+            " Adrian DunbarGemma JonesVeronica RobertsGerald LepkowskiCara Foley"
+        ],
+        "tam": [
+            "Emma Mackey",
+            " Oliver Jackson-Cohen",
+            " Fionn Whitehead",
+            " Alexandra Dowling",
+            " Amelia Gething",
+            " Adrian DunbarGemma JonesVeronica RobertsGerald LepkowskiCara Foley"
+        ],
+        "chi": [
+            "Emma Mackey",
+            " Oliver Jackson-Cohen",
+            " Fionn Whitehead",
+            " Alexandra Dowling",
+            " Amelia Gething",
+            " Adrian DunbarGemma JonesVeronica RobertsGerald LepkowskiCara Foley"
+        ],
+        "tha": [
+            "Emma Mackey",
+            " Oliver Jackson-Cohen",
+            " Fionn Whitehead",
+            " Alexandra Dowling",
+            " Amelia Gething",
+            " Adrian DunbarGemma JonesVeronica RobertsGerald LepkowskiCara Foley"
+        ],
+        "ind": [
+            "Emma Mackey",
+            " Oliver Jackson-Cohen",
+            " Fionn Whitehead",
+            " Alexandra Dowling",
+            " Amelia Gething",
+            " Adrian DunbarGemma JonesVeronica RobertsGerald LepkowskiCara Foley"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Frances O'Connor"
+        ],
+        "may": [
+            "Frances O'Connor"
+        ],
+        "tam": [
+            "Frances O'Connor"
+        ],
+        "chi": [
+            "Frances O'Connor"
+        ],
+        "tha": [
+            "Frances O'Connor"
+        ],
+        "ind": [
+            "Frances O'Connor"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jo Bamford",
+            " Sebastian Barker",
+            " David Barron",
+            " Robert Connolly",
+            " Lauren Cox",
+            " Hugo GrumbarTim HaslamJamie JessopAbel KorzeniowskiJanine Modder"
+        ],
+        "may": [
+            "Jo Bamford",
+            " Sebastian Barker",
+            " David Barron",
+            " Robert Connolly",
+            " Lauren Cox",
+            " Hugo GrumbarTim HaslamJamie JessopAbel KorzeniowskiJanine Modder"
+        ],
+        "tam": [
+            "Jo Bamford",
+            " Sebastian Barker",
+            " David Barron",
+            " Robert Connolly",
+            " Lauren Cox",
+            " Hugo GrumbarTim HaslamJamie JessopAbel KorzeniowskiJanine Modder"
+        ],
+        "chi": [
+            "Jo Bamford",
+            " Sebastian Barker",
+            " David Barron",
+            " Robert Connolly",
+            " Lauren Cox",
+            " Hugo GrumbarTim HaslamJamie JessopAbel KorzeniowskiJanine Modder"
+        ],
+        "tha": [
+            "Jo Bamford",
+            " Sebastian Barker",
+            " David Barron",
+            " Robert Connolly",
+            " Lauren Cox",
+            " Hugo GrumbarTim HaslamJamie JessopAbel KorzeniowskiJanine Modder"
+        ],
+        "ind": [
+            "Jo Bamford",
+            " Sebastian Barker",
+            " David Barron",
+            " Robert Connolly",
+            " Lauren Cox",
+            " Hugo GrumbarTim HaslamJamie JessopAbel KorzeniowskiJanine Modder"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Biography",
+                    "may": "Biography",
+                    "tam": "Biography",
+                    "chi": "Biography",
+                    "tha": "Biography",
+                    "ind": "Biography"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Emily_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Emily_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Emily_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "6.9",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

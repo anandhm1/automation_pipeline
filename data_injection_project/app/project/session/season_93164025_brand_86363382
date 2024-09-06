@@ -1,0 +1,335 @@
+{
+    "externalId": "AggregatedSeason_b3b2a241-ae0b-5a8f-9188-85a6dbdc1b5b",
+    "clientContentId": "PACK0000000005144985",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "chi": "Crime",
+                    "tam": "Crime",
+                    "ind": "Crime",
+                    "tha": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2018,
+    "rating": "14+",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Kim Coates",
+            " Louis Ferreira",
+            " Sharon Taylor",
+            " Melanie Scrofano",
+            " Dylan Taylor",
+            " Anna Hopkins",
+            " Daniel Kash",
+            " Lisa Berry",
+            " Ryan McDonald",
+            " Franco Lo Presti"
+        ],
+        "may": [
+            "Kim Coates",
+            " Louis Ferreira",
+            " Sharon Taylor",
+            " Melanie Scrofano",
+            " Dylan Taylor",
+            " Anna Hopkins",
+            " Daniel Kash",
+            " Lisa Berry",
+            " Ryan McDonald",
+            " Franco Lo Presti"
+        ],
+        "chi": [
+            "Kim Coates",
+            " Louis Ferreira",
+            " Sharon Taylor",
+            " Melanie Scrofano",
+            " Dylan Taylor",
+            " Anna Hopkins",
+            " Daniel Kash",
+            " Lisa Berry",
+            " Ryan McDonald",
+            " Franco Lo Presti"
+        ],
+        "tam": [
+            "Kim Coates",
+            " Louis Ferreira",
+            " Sharon Taylor",
+            " Melanie Scrofano",
+            " Dylan Taylor",
+            " Anna Hopkins",
+            " Daniel Kash",
+            " Lisa Berry",
+            " Ryan McDonald",
+            " Franco Lo Presti"
+        ],
+        "ind": [
+            "Kim Coates",
+            " Louis Ferreira",
+            " Sharon Taylor",
+            " Melanie Scrofano",
+            " Dylan Taylor",
+            " Anna Hopkins",
+            " Daniel Kash",
+            " Lisa Berry",
+            " Ryan McDonald",
+            " Franco Lo Presti"
+        ],
+        "tha": [
+            "Kim Coates",
+            " Louis Ferreira",
+            " Sharon Taylor",
+            " Melanie Scrofano",
+            " Dylan Taylor",
+            " Anna Hopkins",
+            " Daniel Kash",
+            " Lisa Berry",
+            " Ryan McDonald",
+            " Franco Lo Presti"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Alain Desrochers",
+            " Jeff Renfroe",
+            " Molly McGlynn"
+        ],
+        "may": [
+            "Alain Desrochers",
+            " Jeff Renfroe",
+            " Molly McGlynn"
+        ],
+        "chi": [
+            "Alain Desrochers",
+            " Jeff Renfroe",
+            " Molly McGlynn"
+        ],
+        "tam": [
+            "Alain Desrochers",
+            " Jeff Renfroe",
+            " Molly McGlynn"
+        ],
+        "ind": [
+            "Alain Desrochers",
+            " Jeff Renfroe",
+            " Molly McGlynn"
+        ],
+        "tha": [
+            "Alain Desrochers",
+            " Jeff Renfroe",
+            " Molly McGlynn"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Simon Barry",
+            " Kim Coates",
+            " Michael Konyves",
+            " Lauren MacKinlay",
+            " Mark Montefiore",
+            " Cameron MacLaren",
+            " Alison Lea Bingeman",
+            " Nataline Rodrigues",
+            " Paula J. Smith",
+            " Jos\u00e9e Vall\u00e9e"
+        ],
+        "may": [
+            "Simon Barry",
+            " Kim Coates",
+            " Michael Konyves",
+            " Lauren MacKinlay",
+            " Mark Montefiore",
+            " Cameron MacLaren",
+            " Alison Lea Bingeman",
+            " Nataline Rodrigues",
+            " Paula J. Smith",
+            " Jos\u00e9e Vall\u00e9e"
+        ],
+        "chi": [
+            "Simon Barry",
+            " Kim Coates",
+            " Michael Konyves",
+            " Lauren MacKinlay",
+            " Mark Montefiore",
+            " Cameron MacLaren",
+            " Alison Lea Bingeman",
+            " Nataline Rodrigues",
+            " Paula J. Smith",
+            " Jos\u00e9e Vall\u00e9e"
+        ],
+        "tam": [
+            "Simon Barry",
+            " Kim Coates",
+            " Michael Konyves",
+            " Lauren MacKinlay",
+            " Mark Montefiore",
+            " Cameron MacLaren",
+            " Alison Lea Bingeman",
+            " Nataline Rodrigues",
+            " Paula J. Smith",
+            " Jos\u00e9e Vall\u00e9e"
+        ],
+        "ind": [
+            "Simon Barry",
+            " Kim Coates",
+            " Michael Konyves",
+            " Lauren MacKinlay",
+            " Mark Montefiore",
+            " Cameron MacLaren",
+            " Alison Lea Bingeman",
+            " Nataline Rodrigues",
+            " Paula J. Smith",
+            " Jos\u00e9e Vall\u00e9e"
+        ],
+        "tha": [
+            "Simon Barry",
+            " Kim Coates",
+            " Michael Konyves",
+            " Lauren MacKinlay",
+            " Mark Montefiore",
+            " Cameron MacLaren",
+            " Alison Lea Bingeman",
+            " Nataline Rodrigues",
+            " Paula J. Smith",
+            " Jos\u00e9e Vall\u00e9e"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_2bfa256e-f387-5a98-999b-b4c3ba258c39",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Bad Bloods Season 1",
+            "may": "Bad Bloods Season 1",
+            "chi": "Bad Bloods Season 1",
+            "tam": "Bad Bloods Season 1",
+            "ind": "Bad Bloods Season 1",
+            "tha": "Bad Bloods Season 1"
+        },
+        "long": {
+            "eng": "Bad Bloods Season 1",
+            "may": "Bad Bloods Season 1",
+            "chi": "Bad Bloods Season 1",
+            "tam": "Bad Bloods Season 1",
+            "ind": "Bad Bloods Season 1",
+            "tha": "Bad Bloods Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "may": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "chi": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "tam": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "ind": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "tha": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto."
+        },
+        "long": {
+            "eng": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "may": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "chi": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "tam": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "ind": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "tha": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BadBloodsSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BadBloodsSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BadBloodsSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

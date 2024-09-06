@@ -1,0 +1,349 @@
+{
+    "externalId": "AggregatedTvShow_57ef4e9c-61f9-58bf-ae54-bdde409eb471",
+    "clientContentId": "PACK0000000009342165",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Luden -Hamburg Hustle",
+            "may": "Luden -Hamburg Hustle",
+            "tam": "Luden -Hamburg Hustle",
+            "chi": "Luden -Hamburg Hustle",
+            "tha": "Luden -Hamburg Hustle",
+            "ind": "Luden -Hamburg Hustle"
+        },
+        "long": {
+            "eng": "Luden -Hamburg Hustle",
+            "may": "Luden -Hamburg Hustle",
+            "tam": "Luden -Hamburg Hustle",
+            "chi": "Luden -Hamburg Hustle",
+            "tha": "Luden -Hamburg Hustle",
+            "ind": "Luden -Hamburg Hustle"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "may": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "tam": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "chi": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "tha": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "ind": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH."
+        },
+        "long": {
+            "eng": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "may": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "tam": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "chi": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "tha": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH.",
+            "ind": "Klaus works in a bar, dreaming of rising to the top and living a glamorous life. When he meets Jutta, his dreams come into grasp, but he has to face off against the established pimps of the GMBH."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Aaron Hilmer",
+            " Jeanette Hain",
+            " Henning Fl\u00fcsloh",
+            " Lena Urzendowsky",
+            " Karsten Antonio Mielke",
+            " Stefan Konarske",
+            " Stephan Kampwirth",
+            " Ada Philine Stappenbeck",
+            " Nicki von Tempelhoff",
+            " Tim Wilde"
+        ],
+        "may": [
+            "Aaron Hilmer",
+            " Jeanette Hain",
+            " Henning Fl\u00fcsloh",
+            " Lena Urzendowsky",
+            " Karsten Antonio Mielke",
+            " Stefan Konarske",
+            " Stephan Kampwirth",
+            " Ada Philine Stappenbeck",
+            " Nicki von Tempelhoff",
+            " Tim Wilde"
+        ],
+        "tam": [
+            "Aaron Hilmer",
+            " Jeanette Hain",
+            " Henning Fl\u00fcsloh",
+            " Lena Urzendowsky",
+            " Karsten Antonio Mielke",
+            " Stefan Konarske",
+            " Stephan Kampwirth",
+            " Ada Philine Stappenbeck",
+            " Nicki von Tempelhoff",
+            " Tim Wilde"
+        ],
+        "chi": [
+            "Aaron Hilmer",
+            " Jeanette Hain",
+            " Henning Fl\u00fcsloh",
+            " Lena Urzendowsky",
+            " Karsten Antonio Mielke",
+            " Stefan Konarske",
+            " Stephan Kampwirth",
+            " Ada Philine Stappenbeck",
+            " Nicki von Tempelhoff",
+            " Tim Wilde"
+        ],
+        "tha": [
+            "Aaron Hilmer",
+            " Jeanette Hain",
+            " Henning Fl\u00fcsloh",
+            " Lena Urzendowsky",
+            " Karsten Antonio Mielke",
+            " Stefan Konarske",
+            " Stephan Kampwirth",
+            " Ada Philine Stappenbeck",
+            " Nicki von Tempelhoff",
+            " Tim Wilde"
+        ],
+        "ind": [
+            "Aaron Hilmer",
+            " Jeanette Hain",
+            " Henning Fl\u00fcsloh",
+            " Lena Urzendowsky",
+            " Karsten Antonio Mielke",
+            " Stefan Konarske",
+            " Stephan Kampwirth",
+            " Ada Philine Stappenbeck",
+            " Nicki von Tempelhoff",
+            " Tim Wilde"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Laura Lackmann",
+            " Stefan A. Lukacs"
+        ],
+        "may": [
+            "Laura Lackmann",
+            " Stefan A. Lukacs"
+        ],
+        "tam": [
+            "Laura Lackmann",
+            " Stefan A. Lukacs"
+        ],
+        "chi": [
+            "Laura Lackmann",
+            " Stefan A. Lukacs"
+        ],
+        "tha": [
+            "Laura Lackmann",
+            " Stefan A. Lukacs"
+        ],
+        "ind": [
+            "Laura Lackmann",
+            " Stefan A. Lukacs"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Simon Amberger",
+            " Angelina Auer",
+            " Korbinian Dufter",
+            " Julia Nisslein",
+            " Rafael Parente",
+            " Dorian Roth",
+            " Nina Rothermund",
+            " Marius Ehlayil",
+            " Patrick Wosien",
+            " "
+        ],
+        "may": [
+            "Simon Amberger",
+            " Angelina Auer",
+            " Korbinian Dufter",
+            " Julia Nisslein",
+            " Rafael Parente",
+            " Dorian Roth",
+            " Nina Rothermund",
+            " Marius Ehlayil",
+            " Patrick Wosien",
+            " "
+        ],
+        "tam": [
+            "Simon Amberger",
+            " Angelina Auer",
+            " Korbinian Dufter",
+            " Julia Nisslein",
+            " Rafael Parente",
+            " Dorian Roth",
+            " Nina Rothermund",
+            " Marius Ehlayil",
+            " Patrick Wosien",
+            " "
+        ],
+        "chi": [
+            "Simon Amberger",
+            " Angelina Auer",
+            " Korbinian Dufter",
+            " Julia Nisslein",
+            " Rafael Parente",
+            " Dorian Roth",
+            " Nina Rothermund",
+            " Marius Ehlayil",
+            " Patrick Wosien",
+            " "
+        ],
+        "tha": [
+            "Simon Amberger",
+            " Angelina Auer",
+            " Korbinian Dufter",
+            " Julia Nisslein",
+            " Rafael Parente",
+            " Dorian Roth",
+            " Nina Rothermund",
+            " Marius Ehlayil",
+            " Patrick Wosien",
+            " "
+        ],
+        "ind": [
+            "Simon Amberger",
+            " Angelina Auer",
+            " Korbinian Dufter",
+            " Julia Nisslein",
+            " Rafael Parente",
+            " Dorian Roth",
+            " Nina Rothermund",
+            " Marius Ehlayil",
+            " Patrick Wosien",
+            " "
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePimpNoFingFairytaleS01E01_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePimpNoFingFairytaleS01E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePimpNoFingFairytaleS01E01_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_7995ddff-87e0-5a4e-9e6f-cad5a140dcdc",
+    "seasonId": "AggregatedSeason_11b58027-385e-5450-aca9-0b53b2ed8a1e",
+    "boxsetIds": [],
+    "episodeNumber": "2.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2023,
+    "rating": "18",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedMovie_c52e72d9-6501-55a5-a642-58dd173cbb97",
+    "clientContentId": "PACK0000000009876807",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Slayers",
+            "may": "Slayers",
+            "tam": "Slayers",
+            "chi": "Slayers",
+            "tha": "Slayers",
+            "ind": "Slayers"
+        },
+        "long": {
+            "eng": "Slayers",
+            "may": "Slayers",
+            "tam": "Slayers",
+            "chi": "Slayers",
+            "tha": "Slayers",
+            "ind": "Slayers"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A group of superstar influencers are drawn to a reclusive billionaire's mansion only to find themselves trapped in the lair of an evil vampire. The only way out is to be saved by a famous online gamer and an old school vampire hunter.",
+            "may": "A group of superstar influencers are drawn to a reclusive billionaire's mansion only to find themselves trapped in the lair of an evil vampire. The only way out is to be saved by a famous online gamer and an old school vampire hunter.",
+            "tam": "A group of superstar influencers are drawn to a reclusive billionaire's mansion only to find themselves trapped in the lair of an evil vampire. The only way out is to be saved by a famous online gamer and an old school vampire hunter.",
+            "chi": "A group of superstar influencers are drawn to a reclusive billionaire's mansion only to find themselves trapped in the lair of an evil vampire. The only way out is to be saved by a famous online gamer and an old school vampire hunter.",
+            "tha": "A group of superstar influencers are drawn to a reclusive billionaire's mansion only to find themselves trapped in the lair of an evil vampire. The only way out is to be saved by a famous online gamer and an old school vampire hunter.",
+            "ind": "A group of superstar influencers are drawn to a reclusive billionaire's mansion only to find themselves trapped in the lair of an evil vampire. The only way out is to be saved by a famous online gamer and an old school vampire hunter."
+        },
+        "long": {
+            "eng": "A group of superstar influencers are drawn to a reclusive billionaire's mansion only to find themselves trapped in the lair of an evil vampire. The only way out is to be saved by a famous online gamer and an old school vampire hunter.",
+            "may": "A group of superstar influencers are drawn to a reclusive billionaire's mansion only to find themselves trapped in the lair of an evil vampire. The only way out is to be saved by a famous online gamer and an old school vampire hunter.",
+            "tam": "A group of superstar influencers are drawn to a reclusive billionaire's mansion only to find themselves trapped in the lair of an evil vampire. The only way out is to be saved by a famous online gamer and an old school vampire hunter.",
+            "chi": "A group of superstar influencers are drawn to a reclusive billionaire's mansion only to find themselves trapped in the lair of an evil vampire. The only way out is to be saved by a famous online gamer and an old school vampire hunter.",
+            "tha": "A group of superstar influencers are drawn to a reclusive billionaire's mansion only to find themselves trapped in the lair of an evil vampire. The only way out is to be saved by a famous online gamer and an old school vampire hunter.",
+            "ind": "A group of superstar influencers are drawn to a reclusive billionaire's mansion only to find themselves trapped in the lair of an evil vampire. The only way out is to be saved by a famous online gamer and an old school vampire hunter."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Thomas Jane",
+            " Kara Hayward",
+            " Jack Donnelly",
+            " Lydia Hearst",
+            " Malin Akerman",
+            " Abigail BreslinAshley ReyesAsh TCG LewisAdam Ambruso"
+        ],
+        "may": [
+            "Thomas Jane",
+            " Kara Hayward",
+            " Jack Donnelly",
+            " Lydia Hearst",
+            " Malin Akerman",
+            " Abigail BreslinAshley ReyesAsh TCG LewisAdam Ambruso"
+        ],
+        "tam": [
+            "Thomas Jane",
+            " Kara Hayward",
+            " Jack Donnelly",
+            " Lydia Hearst",
+            " Malin Akerman",
+            " Abigail BreslinAshley ReyesAsh TCG LewisAdam Ambruso"
+        ],
+        "chi": [
+            "Thomas Jane",
+            " Kara Hayward",
+            " Jack Donnelly",
+            " Lydia Hearst",
+            " Malin Akerman",
+            " Abigail BreslinAshley ReyesAsh TCG LewisAdam Ambruso"
+        ],
+        "tha": [
+            "Thomas Jane",
+            " Kara Hayward",
+            " Jack Donnelly",
+            " Lydia Hearst",
+            " Malin Akerman",
+            " Abigail BreslinAshley ReyesAsh TCG LewisAdam Ambruso"
+        ],
+        "ind": [
+            "Thomas Jane",
+            " Kara Hayward",
+            " Jack Donnelly",
+            " Lydia Hearst",
+            " Malin Akerman",
+            " Abigail BreslinAshley ReyesAsh TCG LewisAdam Ambruso"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "K. Asher Levin"
+        ],
+        "may": [
+            "K. Asher Levin"
+        ],
+        "tam": [
+            "K. Asher Levin"
+        ],
+        "chi": [
+            "K. Asher Levin"
+        ],
+        "tha": [
+            "K. Asher Levin"
+        ],
+        "ind": [
+            "K. Asher Levin"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Malin Akerman",
+            " Jason Armstrong",
+            " Martin J. Barab",
+            " Abigail Breslin",
+            " Grady Craig",
+            " Daniel CummingsCristina DamRobert DeanClay EpsteinSola Fasehun"
+        ],
+        "may": [
+            "Malin Akerman",
+            " Jason Armstrong",
+            " Martin J. Barab",
+            " Abigail Breslin",
+            " Grady Craig",
+            " Daniel CummingsCristina DamRobert DeanClay EpsteinSola Fasehun"
+        ],
+        "tam": [
+            "Malin Akerman",
+            " Jason Armstrong",
+            " Martin J. Barab",
+            " Abigail Breslin",
+            " Grady Craig",
+            " Daniel CummingsCristina DamRobert DeanClay EpsteinSola Fasehun"
+        ],
+        "chi": [
+            "Malin Akerman",
+            " Jason Armstrong",
+            " Martin J. Barab",
+            " Abigail Breslin",
+            " Grady Craig",
+            " Daniel CummingsCristina DamRobert DeanClay EpsteinSola Fasehun"
+        ],
+        "tha": [
+            "Malin Akerman",
+            " Jason Armstrong",
+            " Martin J. Barab",
+            " Abigail Breslin",
+            " Grady Craig",
+            " Daniel CummingsCristina DamRobert DeanClay EpsteinSola Fasehun"
+        ],
+        "ind": [
+            "Malin Akerman",
+            " Jason Armstrong",
+            " Martin J. Barab",
+            " Abigail Breslin",
+            " Grady Craig",
+            " Daniel CummingsCristina DamRobert DeanClay EpsteinSola Fasehun"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Fantasy",
+                    "may": " Fantasy",
+                    "tam": " Fantasy",
+                    "chi": " Fantasy",
+                    "tha": " Fantasy",
+                    "ind": " Fantasy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Slayers_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Slayers_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Slayers_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "3.1",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

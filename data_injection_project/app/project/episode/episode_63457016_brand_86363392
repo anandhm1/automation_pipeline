@@ -1,0 +1,325 @@
+{
+    "externalId": "AggregatedTvShow_0414a2ea-fb40-590b-820c-6bc9f42c596d",
+    "clientContentId": "PACK0000000007962540",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Devil In Ohio - Trailer",
+            "may": "Devil In Ohio - Trailer",
+            "tam": "Devil In Ohio - Trailer",
+            "chi": "Devil In Ohio - Trailer",
+            "tha": "Devil In Ohio - Trailer",
+            "ind": "Devil In Ohio - Trailer"
+        },
+        "long": {
+            "eng": "Devil In Ohio - Trailer",
+            "may": "Devil In Ohio - Trailer",
+            "tam": "Devil In Ohio - Trailer",
+            "chi": "Devil In Ohio - Trailer",
+            "tha": "Devil In Ohio - Trailer",
+            "ind": "Devil In Ohio - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "may": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "tam": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "chi": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "tha": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "ind": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart."
+        },
+        "long": {
+            "eng": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "may": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "tam": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "chi": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "tha": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "ind": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Emily Deschanel",
+            " Sam Jaeger",
+            " Gerardo Celasco",
+            " Madeleine Arthur",
+            " Xaria Dotson",
+            " Alisha NewtonNaomi TanJason SakakiEvan EllisonTahmoh Penikett"
+        ],
+        "may": [
+            "Emily Deschanel",
+            " Sam Jaeger",
+            " Gerardo Celasco",
+            " Madeleine Arthur",
+            " Xaria Dotson",
+            " Alisha NewtonNaomi TanJason SakakiEvan EllisonTahmoh Penikett"
+        ],
+        "tam": [
+            "Emily Deschanel",
+            " Sam Jaeger",
+            " Gerardo Celasco",
+            " Madeleine Arthur",
+            " Xaria Dotson",
+            " Alisha NewtonNaomi TanJason SakakiEvan EllisonTahmoh Penikett"
+        ],
+        "chi": [
+            "Emily Deschanel",
+            " Sam Jaeger",
+            " Gerardo Celasco",
+            " Madeleine Arthur",
+            " Xaria Dotson",
+            " Alisha NewtonNaomi TanJason SakakiEvan EllisonTahmoh Penikett"
+        ],
+        "tha": [
+            "Emily Deschanel",
+            " Sam Jaeger",
+            " Gerardo Celasco",
+            " Madeleine Arthur",
+            " Xaria Dotson",
+            " Alisha NewtonNaomi TanJason SakakiEvan EllisonTahmoh Penikett"
+        ],
+        "ind": [
+            "Emily Deschanel",
+            " Sam Jaeger",
+            " Gerardo Celasco",
+            " Madeleine Arthur",
+            " Xaria Dotson",
+            " Alisha NewtonNaomi TanJason SakakiEvan EllisonTahmoh Penikett"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Steven A. Adelson",
+            " Brad Anderson",
+            " John Fawcett",
+            " Leslie Hope",
+            " ",
+            " "
+        ],
+        "may": [
+            "Steven A. Adelson",
+            " Brad Anderson",
+            " John Fawcett",
+            " Leslie Hope",
+            " ",
+            " "
+        ],
+        "tam": [
+            "Steven A. Adelson",
+            " Brad Anderson",
+            " John Fawcett",
+            " Leslie Hope",
+            " ",
+            " "
+        ],
+        "chi": [
+            "Steven A. Adelson",
+            " Brad Anderson",
+            " John Fawcett",
+            " Leslie Hope",
+            " ",
+            " "
+        ],
+        "tha": [
+            "Steven A. Adelson",
+            " Brad Anderson",
+            " John Fawcett",
+            " Leslie Hope",
+            " ",
+            " "
+        ],
+        "ind": [
+            "Steven A. Adelson",
+            " Brad Anderson",
+            " John Fawcett",
+            " Leslie Hope",
+            " ",
+            " "
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jadene Stojak Babcock",
+            " Ian Hay",
+            " Daria Polatin",
+            " Rachel Miller",
+            " Andrew Wilder",
+            " "
+        ],
+        "may": [
+            "Jadene Stojak Babcock",
+            " Ian Hay",
+            " Daria Polatin",
+            " Rachel Miller",
+            " Andrew Wilder",
+            " "
+        ],
+        "tam": [
+            "Jadene Stojak Babcock",
+            " Ian Hay",
+            " Daria Polatin",
+            " Rachel Miller",
+            " Andrew Wilder",
+            " "
+        ],
+        "chi": [
+            "Jadene Stojak Babcock",
+            " Ian Hay",
+            " Daria Polatin",
+            " Rachel Miller",
+            " Andrew Wilder",
+            " "
+        ],
+        "tha": [
+            "Jadene Stojak Babcock",
+            " Ian Hay",
+            " Daria Polatin",
+            " Rachel Miller",
+            " Andrew Wilder",
+            " "
+        ],
+        "ind": [
+            "Jadene Stojak Babcock",
+            " Ian Hay",
+            " Daria Polatin",
+            " Rachel Miller",
+            " Andrew Wilder",
+            " "
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "tam": " Horror",
+                    "chi": " Horror",
+                    "tha": " Horror",
+                    "ind": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DevilInOhioSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DevilInOhioSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DevilInOhioSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_c637f80e-10e6-52fe-a40d-4cc106433387",
+    "seasonId": "AggregatedSeason_f622a8af-bf95-5348-8204-03a0d37c20e5",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedMovie_b53241c8-4034-5083-b3b7-528631766712",
+    "clientContentId": "PACK0000000002199472",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Disenchanted 2022",
+            "may": "Disenchanted 2022",
+            "tam": "Disenchanted 2022",
+            "chi": "Disenchanted 2022",
+            "tha": "Disenchanted 2022",
+            "ind": "Disenchanted 2022"
+        },
+        "long": {
+            "eng": "Disenchanted 2022",
+            "may": "Disenchanted 2022",
+            "tam": "Disenchanted 2022",
+            "chi": "Disenchanted 2022",
+            "tha": "Disenchanted 2022",
+            "ind": "Disenchanted 2022"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Fifteen years after her happily ever after, Giselle questions her happiness, inadvertently turning the lives of those in the real world and Andalasia upside down in the process.",
+            "may": "Fifteen years after her happily ever after, Giselle questions her happiness, inadvertently turning the lives of those in the real world and Andalasia upside down in the process.",
+            "tam": "Fifteen years after her happily ever after, Giselle questions her happiness, inadvertently turning the lives of those in the real world and Andalasia upside down in the process.",
+            "chi": "Fifteen years after her happily ever after, Giselle questions her happiness, inadvertently turning the lives of those in the real world and Andalasia upside down in the process.",
+            "tha": "Fifteen years after her happily ever after, Giselle questions her happiness, inadvertently turning the lives of those in the real world and Andalasia upside down in the process.",
+            "ind": "Fifteen years after her happily ever after, Giselle questions her happiness, inadvertently turning the lives of those in the real world and Andalasia upside down in the process."
+        },
+        "long": {
+            "eng": "Fifteen years after her happily ever after, Giselle questions her happiness, inadvertently turning the lives of those in the real world and Andalasia upside down in the process.",
+            "may": "Fifteen years after her happily ever after, Giselle questions her happiness, inadvertently turning the lives of those in the real world and Andalasia upside down in the process.",
+            "tam": "Fifteen years after her happily ever after, Giselle questions her happiness, inadvertently turning the lives of those in the real world and Andalasia upside down in the process.",
+            "chi": "Fifteen years after her happily ever after, Giselle questions her happiness, inadvertently turning the lives of those in the real world and Andalasia upside down in the process.",
+            "tha": "Fifteen years after her happily ever after, Giselle questions her happiness, inadvertently turning the lives of those in the real world and Andalasia upside down in the process.",
+            "ind": "Fifteen years after her happily ever after, Giselle questions her happiness, inadvertently turning the lives of those in the real world and Andalasia upside down in the process."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Amy Adams",
+            " Patrick Dempsey",
+            " Maya Rudolph",
+            " Gabriella Baldacchino",
+            " Rachel Duff",
+            " James MarsdenIdina MenzelYvette Nicole BrownJayma MaysKolton Stewart"
+        ],
+        "may": [
+            "Amy Adams",
+            " Patrick Dempsey",
+            " Maya Rudolph",
+            " Gabriella Baldacchino",
+            " Rachel Duff",
+            " James MarsdenIdina MenzelYvette Nicole BrownJayma MaysKolton Stewart"
+        ],
+        "tam": [
+            "Amy Adams",
+            " Patrick Dempsey",
+            " Maya Rudolph",
+            " Gabriella Baldacchino",
+            " Rachel Duff",
+            " James MarsdenIdina MenzelYvette Nicole BrownJayma MaysKolton Stewart"
+        ],
+        "chi": [
+            "Amy Adams",
+            " Patrick Dempsey",
+            " Maya Rudolph",
+            " Gabriella Baldacchino",
+            " Rachel Duff",
+            " James MarsdenIdina MenzelYvette Nicole BrownJayma MaysKolton Stewart"
+        ],
+        "tha": [
+            "Amy Adams",
+            " Patrick Dempsey",
+            " Maya Rudolph",
+            " Gabriella Baldacchino",
+            " Rachel Duff",
+            " James MarsdenIdina MenzelYvette Nicole BrownJayma MaysKolton Stewart"
+        ],
+        "ind": [
+            "Amy Adams",
+            " Patrick Dempsey",
+            " Maya Rudolph",
+            " Gabriella Baldacchino",
+            " Rachel Duff",
+            " James MarsdenIdina MenzelYvette Nicole BrownJayma MaysKolton Stewart"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Adam Shankman"
+        ],
+        "may": [
+            "Adam Shankman"
+        ],
+        "tam": [
+            "Adam Shankman"
+        ],
+        "chi": [
+            "Adam Shankman"
+        ],
+        "tha": [
+            "Adam Shankman"
+        ],
+        "ind": [
+            "Adam Shankman"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Amy Adams",
+            " Carolyn Bates",
+            " Jo Burn",
+            " James Flynn",
+            " Howard Huxham",
+            " Barry JosephsonLori KorngiebelBernard LajoieMorgan O'SullivanSunil Perkash"
+        ],
+        "may": [
+            "Amy Adams",
+            " Carolyn Bates",
+            " Jo Burn",
+            " James Flynn",
+            " Howard Huxham",
+            " Barry JosephsonLori KorngiebelBernard LajoieMorgan O'SullivanSunil Perkash"
+        ],
+        "tam": [
+            "Amy Adams",
+            " Carolyn Bates",
+            " Jo Burn",
+            " James Flynn",
+            " Howard Huxham",
+            " Barry JosephsonLori KorngiebelBernard LajoieMorgan O'SullivanSunil Perkash"
+        ],
+        "chi": [
+            "Amy Adams",
+            " Carolyn Bates",
+            " Jo Burn",
+            " James Flynn",
+            " Howard Huxham",
+            " Barry JosephsonLori KorngiebelBernard LajoieMorgan O'SullivanSunil Perkash"
+        ],
+        "tha": [
+            "Amy Adams",
+            " Carolyn Bates",
+            " Jo Burn",
+            " James Flynn",
+            " Howard Huxham",
+            " Barry JosephsonLori KorngiebelBernard LajoieMorgan O'SullivanSunil Perkash"
+        ],
+        "ind": [
+            "Amy Adams",
+            " Carolyn Bates",
+            " Jo Burn",
+            " James Flynn",
+            " Howard Huxham",
+            " Barry JosephsonLori KorngiebelBernard LajoieMorgan O'SullivanSunil Perkash"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Animation",
+                    "may": "Animation",
+                    "tam": "Animation",
+                    "chi": "Animation",
+                    "tha": "Animation",
+                    "ind": "Animation"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Disenchanted_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Disenchanted_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Disenchanted_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "5.6",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

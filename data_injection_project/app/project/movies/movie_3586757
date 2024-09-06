@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedMovie_ef2bb71d-221f-54b1-bbe1-67baabe56a7b",
+    "clientContentId": "PACK0000000002817132",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "LAST SEEN ALIVE",
+            "may": "LAST SEEN ALIVE",
+            "tam": "LAST SEEN ALIVE",
+            "chi": "LAST SEEN ALIVE",
+            "tha": "LAST SEEN ALIVE",
+            "ind": "LAST SEEN ALIVE"
+        },
+        "long": {
+            "eng": "LAST SEEN ALIVE",
+            "may": "LAST SEEN ALIVE",
+            "tam": "LAST SEEN ALIVE",
+            "chi": "LAST SEEN ALIVE",
+            "tha": "LAST SEEN ALIVE",
+            "ind": "LAST SEEN ALIVE"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Will's soon-to-be ex-wife mysteriously vanishes at a gas station. He delves into the town's criminal underbelly while running from the authorities in a race against time to find her.",
+            "may": "Will's soon-to-be ex-wife mysteriously vanishes at a gas station. He delves into the town's criminal underbelly while running from the authorities in a race against time to find her.",
+            "tam": "Will's soon-to-be ex-wife mysteriously vanishes at a gas station. He delves into the town's criminal underbelly while running from the authorities in a race against time to find her.",
+            "chi": "Will's soon-to-be ex-wife mysteriously vanishes at a gas station. He delves into the town's criminal underbelly while running from the authorities in a race against time to find her.",
+            "tha": "Will's soon-to-be ex-wife mysteriously vanishes at a gas station. He delves into the town's criminal underbelly while running from the authorities in a race against time to find her.",
+            "ind": "Will's soon-to-be ex-wife mysteriously vanishes at a gas station. He delves into the town's criminal underbelly while running from the authorities in a race against time to find her."
+        },
+        "long": {
+            "eng": "Will's soon-to-be ex-wife mysteriously vanishes at a gas station. He delves into the town's criminal underbelly while running from the authorities in a race against time to find her.",
+            "may": "Will's soon-to-be ex-wife mysteriously vanishes at a gas station. He delves into the town's criminal underbelly while running from the authorities in a race against time to find her.",
+            "tam": "Will's soon-to-be ex-wife mysteriously vanishes at a gas station. He delves into the town's criminal underbelly while running from the authorities in a race against time to find her.",
+            "chi": "Will's soon-to-be ex-wife mysteriously vanishes at a gas station. He delves into the town's criminal underbelly while running from the authorities in a race against time to find her.",
+            "tha": "Will's soon-to-be ex-wife mysteriously vanishes at a gas station. He delves into the town's criminal underbelly while running from the authorities in a race against time to find her.",
+            "ind": "Will's soon-to-be ex-wife mysteriously vanishes at a gas station. He delves into the town's criminal underbelly while running from the authorities in a race against time to find her."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Gerard Butler",
+            " Jaimie Alexander",
+            " Russell Hornsby",
+            " Ethan Embry",
+            " Michael Irby",
+            " Cindy HoganBruce AltmanJordan SalloumDani Deett\u00e9Chip Lane"
+        ],
+        "may": [
+            "Gerard Butler",
+            " Jaimie Alexander",
+            " Russell Hornsby",
+            " Ethan Embry",
+            " Michael Irby",
+            " Cindy HoganBruce AltmanJordan SalloumDani Deett\u00e9Chip Lane"
+        ],
+        "tam": [
+            "Gerard Butler",
+            " Jaimie Alexander",
+            " Russell Hornsby",
+            " Ethan Embry",
+            " Michael Irby",
+            " Cindy HoganBruce AltmanJordan SalloumDani Deett\u00e9Chip Lane"
+        ],
+        "chi": [
+            "Gerard Butler",
+            " Jaimie Alexander",
+            " Russell Hornsby",
+            " Ethan Embry",
+            " Michael Irby",
+            " Cindy HoganBruce AltmanJordan SalloumDani Deett\u00e9Chip Lane"
+        ],
+        "tha": [
+            "Gerard Butler",
+            " Jaimie Alexander",
+            " Russell Hornsby",
+            " Ethan Embry",
+            " Michael Irby",
+            " Cindy HoganBruce AltmanJordan SalloumDani Deett\u00e9Chip Lane"
+        ],
+        "ind": [
+            "Gerard Butler",
+            " Jaimie Alexander",
+            " Russell Hornsby",
+            " Ethan Embry",
+            " Michael Irby",
+            " Cindy HoganBruce AltmanJordan SalloumDani Deett\u00e9Chip Lane"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Brian Goodman"
+        ],
+        "may": [
+            "Brian Goodman"
+        ],
+        "tam": [
+            "Brian Goodman"
+        ],
+        "chi": [
+            "Brian Goodman"
+        ],
+        "tha": [
+            "Brian Goodman"
+        ],
+        "ind": [
+            "Brian Goodman"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Gerard Butler",
+            " Taylor Conrod",
+            " Morgan Emmery",
+            " Marc Frydman",
+            " Jean-Charles Levy",
+            " Brian PittBob ShapiroDavid ShojaiAlan Siegel"
+        ],
+        "may": [
+            "Gerard Butler",
+            " Taylor Conrod",
+            " Morgan Emmery",
+            " Marc Frydman",
+            " Jean-Charles Levy",
+            " Brian PittBob ShapiroDavid ShojaiAlan Siegel"
+        ],
+        "tam": [
+            "Gerard Butler",
+            " Taylor Conrod",
+            " Morgan Emmery",
+            " Marc Frydman",
+            " Jean-Charles Levy",
+            " Brian PittBob ShapiroDavid ShojaiAlan Siegel"
+        ],
+        "chi": [
+            "Gerard Butler",
+            " Taylor Conrod",
+            " Morgan Emmery",
+            " Marc Frydman",
+            " Jean-Charles Levy",
+            " Brian PittBob ShapiroDavid ShojaiAlan Siegel"
+        ],
+        "tha": [
+            "Gerard Butler",
+            " Taylor Conrod",
+            " Morgan Emmery",
+            " Marc Frydman",
+            " Jean-Charles Levy",
+            " Brian PittBob ShapiroDavid ShojaiAlan Siegel"
+        ],
+        "ind": [
+            "Gerard Butler",
+            " Taylor Conrod",
+            " Morgan Emmery",
+            " Marc Frydman",
+            " Jean-Charles Levy",
+            " Brian PittBob ShapiroDavid ShojaiAlan Siegel"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/LASTSEENALIVE_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/LASTSEENALIVE_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/LASTSEENALIVE_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "5.6",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

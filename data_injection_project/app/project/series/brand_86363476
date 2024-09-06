@@ -1,0 +1,367 @@
+{
+    "externalId": "AggregatedSeries_90399ea1-16d4-5e14-baf5-c5ea2c16e70a",
+    "clientContentId": "PACK0000000002894662",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Titans",
+            "may": "Titans",
+            "tam": "Titans",
+            "chi": "Titans",
+            "tha": "Titans",
+            "ind": "Titans"
+        },
+        "long": {
+            "eng": "Titans",
+            "may": "Titans",
+            "tam": "Titans",
+            "chi": "Titans",
+            "tha": "Titans",
+            "ind": "Titans"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A team of young superheroes combat evil and other perils.",
+            "may": "A team of young superheroes combat evil and other perils.",
+            "tam": "A team of young superheroes combat evil and other perils.",
+            "chi": "A team of young superheroes combat evil and other perils.",
+            "tha": "A team of young superheroes combat evil and other perils.",
+            "ind": "A team of young superheroes combat evil and other perils."
+        },
+        "long": {
+            "eng": "A team of young superheroes combat evil and other perils.",
+            "may": "A team of young superheroes combat evil and other perils.",
+            "tam": "A team of young superheroes combat evil and other perils.",
+            "chi": "A team of young superheroes combat evil and other perils.",
+            "tha": "A team of young superheroes combat evil and other perils.",
+            "ind": "A team of young superheroes combat evil and other perils."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Brenton Thwaites",
+            " Anna Diop",
+            " Ryan Potter",
+            " Teagan Croft",
+            " Curran Walters",
+            " Joshua Orpin",
+            " Conor Leslie",
+            " Minka Kelly",
+            " Alan Ritchson",
+            " Jay Lycurgo"
+        ],
+        "may": [
+            "Brenton Thwaites",
+            " Anna Diop",
+            " Ryan Potter",
+            " Teagan Croft",
+            " Curran Walters",
+            " Joshua Orpin",
+            " Conor Leslie",
+            " Minka Kelly",
+            " Alan Ritchson",
+            " Jay Lycurgo"
+        ],
+        "tam": [
+            "Brenton Thwaites",
+            " Anna Diop",
+            " Ryan Potter",
+            " Teagan Croft",
+            " Curran Walters",
+            " Joshua Orpin",
+            " Conor Leslie",
+            " Minka Kelly",
+            " Alan Ritchson",
+            " Jay Lycurgo"
+        ],
+        "chi": [
+            "Brenton Thwaites",
+            " Anna Diop",
+            " Ryan Potter",
+            " Teagan Croft",
+            " Curran Walters",
+            " Joshua Orpin",
+            " Conor Leslie",
+            " Minka Kelly",
+            " Alan Ritchson",
+            " Jay Lycurgo"
+        ],
+        "tha": [
+            "Brenton Thwaites",
+            " Anna Diop",
+            " Ryan Potter",
+            " Teagan Croft",
+            " Curran Walters",
+            " Joshua Orpin",
+            " Conor Leslie",
+            " Minka Kelly",
+            " Alan Ritchson",
+            " Jay Lycurgo"
+        ],
+        "ind": [
+            "Brenton Thwaites",
+            " Anna Diop",
+            " Ryan Potter",
+            " Teagan Croft",
+            " Curran Walters",
+            " Joshua Orpin",
+            " Conor Leslie",
+            " Minka Kelly",
+            " Alan Ritchson",
+            " Jay Lycurgo"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Carol Banker",
+            " Boris Mojsovski",
+            " Nick Copus",
+            " Nick Gomez",
+            " Millicent Shelton",
+            " Larnell Stovall",
+            " Akiva Goldsman",
+            " Alex Kalymnios",
+            " Kevin Rodney Sullivan",
+            " Glen Winter"
+        ],
+        "may": [
+            "Carol Banker",
+            " Boris Mojsovski",
+            " Nick Copus",
+            " Nick Gomez",
+            " Millicent Shelton",
+            " Larnell Stovall",
+            " Akiva Goldsman",
+            " Alex Kalymnios",
+            " Kevin Rodney Sullivan",
+            " Glen Winter"
+        ],
+        "tam": [
+            "Carol Banker",
+            " Boris Mojsovski",
+            " Nick Copus",
+            " Nick Gomez",
+            " Millicent Shelton",
+            " Larnell Stovall",
+            " Akiva Goldsman",
+            " Alex Kalymnios",
+            " Kevin Rodney Sullivan",
+            " Glen Winter"
+        ],
+        "chi": [
+            "Carol Banker",
+            " Boris Mojsovski",
+            " Nick Copus",
+            " Nick Gomez",
+            " Millicent Shelton",
+            " Larnell Stovall",
+            " Akiva Goldsman",
+            " Alex Kalymnios",
+            " Kevin Rodney Sullivan",
+            " Glen Winter"
+        ],
+        "tha": [
+            "Carol Banker",
+            " Boris Mojsovski",
+            " Nick Copus",
+            " Nick Gomez",
+            " Millicent Shelton",
+            " Larnell Stovall",
+            " Akiva Goldsman",
+            " Alex Kalymnios",
+            " Kevin Rodney Sullivan",
+            " Glen Winter"
+        ],
+        "ind": [
+            "Carol Banker",
+            " Boris Mojsovski",
+            " Nick Copus",
+            " Nick Gomez",
+            " Millicent Shelton",
+            " Larnell Stovall",
+            " Akiva Goldsman",
+            " Alex Kalymnios",
+            " Kevin Rodney Sullivan",
+            " Glen Winter"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Tom Flores",
+            " Greg Berlanti",
+            " Akiva Goldsman",
+            " Richard Hatem",
+            " Geoff Johns",
+            " Sarah Schechter",
+            " Greg Walker",
+            " Jamie Gorenberg",
+            " Michael Wray",
+            " Carol Banker"
+        ],
+        "may": [
+            "Tom Flores",
+            " Greg Berlanti",
+            " Akiva Goldsman",
+            " Richard Hatem",
+            " Geoff Johns",
+            " Sarah Schechter",
+            " Greg Walker",
+            " Jamie Gorenberg",
+            " Michael Wray",
+            " Carol Banker"
+        ],
+        "tam": [
+            "Tom Flores",
+            " Greg Berlanti",
+            " Akiva Goldsman",
+            " Richard Hatem",
+            " Geoff Johns",
+            " Sarah Schechter",
+            " Greg Walker",
+            " Jamie Gorenberg",
+            " Michael Wray",
+            " Carol Banker"
+        ],
+        "chi": [
+            "Tom Flores",
+            " Greg Berlanti",
+            " Akiva Goldsman",
+            " Richard Hatem",
+            " Geoff Johns",
+            " Sarah Schechter",
+            " Greg Walker",
+            " Jamie Gorenberg",
+            " Michael Wray",
+            " Carol Banker"
+        ],
+        "tha": [
+            "Tom Flores",
+            " Greg Berlanti",
+            " Akiva Goldsman",
+            " Richard Hatem",
+            " Geoff Johns",
+            " Sarah Schechter",
+            " Greg Walker",
+            " Jamie Gorenberg",
+            " Michael Wray",
+            " Carol Banker"
+        ],
+        "ind": [
+            "Tom Flores",
+            " Greg Berlanti",
+            " Akiva Goldsman",
+            " Richard Hatem",
+            " Geoff Johns",
+            " Sarah Schechter",
+            " Greg Walker",
+            " Jamie Gorenberg",
+            " Michael Wray",
+            " Carol Banker"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TitansSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TitansSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TitansSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "7",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2018,
+    "maxConcurrentStreams": 0
+}

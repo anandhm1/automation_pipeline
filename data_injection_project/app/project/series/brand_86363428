@@ -1,0 +1,325 @@
+{
+    "externalId": "AggregatedSeries_fc3afc94-529c-5ce8-9112-9489a91aa162",
+    "clientContentId": "PACK0000000002548567",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Pacific Rim The Black",
+            "may": "Pacific Rim The Black",
+            "tam": "Pacific Rim The Black",
+            "chi": "Pacific Rim The Black",
+            "tha": "Pacific Rim The Black",
+            "ind": "Pacific Rim The Black"
+        },
+        "long": {
+            "eng": "Pacific Rim The Black",
+            "may": "Pacific Rim The Black",
+            "tam": "Pacific Rim The Black",
+            "chi": "Pacific Rim The Black",
+            "tha": "Pacific Rim The Black",
+            "ind": "Pacific Rim The Black"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "may": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "tam": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "chi": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "tha": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "ind": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies."
+        },
+        "long": {
+            "eng": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "may": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "tam": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "chi": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "tha": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "ind": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Gideon Adlon",
+            " Calum Worthy",
+            " Erica Lindbeck",
+            " Victoria Grace",
+            " Allie MacDonald",
+            " Andy McPhee",
+            " Jason Spisak",
+            " Martin Klebba",
+            " Leonardo Nam",
+            " Leilani Jones"
+        ],
+        "may": [
+            "Gideon Adlon",
+            " Calum Worthy",
+            " Erica Lindbeck",
+            " Victoria Grace",
+            " Allie MacDonald",
+            " Andy McPhee",
+            " Jason Spisak",
+            " Martin Klebba",
+            " Leonardo Nam",
+            " Leilani Jones"
+        ],
+        "tam": [
+            "Gideon Adlon",
+            " Calum Worthy",
+            " Erica Lindbeck",
+            " Victoria Grace",
+            " Allie MacDonald",
+            " Andy McPhee",
+            " Jason Spisak",
+            " Martin Klebba",
+            " Leonardo Nam",
+            " Leilani Jones"
+        ],
+        "chi": [
+            "Gideon Adlon",
+            " Calum Worthy",
+            " Erica Lindbeck",
+            " Victoria Grace",
+            " Allie MacDonald",
+            " Andy McPhee",
+            " Jason Spisak",
+            " Martin Klebba",
+            " Leonardo Nam",
+            " Leilani Jones"
+        ],
+        "tha": [
+            "Gideon Adlon",
+            " Calum Worthy",
+            " Erica Lindbeck",
+            " Victoria Grace",
+            " Allie MacDonald",
+            " Andy McPhee",
+            " Jason Spisak",
+            " Martin Klebba",
+            " Leonardo Nam",
+            " Leilani Jones"
+        ],
+        "ind": [
+            "Gideon Adlon",
+            " Calum Worthy",
+            " Erica Lindbeck",
+            " Victoria Grace",
+            " Allie MacDonald",
+            " Andy McPhee",
+            " Jason Spisak",
+            " Martin Klebba",
+            " Leonardo Nam",
+            " Leilani Jones"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Hiroyuki Hayashi",
+            " Jae Hong Kim",
+            " Susumu Sugai",
+            " Masayuki Uemoto",
+            " Takeshi Iwata"
+        ],
+        "may": [
+            "Hiroyuki Hayashi",
+            " Jae Hong Kim",
+            " Susumu Sugai",
+            " Masayuki Uemoto",
+            " Takeshi Iwata"
+        ],
+        "tam": [
+            "Hiroyuki Hayashi",
+            " Jae Hong Kim",
+            " Susumu Sugai",
+            " Masayuki Uemoto",
+            " Takeshi Iwata"
+        ],
+        "chi": [
+            "Hiroyuki Hayashi",
+            " Jae Hong Kim",
+            " Susumu Sugai",
+            " Masayuki Uemoto",
+            " Takeshi Iwata"
+        ],
+        "tha": [
+            "Hiroyuki Hayashi",
+            " Jae Hong Kim",
+            " Susumu Sugai",
+            " Masayuki Uemoto",
+            " Takeshi Iwata"
+        ],
+        "ind": [
+            "Hiroyuki Hayashi",
+            " Jae Hong Kim",
+            " Susumu Sugai",
+            " Masayuki Uemoto",
+            " Takeshi Iwata"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ken Duer",
+            " Greg Johnson",
+            " Jack Liang",
+            " Bill E. Miller",
+            " Reinard J. Palisoc",
+            " Shuzo John Shiota",
+            " Shiho Tanaka",
+            " Craig Kyle"
+        ],
+        "may": [
+            "Ken Duer",
+            " Greg Johnson",
+            " Jack Liang",
+            " Bill E. Miller",
+            " Reinard J. Palisoc",
+            " Shuzo John Shiota",
+            " Shiho Tanaka",
+            " Craig Kyle"
+        ],
+        "tam": [
+            "Ken Duer",
+            " Greg Johnson",
+            " Jack Liang",
+            " Bill E. Miller",
+            " Reinard J. Palisoc",
+            " Shuzo John Shiota",
+            " Shiho Tanaka",
+            " Craig Kyle"
+        ],
+        "chi": [
+            "Ken Duer",
+            " Greg Johnson",
+            " Jack Liang",
+            " Bill E. Miller",
+            " Reinard J. Palisoc",
+            " Shuzo John Shiota",
+            " Shiho Tanaka",
+            " Craig Kyle"
+        ],
+        "tha": [
+            "Ken Duer",
+            " Greg Johnson",
+            " Jack Liang",
+            " Bill E. Miller",
+            " Reinard J. Palisoc",
+            " Shuzo John Shiota",
+            " Shiho Tanaka",
+            " Craig Kyle"
+        ],
+        "ind": [
+            "Ken Duer",
+            " Greg Johnson",
+            " Jack Liang",
+            " Bill E. Miller",
+            " Reinard J. Palisoc",
+            " Shuzo John Shiota",
+            " Shiho Tanaka",
+            " Craig Kyle"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Animation",
+                    "may": "Animation",
+                    "tam": "Animation",
+                    "chi": "Animation",
+                    "tha": "Animation",
+                    "ind": "Animation"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Action",
+                    "may": " Action",
+                    "tam": " Action",
+                    "chi": " Action",
+                    "tha": " Action",
+                    "ind": " Action"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PacificRimTheBlackSeason2_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PacificRimTheBlackSeason2_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PacificRimTheBlackSeason2_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "10",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2021,
+    "maxConcurrentStreams": 0
+}

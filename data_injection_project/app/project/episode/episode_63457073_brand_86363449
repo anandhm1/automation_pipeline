@@ -1,0 +1,397 @@
+{
+    "externalId": "AggregatedTvShow_50090d70-c211-5425-8f27-1a5df886d5ea",
+    "clientContentId": "PACK0000000004473677",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Crown - Trailer",
+            "may": "The Crown - Trailer",
+            "tam": "The Crown - Trailer",
+            "chi": "The Crown - Trailer",
+            "tha": "The Crown - Trailer",
+            "ind": "The Crown - Trailer"
+        },
+        "long": {
+            "eng": "The Crown - Trailer",
+            "may": "The Crown - Trailer",
+            "tam": "The Crown - Trailer",
+            "chi": "The Crown - Trailer",
+            "tha": "The Crown - Trailer",
+            "ind": "The Crown - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+            "may": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+            "tam": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+            "chi": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+            "tha": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+            "ind": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century."
+        },
+        "long": {
+            "eng": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+            "may": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+            "tam": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+            "chi": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+            "tha": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+            "ind": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Claire Foy",
+            " Olivia Colman",
+            " Imelda Staunton",
+            " Matt Smith",
+            " Tobias Menzies",
+            " Dominic West",
+            " Lesley Manville",
+            " Charles Edwards",
+            " Elizabeth Debicki",
+            " Jonathan Pryce"
+        ],
+        "may": [
+            "Claire Foy",
+            " Olivia Colman",
+            " Imelda Staunton",
+            " Matt Smith",
+            " Tobias Menzies",
+            " Dominic West",
+            " Lesley Manville",
+            " Charles Edwards",
+            " Elizabeth Debicki",
+            " Jonathan Pryce"
+        ],
+        "tam": [
+            "Claire Foy",
+            " Olivia Colman",
+            " Imelda Staunton",
+            " Matt Smith",
+            " Tobias Menzies",
+            " Dominic West",
+            " Lesley Manville",
+            " Charles Edwards",
+            " Elizabeth Debicki",
+            " Jonathan Pryce"
+        ],
+        "chi": [
+            "Claire Foy",
+            " Olivia Colman",
+            " Imelda Staunton",
+            " Matt Smith",
+            " Tobias Menzies",
+            " Dominic West",
+            " Lesley Manville",
+            " Charles Edwards",
+            " Elizabeth Debicki",
+            " Jonathan Pryce"
+        ],
+        "tha": [
+            "Claire Foy",
+            " Olivia Colman",
+            " Imelda Staunton",
+            " Matt Smith",
+            " Tobias Menzies",
+            " Dominic West",
+            " Lesley Manville",
+            " Charles Edwards",
+            " Elizabeth Debicki",
+            " Jonathan Pryce"
+        ],
+        "ind": [
+            "Claire Foy",
+            " Olivia Colman",
+            " Imelda Staunton",
+            " Matt Smith",
+            " Tobias Menzies",
+            " Dominic West",
+            " Lesley Manville",
+            " Charles Edwards",
+            " Elizabeth Debicki",
+            " Jonathan Pryce"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Benjamin Caron",
+            " Philip Martin",
+            " Jessica Hobbs",
+            " Julian Jarrold",
+            " Stephen Daldry",
+            " Christian Schwochow",
+            " Paul Whittington",
+            " Philippa Lowthorpe",
+            " Samuel Donovan",
+            " May el-Toukhy"
+        ],
+        "may": [
+            "Benjamin Caron",
+            " Philip Martin",
+            " Jessica Hobbs",
+            " Julian Jarrold",
+            " Stephen Daldry",
+            " Christian Schwochow",
+            " Paul Whittington",
+            " Philippa Lowthorpe",
+            " Samuel Donovan",
+            " May el-Toukhy"
+        ],
+        "tam": [
+            "Benjamin Caron",
+            " Philip Martin",
+            " Jessica Hobbs",
+            " Julian Jarrold",
+            " Stephen Daldry",
+            " Christian Schwochow",
+            " Paul Whittington",
+            " Philippa Lowthorpe",
+            " Samuel Donovan",
+            " May el-Toukhy"
+        ],
+        "chi": [
+            "Benjamin Caron",
+            " Philip Martin",
+            " Jessica Hobbs",
+            " Julian Jarrold",
+            " Stephen Daldry",
+            " Christian Schwochow",
+            " Paul Whittington",
+            " Philippa Lowthorpe",
+            " Samuel Donovan",
+            " May el-Toukhy"
+        ],
+        "tha": [
+            "Benjamin Caron",
+            " Philip Martin",
+            " Jessica Hobbs",
+            " Julian Jarrold",
+            " Stephen Daldry",
+            " Christian Schwochow",
+            " Paul Whittington",
+            " Philippa Lowthorpe",
+            " Samuel Donovan",
+            " May el-Toukhy"
+        ],
+        "ind": [
+            "Benjamin Caron",
+            " Philip Martin",
+            " Jessica Hobbs",
+            " Julian Jarrold",
+            " Stephen Daldry",
+            " Christian Schwochow",
+            " Paul Whittington",
+            " Philippa Lowthorpe",
+            " Samuel Donovan",
+            " May el-Toukhy"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Peter Morgan",
+            " Stephen Daldry",
+            " Robert Fox",
+            " Andy Harries",
+            " Suzanne Mackie",
+            " Matthew Byam Shaw",
+            " Andy Stebbing",
+            " Michael Casey",
+            " Nicki Mousley",
+            " Martin Harrison"
+        ],
+        "may": [
+            "Peter Morgan",
+            " Stephen Daldry",
+            " Robert Fox",
+            " Andy Harries",
+            " Suzanne Mackie",
+            " Matthew Byam Shaw",
+            " Andy Stebbing",
+            " Michael Casey",
+            " Nicki Mousley",
+            " Martin Harrison"
+        ],
+        "tam": [
+            "Peter Morgan",
+            " Stephen Daldry",
+            " Robert Fox",
+            " Andy Harries",
+            " Suzanne Mackie",
+            " Matthew Byam Shaw",
+            " Andy Stebbing",
+            " Michael Casey",
+            " Nicki Mousley",
+            " Martin Harrison"
+        ],
+        "chi": [
+            "Peter Morgan",
+            " Stephen Daldry",
+            " Robert Fox",
+            " Andy Harries",
+            " Suzanne Mackie",
+            " Matthew Byam Shaw",
+            " Andy Stebbing",
+            " Michael Casey",
+            " Nicki Mousley",
+            " Martin Harrison"
+        ],
+        "tha": [
+            "Peter Morgan",
+            " Stephen Daldry",
+            " Robert Fox",
+            " Andy Harries",
+            " Suzanne Mackie",
+            " Matthew Byam Shaw",
+            " Andy Stebbing",
+            " Michael Casey",
+            " Nicki Mousley",
+            " Martin Harrison"
+        ],
+        "ind": [
+            "Peter Morgan",
+            " Stephen Daldry",
+            " Robert Fox",
+            " Andy Harries",
+            " Suzanne Mackie",
+            " Matthew Byam Shaw",
+            " Andy Stebbing",
+            " Michael Casey",
+            " Nicki Mousley",
+            " Martin Harrison"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Biography",
+                    "may": "Biography",
+                    "tam": "Biography",
+                    "chi": "Biography",
+                    "tha": "Biography",
+                    "ind": "Biography"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheCrownSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheCrownSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheCrownSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_319dd94c-575e-5a11-8829-9c18c31342ab",
+    "seasonId": "AggregatedSeason_dd29f294-e06c-5568-ac4f-067d6b07481d",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2016,
+    "rating": "15",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

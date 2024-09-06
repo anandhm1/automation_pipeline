@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_f50bc0f5-b0ec-5624-b0e9-0ad958335d39",
+    "clientContentId": "PACK0000000008260742",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Fast & Furious Presents Hobbs & Shaw",
+            "may": "Fast & Furious Presents Hobbs & Shaw",
+            "tam": "Fast & Furious Presents Hobbs & Shaw",
+            "chi": "Fast & Furious Presents Hobbs & Shaw",
+            "tha": "Fast & Furious Presents Hobbs & Shaw",
+            "ind": "Fast & Furious Presents Hobbs & Shaw"
+        },
+        "long": {
+            "eng": "Fast & Furious Presents Hobbs & Shaw",
+            "may": "Fast & Furious Presents Hobbs & Shaw",
+            "tam": "Fast & Furious Presents Hobbs & Shaw",
+            "chi": "Fast & Furious Presents Hobbs & Shaw",
+            "tha": "Fast & Furious Presents Hobbs & Shaw",
+            "ind": "Fast & Furious Presents Hobbs & Shaw"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Lawman Luke Hobbs (Dwayne The Rock Johnson) and outcast Deckard Shaw (Jason Statham) form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
+            "may": "Lawman Luke Hobbs (Dwayne The Rock Johnson) and outcast Deckard Shaw (Jason Statham) form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
+            "tam": "Lawman Luke Hobbs (Dwayne The Rock Johnson) and outcast Deckard Shaw (Jason Statham) form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
+            "chi": "Lawman Luke Hobbs (Dwayne The Rock Johnson) and outcast Deckard Shaw (Jason Statham) form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
+            "tha": "Lawman Luke Hobbs (Dwayne The Rock Johnson) and outcast Deckard Shaw (Jason Statham) form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
+            "ind": "Lawman Luke Hobbs (Dwayne The Rock Johnson) and outcast Deckard Shaw (Jason Statham) form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity."
+        },
+        "long": {
+            "eng": "Lawman Luke Hobbs (Dwayne The Rock Johnson) and outcast Deckard Shaw (Jason Statham) form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
+            "may": "Lawman Luke Hobbs (Dwayne The Rock Johnson) and outcast Deckard Shaw (Jason Statham) form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
+            "tam": "Lawman Luke Hobbs (Dwayne The Rock Johnson) and outcast Deckard Shaw (Jason Statham) form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
+            "chi": "Lawman Luke Hobbs (Dwayne The Rock Johnson) and outcast Deckard Shaw (Jason Statham) form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
+            "tha": "Lawman Luke Hobbs (Dwayne The Rock Johnson) and outcast Deckard Shaw (Jason Statham) form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
+            "ind": "Lawman Luke Hobbs (Dwayne The Rock Johnson) and outcast Deckard Shaw (Jason Statham) form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Dwayne Johnson",
+            " Jason Statham",
+            " Idris Elba",
+            " Vanessa Kirby",
+            " Helen Mirren",
+            " Eiza Gonz\u00e1lez",
+            " Eddie Marsan",
+            " Eliana Sua",
+            " Cliff Curtis",
+            " Lori Pelenise Tuisano"
+        ],
+        "may": [
+            "Dwayne Johnson",
+            " Jason Statham",
+            " Idris Elba",
+            " Vanessa Kirby",
+            " Helen Mirren",
+            " Eiza Gonz\u00e1lez",
+            " Eddie Marsan",
+            " Eliana Sua",
+            " Cliff Curtis",
+            " Lori Pelenise Tuisano"
+        ],
+        "tam": [
+            "Dwayne Johnson",
+            " Jason Statham",
+            " Idris Elba",
+            " Vanessa Kirby",
+            " Helen Mirren",
+            " Eiza Gonz\u00e1lez",
+            " Eddie Marsan",
+            " Eliana Sua",
+            " Cliff Curtis",
+            " Lori Pelenise Tuisano"
+        ],
+        "chi": [
+            "Dwayne Johnson",
+            " Jason Statham",
+            " Idris Elba",
+            " Vanessa Kirby",
+            " Helen Mirren",
+            " Eiza Gonz\u00e1lez",
+            " Eddie Marsan",
+            " Eliana Sua",
+            " Cliff Curtis",
+            " Lori Pelenise Tuisano"
+        ],
+        "tha": [
+            "Dwayne Johnson",
+            " Jason Statham",
+            " Idris Elba",
+            " Vanessa Kirby",
+            " Helen Mirren",
+            " Eiza Gonz\u00e1lez",
+            " Eddie Marsan",
+            " Eliana Sua",
+            " Cliff Curtis",
+            " Lori Pelenise Tuisano"
+        ],
+        "ind": [
+            "Dwayne Johnson",
+            " Jason Statham",
+            " Idris Elba",
+            " Vanessa Kirby",
+            " Helen Mirren",
+            " Eiza Gonz\u00e1lez",
+            " Eddie Marsan",
+            " Eliana Sua",
+            " Cliff Curtis",
+            " Lori Pelenise Tuisano"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "David Leitch"
+        ],
+        "may": [
+            "David Leitch"
+        ],
+        "tam": [
+            "David Leitch"
+        ],
+        "chi": [
+            "David Leitch"
+        ],
+        "tha": [
+            "David Leitch"
+        ],
+        "ind": [
+            "David Leitch"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Kathy Chasen-Hay",
+            " Steven Chasman",
+            " Ainsley Davies",
+            " Nicole Furia",
+            " Dany Garcia",
+            " Hiram Garcia",
+            " Dwayne Johnson",
+            " Kelly McCormick",
+            " Chris Morgan",
+            " Ethan Smith"
+        ],
+        "may": [
+            "Kathy Chasen-Hay",
+            " Steven Chasman",
+            " Ainsley Davies",
+            " Nicole Furia",
+            " Dany Garcia",
+            " Hiram Garcia",
+            " Dwayne Johnson",
+            " Kelly McCormick",
+            " Chris Morgan",
+            " Ethan Smith"
+        ],
+        "tam": [
+            "Kathy Chasen-Hay",
+            " Steven Chasman",
+            " Ainsley Davies",
+            " Nicole Furia",
+            " Dany Garcia",
+            " Hiram Garcia",
+            " Dwayne Johnson",
+            " Kelly McCormick",
+            " Chris Morgan",
+            " Ethan Smith"
+        ],
+        "chi": [
+            "Kathy Chasen-Hay",
+            " Steven Chasman",
+            " Ainsley Davies",
+            " Nicole Furia",
+            " Dany Garcia",
+            " Hiram Garcia",
+            " Dwayne Johnson",
+            " Kelly McCormick",
+            " Chris Morgan",
+            " Ethan Smith"
+        ],
+        "tha": [
+            "Kathy Chasen-Hay",
+            " Steven Chasman",
+            " Ainsley Davies",
+            " Nicole Furia",
+            " Dany Garcia",
+            " Hiram Garcia",
+            " Dwayne Johnson",
+            " Kelly McCormick",
+            " Chris Morgan",
+            " Ethan Smith"
+        ],
+        "ind": [
+            "Kathy Chasen-Hay",
+            " Steven Chasman",
+            " Ainsley Davies",
+            " Nicole Furia",
+            " Dany Garcia",
+            " Hiram Garcia",
+            " Dwayne Johnson",
+            " Kelly McCormick",
+            " Chris Morgan",
+            " Ethan Smith"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Fast&FuriousPresentsHobbs&Shaw_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Fast&FuriousPresentsHobbs&Shaw_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Fast&FuriousPresentsHobbs&Shaw_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2019,
+    "rating": "6.5",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

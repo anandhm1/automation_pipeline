@@ -1,0 +1,325 @@
+{
+    "externalId": "AggregatedMovie_b1a575d3-d5e0-50b6-b7e1-9174c83506ff",
+    "clientContentId": "PACK0000000001249632",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Beast (2022)",
+            "may": "Beast (2022)",
+            "tam": "Beast (2022)",
+            "chi": "Beast (2022)",
+            "tha": "Beast (2022)",
+            "ind": "Beast (2022)"
+        },
+        "long": {
+            "eng": "Beast (2022)",
+            "may": "Beast (2022)",
+            "tam": "Beast (2022)",
+            "chi": "Beast (2022)",
+            "tha": "Beast (2022)",
+            "ind": "Beast (2022)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A father and his two teenage daughters find themselves hunted by a massive rogue lion intent on proving that the Savanna has but one apex predator.",
+            "may": "A father and his two teenage daughters find themselves hunted by a massive rogue lion intent on proving that the Savanna has but one apex predator.",
+            "tam": "A father and his two teenage daughters find themselves hunted by a massive rogue lion intent on proving that the Savanna has but one apex predator.",
+            "chi": "A father and his two teenage daughters find themselves hunted by a massive rogue lion intent on proving that the Savanna has but one apex predator.",
+            "tha": "A father and his two teenage daughters find themselves hunted by a massive rogue lion intent on proving that the Savanna has but one apex predator.",
+            "ind": "A father and his two teenage daughters find themselves hunted by a massive rogue lion intent on proving that the Savanna has but one apex predator."
+        },
+        "long": {
+            "eng": "A father and his two teenage daughters find themselves hunted by a massive rogue lion intent on proving that the Savanna has but one apex predator.",
+            "may": "A father and his two teenage daughters find themselves hunted by a massive rogue lion intent on proving that the Savanna has but one apex predator.",
+            "tam": "A father and his two teenage daughters find themselves hunted by a massive rogue lion intent on proving that the Savanna has but one apex predator.",
+            "chi": "A father and his two teenage daughters find themselves hunted by a massive rogue lion intent on proving that the Savanna has but one apex predator.",
+            "tha": "A father and his two teenage daughters find themselves hunted by a massive rogue lion intent on proving that the Savanna has but one apex predator.",
+            "ind": "A father and his two teenage daughters find themselves hunted by a massive rogue lion intent on proving that the Savanna has but one apex predator."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Liyabuya Gongo",
+            " Martin Munro",
+            " Daniel Hadebe",
+            " Thapelo Sebogodi",
+            " Chris Langa",
+            " Mduduzi Mavimbela",
+            " Chris Gxalaba",
+            " Idris Elba",
+            " Kazi Khuboni",
+            " Leah Jeffries"
+        ],
+        "may": [
+            "Liyabuya Gongo",
+            " Martin Munro",
+            " Daniel Hadebe",
+            " Thapelo Sebogodi",
+            " Chris Langa",
+            " Mduduzi Mavimbela",
+            " Chris Gxalaba",
+            " Idris Elba",
+            " Kazi Khuboni",
+            " Leah Jeffries"
+        ],
+        "tam": [
+            "Liyabuya Gongo",
+            " Martin Munro",
+            " Daniel Hadebe",
+            " Thapelo Sebogodi",
+            " Chris Langa",
+            " Mduduzi Mavimbela",
+            " Chris Gxalaba",
+            " Idris Elba",
+            " Kazi Khuboni",
+            " Leah Jeffries"
+        ],
+        "chi": [
+            "Liyabuya Gongo",
+            " Martin Munro",
+            " Daniel Hadebe",
+            " Thapelo Sebogodi",
+            " Chris Langa",
+            " Mduduzi Mavimbela",
+            " Chris Gxalaba",
+            " Idris Elba",
+            " Kazi Khuboni",
+            " Leah Jeffries"
+        ],
+        "tha": [
+            "Liyabuya Gongo",
+            " Martin Munro",
+            " Daniel Hadebe",
+            " Thapelo Sebogodi",
+            " Chris Langa",
+            " Mduduzi Mavimbela",
+            " Chris Gxalaba",
+            " Idris Elba",
+            " Kazi Khuboni",
+            " Leah Jeffries"
+        ],
+        "ind": [
+            "Liyabuya Gongo",
+            " Martin Munro",
+            " Daniel Hadebe",
+            " Thapelo Sebogodi",
+            " Chris Langa",
+            " Mduduzi Mavimbela",
+            " Chris Gxalaba",
+            " Idris Elba",
+            " Kazi Khuboni",
+            " Leah Jeffries"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Baltasar Korm\u00e1kur"
+        ],
+        "may": [
+            "Baltasar Korm\u00e1kur"
+        ],
+        "tam": [
+            "Baltasar Korm\u00e1kur"
+        ],
+        "chi": [
+            "Baltasar Korm\u00e1kur"
+        ],
+        "tha": [
+            "Baltasar Korm\u00e1kur"
+        ],
+        "ind": [
+            "Baltasar Korm\u00e1kur"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Bernard Bellew",
+            " Shayla Cowan",
+            " Baltasar Korm\u00e1kur",
+            " James Lopez",
+            " Will Packer",
+            " Jaime Primak Sullivan",
+            " Janine van Assen"
+        ],
+        "may": [
+            "Bernard Bellew",
+            " Shayla Cowan",
+            " Baltasar Korm\u00e1kur",
+            " James Lopez",
+            " Will Packer",
+            " Jaime Primak Sullivan",
+            " Janine van Assen"
+        ],
+        "tam": [
+            "Bernard Bellew",
+            " Shayla Cowan",
+            " Baltasar Korm\u00e1kur",
+            " James Lopez",
+            " Will Packer",
+            " Jaime Primak Sullivan",
+            " Janine van Assen"
+        ],
+        "chi": [
+            "Bernard Bellew",
+            " Shayla Cowan",
+            " Baltasar Korm\u00e1kur",
+            " James Lopez",
+            " Will Packer",
+            " Jaime Primak Sullivan",
+            " Janine van Assen"
+        ],
+        "tha": [
+            "Bernard Bellew",
+            " Shayla Cowan",
+            " Baltasar Korm\u00e1kur",
+            " James Lopez",
+            " Will Packer",
+            " Jaime Primak Sullivan",
+            " Janine van Assen"
+        ],
+        "ind": [
+            "Bernard Bellew",
+            " Shayla Cowan",
+            " Baltasar Korm\u00e1kur",
+            " James Lopez",
+            " Will Packer",
+            " Jaime Primak Sullivan",
+            " Janine van Assen"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Beast_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Beast_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Beast_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "5.6",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

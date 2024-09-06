@@ -1,0 +1,223 @@
+{
+    "externalId": "AggregatedSeries_399f98a1-e512-5e1d-827b-fee079ef52ff",
+    "clientContentId": "PACK0000000007708124",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Gomorrah",
+            "may": "Gomorrah",
+            "tam": "Gomorrah",
+            "chi": "Gomorrah",
+            "tha": "Gomorrah",
+            "ind": "Gomorrah"
+        },
+        "long": {
+            "eng": "Gomorrah",
+            "may": "Gomorrah",
+            "tam": "Gomorrah",
+            "chi": "Gomorrah",
+            "tha": "Gomorrah",
+            "ind": "Gomorrah"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "may": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "tam": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "chi": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "tha": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "ind": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk."
+        },
+        "long": {
+            "eng": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "may": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "tam": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "chi": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "tha": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "ind": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Marco D'Amore",
+            " Salvatore Esposito",
+            " Fortunato Cerlino",
+            " Maria Pia Calzone"
+        ],
+        "may": [
+            "Marco D'Amore",
+            " Salvatore Esposito",
+            " Fortunato Cerlino",
+            " Maria Pia Calzone"
+        ],
+        "tam": [
+            "Marco D'Amore",
+            " Salvatore Esposito",
+            " Fortunato Cerlino",
+            " Maria Pia Calzone"
+        ],
+        "chi": [
+            "Marco D'Amore",
+            " Salvatore Esposito",
+            " Fortunato Cerlino",
+            " Maria Pia Calzone"
+        ],
+        "tha": [
+            "Marco D'Amore",
+            " Salvatore Esposito",
+            " Fortunato Cerlino",
+            " Maria Pia Calzone"
+        ],
+        "ind": [
+            "Marco D'Amore",
+            " Salvatore Esposito",
+            " Fortunato Cerlino",
+            " Maria Pia Calzone"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Roberto Saviano"
+        ],
+        "may": [
+            "Roberto Saviano"
+        ],
+        "tam": [
+            "Roberto Saviano"
+        ],
+        "chi": [
+            "Roberto Saviano"
+        ],
+        "tha": [
+            "Roberto Saviano"
+        ],
+        "ind": [
+            "Roberto Saviano"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Roberto Saviano"
+        ],
+        "may": [
+            "Roberto Saviano"
+        ],
+        "tam": [
+            "Roberto Saviano"
+        ],
+        "chi": [
+            "Roberto Saviano"
+        ],
+        "tha": [
+            "Roberto Saviano"
+        ],
+        "ind": [
+            "Roberto Saviano"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/Gomorrah_S01_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/Gomorrah_S01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/Gomorrah_S01_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "9",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2014,
+    "maxConcurrentStreams": 0
+}

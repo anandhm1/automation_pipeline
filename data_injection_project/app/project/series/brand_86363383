@@ -1,0 +1,367 @@
+{
+    "externalId": "AggregatedSeries_7ff3ee59-de4b-51c0-9cb8-d34ceb1c9bca",
+    "clientContentId": "PACK0000000001627704",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Batwoman",
+            "may": "Batwoman",
+            "tam": "Batwoman",
+            "chi": "Batwoman",
+            "tha": "Batwoman",
+            "ind": "Batwoman"
+        },
+        "long": {
+            "eng": "Batwoman",
+            "may": "Batwoman",
+            "tam": "Batwoman",
+            "chi": "Batwoman",
+            "tha": "Batwoman",
+            "ind": "Batwoman"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Batwoman seeks justice for Gotham City.",
+            "may": "Batwoman seeks justice for Gotham City.",
+            "tam": "Batwoman seeks justice for Gotham City.",
+            "chi": "Batwoman seeks justice for Gotham City.",
+            "tha": "Batwoman seeks justice for Gotham City.",
+            "ind": "Batwoman seeks justice for Gotham City."
+        },
+        "long": {
+            "eng": "Batwoman seeks justice for Gotham City.",
+            "may": "Batwoman seeks justice for Gotham City.",
+            "tam": "Batwoman seeks justice for Gotham City.",
+            "chi": "Batwoman seeks justice for Gotham City.",
+            "tha": "Batwoman seeks justice for Gotham City.",
+            "ind": "Batwoman seeks justice for Gotham City."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Camrus Johnson",
+            " Rachel Skarsten",
+            " Meagan Tandy",
+            " Nicole Kang",
+            " Dougray Scott",
+            " Javicia Leslie",
+            " Rachel Maddow",
+            " Ruby Rose",
+            " Allison Riley",
+            " Sam Littlefield"
+        ],
+        "may": [
+            "Camrus Johnson",
+            " Rachel Skarsten",
+            " Meagan Tandy",
+            " Nicole Kang",
+            " Dougray Scott",
+            " Javicia Leslie",
+            " Rachel Maddow",
+            " Ruby Rose",
+            " Allison Riley",
+            " Sam Littlefield"
+        ],
+        "tam": [
+            "Camrus Johnson",
+            " Rachel Skarsten",
+            " Meagan Tandy",
+            " Nicole Kang",
+            " Dougray Scott",
+            " Javicia Leslie",
+            " Rachel Maddow",
+            " Ruby Rose",
+            " Allison Riley",
+            " Sam Littlefield"
+        ],
+        "chi": [
+            "Camrus Johnson",
+            " Rachel Skarsten",
+            " Meagan Tandy",
+            " Nicole Kang",
+            " Dougray Scott",
+            " Javicia Leslie",
+            " Rachel Maddow",
+            " Ruby Rose",
+            " Allison Riley",
+            " Sam Littlefield"
+        ],
+        "tha": [
+            "Camrus Johnson",
+            " Rachel Skarsten",
+            " Meagan Tandy",
+            " Nicole Kang",
+            " Dougray Scott",
+            " Javicia Leslie",
+            " Rachel Maddow",
+            " Ruby Rose",
+            " Allison Riley",
+            " Sam Littlefield"
+        ],
+        "ind": [
+            "Camrus Johnson",
+            " Rachel Skarsten",
+            " Meagan Tandy",
+            " Nicole Kang",
+            " Dougray Scott",
+            " Javicia Leslie",
+            " Rachel Maddow",
+            " Ruby Rose",
+            " Allison Riley",
+            " Sam Littlefield"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Holly Dale",
+            " Carl Seaton",
+            " Michael A. Allowitz",
+            " Dermott Downs",
+            " Marcos Siega",
+            " Michael C. Blundell",
+            " Mairzee Almas",
+            " Greg Beeman",
+            " Jeffrey G. Hunt",
+            " Eric Dean Seaton"
+        ],
+        "may": [
+            "Holly Dale",
+            " Carl Seaton",
+            " Michael A. Allowitz",
+            " Dermott Downs",
+            " Marcos Siega",
+            " Michael C. Blundell",
+            " Mairzee Almas",
+            " Greg Beeman",
+            " Jeffrey G. Hunt",
+            " Eric Dean Seaton"
+        ],
+        "tam": [
+            "Holly Dale",
+            " Carl Seaton",
+            " Michael A. Allowitz",
+            " Dermott Downs",
+            " Marcos Siega",
+            " Michael C. Blundell",
+            " Mairzee Almas",
+            " Greg Beeman",
+            " Jeffrey G. Hunt",
+            " Eric Dean Seaton"
+        ],
+        "chi": [
+            "Holly Dale",
+            " Carl Seaton",
+            " Michael A. Allowitz",
+            " Dermott Downs",
+            " Marcos Siega",
+            " Michael C. Blundell",
+            " Mairzee Almas",
+            " Greg Beeman",
+            " Jeffrey G. Hunt",
+            " Eric Dean Seaton"
+        ],
+        "tha": [
+            "Holly Dale",
+            " Carl Seaton",
+            " Michael A. Allowitz",
+            " Dermott Downs",
+            " Marcos Siega",
+            " Michael C. Blundell",
+            " Mairzee Almas",
+            " Greg Beeman",
+            " Jeffrey G. Hunt",
+            " Eric Dean Seaton"
+        ],
+        "ind": [
+            "Holly Dale",
+            " Carl Seaton",
+            " Michael A. Allowitz",
+            " Dermott Downs",
+            " Marcos Siega",
+            " Michael C. Blundell",
+            " Mairzee Almas",
+            " Greg Beeman",
+            " Jeffrey G. Hunt",
+            " Eric Dean Seaton"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Greg Berlanti",
+            " Caroline Dries",
+            " Jennifer Lence",
+            " Jae Marchant",
+            " Carl Ogawa",
+            " Sarah Schechter",
+            " Holly Dale",
+            " Chad Fiveash",
+            " Geoff Johns",
+            " Nancy Kiu"
+        ],
+        "may": [
+            "Greg Berlanti",
+            " Caroline Dries",
+            " Jennifer Lence",
+            " Jae Marchant",
+            " Carl Ogawa",
+            " Sarah Schechter",
+            " Holly Dale",
+            " Chad Fiveash",
+            " Geoff Johns",
+            " Nancy Kiu"
+        ],
+        "tam": [
+            "Greg Berlanti",
+            " Caroline Dries",
+            " Jennifer Lence",
+            " Jae Marchant",
+            " Carl Ogawa",
+            " Sarah Schechter",
+            " Holly Dale",
+            " Chad Fiveash",
+            " Geoff Johns",
+            " Nancy Kiu"
+        ],
+        "chi": [
+            "Greg Berlanti",
+            " Caroline Dries",
+            " Jennifer Lence",
+            " Jae Marchant",
+            " Carl Ogawa",
+            " Sarah Schechter",
+            " Holly Dale",
+            " Chad Fiveash",
+            " Geoff Johns",
+            " Nancy Kiu"
+        ],
+        "tha": [
+            "Greg Berlanti",
+            " Caroline Dries",
+            " Jennifer Lence",
+            " Jae Marchant",
+            " Carl Ogawa",
+            " Sarah Schechter",
+            " Holly Dale",
+            " Chad Fiveash",
+            " Geoff Johns",
+            " Nancy Kiu"
+        ],
+        "ind": [
+            "Greg Berlanti",
+            " Caroline Dries",
+            " Jennifer Lence",
+            " Jae Marchant",
+            " Carl Ogawa",
+            " Sarah Schechter",
+            " Holly Dale",
+            " Chad Fiveash",
+            " Geoff Johns",
+            " Nancy Kiu"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BatwomanSeason3_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BatwomanSeason3_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BatwomanSeason3_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "8",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2019,
+    "maxConcurrentStreams": 0
+}

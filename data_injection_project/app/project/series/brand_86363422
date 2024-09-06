@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedSeries_6c612298-6239-50b3-b8e7-32b1ac83c13f",
+    "clientContentId": "PACK0000000003339681",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Ms. Marvel",
+            "may": "Ms. Marvel",
+            "tam": "Ms. Marvel",
+            "chi": "Ms. Marvel",
+            "tha": "Ms. Marvel",
+            "ind": "Ms. Marvel"
+        },
+        "long": {
+            "eng": "Ms. Marvel",
+            "may": "Ms. Marvel",
+            "tam": "Ms. Marvel",
+            "chi": "Ms. Marvel",
+            "tha": "Ms. Marvel",
+            "ind": "Ms. Marvel"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "may": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "tam": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "chi": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "tha": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "ind": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires."
+        },
+        "long": {
+            "eng": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "may": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "tam": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "chi": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "tha": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "ind": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Iman Vellani",
+            " Matt Lintz",
+            " Zenobia Shroff",
+            " Yasmeen Fletcher",
+            " Rish Shah",
+            " Mohan KapurSaagar ShaikhSamina AhmedNimra BuchaAlysia Reiner"
+        ],
+        "may": [
+            "Iman Vellani",
+            " Matt Lintz",
+            " Zenobia Shroff",
+            " Yasmeen Fletcher",
+            " Rish Shah",
+            " Mohan KapurSaagar ShaikhSamina AhmedNimra BuchaAlysia Reiner"
+        ],
+        "tam": [
+            "Iman Vellani",
+            " Matt Lintz",
+            " Zenobia Shroff",
+            " Yasmeen Fletcher",
+            " Rish Shah",
+            " Mohan KapurSaagar ShaikhSamina AhmedNimra BuchaAlysia Reiner"
+        ],
+        "chi": [
+            "Iman Vellani",
+            " Matt Lintz",
+            " Zenobia Shroff",
+            " Yasmeen Fletcher",
+            " Rish Shah",
+            " Mohan KapurSaagar ShaikhSamina AhmedNimra BuchaAlysia Reiner"
+        ],
+        "tha": [
+            "Iman Vellani",
+            " Matt Lintz",
+            " Zenobia Shroff",
+            " Yasmeen Fletcher",
+            " Rish Shah",
+            " Mohan KapurSaagar ShaikhSamina AhmedNimra BuchaAlysia Reiner"
+        ],
+        "ind": [
+            "Iman Vellani",
+            " Matt Lintz",
+            " Zenobia Shroff",
+            " Yasmeen Fletcher",
+            " Rish Shah",
+            " Mohan KapurSaagar ShaikhSamina AhmedNimra BuchaAlysia Reiner"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Adil El Arbi",
+            " Bilall Fallah",
+            " Meera Menon",
+            " Sharmeen Obaid-Chinoy",
+            " ",
+            " "
+        ],
+        "may": [
+            "Adil El Arbi",
+            " Bilall Fallah",
+            " Meera Menon",
+            " Sharmeen Obaid-Chinoy",
+            " ",
+            " "
+        ],
+        "tam": [
+            "Adil El Arbi",
+            " Bilall Fallah",
+            " Meera Menon",
+            " Sharmeen Obaid-Chinoy",
+            " ",
+            " "
+        ],
+        "chi": [
+            "Adil El Arbi",
+            " Bilall Fallah",
+            " Meera Menon",
+            " Sharmeen Obaid-Chinoy",
+            " ",
+            " "
+        ],
+        "tha": [
+            "Adil El Arbi",
+            " Bilall Fallah",
+            " Meera Menon",
+            " Sharmeen Obaid-Chinoy",
+            " ",
+            " "
+        ],
+        "ind": [
+            "Adil El Arbi",
+            " Bilall Fallah",
+            " Meera Menon",
+            " Sharmeen Obaid-Chinoy",
+            " ",
+            " "
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Bisha K. Ali",
+            " Victoria Alonso",
+            " Sana Amanat",
+            " A.C. Bradley",
+            " Matthew Chauncey",
+            " Louis D'EspositoKevin FeigeMatthew SpiegelFreddy SybornSabir Pirzada"
+        ],
+        "may": [
+            "Bisha K. Ali",
+            " Victoria Alonso",
+            " Sana Amanat",
+            " A.C. Bradley",
+            " Matthew Chauncey",
+            " Louis D'EspositoKevin FeigeMatthew SpiegelFreddy SybornSabir Pirzada"
+        ],
+        "tam": [
+            "Bisha K. Ali",
+            " Victoria Alonso",
+            " Sana Amanat",
+            " A.C. Bradley",
+            " Matthew Chauncey",
+            " Louis D'EspositoKevin FeigeMatthew SpiegelFreddy SybornSabir Pirzada"
+        ],
+        "chi": [
+            "Bisha K. Ali",
+            " Victoria Alonso",
+            " Sana Amanat",
+            " A.C. Bradley",
+            " Matthew Chauncey",
+            " Louis D'EspositoKevin FeigeMatthew SpiegelFreddy SybornSabir Pirzada"
+        ],
+        "tha": [
+            "Bisha K. Ali",
+            " Victoria Alonso",
+            " Sana Amanat",
+            " A.C. Bradley",
+            " Matthew Chauncey",
+            " Louis D'EspositoKevin FeigeMatthew SpiegelFreddy SybornSabir Pirzada"
+        ],
+        "ind": [
+            "Bisha K. Ali",
+            " Victoria Alonso",
+            " Sana Amanat",
+            " A.C. Bradley",
+            " Matthew Chauncey",
+            " Louis D'EspositoKevin FeigeMatthew SpiegelFreddy SybornSabir Pirzada"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Ms.MarvelSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Ms.MarvelSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Ms.MarvelSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "10",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2022,
+    "maxConcurrentStreams": 0
+}

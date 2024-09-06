@@ -1,0 +1,377 @@
+{
+    "externalId": "AggregatedSeason_b80b9a90-343c-5c79-b489-27c02c274982",
+    "clientContentId": "PACK0000000006197009",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "chi": "Action",
+                    "tam": "Action",
+                    "ind": "Action",
+                    "tha": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "chi": " Adventure",
+                    "tam": " Adventure",
+                    "ind": " Adventure",
+                    "tha": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2013,
+    "rating": "18",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Katheryn Winnick",
+            " Gustaf Skarsg\u00e5rd",
+            " Alexander Ludwig",
+            " Georgia Hirst",
+            " Alex H\u00f8gh Andersen",
+            " Jordan Patrick Smith",
+            " Marco Ils\u00f8",
+            " Peter Franz\u00e9n",
+            " Travis Fimmel",
+            " Clive Standen"
+        ],
+        "may": [
+            "Katheryn Winnick",
+            " Gustaf Skarsg\u00e5rd",
+            " Alexander Ludwig",
+            " Georgia Hirst",
+            " Alex H\u00f8gh Andersen",
+            " Jordan Patrick Smith",
+            " Marco Ils\u00f8",
+            " Peter Franz\u00e9n",
+            " Travis Fimmel",
+            " Clive Standen"
+        ],
+        "chi": [
+            "Katheryn Winnick",
+            " Gustaf Skarsg\u00e5rd",
+            " Alexander Ludwig",
+            " Georgia Hirst",
+            " Alex H\u00f8gh Andersen",
+            " Jordan Patrick Smith",
+            " Marco Ils\u00f8",
+            " Peter Franz\u00e9n",
+            " Travis Fimmel",
+            " Clive Standen"
+        ],
+        "tam": [
+            "Katheryn Winnick",
+            " Gustaf Skarsg\u00e5rd",
+            " Alexander Ludwig",
+            " Georgia Hirst",
+            " Alex H\u00f8gh Andersen",
+            " Jordan Patrick Smith",
+            " Marco Ils\u00f8",
+            " Peter Franz\u00e9n",
+            " Travis Fimmel",
+            " Clive Standen"
+        ],
+        "ind": [
+            "Katheryn Winnick",
+            " Gustaf Skarsg\u00e5rd",
+            " Alexander Ludwig",
+            " Georgia Hirst",
+            " Alex H\u00f8gh Andersen",
+            " Jordan Patrick Smith",
+            " Marco Ils\u00f8",
+            " Peter Franz\u00e9n",
+            " Travis Fimmel",
+            " Clive Standen"
+        ],
+        "tha": [
+            "Katheryn Winnick",
+            " Gustaf Skarsg\u00e5rd",
+            " Alexander Ludwig",
+            " Georgia Hirst",
+            " Alex H\u00f8gh Andersen",
+            " Jordan Patrick Smith",
+            " Marco Ils\u00f8",
+            " Peter Franz\u00e9n",
+            " Travis Fimmel",
+            " Clive Standen"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Ciaran Donnelly",
+            " Ken Girotti",
+            " Steve Saint Leger",
+            " Jeff Woolnough",
+            " Helen Shaver",
+            " Daniel Grou",
+            " David Frazee",
+            " Joshua Zimmerman",
+            " David Wellington",
+            " Johan Renck"
+        ],
+        "may": [
+            "Ciaran Donnelly",
+            " Ken Girotti",
+            " Steve Saint Leger",
+            " Jeff Woolnough",
+            " Helen Shaver",
+            " Daniel Grou",
+            " David Frazee",
+            " Joshua Zimmerman",
+            " David Wellington",
+            " Johan Renck"
+        ],
+        "chi": [
+            "Ciaran Donnelly",
+            " Ken Girotti",
+            " Steve Saint Leger",
+            " Jeff Woolnough",
+            " Helen Shaver",
+            " Daniel Grou",
+            " David Frazee",
+            " Joshua Zimmerman",
+            " David Wellington",
+            " Johan Renck"
+        ],
+        "tam": [
+            "Ciaran Donnelly",
+            " Ken Girotti",
+            " Steve Saint Leger",
+            " Jeff Woolnough",
+            " Helen Shaver",
+            " Daniel Grou",
+            " David Frazee",
+            " Joshua Zimmerman",
+            " David Wellington",
+            " Johan Renck"
+        ],
+        "ind": [
+            "Ciaran Donnelly",
+            " Ken Girotti",
+            " Steve Saint Leger",
+            " Jeff Woolnough",
+            " Helen Shaver",
+            " Daniel Grou",
+            " David Frazee",
+            " Joshua Zimmerman",
+            " David Wellington",
+            " Johan Renck"
+        ],
+        "tha": [
+            "Ciaran Donnelly",
+            " Ken Girotti",
+            " Steve Saint Leger",
+            " Jeff Woolnough",
+            " Helen Shaver",
+            " Daniel Grou",
+            " David Frazee",
+            " Joshua Zimmerman",
+            " David Wellington",
+            " Johan Renck"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Michael Hirst",
+            " Sheila Hockin",
+            " James Flynn",
+            " Bill Goddard",
+            " Sherry Marsh",
+            " Seamus McInerney",
+            " Morgan O'Sullivan",
+            " John Weber",
+            " Alan Gasmer",
+            " Justin Pollard"
+        ],
+        "may": [
+            "Michael Hirst",
+            " Sheila Hockin",
+            " James Flynn",
+            " Bill Goddard",
+            " Sherry Marsh",
+            " Seamus McInerney",
+            " Morgan O'Sullivan",
+            " John Weber",
+            " Alan Gasmer",
+            " Justin Pollard"
+        ],
+        "chi": [
+            "Michael Hirst",
+            " Sheila Hockin",
+            " James Flynn",
+            " Bill Goddard",
+            " Sherry Marsh",
+            " Seamus McInerney",
+            " Morgan O'Sullivan",
+            " John Weber",
+            " Alan Gasmer",
+            " Justin Pollard"
+        ],
+        "tam": [
+            "Michael Hirst",
+            " Sheila Hockin",
+            " James Flynn",
+            " Bill Goddard",
+            " Sherry Marsh",
+            " Seamus McInerney",
+            " Morgan O'Sullivan",
+            " John Weber",
+            " Alan Gasmer",
+            " Justin Pollard"
+        ],
+        "ind": [
+            "Michael Hirst",
+            " Sheila Hockin",
+            " James Flynn",
+            " Bill Goddard",
+            " Sherry Marsh",
+            " Seamus McInerney",
+            " Morgan O'Sullivan",
+            " John Weber",
+            " Alan Gasmer",
+            " Justin Pollard"
+        ],
+        "tha": [
+            "Michael Hirst",
+            " Sheila Hockin",
+            " James Flynn",
+            " Bill Goddard",
+            " Sherry Marsh",
+            " Seamus McInerney",
+            " Morgan O'Sullivan",
+            " John Weber",
+            " Alan Gasmer",
+            " Justin Pollard"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_57609cef-104b-57d5-a4da-c8efe6a1d42f",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Vikings Season 1",
+            "may": "Vikings Season 1",
+            "chi": "Vikings Season 1",
+            "tam": "Vikings Season 1",
+            "ind": "Vikings Season 1",
+            "tha": "Vikings Season 1"
+        },
+        "long": {
+            "eng": "Vikings Season 1",
+            "may": "Vikings Season 1",
+            "chi": "Vikings Season 1",
+            "tam": "Vikings Season 1",
+            "ind": "Vikings Season 1",
+            "tha": "Vikings Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "may": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "chi": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "tam": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "ind": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "tha": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean."
+        },
+        "long": {
+            "eng": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "may": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "chi": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "tam": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "ind": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "tha": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VikingsSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VikingsSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VikingsSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

@@ -1,0 +1,373 @@
+{
+    "externalId": "AggregatedTvShow_2f9167c2-5796-5e3f-adf1-aaa4e60c7311",
+    "clientContentId": "PACK0000000002855527",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Mindhunter - Trailer",
+            "may": "Mindhunter - Trailer",
+            "tam": "Mindhunter - Trailer",
+            "chi": "Mindhunter - Trailer",
+            "tha": "Mindhunter - Trailer",
+            "ind": "Mindhunter - Trailer"
+        },
+        "long": {
+            "eng": "Mindhunter - Trailer",
+            "may": "Mindhunter - Trailer",
+            "tam": "Mindhunter - Trailer",
+            "chi": "Mindhunter - Trailer",
+            "tha": "Mindhunter - Trailer",
+            "ind": "Mindhunter - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "may": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "tam": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "chi": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "tha": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "ind": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases."
+        },
+        "long": {
+            "eng": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "may": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "tam": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "chi": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "tha": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+            "ind": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "may": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "tam": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "chi": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "tha": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "ind": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "may": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "tam": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "chi": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "tha": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "ind": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "may": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "tam": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "chi": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "tha": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "ind": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MINDHUNTERSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MINDHUNTERSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MINDHUNTERSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_9cbb0389-03fe-5a57-9fa6-204476ff184f",
+    "seasonId": "AggregatedSeason_e275a052-7f37-580f-8697-f3644397dd61",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2017,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

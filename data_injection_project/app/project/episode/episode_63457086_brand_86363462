@@ -1,0 +1,373 @@
+{
+    "externalId": "AggregatedTvShow_f90dda63-54bb-55e8-a353-27a98fc71223",
+    "clientContentId": "PACK0000000002181825",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Midnight Club - Trailer",
+            "may": "The Midnight Club - Trailer",
+            "tam": "The Midnight Club - Trailer",
+            "chi": "The Midnight Club - Trailer",
+            "tha": "The Midnight Club - Trailer",
+            "ind": "The Midnight Club - Trailer"
+        },
+        "long": {
+            "eng": "The Midnight Club - Trailer",
+            "may": "The Midnight Club - Trailer",
+            "tam": "The Midnight Club - Trailer",
+            "chi": "The Midnight Club - Trailer",
+            "tha": "The Midnight Club - Trailer",
+            "ind": "The Midnight Club - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "may": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "tam": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "chi": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "tha": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "ind": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories."
+        },
+        "long": {
+            "eng": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "may": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "tam": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "chi": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "tha": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "ind": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Iman Benson",
+            " Igby Rigney",
+            " Sadoc Vazkez",
+            " Ruth Codd",
+            " Annarah Cymone",
+            " William Chris Sumpter",
+            " Adia",
+            " Aya Furukawa",
+            " Sauriyan Sapkota",
+            " Matt Biedel"
+        ],
+        "may": [
+            "Iman Benson",
+            " Igby Rigney",
+            " Sadoc Vazkez",
+            " Ruth Codd",
+            " Annarah Cymone",
+            " William Chris Sumpter",
+            " Adia",
+            " Aya Furukawa",
+            " Sauriyan Sapkota",
+            " Matt Biedel"
+        ],
+        "tam": [
+            "Iman Benson",
+            " Igby Rigney",
+            " Sadoc Vazkez",
+            " Ruth Codd",
+            " Annarah Cymone",
+            " William Chris Sumpter",
+            " Adia",
+            " Aya Furukawa",
+            " Sauriyan Sapkota",
+            " Matt Biedel"
+        ],
+        "chi": [
+            "Iman Benson",
+            " Igby Rigney",
+            " Sadoc Vazkez",
+            " Ruth Codd",
+            " Annarah Cymone",
+            " William Chris Sumpter",
+            " Adia",
+            " Aya Furukawa",
+            " Sauriyan Sapkota",
+            " Matt Biedel"
+        ],
+        "tha": [
+            "Iman Benson",
+            " Igby Rigney",
+            " Sadoc Vazkez",
+            " Ruth Codd",
+            " Annarah Cymone",
+            " William Chris Sumpter",
+            " Adia",
+            " Aya Furukawa",
+            " Sauriyan Sapkota",
+            " Matt Biedel"
+        ],
+        "ind": [
+            "Iman Benson",
+            " Igby Rigney",
+            " Sadoc Vazkez",
+            " Ruth Codd",
+            " Annarah Cymone",
+            " William Chris Sumpter",
+            " Adia",
+            " Aya Furukawa",
+            " Sauriyan Sapkota",
+            " Matt Biedel"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Axelle Carolyn",
+            " Michael Fimognari",
+            " Mike Flanagan",
+            " Viet Nguyen",
+            " Morgan Beggs",
+            " Emmanuel Osei-Kuffour"
+        ],
+        "may": [
+            "Axelle Carolyn",
+            " Michael Fimognari",
+            " Mike Flanagan",
+            " Viet Nguyen",
+            " Morgan Beggs",
+            " Emmanuel Osei-Kuffour"
+        ],
+        "tam": [
+            "Axelle Carolyn",
+            " Michael Fimognari",
+            " Mike Flanagan",
+            " Viet Nguyen",
+            " Morgan Beggs",
+            " Emmanuel Osei-Kuffour"
+        ],
+        "chi": [
+            "Axelle Carolyn",
+            " Michael Fimognari",
+            " Mike Flanagan",
+            " Viet Nguyen",
+            " Morgan Beggs",
+            " Emmanuel Osei-Kuffour"
+        ],
+        "tha": [
+            "Axelle Carolyn",
+            " Michael Fimognari",
+            " Mike Flanagan",
+            " Viet Nguyen",
+            " Morgan Beggs",
+            " Emmanuel Osei-Kuffour"
+        ],
+        "ind": [
+            "Axelle Carolyn",
+            " Michael Fimognari",
+            " Mike Flanagan",
+            " Viet Nguyen",
+            " Morgan Beggs",
+            " Emmanuel Osei-Kuffour"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Morgan Beggs",
+            " Julia Bicknell",
+            " Adam Fasullo",
+            " Jamie Flanagan",
+            " Mike Flanagan",
+            " Leah Fong",
+            " Elan Gale",
+            " Kathy Gilroy",
+            " Chinaka Hodge",
+            " Nancy Kirhoffer"
+        ],
+        "may": [
+            "Morgan Beggs",
+            " Julia Bicknell",
+            " Adam Fasullo",
+            " Jamie Flanagan",
+            " Mike Flanagan",
+            " Leah Fong",
+            " Elan Gale",
+            " Kathy Gilroy",
+            " Chinaka Hodge",
+            " Nancy Kirhoffer"
+        ],
+        "tam": [
+            "Morgan Beggs",
+            " Julia Bicknell",
+            " Adam Fasullo",
+            " Jamie Flanagan",
+            " Mike Flanagan",
+            " Leah Fong",
+            " Elan Gale",
+            " Kathy Gilroy",
+            " Chinaka Hodge",
+            " Nancy Kirhoffer"
+        ],
+        "chi": [
+            "Morgan Beggs",
+            " Julia Bicknell",
+            " Adam Fasullo",
+            " Jamie Flanagan",
+            " Mike Flanagan",
+            " Leah Fong",
+            " Elan Gale",
+            " Kathy Gilroy",
+            " Chinaka Hodge",
+            " Nancy Kirhoffer"
+        ],
+        "tha": [
+            "Morgan Beggs",
+            " Julia Bicknell",
+            " Adam Fasullo",
+            " Jamie Flanagan",
+            " Mike Flanagan",
+            " Leah Fong",
+            " Elan Gale",
+            " Kathy Gilroy",
+            " Chinaka Hodge",
+            " Nancy Kirhoffer"
+        ],
+        "ind": [
+            "Morgan Beggs",
+            " Julia Bicknell",
+            " Adam Fasullo",
+            " Jamie Flanagan",
+            " Mike Flanagan",
+            " Leah Fong",
+            " Elan Gale",
+            " Kathy Gilroy",
+            " Chinaka Hodge",
+            " Nancy Kirhoffer"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "tam": " Horror",
+                    "chi": " Horror",
+                    "tha": " Horror",
+                    "ind": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/THEMIDNIGHTCLUBSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/THEMIDNIGHTCLUBSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/THEMIDNIGHTCLUBSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_c66d8a62-fa93-5623-b21f-1f07ca4bd335",
+    "seasonId": "AggregatedSeason_2ef0b6ae-6eaa-50bd-8461-8b0f0f203fe3",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

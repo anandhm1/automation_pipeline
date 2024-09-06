@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_d721681b-7766-59fe-9803-331b3b646ef0",
+    "clientContentId": "PACK0000000007976319",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "HIGH HEAT",
+            "may": "HIGH HEAT",
+            "tam": "HIGH HEAT",
+            "chi": "HIGH HEAT",
+            "tha": "HIGH HEAT",
+            "ind": "HIGH HEAT"
+        },
+        "long": {
+            "eng": "HIGH HEAT",
+            "may": "HIGH HEAT",
+            "tam": "HIGH HEAT",
+            "chi": "HIGH HEAT",
+            "tha": "HIGH HEAT",
+            "ind": "HIGH HEAT"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "When the local mafia shows up to burn down her restaurant, Ana, a chef with a meticulous past, defends her turf and proves her knife skills both in and out of the kitchen.",
+            "may": "When the local mafia shows up to burn down her restaurant, Ana, a chef with a meticulous past, defends her turf and proves her knife skills both in and out of the kitchen.",
+            "tam": "When the local mafia shows up to burn down her restaurant, Ana, a chef with a meticulous past, defends her turf and proves her knife skills both in and out of the kitchen.",
+            "chi": "When the local mafia shows up to burn down her restaurant, Ana, a chef with a meticulous past, defends her turf and proves her knife skills both in and out of the kitchen.",
+            "tha": "When the local mafia shows up to burn down her restaurant, Ana, a chef with a meticulous past, defends her turf and proves her knife skills both in and out of the kitchen.",
+            "ind": "When the local mafia shows up to burn down her restaurant, Ana, a chef with a meticulous past, defends her turf and proves her knife skills both in and out of the kitchen."
+        },
+        "long": {
+            "eng": "When the local mafia shows up to burn down her restaurant, Ana, a chef with a meticulous past, defends her turf and proves her knife skills both in and out of the kitchen.",
+            "may": "When the local mafia shows up to burn down her restaurant, Ana, a chef with a meticulous past, defends her turf and proves her knife skills both in and out of the kitchen.",
+            "tam": "When the local mafia shows up to burn down her restaurant, Ana, a chef with a meticulous past, defends her turf and proves her knife skills both in and out of the kitchen.",
+            "chi": "When the local mafia shows up to burn down her restaurant, Ana, a chef with a meticulous past, defends her turf and proves her knife skills both in and out of the kitchen.",
+            "tha": "When the local mafia shows up to burn down her restaurant, Ana, a chef with a meticulous past, defends her turf and proves her knife skills both in and out of the kitchen.",
+            "ind": "When the local mafia shows up to burn down her restaurant, Ana, a chef with a meticulous past, defends her turf and proves her knife skills both in and out of the kitchen."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Olga Kurylenko",
+            " Don Johnson",
+            " Dallas Page",
+            " Kaitlin Doubleday",
+            " Bianca D'Ambrosio",
+            " Chiara D'Ambrosio",
+            " Jackie Long",
+            " Ivan Martin",
+            " Chris Diamantopoulos",
+            " Michael Barra"
+        ],
+        "may": [
+            "Olga Kurylenko",
+            " Don Johnson",
+            " Dallas Page",
+            " Kaitlin Doubleday",
+            " Bianca D'Ambrosio",
+            " Chiara D'Ambrosio",
+            " Jackie Long",
+            " Ivan Martin",
+            " Chris Diamantopoulos",
+            " Michael Barra"
+        ],
+        "tam": [
+            "Olga Kurylenko",
+            " Don Johnson",
+            " Dallas Page",
+            " Kaitlin Doubleday",
+            " Bianca D'Ambrosio",
+            " Chiara D'Ambrosio",
+            " Jackie Long",
+            " Ivan Martin",
+            " Chris Diamantopoulos",
+            " Michael Barra"
+        ],
+        "chi": [
+            "Olga Kurylenko",
+            " Don Johnson",
+            " Dallas Page",
+            " Kaitlin Doubleday",
+            " Bianca D'Ambrosio",
+            " Chiara D'Ambrosio",
+            " Jackie Long",
+            " Ivan Martin",
+            " Chris Diamantopoulos",
+            " Michael Barra"
+        ],
+        "tha": [
+            "Olga Kurylenko",
+            " Don Johnson",
+            " Dallas Page",
+            " Kaitlin Doubleday",
+            " Bianca D'Ambrosio",
+            " Chiara D'Ambrosio",
+            " Jackie Long",
+            " Ivan Martin",
+            " Chris Diamantopoulos",
+            " Michael Barra"
+        ],
+        "ind": [
+            "Olga Kurylenko",
+            " Don Johnson",
+            " Dallas Page",
+            " Kaitlin Doubleday",
+            " Bianca D'Ambrosio",
+            " Chiara D'Ambrosio",
+            " Jackie Long",
+            " Ivan Martin",
+            " Chris Diamantopoulos",
+            " Michael Barra"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Zach Golden"
+        ],
+        "may": [
+            "Zach Golden"
+        ],
+        "tam": [
+            "Zach Golden"
+        ],
+        "chi": [
+            "Zach Golden"
+        ],
+        "tha": [
+            "Zach Golden"
+        ],
+        "ind": [
+            "Zach Golden"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Peter Anske",
+            " Jordan Beckerman",
+            " Stephen Braun",
+            " Lee Broda",
+            " Brian M. Cohen",
+            " Ed Cohen",
+            " Colby Cote",
+            " Lisa D'Ambrosio",
+            " Nicole Delmonico",
+            " Nikki Delmonico"
+        ],
+        "may": [
+            "Peter Anske",
+            " Jordan Beckerman",
+            " Stephen Braun",
+            " Lee Broda",
+            " Brian M. Cohen",
+            " Ed Cohen",
+            " Colby Cote",
+            " Lisa D'Ambrosio",
+            " Nicole Delmonico",
+            " Nikki Delmonico"
+        ],
+        "tam": [
+            "Peter Anske",
+            " Jordan Beckerman",
+            " Stephen Braun",
+            " Lee Broda",
+            " Brian M. Cohen",
+            " Ed Cohen",
+            " Colby Cote",
+            " Lisa D'Ambrosio",
+            " Nicole Delmonico",
+            " Nikki Delmonico"
+        ],
+        "chi": [
+            "Peter Anske",
+            " Jordan Beckerman",
+            " Stephen Braun",
+            " Lee Broda",
+            " Brian M. Cohen",
+            " Ed Cohen",
+            " Colby Cote",
+            " Lisa D'Ambrosio",
+            " Nicole Delmonico",
+            " Nikki Delmonico"
+        ],
+        "tha": [
+            "Peter Anske",
+            " Jordan Beckerman",
+            " Stephen Braun",
+            " Lee Broda",
+            " Brian M. Cohen",
+            " Ed Cohen",
+            " Colby Cote",
+            " Lisa D'Ambrosio",
+            " Nicole Delmonico",
+            " Nikki Delmonico"
+        ],
+        "ind": [
+            "Peter Anske",
+            " Jordan Beckerman",
+            " Stephen Braun",
+            " Lee Broda",
+            " Brian M. Cohen",
+            " Ed Cohen",
+            " Colby Cote",
+            " Lisa D'Ambrosio",
+            " Nicole Delmonico",
+            " Nikki Delmonico"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Comedy",
+                    "may": " Comedy",
+                    "tam": " Comedy",
+                    "chi": " Comedy",
+                    "tha": " Comedy",
+                    "ind": " Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/HIGHHEAT_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/HIGHHEAT_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/HIGHHEAT_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "4.8",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

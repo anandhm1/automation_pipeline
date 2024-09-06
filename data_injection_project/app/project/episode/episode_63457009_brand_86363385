@@ -1,0 +1,265 @@
+{
+    "externalId": "AggregatedTvShow_fa27b309-0446-5b05-bc80-563bfc8d8482",
+    "clientContentId": "PACK0000000009444324",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Black Sails - Trailer",
+            "may": "Black Sails - Trailer",
+            "tam": "Black Sails - Trailer",
+            "chi": "Black Sails - Trailer",
+            "tha": "Black Sails - Trailer",
+            "ind": "Black Sails - Trailer"
+        },
+        "long": {
+            "eng": "Black Sails - Trailer",
+            "may": "Black Sails - Trailer",
+            "tam": "Black Sails - Trailer",
+            "chi": "Black Sails - Trailer",
+            "tha": "Black Sails - Trailer",
+            "ind": "Black Sails - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "may": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "tam": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "chi": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "tha": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "ind": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island."
+        },
+        "long": {
+            "eng": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "may": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "tam": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "chi": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "tha": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "ind": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jessica Parker Kennedy",
+            " Toby Stephens",
+            " Hannah New"
+        ],
+        "may": [
+            "Jessica Parker Kennedy",
+            " Toby Stephens",
+            " Hannah New"
+        ],
+        "tam": [
+            "Jessica Parker Kennedy",
+            " Toby Stephens",
+            " Hannah New"
+        ],
+        "chi": [
+            "Jessica Parker Kennedy",
+            " Toby Stephens",
+            " Hannah New"
+        ],
+        "tha": [
+            "Jessica Parker Kennedy",
+            " Toby Stephens",
+            " Hannah New"
+        ],
+        "ind": [
+            "Jessica Parker Kennedy",
+            " Toby Stephens",
+            " Hannah New"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Robert LevineJonathan",
+            " E. Steinberg"
+        ],
+        "may": [
+            "Robert LevineJonathan",
+            " E. Steinberg"
+        ],
+        "tam": [
+            "Robert LevineJonathan",
+            " E. Steinberg"
+        ],
+        "chi": [
+            "Robert LevineJonathan",
+            " E. Steinberg"
+        ],
+        "tha": [
+            "Robert LevineJonathan",
+            " E. Steinberg"
+        ],
+        "ind": [
+            "Robert LevineJonathan",
+            " E. Steinberg"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Nina Heyns",
+            " Jonathan Brytus",
+            " Erik Henry"
+        ],
+        "may": [
+            "Nina Heyns",
+            " Jonathan Brytus",
+            " Erik Henry"
+        ],
+        "tam": [
+            "Nina Heyns",
+            " Jonathan Brytus",
+            " Erik Henry"
+        ],
+        "chi": [
+            "Nina Heyns",
+            " Jonathan Brytus",
+            " Erik Henry"
+        ],
+        "tha": [
+            "Nina Heyns",
+            " Jonathan Brytus",
+            " Erik Henry"
+        ],
+        "ind": [
+            "Nina Heyns",
+            " Jonathan Brytus",
+            " Erik Henry"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Adventure",
+                    "may": "Adventure",
+                    "tam": "Adventure",
+                    "chi": "Adventure",
+                    "tha": "Adventure",
+                    "ind": "Adventure"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Adventure",
+                    "may": "Adventure",
+                    "tam": "Adventure",
+                    "chi": "Adventure",
+                    "tha": "Adventure",
+                    "ind": "Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BlackSails_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BlackSails_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BlackSails_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_ad20baa8-9b66-51a2-a650-acfec94cd023",
+    "seasonId": "AggregatedSeason_42532268-4b8a-5b3d-bc44-8617ab92f490",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2014,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

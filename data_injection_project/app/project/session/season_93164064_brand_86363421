@@ -1,0 +1,335 @@
+{
+    "externalId": "AggregatedSeason_892e0e32-cf71-5338-bdd7-c3492e554765",
+    "clientContentId": "PACK0000000007320282",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "chi": "Action",
+                    "tam": "Action",
+                    "ind": "Action",
+                    "tha": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "chi": " Adventure",
+                    "tam": " Adventure",
+                    "ind": " Adventure",
+                    "tha": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-14",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Oscar Isaac",
+            " Ethan Hawke",
+            " May Calamawy",
+            " Michael Benjamin Hernandez",
+            " F. Murray Abraham",
+            " Ann Akinjirin",
+            " Karim El Hakim",
+            " David Ganly",
+            " Antonia Salib",
+            " Khalid Abdalla"
+        ],
+        "may": [
+            "Oscar Isaac",
+            " Ethan Hawke",
+            " May Calamawy",
+            " Michael Benjamin Hernandez",
+            " F. Murray Abraham",
+            " Ann Akinjirin",
+            " Karim El Hakim",
+            " David Ganly",
+            " Antonia Salib",
+            " Khalid Abdalla"
+        ],
+        "chi": [
+            "Oscar Isaac",
+            " Ethan Hawke",
+            " May Calamawy",
+            " Michael Benjamin Hernandez",
+            " F. Murray Abraham",
+            " Ann Akinjirin",
+            " Karim El Hakim",
+            " David Ganly",
+            " Antonia Salib",
+            " Khalid Abdalla"
+        ],
+        "tam": [
+            "Oscar Isaac",
+            " Ethan Hawke",
+            " May Calamawy",
+            " Michael Benjamin Hernandez",
+            " F. Murray Abraham",
+            " Ann Akinjirin",
+            " Karim El Hakim",
+            " David Ganly",
+            " Antonia Salib",
+            " Khalid Abdalla"
+        ],
+        "ind": [
+            "Oscar Isaac",
+            " Ethan Hawke",
+            " May Calamawy",
+            " Michael Benjamin Hernandez",
+            " F. Murray Abraham",
+            " Ann Akinjirin",
+            " Karim El Hakim",
+            " David Ganly",
+            " Antonia Salib",
+            " Khalid Abdalla"
+        ],
+        "tha": [
+            "Oscar Isaac",
+            " Ethan Hawke",
+            " May Calamawy",
+            " Michael Benjamin Hernandez",
+            " F. Murray Abraham",
+            " Ann Akinjirin",
+            " Karim El Hakim",
+            " David Ganly",
+            " Antonia Salib",
+            " Khalid Abdalla"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Mohamed Diab",
+            " Justin Benson",
+            " Aaron Moorhead"
+        ],
+        "may": [
+            "Mohamed Diab",
+            " Justin Benson",
+            " Aaron Moorhead"
+        ],
+        "chi": [
+            "Mohamed Diab",
+            " Justin Benson",
+            " Aaron Moorhead"
+        ],
+        "tam": [
+            "Mohamed Diab",
+            " Justin Benson",
+            " Aaron Moorhead"
+        ],
+        "ind": [
+            "Mohamed Diab",
+            " Justin Benson",
+            " Aaron Moorhead"
+        ],
+        "tha": [
+            "Mohamed Diab",
+            " Justin Benson",
+            " Aaron Moorhead"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Victoria Alonso",
+            " Peter Cameron",
+            " Grant Curtis",
+            " Louis D'Esposito",
+            " Mohamed Diab",
+            " Kevin Feige",
+            " Sarah Goher",
+            " Oscar Isaac",
+            " Rebecca Kirsch",
+            " Sabir Pirzada"
+        ],
+        "may": [
+            "Victoria Alonso",
+            " Peter Cameron",
+            " Grant Curtis",
+            " Louis D'Esposito",
+            " Mohamed Diab",
+            " Kevin Feige",
+            " Sarah Goher",
+            " Oscar Isaac",
+            " Rebecca Kirsch",
+            " Sabir Pirzada"
+        ],
+        "chi": [
+            "Victoria Alonso",
+            " Peter Cameron",
+            " Grant Curtis",
+            " Louis D'Esposito",
+            " Mohamed Diab",
+            " Kevin Feige",
+            " Sarah Goher",
+            " Oscar Isaac",
+            " Rebecca Kirsch",
+            " Sabir Pirzada"
+        ],
+        "tam": [
+            "Victoria Alonso",
+            " Peter Cameron",
+            " Grant Curtis",
+            " Louis D'Esposito",
+            " Mohamed Diab",
+            " Kevin Feige",
+            " Sarah Goher",
+            " Oscar Isaac",
+            " Rebecca Kirsch",
+            " Sabir Pirzada"
+        ],
+        "ind": [
+            "Victoria Alonso",
+            " Peter Cameron",
+            " Grant Curtis",
+            " Louis D'Esposito",
+            " Mohamed Diab",
+            " Kevin Feige",
+            " Sarah Goher",
+            " Oscar Isaac",
+            " Rebecca Kirsch",
+            " Sabir Pirzada"
+        ],
+        "tha": [
+            "Victoria Alonso",
+            " Peter Cameron",
+            " Grant Curtis",
+            " Louis D'Esposito",
+            " Mohamed Diab",
+            " Kevin Feige",
+            " Sarah Goher",
+            " Oscar Isaac",
+            " Rebecca Kirsch",
+            " Sabir Pirzada"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_3d299eec-617d-5717-b339-73b11829985f",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Moon Knight S01E01",
+            "may": "Moon Knight S01E01",
+            "chi": "Moon Knight S01E01",
+            "tam": "Moon Knight S01E01",
+            "ind": "Moon Knight S01E01",
+            "tha": "Moon Knight S01E01"
+        },
+        "long": {
+            "eng": "Moon Knight S01E01",
+            "may": "Moon Knight S01E01",
+            "chi": "Moon Knight S01E01",
+            "tam": "Moon Knight S01E01",
+            "ind": "Moon Knight S01E01",
+            "tha": "Moon Knight S01E01"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "may": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "chi": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "tam": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "ind": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "tha": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary."
+        },
+        "long": {
+            "eng": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "may": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "chi": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "tam": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "ind": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "tha": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MoonKnightS01E01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MoonKnightS01E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MoonKnightS01E01_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

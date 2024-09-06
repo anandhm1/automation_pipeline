@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedMovie_053fe97e-394b-5932-9a62-d88c0bf6e0d2",
+    "clientContentId": "PACK0000000002109762",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Black Adam",
+            "may": "Black Adam",
+            "tam": "Black Adam",
+            "chi": "Black Adam",
+            "tha": "Black Adam",
+            "ind": "Black Adam"
+        },
+        "long": {
+            "eng": "Black Adam",
+            "may": "Black Adam",
+            "tam": "Black Adam",
+            "chi": "Black Adam",
+            "tha": "Black Adam",
+            "ind": "Black Adam"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+            "may": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+            "tam": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+            "chi": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+            "tha": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+            "ind": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world."
+        },
+        "long": {
+            "eng": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+            "may": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+            "tam": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+            "chi": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+            "tha": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+            "ind": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Dwayne Johnson",
+            " Aldis Hodge",
+            " Pierce Brosnan",
+            " Noah Centineo",
+            " Sarah Shahi",
+            " Quintessa SwindellMarwan KenzariBodhi SabonguiMohammed AmerJames Cusati-Moyer"
+        ],
+        "may": [
+            "Dwayne Johnson",
+            " Aldis Hodge",
+            " Pierce Brosnan",
+            " Noah Centineo",
+            " Sarah Shahi",
+            " Quintessa SwindellMarwan KenzariBodhi SabonguiMohammed AmerJames Cusati-Moyer"
+        ],
+        "tam": [
+            "Dwayne Johnson",
+            " Aldis Hodge",
+            " Pierce Brosnan",
+            " Noah Centineo",
+            " Sarah Shahi",
+            " Quintessa SwindellMarwan KenzariBodhi SabonguiMohammed AmerJames Cusati-Moyer"
+        ],
+        "chi": [
+            "Dwayne Johnson",
+            " Aldis Hodge",
+            " Pierce Brosnan",
+            " Noah Centineo",
+            " Sarah Shahi",
+            " Quintessa SwindellMarwan KenzariBodhi SabonguiMohammed AmerJames Cusati-Moyer"
+        ],
+        "tha": [
+            "Dwayne Johnson",
+            " Aldis Hodge",
+            " Pierce Brosnan",
+            " Noah Centineo",
+            " Sarah Shahi",
+            " Quintessa SwindellMarwan KenzariBodhi SabonguiMohammed AmerJames Cusati-Moyer"
+        ],
+        "ind": [
+            "Dwayne Johnson",
+            " Aldis Hodge",
+            " Pierce Brosnan",
+            " Noah Centineo",
+            " Sarah Shahi",
+            " Quintessa SwindellMarwan KenzariBodhi SabonguiMohammed AmerJames Cusati-Moyer"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jaume Collet-Serra"
+        ],
+        "may": [
+            "Jaume Collet-Serra"
+        ],
+        "tam": [
+            "Jaume Collet-Serra"
+        ],
+        "chi": [
+            "Jaume Collet-Serra"
+        ],
+        "tha": [
+            "Jaume Collet-Serra"
+        ],
+        "ind": [
+            "Jaume Collet-Serra"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Richard Brener",
+            " Jeffrey Chernov",
+            " Jennifer Conroy",
+            " Toby Emmerich",
+            " Beau Flynn",
+            " Dany GarciaHiram GarciaWalter HamadaGeoff JohnsDwayne Johnson"
+        ],
+        "may": [
+            "Richard Brener",
+            " Jeffrey Chernov",
+            " Jennifer Conroy",
+            " Toby Emmerich",
+            " Beau Flynn",
+            " Dany GarciaHiram GarciaWalter HamadaGeoff JohnsDwayne Johnson"
+        ],
+        "tam": [
+            "Richard Brener",
+            " Jeffrey Chernov",
+            " Jennifer Conroy",
+            " Toby Emmerich",
+            " Beau Flynn",
+            " Dany GarciaHiram GarciaWalter HamadaGeoff JohnsDwayne Johnson"
+        ],
+        "chi": [
+            "Richard Brener",
+            " Jeffrey Chernov",
+            " Jennifer Conroy",
+            " Toby Emmerich",
+            " Beau Flynn",
+            " Dany GarciaHiram GarciaWalter HamadaGeoff JohnsDwayne Johnson"
+        ],
+        "tha": [
+            "Richard Brener",
+            " Jeffrey Chernov",
+            " Jennifer Conroy",
+            " Toby Emmerich",
+            " Beau Flynn",
+            " Dany GarciaHiram GarciaWalter HamadaGeoff JohnsDwayne Johnson"
+        ],
+        "ind": [
+            "Richard Brener",
+            " Jeffrey Chernov",
+            " Jennifer Conroy",
+            " Toby Emmerich",
+            " Beau Flynn",
+            " Dany GarciaHiram GarciaWalter HamadaGeoff JohnsDwayne Johnson"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/BlackAdam_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/BlackAdam_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/BlackAdam_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "6.3",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

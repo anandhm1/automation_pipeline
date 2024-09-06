@@ -1,0 +1,227 @@
+{
+    "externalId": "AggregatedSeason_f04eda8a-9c0f-513f-be6d-8f915c5aa0b5",
+    "clientContentId": "PACK0000000009099670",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "8.5",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Rukshar Dhillon",
+            " Taaruk Raina",
+            " Sumeet Vyas"
+        ],
+        "may": [
+            "Rukshar Dhillon",
+            " Taaruk Raina",
+            " Sumeet Vyas"
+        ],
+        "chi": [
+            "Rukshar Dhillon",
+            " Taaruk Raina",
+            " Sumeet Vyas"
+        ],
+        "tam": [
+            "Rukshar Dhillon",
+            " Taaruk Raina",
+            " Sumeet Vyas"
+        ],
+        "ind": [
+            "Rukshar Dhillon",
+            " Taaruk Raina",
+            " Sumeet Vyas"
+        ],
+        "tha": [
+            "Rukshar Dhillon",
+            " Taaruk Raina",
+            " Sumeet Vyas"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Akarsh Khurana"
+        ],
+        "may": [
+            "Akarsh Khurana"
+        ],
+        "chi": [
+            "Akarsh Khurana"
+        ],
+        "tam": [
+            "Akarsh Khurana"
+        ],
+        "ind": [
+            "Akarsh Khurana"
+        ],
+        "tha": [
+            "Akarsh Khurana"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Akarsh Khurana"
+        ],
+        "may": [
+            "Akarsh Khurana"
+        ],
+        "chi": [
+            "Akarsh Khurana"
+        ],
+        "tam": [
+            "Akarsh Khurana"
+        ],
+        "ind": [
+            "Akarsh Khurana"
+        ],
+        "tha": [
+            "Akarsh Khurana"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_63399caa-7846-58f3-a5f1-6e638877e07f",
+    "seasonNumber": "2",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Jugaadistan S01 EP02",
+            "may": "Jugaadistan S01 EP02",
+            "chi": "Jugaadistan S01 EP02",
+            "tam": "Jugaadistan S01 EP02",
+            "ind": "Jugaadistan S01 EP02",
+            "tha": "Jugaadistan S01 EP02"
+        },
+        "long": {
+            "eng": "Jugaadistan S01 EP02",
+            "may": "Jugaadistan S01 EP02",
+            "chi": "Jugaadistan S01 EP02",
+            "tam": "Jugaadistan S01 EP02",
+            "ind": "Jugaadistan S01 EP02",
+            "tha": "Jugaadistan S01 EP02"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "may": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "chi": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "tam": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "ind": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "tha": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions."
+        },
+        "long": {
+            "eng": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "may": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "chi": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "tam": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "ind": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "tha": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/Jugaadistan_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/Jugaadistan_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/Jugaadistan_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

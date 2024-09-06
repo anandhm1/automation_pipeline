@@ -1,0 +1,367 @@
+{
+    "externalId": "AggregatedSeries_f8343a5f-4a21-599e-bfd4-3154dbe50d6c",
+    "clientContentId": "PACK0000000006451595",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Tom Clancy's Jack Ryan",
+            "may": "Tom Clancy's Jack Ryan",
+            "tam": "Tom Clancy's Jack Ryan",
+            "chi": "Tom Clancy's Jack Ryan",
+            "tha": "Tom Clancy's Jack Ryan",
+            "ind": "Tom Clancy's Jack Ryan"
+        },
+        "long": {
+            "eng": "Tom Clancy's Jack Ryan",
+            "may": "Tom Clancy's Jack Ryan",
+            "tam": "Tom Clancy's Jack Ryan",
+            "chi": "Tom Clancy's Jack Ryan",
+            "tha": "Tom Clancy's Jack Ryan",
+            "ind": "Tom Clancy's Jack Ryan"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Up-and-coming CIA analyst, Jack Ryan, is thrust into dangerous field assignments.",
+            "may": "Up-and-coming CIA analyst, Jack Ryan, is thrust into dangerous field assignments.",
+            "tam": "Up-and-coming CIA analyst, Jack Ryan, is thrust into dangerous field assignments.",
+            "chi": "Up-and-coming CIA analyst, Jack Ryan, is thrust into dangerous field assignments.",
+            "tha": "Up-and-coming CIA analyst, Jack Ryan, is thrust into dangerous field assignments.",
+            "ind": "Up-and-coming CIA analyst, Jack Ryan, is thrust into dangerous field assignments."
+        },
+        "long": {
+            "eng": "Up-and-coming CIA analyst, Jack Ryan, is thrust into dangerous field assignments.",
+            "may": "Up-and-coming CIA analyst, Jack Ryan, is thrust into dangerous field assignments.",
+            "tam": "Up-and-coming CIA analyst, Jack Ryan, is thrust into dangerous field assignments.",
+            "chi": "Up-and-coming CIA analyst, Jack Ryan, is thrust into dangerous field assignments.",
+            "tha": "Up-and-coming CIA analyst, Jack Ryan, is thrust into dangerous field assignments.",
+            "ind": "Up-and-coming CIA analyst, Jack Ryan, is thrust into dangerous field assignments."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "John Krasinski",
+            " Wendell Pierce",
+            " Michael Kelly",
+            " John Hoogenakker",
+            " Kevin Kent",
+            " Abbie Cornish",
+            " Noomi Rapace",
+            " Nina Hoss",
+            " Ali Suliman",
+            " Jordi Moll\u00e0"
+        ],
+        "may": [
+            "John Krasinski",
+            " Wendell Pierce",
+            " Michael Kelly",
+            " John Hoogenakker",
+            " Kevin Kent",
+            " Abbie Cornish",
+            " Noomi Rapace",
+            " Nina Hoss",
+            " Ali Suliman",
+            " Jordi Moll\u00e0"
+        ],
+        "tam": [
+            "John Krasinski",
+            " Wendell Pierce",
+            " Michael Kelly",
+            " John Hoogenakker",
+            " Kevin Kent",
+            " Abbie Cornish",
+            " Noomi Rapace",
+            " Nina Hoss",
+            " Ali Suliman",
+            " Jordi Moll\u00e0"
+        ],
+        "chi": [
+            "John Krasinski",
+            " Wendell Pierce",
+            " Michael Kelly",
+            " John Hoogenakker",
+            " Kevin Kent",
+            " Abbie Cornish",
+            " Noomi Rapace",
+            " Nina Hoss",
+            " Ali Suliman",
+            " Jordi Moll\u00e0"
+        ],
+        "tha": [
+            "John Krasinski",
+            " Wendell Pierce",
+            " Michael Kelly",
+            " John Hoogenakker",
+            " Kevin Kent",
+            " Abbie Cornish",
+            " Noomi Rapace",
+            " Nina Hoss",
+            " Ali Suliman",
+            " Jordi Moll\u00e0"
+        ],
+        "ind": [
+            "John Krasinski",
+            " Wendell Pierce",
+            " Michael Kelly",
+            " John Hoogenakker",
+            " Kevin Kent",
+            " Abbie Cornish",
+            " Noomi Rapace",
+            " Nina Hoss",
+            " Ali Suliman",
+            " Jordi Moll\u00e0"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jann Turner",
+            " Patricia Riggen",
+            " Daniel Sackheim",
+            " Andrew Bernstein",
+            " Dennie Gordon",
+            " Kevin Dowling",
+            " Phil Abraham",
+            " David Petrarca",
+            " Carlton Cuse",
+            " Morten Tyldum"
+        ],
+        "may": [
+            "Jann Turner",
+            " Patricia Riggen",
+            " Daniel Sackheim",
+            " Andrew Bernstein",
+            " Dennie Gordon",
+            " Kevin Dowling",
+            " Phil Abraham",
+            " David Petrarca",
+            " Carlton Cuse",
+            " Morten Tyldum"
+        ],
+        "tam": [
+            "Jann Turner",
+            " Patricia Riggen",
+            " Daniel Sackheim",
+            " Andrew Bernstein",
+            " Dennie Gordon",
+            " Kevin Dowling",
+            " Phil Abraham",
+            " David Petrarca",
+            " Carlton Cuse",
+            " Morten Tyldum"
+        ],
+        "chi": [
+            "Jann Turner",
+            " Patricia Riggen",
+            " Daniel Sackheim",
+            " Andrew Bernstein",
+            " Dennie Gordon",
+            " Kevin Dowling",
+            " Phil Abraham",
+            " David Petrarca",
+            " Carlton Cuse",
+            " Morten Tyldum"
+        ],
+        "tha": [
+            "Jann Turner",
+            " Patricia Riggen",
+            " Daniel Sackheim",
+            " Andrew Bernstein",
+            " Dennie Gordon",
+            " Kevin Dowling",
+            " Phil Abraham",
+            " David Petrarca",
+            " Carlton Cuse",
+            " Morten Tyldum"
+        ],
+        "ind": [
+            "Jann Turner",
+            " Patricia Riggen",
+            " Daniel Sackheim",
+            " Andrew Bernstein",
+            " Dennie Gordon",
+            " Kevin Dowling",
+            " Phil Abraham",
+            " David Petrarca",
+            " Carlton Cuse",
+            " Morten Tyldum"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Michael Bay",
+            " Tom Clancy",
+            " Carlton Cuse",
+            " David Ellison",
+            " Andrew Form",
+            " Brad Fuller",
+            " Dana Goldberg",
+            " John Krasinski",
+            " Mace Neufeld",
+            " Marcy Ross"
+        ],
+        "may": [
+            "Michael Bay",
+            " Tom Clancy",
+            " Carlton Cuse",
+            " David Ellison",
+            " Andrew Form",
+            " Brad Fuller",
+            " Dana Goldberg",
+            " John Krasinski",
+            " Mace Neufeld",
+            " Marcy Ross"
+        ],
+        "tam": [
+            "Michael Bay",
+            " Tom Clancy",
+            " Carlton Cuse",
+            " David Ellison",
+            " Andrew Form",
+            " Brad Fuller",
+            " Dana Goldberg",
+            " John Krasinski",
+            " Mace Neufeld",
+            " Marcy Ross"
+        ],
+        "chi": [
+            "Michael Bay",
+            " Tom Clancy",
+            " Carlton Cuse",
+            " David Ellison",
+            " Andrew Form",
+            " Brad Fuller",
+            " Dana Goldberg",
+            " John Krasinski",
+            " Mace Neufeld",
+            " Marcy Ross"
+        ],
+        "tha": [
+            "Michael Bay",
+            " Tom Clancy",
+            " Carlton Cuse",
+            " David Ellison",
+            " Andrew Form",
+            " Brad Fuller",
+            " Dana Goldberg",
+            " John Krasinski",
+            " Mace Neufeld",
+            " Marcy Ross"
+        ],
+        "ind": [
+            "Michael Bay",
+            " Tom Clancy",
+            " Carlton Cuse",
+            " David Ellison",
+            " Andrew Form",
+            " Brad Fuller",
+            " Dana Goldberg",
+            " John Krasinski",
+            " Mace Neufeld",
+            " Marcy Ross"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TomClancy'sJackRyanSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TomClancy'sJackRyanSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TomClancy'sJackRyanSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "10",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2018,
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,292 @@
+{
+    "externalId": "AggregatedMovie_9a948fb2-6867-41bd-94d4-e70903a9a001",
+    "clientContentId": "PACK0000000001010001",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "ANNABELLE COMES HOME",
+            "may": "ANNABELLE COMES HOME",
+            "tam": "ANNABELLE COMES HOME",
+            "chi": "ANNABELLE COMES HOME",
+            "tha": "ANNABELLE COMES HOME",
+            "ind": "ANNABELLE COMES HOME"
+        },
+        "long": {
+            "eng": "ANNABELLE COMES HOME",
+            "may": "ANNABELLE COMES HOME",
+            "tam": "ANNABELLE COMES HOME",
+            "chi": "ANNABELLE COMES HOME",
+            "tha": "ANNABELLE COMES HOME",
+            "ind": "ANNABELLE COMES HOME"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "While babysitting the daughter of Ed and Lorraine Warren, a teenager and her friend unknowingly awaken an evil spirit trapped in a doll.",
+            "may": "While babysitting the daughter of Ed and Lorraine Warren, a teenager and her friend unknowingly awaken an evil spirit trapped in a doll.",
+            "tam": "While babysitting the daughter of Ed and Lorraine Warren, a teenager and her friend unknowingly awaken an evil spirit trapped in a doll.",
+            "chi": "While babysitting the daughter of Ed and Lorraine Warren, a teenager and her friend unknowingly awaken an evil spirit trapped in a doll..",
+            "tha": "While babysitting the daughter of Ed and Lorraine Warren, a teenager and her friend unknowingly awaken an evil spirit trapped in a doll.",
+            "ind": "While babysitting the daughter of Ed and Lorraine Warren, a teenager and her friend unknowingly awaken an evil spirit trapped in a doll."
+        },
+        "long": {
+            "eng": "While babysitting the daughter of Ed and Lorraine Warren, a teenager and her friend unknowingly awaken an evil spirit trapped in a doll.",
+            "may": "While babysitting the daughter of Ed and Lorraine Warren, a teenager and her friend unknowingly awaken an evil spirit trapped in a doll.",
+            "tam": "While babysitting the daughter of Ed and Lorraine Warren, a teenager and her friend unknowingly awaken an evil spirit trapped in a doll.",
+            "chi": "While babysitting the daughter of Ed and Lorraine Warren, a teenager and her friend unknowingly awaken an evil spirit trapped in a doll.",
+            "tha": "While babysitting the daughter of Ed and Lorraine Warren, a teenager and her friend unknowingly awaken an evil spirit trapped in a doll.",
+            "ind": "While babysitting the daughter of Ed and Lorraine Warren, a teenager and her friend unknowingly awaken an evil spirit trapped in a doll."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Vera Farmiga",
+            "Patrick Wilson",
+            "Mckenna Grace",
+              "Madison Iseman",
+            "Katie Sarife",
+            "Michael Cimino"
+	
+        ],
+        "may": [
+            "Vera Farmiga",
+            "Patrick Wilson",
+            "Mckenna Grace",
+              "Madison Iseman",
+            "Katie Sarife",
+            "Michael Cimino"
+        ],
+        "tam": [
+            "Vera Farmiga",
+            "Patrick Wilson",
+            "Mckenna Grace",
+              "Madison Iseman",
+            "Katie Sarife",
+            "Michael Cimino"
+        ],
+        "chi": [
+          "Vera Farmiga",
+            "Patrick Wilson",
+            "Mckenna Grace",
+              "Madison Iseman",
+            "Katie Sarife",
+            "Michael Cimino"
+        ],
+        "tha": [
+            "Vera Farmiga",
+            "Patrick Wilson",
+            "Mckenna Grace",
+              "Madison Iseman",
+            "Katie Sarife",
+            "Michael Cimino"
+        ],
+        "ind": [
+             "Vera Farmiga",
+            "Patrick Wilson",
+            "Mckenna Grace",
+              "Madison Iseman",
+            "Katie Sarife",
+            "Michael Cimino"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Gary Dauberman"
+        ],
+        "may": [
+            "Gary Dauberman"
+        ],
+        "tam": [
+            "Gary Dauberman"
+        ],
+        "chi": [
+            "Gary Dauberman"
+        ],
+        "tha": [
+            "Gary Dauberman"
+        ],
+        "ind": [
+            "Gary Dauberman"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": ["Richard Brener",
+                "Michael Clear",
+                "Michelle Morrissey",
+                "Dave Neustadter",
+                  "Victoria Palmeri",
+                "Peter Safran"
+                ],
+        "may":  ["Richard Brener",
+                "Michael Clear",
+                "Michelle Morrissey",
+                "Dave Neustadter",
+                  "Victoria Palmeri",
+                "Peter Safran"
+                ],
+        "tam":  ["Richard Brener",
+                "Michael Clear",
+                "Michelle Morrissey",
+                "Dave Neustadter",
+                  "Victoria Palmeri",
+                "Peter Safran"
+                ],
+        "chi":  ["Richard Brener",
+                "Michael Clear",
+                "Michelle Morrissey",
+                "Dave Neustadter",
+                  "Victoria Palmeri",
+                "Peter Safran"
+                ],
+        "tha":  ["Richard Brener",
+                "Michael Clear",
+                "Michelle Morrissey",
+                "Dave Neustadter",
+                  "Victoria Palmeri",
+                "Peter Safran"
+                ],
+        "ind": ["Richard Brener",
+                "Michael Clear",
+                "Michelle Morrissey",
+                "Dave Neustadter",
+                  "Victoria Palmeri",
+                "Peter Safran"
+                ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+   "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "HORROR",
+                    "may": "HORROR",
+                    "tam": "HORROR",
+                    "chi": "HORROR",
+                    "tha": "HORROR",
+                    "ind": "HORROR"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "HORROR",
+                    "may": "HORROR",
+                    "tam": "HORROR",
+                    "chi": "HORROR",
+                    "tha": "HORROR",
+                    "ind": "HORROR"
+                },
+                "image": null
+            }
+        ]
+    },
+
+
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ANNABELLECOMESHOME_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ANNABELLECOMESHOME_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ANNABELLECOMESHOME_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2019,
+    "rating": "6",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

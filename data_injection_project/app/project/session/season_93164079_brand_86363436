@@ -1,0 +1,359 @@
+{
+    "externalId": "AggregatedSeason_1842e872-1982-5da1-9d03-b5a47b768064",
+    "clientContentId": "PACK0000000001392757",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "chi": "Action",
+                    "tam": "Action",
+                    "ind": "Action",
+                    "tha": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "chi": " Adventure",
+                    "tam": " Adventure",
+                    "ind": " Adventure",
+                    "tha": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2021,
+    "rating": "TV-14",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Jessie Mei Li",
+            " Archie Renaux",
+            " Freddy Carter",
+            " Amita Suman",
+            " Kit Young",
+            " Ben Barnes",
+            " Danielle Galligan",
+            " Sujaya Dasgupta",
+            " Daisy Head",
+            " Calahan Skogman"
+        ],
+        "may": [
+            "Jessie Mei Li",
+            " Archie Renaux",
+            " Freddy Carter",
+            " Amita Suman",
+            " Kit Young",
+            " Ben Barnes",
+            " Danielle Galligan",
+            " Sujaya Dasgupta",
+            " Daisy Head",
+            " Calahan Skogman"
+        ],
+        "chi": [
+            "Jessie Mei Li",
+            " Archie Renaux",
+            " Freddy Carter",
+            " Amita Suman",
+            " Kit Young",
+            " Ben Barnes",
+            " Danielle Galligan",
+            " Sujaya Dasgupta",
+            " Daisy Head",
+            " Calahan Skogman"
+        ],
+        "tam": [
+            "Jessie Mei Li",
+            " Archie Renaux",
+            " Freddy Carter",
+            " Amita Suman",
+            " Kit Young",
+            " Ben Barnes",
+            " Danielle Galligan",
+            " Sujaya Dasgupta",
+            " Daisy Head",
+            " Calahan Skogman"
+        ],
+        "ind": [
+            "Jessie Mei Li",
+            " Archie Renaux",
+            " Freddy Carter",
+            " Amita Suman",
+            " Kit Young",
+            " Ben Barnes",
+            " Danielle Galligan",
+            " Sujaya Dasgupta",
+            " Daisy Head",
+            " Calahan Skogman"
+        ],
+        "tha": [
+            "Jessie Mei Li",
+            " Archie Renaux",
+            " Freddy Carter",
+            " Amita Suman",
+            " Kit Young",
+            " Ben Barnes",
+            " Danielle Galligan",
+            " Sujaya Dasgupta",
+            " Daisy Head",
+            " Calahan Skogman"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Mairzee Almas",
+            " Lee Toland Krieger",
+            " Dan Liu",
+            " Jeremy Webb",
+            " Laura Belsey",
+            " Karen Gaviola",
+            " Bola Ogun"
+        ],
+        "may": [
+            "Mairzee Almas",
+            " Lee Toland Krieger",
+            " Dan Liu",
+            " Jeremy Webb",
+            " Laura Belsey",
+            " Karen Gaviola",
+            " Bola Ogun"
+        ],
+        "chi": [
+            "Mairzee Almas",
+            " Lee Toland Krieger",
+            " Dan Liu",
+            " Jeremy Webb",
+            " Laura Belsey",
+            " Karen Gaviola",
+            " Bola Ogun"
+        ],
+        "tam": [
+            "Mairzee Almas",
+            " Lee Toland Krieger",
+            " Dan Liu",
+            " Jeremy Webb",
+            " Laura Belsey",
+            " Karen Gaviola",
+            " Bola Ogun"
+        ],
+        "ind": [
+            "Mairzee Almas",
+            " Lee Toland Krieger",
+            " Dan Liu",
+            " Jeremy Webb",
+            " Laura Belsey",
+            " Karen Gaviola",
+            " Bola Ogun"
+        ],
+        "tha": [
+            "Mairzee Almas",
+            " Lee Toland Krieger",
+            " Dan Liu",
+            " Jeremy Webb",
+            " Laura Belsey",
+            " Karen Gaviola",
+            " Bola Ogun"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Leigh Bardugo",
+            " Josh S. Barry",
+            " Dan Cohen",
+            " Daegan Fryklind",
+            " Rand Geiger",
+            " Eric Heisserer",
+            " Dan Levine",
+            " Shawn Levy",
+            " Shelley Meals",
+            " Pouya Shahbazian"
+        ],
+        "may": [
+            "Leigh Bardugo",
+            " Josh S. Barry",
+            " Dan Cohen",
+            " Daegan Fryklind",
+            " Rand Geiger",
+            " Eric Heisserer",
+            " Dan Levine",
+            " Shawn Levy",
+            " Shelley Meals",
+            " Pouya Shahbazian"
+        ],
+        "chi": [
+            "Leigh Bardugo",
+            " Josh S. Barry",
+            " Dan Cohen",
+            " Daegan Fryklind",
+            " Rand Geiger",
+            " Eric Heisserer",
+            " Dan Levine",
+            " Shawn Levy",
+            " Shelley Meals",
+            " Pouya Shahbazian"
+        ],
+        "tam": [
+            "Leigh Bardugo",
+            " Josh S. Barry",
+            " Dan Cohen",
+            " Daegan Fryklind",
+            " Rand Geiger",
+            " Eric Heisserer",
+            " Dan Levine",
+            " Shawn Levy",
+            " Shelley Meals",
+            " Pouya Shahbazian"
+        ],
+        "ind": [
+            "Leigh Bardugo",
+            " Josh S. Barry",
+            " Dan Cohen",
+            " Daegan Fryklind",
+            " Rand Geiger",
+            " Eric Heisserer",
+            " Dan Levine",
+            " Shawn Levy",
+            " Shelley Meals",
+            " Pouya Shahbazian"
+        ],
+        "tha": [
+            "Leigh Bardugo",
+            " Josh S. Barry",
+            " Dan Cohen",
+            " Daegan Fryklind",
+            " Rand Geiger",
+            " Eric Heisserer",
+            " Dan Levine",
+            " Shawn Levy",
+            " Shelley Meals",
+            " Pouya Shahbazian"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_d6c0cbf9-d8e3-543e-8148-c52a6430c6fe",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "\u200bShadow and Bone Season 1",
+            "may": "\u200bShadow and Bone Season 1",
+            "chi": "\u200bShadow and Bone Season 1",
+            "tam": "\u200bShadow and Bone Season 1",
+            "ind": "\u200bShadow and Bone Season 1",
+            "tha": "\u200bShadow and Bone Season 1"
+        },
+        "long": {
+            "eng": "\u200bShadow and Bone Season 1",
+            "may": "\u200bShadow and Bone Season 1",
+            "chi": "\u200bShadow and Bone Season 1",
+            "tam": "\u200bShadow and Bone Season 1",
+            "ind": "\u200bShadow and Bone Season 1",
+            "tha": "\u200bShadow and Bone Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "may": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "chi": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "tam": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "ind": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "tha": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world."
+        },
+        "long": {
+            "eng": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "may": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "chi": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "tam": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "ind": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "tha": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/\u200bShadowandBoneSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/\u200bShadowandBoneSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/\u200bShadowandBoneSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

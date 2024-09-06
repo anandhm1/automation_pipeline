@@ -1,0 +1,235 @@
+{
+    "externalId": "AggregatedSeries_ad20baa8-9b66-51a2-a650-acfec94cd023",
+    "clientContentId": "PACK0000000003380034",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Black Sails",
+            "may": "Black Sails",
+            "tam": "Black Sails",
+            "chi": "Black Sails",
+            "tha": "Black Sails",
+            "ind": "Black Sails"
+        },
+        "long": {
+            "eng": "Black Sails",
+            "may": "Black Sails",
+            "tam": "Black Sails",
+            "chi": "Black Sails",
+            "tha": "Black Sails",
+            "ind": "Black Sails"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "may": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "tam": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "chi": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "tha": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "ind": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island."
+        },
+        "long": {
+            "eng": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "may": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "tam": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "chi": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "tha": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "ind": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Jessica Parker Kennedy",
+            " Toby Stephens",
+            " Hannah New"
+        ],
+        "may": [
+            "Jessica Parker Kennedy",
+            " Toby Stephens",
+            " Hannah New"
+        ],
+        "tam": [
+            "Jessica Parker Kennedy",
+            " Toby Stephens",
+            " Hannah New"
+        ],
+        "chi": [
+            "Jessica Parker Kennedy",
+            " Toby Stephens",
+            " Hannah New"
+        ],
+        "tha": [
+            "Jessica Parker Kennedy",
+            " Toby Stephens",
+            " Hannah New"
+        ],
+        "ind": [
+            "Jessica Parker Kennedy",
+            " Toby Stephens",
+            " Hannah New"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Robert LevineJonathan",
+            " E. Steinberg"
+        ],
+        "may": [
+            "Robert LevineJonathan",
+            " E. Steinberg"
+        ],
+        "tam": [
+            "Robert LevineJonathan",
+            " E. Steinberg"
+        ],
+        "chi": [
+            "Robert LevineJonathan",
+            " E. Steinberg"
+        ],
+        "tha": [
+            "Robert LevineJonathan",
+            " E. Steinberg"
+        ],
+        "ind": [
+            "Robert LevineJonathan",
+            " E. Steinberg"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Nina Heyns",
+            " Jonathan Brytus",
+            " Erik Henry"
+        ],
+        "may": [
+            "Nina Heyns",
+            " Jonathan Brytus",
+            " Erik Henry"
+        ],
+        "tam": [
+            "Nina Heyns",
+            " Jonathan Brytus",
+            " Erik Henry"
+        ],
+        "chi": [
+            "Nina Heyns",
+            " Jonathan Brytus",
+            " Erik Henry"
+        ],
+        "tha": [
+            "Nina Heyns",
+            " Jonathan Brytus",
+            " Erik Henry"
+        ],
+        "ind": [
+            "Nina Heyns",
+            " Jonathan Brytus",
+            " Erik Henry"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Adventure",
+                    "may": "Adventure",
+                    "tam": "Adventure",
+                    "chi": "Adventure",
+                    "tha": "Adventure",
+                    "ind": "Adventure"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Adventure",
+                    "may": "Adventure",
+                    "tam": "Adventure",
+                    "chi": "Adventure",
+                    "tha": "Adventure",
+                    "ind": "Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BlackSails_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BlackSails_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BlackSails_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "7",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2014,
+    "maxConcurrentStreams": 0
+}

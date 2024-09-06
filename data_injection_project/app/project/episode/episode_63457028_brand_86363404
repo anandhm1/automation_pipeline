@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedTvShow_50b8f957-616a-563b-a593-f37a3497def3",
+    "clientContentId": "PACK0000000008326310",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "I Am Groot - Trailer",
+            "may": "I Am Groot - Trailer",
+            "tam": "I Am Groot - Trailer",
+            "chi": "I Am Groot - Trailer",
+            "tha": "I Am Groot - Trailer",
+            "ind": "I Am Groot - Trailer"
+        },
+        "long": {
+            "eng": "I Am Groot - Trailer",
+            "may": "I Am Groot - Trailer",
+            "tam": "I Am Groot - Trailer",
+            "chi": "I Am Groot - Trailer",
+            "tha": "I Am Groot - Trailer",
+            "ind": "I Am Groot - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "may": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "tam": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "chi": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "tha": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "ind": "A series of shorts featuring the seedling Groot along with several new and unusual characters."
+        },
+        "long": {
+            "eng": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "may": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "tam": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "chi": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "tha": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "ind": "A series of shorts featuring the seedling Groot along with several new and unusual characters."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Vin Diesel",
+            " Fred Tatasciore",
+            " Kaitlyn Robrock",
+            " Terri Douglas",
+            " Bradley Cooper",
+            " James GunnBob BergenTrevor DevallScott MenvilleKari Wahlgren"
+        ],
+        "may": [
+            "Vin Diesel",
+            " Fred Tatasciore",
+            " Kaitlyn Robrock",
+            " Terri Douglas",
+            " Bradley Cooper",
+            " James GunnBob BergenTrevor DevallScott MenvilleKari Wahlgren"
+        ],
+        "tam": [
+            "Vin Diesel",
+            " Fred Tatasciore",
+            " Kaitlyn Robrock",
+            " Terri Douglas",
+            " Bradley Cooper",
+            " James GunnBob BergenTrevor DevallScott MenvilleKari Wahlgren"
+        ],
+        "chi": [
+            "Vin Diesel",
+            " Fred Tatasciore",
+            " Kaitlyn Robrock",
+            " Terri Douglas",
+            " Bradley Cooper",
+            " James GunnBob BergenTrevor DevallScott MenvilleKari Wahlgren"
+        ],
+        "tha": [
+            "Vin Diesel",
+            " Fred Tatasciore",
+            " Kaitlyn Robrock",
+            " Terri Douglas",
+            " Bradley Cooper",
+            " James GunnBob BergenTrevor DevallScott MenvilleKari Wahlgren"
+        ],
+        "ind": [
+            "Vin Diesel",
+            " Fred Tatasciore",
+            " Kaitlyn Robrock",
+            " Terri Douglas",
+            " Bradley Cooper",
+            " James GunnBob BergenTrevor DevallScott MenvilleKari Wahlgren"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Kirsten Lepore"
+        ],
+        "may": [
+            "Kirsten Lepore"
+        ],
+        "tam": [
+            "Kirsten Lepore"
+        ],
+        "chi": [
+            "Kirsten Lepore"
+        ],
+        "tha": [
+            "Kirsten Lepore"
+        ],
+        "ind": [
+            "Kirsten Lepore"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Kevin Feige",
+            " Victoria Alonso",
+            " Louis D'Esposito",
+            " James Gunn",
+            " Kirsten Lepore",
+            " Alex ScharfDana Vasquez-EberhardtBrad Winderbaum"
+        ],
+        "may": [
+            "Kevin Feige",
+            " Victoria Alonso",
+            " Louis D'Esposito",
+            " James Gunn",
+            " Kirsten Lepore",
+            " Alex ScharfDana Vasquez-EberhardtBrad Winderbaum"
+        ],
+        "tam": [
+            "Kevin Feige",
+            " Victoria Alonso",
+            " Louis D'Esposito",
+            " James Gunn",
+            " Kirsten Lepore",
+            " Alex ScharfDana Vasquez-EberhardtBrad Winderbaum"
+        ],
+        "chi": [
+            "Kevin Feige",
+            " Victoria Alonso",
+            " Louis D'Esposito",
+            " James Gunn",
+            " Kirsten Lepore",
+            " Alex ScharfDana Vasquez-EberhardtBrad Winderbaum"
+        ],
+        "tha": [
+            "Kevin Feige",
+            " Victoria Alonso",
+            " Louis D'Esposito",
+            " James Gunn",
+            " Kirsten Lepore",
+            " Alex ScharfDana Vasquez-EberhardtBrad Winderbaum"
+        ],
+        "ind": [
+            "Kevin Feige",
+            " Victoria Alonso",
+            " Louis D'Esposito",
+            " James Gunn",
+            " Kirsten Lepore",
+            " Alex ScharfDana Vasquez-EberhardtBrad Winderbaum"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Animation",
+                    "may": "Animation",
+                    "tam": "Animation",
+                    "chi": "Animation",
+                    "tha": "Animation",
+                    "ind": "Animation"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Short",
+                    "may": " Short",
+                    "tam": " Short",
+                    "chi": " Short",
+                    "tha": " Short",
+                    "ind": " Short"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/IAmGrootSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/IAmGrootSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/IAmGrootSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_daab1619-d91f-5ba8-93f8-f893254d29da",
+    "seasonId": "AggregatedSeason_6b70c581-add1-58e2-9a2a-bf621d2c64bc",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "TV-PG",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

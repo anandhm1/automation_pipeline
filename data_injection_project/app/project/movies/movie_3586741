@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_ac0c7bae-2555-53db-854c-4de2396fe7c3",
+    "clientContentId": "PACK0000000008107015",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Fast & Furious 9",
+            "may": "Fast & Furious 9",
+            "tam": "Fast & Furious 9",
+            "chi": "Fast & Furious 9",
+            "tha": "Fast & Furious 9",
+            "ind": "Fast & Furious 9"
+        },
+        "long": {
+            "eng": "Fast & Furious 9",
+            "may": "Fast & Furious 9",
+            "tam": "Fast & Furious 9",
+            "chi": "Fast & Furious 9",
+            "tha": "Fast & Furious 9",
+            "ind": "Fast & Furious 9"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
+            "may": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
+            "tam": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
+            "chi": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
+            "tha": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
+            "ind": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother."
+        },
+        "long": {
+            "eng": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
+            "may": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
+            "tam": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
+            "chi": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
+            "tha": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
+            "ind": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Vin Diesel",
+            " Michelle Rodriguez",
+            " Jordana Brewster",
+            " Tyrese Gibson",
+            " Ludacris",
+            " Nathalie Emmanuel",
+            " Charlize Theron",
+            " John Cena",
+            " Finn Cole",
+            " Sung Kang"
+        ],
+        "may": [
+            "Vin Diesel",
+            " Michelle Rodriguez",
+            " Jordana Brewster",
+            " Tyrese Gibson",
+            " Ludacris",
+            " Nathalie Emmanuel",
+            " Charlize Theron",
+            " John Cena",
+            " Finn Cole",
+            " Sung Kang"
+        ],
+        "tam": [
+            "Vin Diesel",
+            " Michelle Rodriguez",
+            " Jordana Brewster",
+            " Tyrese Gibson",
+            " Ludacris",
+            " Nathalie Emmanuel",
+            " Charlize Theron",
+            " John Cena",
+            " Finn Cole",
+            " Sung Kang"
+        ],
+        "chi": [
+            "Vin Diesel",
+            " Michelle Rodriguez",
+            " Jordana Brewster",
+            " Tyrese Gibson",
+            " Ludacris",
+            " Nathalie Emmanuel",
+            " Charlize Theron",
+            " John Cena",
+            " Finn Cole",
+            " Sung Kang"
+        ],
+        "tha": [
+            "Vin Diesel",
+            " Michelle Rodriguez",
+            " Jordana Brewster",
+            " Tyrese Gibson",
+            " Ludacris",
+            " Nathalie Emmanuel",
+            " Charlize Theron",
+            " John Cena",
+            " Finn Cole",
+            " Sung Kang"
+        ],
+        "ind": [
+            "Vin Diesel",
+            " Michelle Rodriguez",
+            " Jordana Brewster",
+            " Tyrese Gibson",
+            " Ludacris",
+            " Nathalie Emmanuel",
+            " Charlize Theron",
+            " John Cena",
+            " Finn Cole",
+            " Sung Kang"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Justin Lin"
+        ],
+        "may": [
+            "Justin Lin"
+        ],
+        "tam": [
+            "Justin Lin"
+        ],
+        "chi": [
+            "Justin Lin"
+        ],
+        "tha": [
+            "Justin Lin"
+        ],
+        "ind": [
+            "Justin Lin"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Sophio Bendiashvili",
+            " Vin Diesel",
+            " Kevin Elam",
+            " Josh Henson",
+            " Jeff Kirschenbaum",
+            " Justin Lin",
+            " Bacho Meburishvili",
+            " F. Valentino Morales",
+            " Neal H. Moritz",
+            " Piya Pestonji"
+        ],
+        "may": [
+            "Sophio Bendiashvili",
+            " Vin Diesel",
+            " Kevin Elam",
+            " Josh Henson",
+            " Jeff Kirschenbaum",
+            " Justin Lin",
+            " Bacho Meburishvili",
+            " F. Valentino Morales",
+            " Neal H. Moritz",
+            " Piya Pestonji"
+        ],
+        "tam": [
+            "Sophio Bendiashvili",
+            " Vin Diesel",
+            " Kevin Elam",
+            " Josh Henson",
+            " Jeff Kirschenbaum",
+            " Justin Lin",
+            " Bacho Meburishvili",
+            " F. Valentino Morales",
+            " Neal H. Moritz",
+            " Piya Pestonji"
+        ],
+        "chi": [
+            "Sophio Bendiashvili",
+            " Vin Diesel",
+            " Kevin Elam",
+            " Josh Henson",
+            " Jeff Kirschenbaum",
+            " Justin Lin",
+            " Bacho Meburishvili",
+            " F. Valentino Morales",
+            " Neal H. Moritz",
+            " Piya Pestonji"
+        ],
+        "tha": [
+            "Sophio Bendiashvili",
+            " Vin Diesel",
+            " Kevin Elam",
+            " Josh Henson",
+            " Jeff Kirschenbaum",
+            " Justin Lin",
+            " Bacho Meburishvili",
+            " F. Valentino Morales",
+            " Neal H. Moritz",
+            " Piya Pestonji"
+        ],
+        "ind": [
+            "Sophio Bendiashvili",
+            " Vin Diesel",
+            " Kevin Elam",
+            " Josh Henson",
+            " Jeff Kirschenbaum",
+            " Justin Lin",
+            " Bacho Meburishvili",
+            " F. Valentino Morales",
+            " Neal H. Moritz",
+            " Piya Pestonji"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Fast&Furious9_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Fast&Furious9_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Fast&Furious9_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2021,
+    "rating": "5.2",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

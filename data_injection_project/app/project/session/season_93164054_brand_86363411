@@ -1,0 +1,281 @@
+{
+    "externalId": "AggregatedSeason_aeb1dad9-c2f6-5073-a90e-b4f43895db9a",
+    "clientContentId": "PACK0000000002653528",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Adventure",
+                    "may": "Adventure",
+                    "chi": "Adventure",
+                    "tam": "Adventure",
+                    "ind": "Adventure",
+                    "tha": "Adventure"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Melissa Barrera",
+            " Jeff Wilbusch",
+            " Florencia Lozano",
+            " Juan Pablo Espinosa",
+            " Joselyn Picard",
+            " Austin StowellGetenesh BerheMike DopudMichelle Choi-LeeRandy Lee"
+        ],
+        "may": [
+            "Melissa Barrera",
+            " Jeff Wilbusch",
+            " Florencia Lozano",
+            " Juan Pablo Espinosa",
+            " Joselyn Picard",
+            " Austin StowellGetenesh BerheMike DopudMichelle Choi-LeeRandy Lee"
+        ],
+        "chi": [
+            "Melissa Barrera",
+            " Jeff Wilbusch",
+            " Florencia Lozano",
+            " Juan Pablo Espinosa",
+            " Joselyn Picard",
+            " Austin StowellGetenesh BerheMike DopudMichelle Choi-LeeRandy Lee"
+        ],
+        "tam": [
+            "Melissa Barrera",
+            " Jeff Wilbusch",
+            " Florencia Lozano",
+            " Juan Pablo Espinosa",
+            " Joselyn Picard",
+            " Austin StowellGetenesh BerheMike DopudMichelle Choi-LeeRandy Lee"
+        ],
+        "ind": [
+            "Melissa Barrera",
+            " Jeff Wilbusch",
+            " Florencia Lozano",
+            " Juan Pablo Espinosa",
+            " Joselyn Picard",
+            " Austin StowellGetenesh BerheMike DopudMichelle Choi-LeeRandy Lee"
+        ],
+        "tha": [
+            "Melissa Barrera",
+            " Jeff Wilbusch",
+            " Florencia Lozano",
+            " Juan Pablo Espinosa",
+            " Joselyn Picard",
+            " Austin StowellGetenesh BerheMike DopudMichelle Choi-LeeRandy Lee"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Maggie Kiley",
+            " Rebecca Rodriguez"
+        ],
+        "may": [
+            "Maggie Kiley",
+            " Rebecca Rodriguez"
+        ],
+        "chi": [
+            "Maggie Kiley",
+            " Rebecca Rodriguez"
+        ],
+        "tam": [
+            "Maggie Kiley",
+            " Rebecca Rodriguez"
+        ],
+        "ind": [
+            "Maggie Kiley",
+            " Rebecca Rodriguez"
+        ],
+        "tha": [
+            "Maggie Kiley",
+            " Rebecca Rodriguez"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Colin Bright",
+            " Brendan Gall",
+            " Martin Gero",
+            " Maggie Kiley",
+            " Taja Perkins",
+            " Robert PetroviczRebecca RodriguezIturri Sosa"
+        ],
+        "may": [
+            "Colin Bright",
+            " Brendan Gall",
+            " Martin Gero",
+            " Maggie Kiley",
+            " Taja Perkins",
+            " Robert PetroviczRebecca RodriguezIturri Sosa"
+        ],
+        "chi": [
+            "Colin Bright",
+            " Brendan Gall",
+            " Martin Gero",
+            " Maggie Kiley",
+            " Taja Perkins",
+            " Robert PetroviczRebecca RodriguezIturri Sosa"
+        ],
+        "tam": [
+            "Colin Bright",
+            " Brendan Gall",
+            " Martin Gero",
+            " Maggie Kiley",
+            " Taja Perkins",
+            " Robert PetroviczRebecca RodriguezIturri Sosa"
+        ],
+        "ind": [
+            "Colin Bright",
+            " Brendan Gall",
+            " Martin Gero",
+            " Maggie Kiley",
+            " Taja Perkins",
+            " Robert PetroviczRebecca RodriguezIturri Sosa"
+        ],
+        "tha": [
+            "Colin Bright",
+            " Brendan Gall",
+            " Martin Gero",
+            " Maggie Kiley",
+            " Taja Perkins",
+            " Robert PetroviczRebecca RodriguezIturri Sosa"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_f19d14c1-af76-5176-be87-d5227dab811d",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Keep Breathing Season 1",
+            "may": "Keep Breathing Season 1",
+            "chi": "Keep Breathing Season 1",
+            "tam": "Keep Breathing Season 1",
+            "ind": "Keep Breathing Season 1",
+            "tha": "Keep Breathing Season 1"
+        },
+        "long": {
+            "eng": "Keep Breathing Season 1",
+            "may": "Keep Breathing Season 1",
+            "chi": "Keep Breathing Season 1",
+            "tam": "Keep Breathing Season 1",
+            "ind": "Keep Breathing Season 1",
+            "tha": "Keep Breathing Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "may": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "chi": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "tam": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "ind": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "tha": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive."
+        },
+        "long": {
+            "eng": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "may": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "chi": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "tam": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "ind": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "tha": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/KeepBreathingSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/KeepBreathingSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/KeepBreathingSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

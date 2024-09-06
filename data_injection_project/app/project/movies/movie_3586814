@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_0bc72728-671d-5674-ae7d-2aff914a33e5",
+    "clientContentId": "PACK0000000008923190",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "M3Gan",
+            "may": "M3Gan",
+            "tam": "M3Gan",
+            "chi": "M3Gan",
+            "tha": "M3Gan",
+            "ind": "M3Gan"
+        },
+        "long": {
+            "eng": "M3Gan",
+            "may": "M3Gan",
+            "tam": "M3Gan",
+            "chi": "M3Gan",
+            "tha": "M3Gan",
+            "ind": "M3Gan"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.",
+            "may": "A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.",
+            "tam": "A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.",
+            "chi": "A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.",
+            "tha": "A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.",
+            "ind": "A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own."
+        },
+        "long": {
+            "eng": "A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.",
+            "may": "A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.",
+            "tam": "A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.",
+            "chi": "A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.",
+            "tha": "A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.",
+            "ind": "A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Allison Williams",
+            " Violet McGraw",
+            " Ronny Chieng",
+            " Amie Donald",
+            " Jenna Davis",
+            " Brian Jordan Alvarez",
+            " Jen Van Epps",
+            " Stephane Garneau-Monten",
+            " Lori Dungey",
+            " Amy Usherwood"
+        ],
+        "may": [
+            "Allison Williams",
+            " Violet McGraw",
+            " Ronny Chieng",
+            " Amie Donald",
+            " Jenna Davis",
+            " Brian Jordan Alvarez",
+            " Jen Van Epps",
+            " Stephane Garneau-Monten",
+            " Lori Dungey",
+            " Amy Usherwood"
+        ],
+        "tam": [
+            "Allison Williams",
+            " Violet McGraw",
+            " Ronny Chieng",
+            " Amie Donald",
+            " Jenna Davis",
+            " Brian Jordan Alvarez",
+            " Jen Van Epps",
+            " Stephane Garneau-Monten",
+            " Lori Dungey",
+            " Amy Usherwood"
+        ],
+        "chi": [
+            "Allison Williams",
+            " Violet McGraw",
+            " Ronny Chieng",
+            " Amie Donald",
+            " Jenna Davis",
+            " Brian Jordan Alvarez",
+            " Jen Van Epps",
+            " Stephane Garneau-Monten",
+            " Lori Dungey",
+            " Amy Usherwood"
+        ],
+        "tha": [
+            "Allison Williams",
+            " Violet McGraw",
+            " Ronny Chieng",
+            " Amie Donald",
+            " Jenna Davis",
+            " Brian Jordan Alvarez",
+            " Jen Van Epps",
+            " Stephane Garneau-Monten",
+            " Lori Dungey",
+            " Amy Usherwood"
+        ],
+        "ind": [
+            "Allison Williams",
+            " Violet McGraw",
+            " Ronny Chieng",
+            " Amie Donald",
+            " Jenna Davis",
+            " Brian Jordan Alvarez",
+            " Jen Van Epps",
+            " Stephane Garneau-Monten",
+            " Lori Dungey",
+            " Amy Usherwood"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Gerard Johnstone"
+        ],
+        "may": [
+            "Gerard Johnstone"
+        ],
+        "tam": [
+            "Gerard Johnstone"
+        ],
+        "chi": [
+            "Gerard Johnstone"
+        ],
+        "tha": [
+            "Gerard Johnstone"
+        ],
+        "ind": [
+            "Gerard Johnstone"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jason Blum",
+            " Michael Clear",
+            " Greg Gilreath",
+            " Adam Hendricks",
+            " Mark David Katchur",
+            " Judson Scott",
+            " Jennifer Scudder Trent",
+            " Luke Sharpe",
+            " Jill Soper",
+            " Ryan Turek"
+        ],
+        "may": [
+            "Jason Blum",
+            " Michael Clear",
+            " Greg Gilreath",
+            " Adam Hendricks",
+            " Mark David Katchur",
+            " Judson Scott",
+            " Jennifer Scudder Trent",
+            " Luke Sharpe",
+            " Jill Soper",
+            " Ryan Turek"
+        ],
+        "tam": [
+            "Jason Blum",
+            " Michael Clear",
+            " Greg Gilreath",
+            " Adam Hendricks",
+            " Mark David Katchur",
+            " Judson Scott",
+            " Jennifer Scudder Trent",
+            " Luke Sharpe",
+            " Jill Soper",
+            " Ryan Turek"
+        ],
+        "chi": [
+            "Jason Blum",
+            " Michael Clear",
+            " Greg Gilreath",
+            " Adam Hendricks",
+            " Mark David Katchur",
+            " Judson Scott",
+            " Jennifer Scudder Trent",
+            " Luke Sharpe",
+            " Jill Soper",
+            " Ryan Turek"
+        ],
+        "tha": [
+            "Jason Blum",
+            " Michael Clear",
+            " Greg Gilreath",
+            " Adam Hendricks",
+            " Mark David Katchur",
+            " Judson Scott",
+            " Jennifer Scudder Trent",
+            " Luke Sharpe",
+            " Jill Soper",
+            " Ryan Turek"
+        ],
+        "ind": [
+            "Jason Blum",
+            " Michael Clear",
+            " Greg Gilreath",
+            " Adam Hendricks",
+            " Mark David Katchur",
+            " Judson Scott",
+            " Jennifer Scudder Trent",
+            " Luke Sharpe",
+            " Jill Soper",
+            " Ryan Turek"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Horror",
+                    "may": "Horror",
+                    "tam": "Horror",
+                    "chi": "Horror",
+                    "tha": "Horror",
+                    "ind": "Horror"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Sci-Fi",
+                    "may": " Sci-Fi",
+                    "tam": " Sci-Fi",
+                    "chi": " Sci-Fi",
+                    "tha": " Sci-Fi",
+                    "ind": " Sci-Fi"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/M3GAN_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/M3GAN_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/M3GAN_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2023,
+    "rating": "6.4",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

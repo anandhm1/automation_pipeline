@@ -1,0 +1,367 @@
+{
+    "externalId": "AggregatedTvShow_d01792d4-edf0-582d-b4e3-165c4d9b1eb9",
+    "clientContentId": "PACK0000000006395548",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Shannara Chronicles - Trailer",
+            "may": "The Shannara Chronicles - Trailer",
+            "tam": "The Shannara Chronicles - Trailer",
+            "chi": "The Shannara Chronicles - Trailer",
+            "tha": "The Shannara Chronicles - Trailer",
+            "ind": "The Shannara Chronicles - Trailer"
+        },
+        "long": {
+            "eng": "The Shannara Chronicles - Trailer",
+            "may": "The Shannara Chronicles - Trailer",
+            "tam": "The Shannara Chronicles - Trailer",
+            "chi": "The Shannara Chronicles - Trailer",
+            "tha": "The Shannara Chronicles - Trailer",
+            "ind": "The Shannara Chronicles - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "may": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "tam": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "chi": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "tha": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "ind": "Series of adventures, war, and evil that occur throughout the history of the Four Lands."
+        },
+        "long": {
+            "eng": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "may": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "tam": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "chi": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "tha": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "ind": "Series of adventures, war, and evil that occur throughout the history of the Four Lands."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Austin Butler",
+            " Ivana Baquero",
+            " Manu Bennett",
+            " Aaron Jakubenko",
+            " Marcus Vanco",
+            " Poppy Drayton",
+            " Melise",
+            " Vanessa Morgan",
+            " Gentry White",
+            " Emilia Burns"
+        ],
+        "may": [
+            "Austin Butler",
+            " Ivana Baquero",
+            " Manu Bennett",
+            " Aaron Jakubenko",
+            " Marcus Vanco",
+            " Poppy Drayton",
+            " Melise",
+            " Vanessa Morgan",
+            " Gentry White",
+            " Emilia Burns"
+        ],
+        "tam": [
+            "Austin Butler",
+            " Ivana Baquero",
+            " Manu Bennett",
+            " Aaron Jakubenko",
+            " Marcus Vanco",
+            " Poppy Drayton",
+            " Melise",
+            " Vanessa Morgan",
+            " Gentry White",
+            " Emilia Burns"
+        ],
+        "chi": [
+            "Austin Butler",
+            " Ivana Baquero",
+            " Manu Bennett",
+            " Aaron Jakubenko",
+            " Marcus Vanco",
+            " Poppy Drayton",
+            " Melise",
+            " Vanessa Morgan",
+            " Gentry White",
+            " Emilia Burns"
+        ],
+        "tha": [
+            "Austin Butler",
+            " Ivana Baquero",
+            " Manu Bennett",
+            " Aaron Jakubenko",
+            " Marcus Vanco",
+            " Poppy Drayton",
+            " Melise",
+            " Vanessa Morgan",
+            " Gentry White",
+            " Emilia Burns"
+        ],
+        "ind": [
+            "Austin Butler",
+            " Ivana Baquero",
+            " Manu Bennett",
+            " Aaron Jakubenko",
+            " Marcus Vanco",
+            " Poppy Drayton",
+            " Melise",
+            " Vanessa Morgan",
+            " Gentry White",
+            " Emilia Burns"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Brad Turner",
+            " James Marshall",
+            " Jonathan Liebesman",
+            " Jesse Warn",
+            " Toa Fraser"
+        ],
+        "may": [
+            "Brad Turner",
+            " James Marshall",
+            " Jonathan Liebesman",
+            " Jesse Warn",
+            " Toa Fraser"
+        ],
+        "tam": [
+            "Brad Turner",
+            " James Marshall",
+            " Jonathan Liebesman",
+            " Jesse Warn",
+            " Toa Fraser"
+        ],
+        "chi": [
+            "Brad Turner",
+            " James Marshall",
+            " Jonathan Liebesman",
+            " Jesse Warn",
+            " Toa Fraser"
+        ],
+        "tha": [
+            "Brad Turner",
+            " James Marshall",
+            " Jonathan Liebesman",
+            " Jesse Warn",
+            " Toa Fraser"
+        ],
+        "ind": [
+            "Brad Turner",
+            " James Marshall",
+            " Jonathan Liebesman",
+            " Jesse Warn",
+            " Toa Fraser"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "David Blocker",
+            " Kimberly Boyd",
+            " Terry Brooks",
+            " Dan Farah",
+            " Jon Favreau",
+            " Alfred Gough",
+            " Jonathan Liebesman",
+            " Miles Millar",
+            " Jessica Petelle",
+            " Brad Turner"
+        ],
+        "may": [
+            "David Blocker",
+            " Kimberly Boyd",
+            " Terry Brooks",
+            " Dan Farah",
+            " Jon Favreau",
+            " Alfred Gough",
+            " Jonathan Liebesman",
+            " Miles Millar",
+            " Jessica Petelle",
+            " Brad Turner"
+        ],
+        "tam": [
+            "David Blocker",
+            " Kimberly Boyd",
+            " Terry Brooks",
+            " Dan Farah",
+            " Jon Favreau",
+            " Alfred Gough",
+            " Jonathan Liebesman",
+            " Miles Millar",
+            " Jessica Petelle",
+            " Brad Turner"
+        ],
+        "chi": [
+            "David Blocker",
+            " Kimberly Boyd",
+            " Terry Brooks",
+            " Dan Farah",
+            " Jon Favreau",
+            " Alfred Gough",
+            " Jonathan Liebesman",
+            " Miles Millar",
+            " Jessica Petelle",
+            " Brad Turner"
+        ],
+        "tha": [
+            "David Blocker",
+            " Kimberly Boyd",
+            " Terry Brooks",
+            " Dan Farah",
+            " Jon Favreau",
+            " Alfred Gough",
+            " Jonathan Liebesman",
+            " Miles Millar",
+            " Jessica Petelle",
+            " Brad Turner"
+        ],
+        "ind": [
+            "David Blocker",
+            " Kimberly Boyd",
+            " Terry Brooks",
+            " Dan Farah",
+            " Jon Favreau",
+            " Alfred Gough",
+            " Jonathan Liebesman",
+            " Miles Millar",
+            " Jessica Petelle",
+            " Brad Turner"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Adventure",
+                    "may": "Adventure",
+                    "tam": "Adventure",
+                    "chi": "Adventure",
+                    "tha": "Adventure",
+                    "ind": "Adventure"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheShannaraChroniclesSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheShannaraChroniclesSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheShannaraChroniclesSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_ffd93921-d015-50ac-8d72-76abd9d3ec1b",
+    "seasonId": "AggregatedSeason_9255584e-cc1f-5261-8785-ae751f7d2999",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2016,
+    "rating": "TV-14",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

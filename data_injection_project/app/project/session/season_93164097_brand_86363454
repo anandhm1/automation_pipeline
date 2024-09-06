@@ -1,0 +1,245 @@
+{
+    "externalId": "AggregatedSeason_dddaed27-8977-5e06-8ac3-3737b95ea437",
+    "clientContentId": "PACK0000000006945215",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2016,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Riley Keough",
+            " Paul Sparks",
+            " Mary Lynn Rajskub"
+        ],
+        "may": [
+            "Riley Keough",
+            " Paul Sparks",
+            " Mary Lynn Rajskub"
+        ],
+        "chi": [
+            "Riley Keough",
+            " Paul Sparks",
+            " Mary Lynn Rajskub"
+        ],
+        "tam": [
+            "Riley Keough",
+            " Paul Sparks",
+            " Mary Lynn Rajskub"
+        ],
+        "ind": [
+            "Riley Keough",
+            " Paul Sparks",
+            " Mary Lynn Rajskub"
+        ],
+        "tha": [
+            "Riley Keough",
+            " Paul Sparks",
+            " Mary Lynn Rajskub"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Lodge Kerrigan",
+            " Amy Seimetz",
+            " Anja Marquardt"
+        ],
+        "may": [
+            "Lodge Kerrigan",
+            " Amy Seimetz",
+            " Anja Marquardt"
+        ],
+        "chi": [
+            "Lodge Kerrigan",
+            " Amy Seimetz",
+            " Anja Marquardt"
+        ],
+        "tam": [
+            "Lodge Kerrigan",
+            " Amy Seimetz",
+            " Anja Marquardt"
+        ],
+        "ind": [
+            "Lodge Kerrigan",
+            " Amy Seimetz",
+            " Anja Marquardt"
+        ],
+        "tha": [
+            "Lodge Kerrigan",
+            " Amy Seimetz",
+            " Anja Marquardt"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Gregory Jacobs",
+            " Todd Wagner"
+        ],
+        "may": [
+            "Gregory Jacobs",
+            " Todd Wagner"
+        ],
+        "chi": [
+            "Gregory Jacobs",
+            " Todd Wagner"
+        ],
+        "tam": [
+            "Gregory Jacobs",
+            " Todd Wagner"
+        ],
+        "ind": [
+            "Gregory Jacobs",
+            " Todd Wagner"
+        ],
+        "tha": [
+            "Gregory Jacobs",
+            " Todd Wagner"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_232f550b-d50a-5f81-b196-b821bd4d3b2d",
+    "seasonNumber": "e",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Girlfriend Experience",
+            "may": "The Girlfriend Experience",
+            "chi": "The Girlfriend Experience",
+            "tam": "The Girlfriend Experience",
+            "ind": "The Girlfriend Experience",
+            "tha": "The Girlfriend Experience"
+        },
+        "long": {
+            "eng": "The Girlfriend Experience",
+            "may": "The Girlfriend Experience",
+            "chi": "The Girlfriend Experience",
+            "tam": "The Girlfriend Experience",
+            "ind": "The Girlfriend Experience",
+            "tha": "The Girlfriend Experience"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "may": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "chi": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "tam": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "ind": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "tha": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships."
+        },
+        "long": {
+            "eng": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "may": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "chi": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "tam": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "ind": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "tha": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheGirlfriendExperience_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheGirlfriendExperience_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheGirlfriendExperience_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

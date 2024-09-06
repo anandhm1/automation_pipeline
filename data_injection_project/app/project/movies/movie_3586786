@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_0b1f20c4-01a7-5c5b-8081-3740a14e3cc5",
+    "clientContentId": "PACK0000000005714125",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "THE TOMORROW WAR",
+            "may": "THE TOMORROW WAR",
+            "tam": "THE TOMORROW WAR",
+            "chi": "THE TOMORROW WAR",
+            "tha": "THE TOMORROW WAR",
+            "ind": "THE TOMORROW WAR"
+        },
+        "long": {
+            "eng": "THE TOMORROW WAR",
+            "may": "THE TOMORROW WAR",
+            "tam": "THE TOMORROW WAR",
+            "chi": "THE TOMORROW WAR",
+            "tha": "THE TOMORROW WAR",
+            "ind": "THE TOMORROW WAR"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past.",
+            "may": "A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past.",
+            "tam": "A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past.",
+            "chi": "A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past.",
+            "tha": "A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past.",
+            "ind": "A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past."
+        },
+        "long": {
+            "eng": "A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past.",
+            "may": "A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past.",
+            "tam": "A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past.",
+            "chi": "A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past.",
+            "tha": "A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past.",
+            "ind": "A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Chris Pratt",
+            " Yvonne Strahovski",
+            " J.K. Simmons",
+            " Betty Gilpin",
+            " Sam Richardson",
+            " Jasmine Mathews",
+            " Edwin Hodge",
+            " Ryan Kiera Armstrong",
+            " Keith Powers",
+            " Mary Lynn Rajskub"
+        ],
+        "may": [
+            "Chris Pratt",
+            " Yvonne Strahovski",
+            " J.K. Simmons",
+            " Betty Gilpin",
+            " Sam Richardson",
+            " Jasmine Mathews",
+            " Edwin Hodge",
+            " Ryan Kiera Armstrong",
+            " Keith Powers",
+            " Mary Lynn Rajskub"
+        ],
+        "tam": [
+            "Chris Pratt",
+            " Yvonne Strahovski",
+            " J.K. Simmons",
+            " Betty Gilpin",
+            " Sam Richardson",
+            " Jasmine Mathews",
+            " Edwin Hodge",
+            " Ryan Kiera Armstrong",
+            " Keith Powers",
+            " Mary Lynn Rajskub"
+        ],
+        "chi": [
+            "Chris Pratt",
+            " Yvonne Strahovski",
+            " J.K. Simmons",
+            " Betty Gilpin",
+            " Sam Richardson",
+            " Jasmine Mathews",
+            " Edwin Hodge",
+            " Ryan Kiera Armstrong",
+            " Keith Powers",
+            " Mary Lynn Rajskub"
+        ],
+        "tha": [
+            "Chris Pratt",
+            " Yvonne Strahovski",
+            " J.K. Simmons",
+            " Betty Gilpin",
+            " Sam Richardson",
+            " Jasmine Mathews",
+            " Edwin Hodge",
+            " Ryan Kiera Armstrong",
+            " Keith Powers",
+            " Mary Lynn Rajskub"
+        ],
+        "ind": [
+            "Chris Pratt",
+            " Yvonne Strahovski",
+            " J.K. Simmons",
+            " Betty Gilpin",
+            " Sam Richardson",
+            " Jasmine Mathews",
+            " Edwin Hodge",
+            " Ryan Kiera Armstrong",
+            " Keith Powers",
+            " Mary Lynn Rajskub"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Chris McKay"
+        ],
+        "may": [
+            "Chris McKay"
+        ],
+        "tam": [
+            "Chris McKay"
+        ],
+        "chi": [
+            "Chris McKay"
+        ],
+        "tha": [
+            "Chris McKay"
+        ],
+        "ind": [
+            "Chris McKay"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Rob Cowan",
+            " Leifur B. Dagfinnsson",
+            " Jules Daly",
+            " David Ellison",
+            " Bradley J. Fischer",
+            " Dana Goldberg",
+            " David S. Goyer",
+            " Don Granger",
+            " Hjortur Gretarsson",
+            " Adam Kolbrenner"
+        ],
+        "may": [
+            "Rob Cowan",
+            " Leifur B. Dagfinnsson",
+            " Jules Daly",
+            " David Ellison",
+            " Bradley J. Fischer",
+            " Dana Goldberg",
+            " David S. Goyer",
+            " Don Granger",
+            " Hjortur Gretarsson",
+            " Adam Kolbrenner"
+        ],
+        "tam": [
+            "Rob Cowan",
+            " Leifur B. Dagfinnsson",
+            " Jules Daly",
+            " David Ellison",
+            " Bradley J. Fischer",
+            " Dana Goldberg",
+            " David S. Goyer",
+            " Don Granger",
+            " Hjortur Gretarsson",
+            " Adam Kolbrenner"
+        ],
+        "chi": [
+            "Rob Cowan",
+            " Leifur B. Dagfinnsson",
+            " Jules Daly",
+            " David Ellison",
+            " Bradley J. Fischer",
+            " Dana Goldberg",
+            " David S. Goyer",
+            " Don Granger",
+            " Hjortur Gretarsson",
+            " Adam Kolbrenner"
+        ],
+        "tha": [
+            "Rob Cowan",
+            " Leifur B. Dagfinnsson",
+            " Jules Daly",
+            " David Ellison",
+            " Bradley J. Fischer",
+            " Dana Goldberg",
+            " David S. Goyer",
+            " Don Granger",
+            " Hjortur Gretarsson",
+            " Adam Kolbrenner"
+        ],
+        "ind": [
+            "Rob Cowan",
+            " Leifur B. Dagfinnsson",
+            " Jules Daly",
+            " David Ellison",
+            " Bradley J. Fischer",
+            " Dana Goldberg",
+            " David S. Goyer",
+            " Don Granger",
+            " Hjortur Gretarsson",
+            " Adam Kolbrenner"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/THETOMORROWWAR_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/THETOMORROWWAR_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/THETOMORROWWAR_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2021,
+    "rating": "6.5",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

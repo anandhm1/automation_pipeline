@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_d1e4db17-4dd1-508b-aa31-338f73a670f2",
+    "clientContentId": "PACK0000000005552995",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Olympus Has Fallen",
+            "may": "Olympus Has Fallen",
+            "tam": "Olympus Has Fallen",
+            "chi": "Olympus Has Fallen",
+            "tha": "Olympus Has Fallen",
+            "ind": "Olympus Has Fallen"
+        },
+        "long": {
+            "eng": "Olympus Has Fallen",
+            "may": "Olympus Has Fallen",
+            "tam": "Olympus Has Fallen",
+            "chi": "Olympus Has Fallen",
+            "tha": "Olympus Has Fallen",
+            "ind": "Olympus Has Fallen"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.",
+            "may": "Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.",
+            "tam": "Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.",
+            "chi": "Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.",
+            "tha": "Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.",
+            "ind": "Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers."
+        },
+        "long": {
+            "eng": "Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.",
+            "may": "Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.",
+            "tam": "Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.",
+            "chi": "Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.",
+            "tha": "Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.",
+            "ind": "Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Gerard Butler",
+            " Aaron Eckhart",
+            " Finley Jacobsen",
+            " Dylan McDermott",
+            " Rick Yune",
+            " Morgan Freeman",
+            " Angela Bassett",
+            " Melissa Leo",
+            " Radha Mitchell",
+            " Cole Hauser"
+        ],
+        "may": [
+            "Gerard Butler",
+            " Aaron Eckhart",
+            " Finley Jacobsen",
+            " Dylan McDermott",
+            " Rick Yune",
+            " Morgan Freeman",
+            " Angela Bassett",
+            " Melissa Leo",
+            " Radha Mitchell",
+            " Cole Hauser"
+        ],
+        "tam": [
+            "Gerard Butler",
+            " Aaron Eckhart",
+            " Finley Jacobsen",
+            " Dylan McDermott",
+            " Rick Yune",
+            " Morgan Freeman",
+            " Angela Bassett",
+            " Melissa Leo",
+            " Radha Mitchell",
+            " Cole Hauser"
+        ],
+        "chi": [
+            "Gerard Butler",
+            " Aaron Eckhart",
+            " Finley Jacobsen",
+            " Dylan McDermott",
+            " Rick Yune",
+            " Morgan Freeman",
+            " Angela Bassett",
+            " Melissa Leo",
+            " Radha Mitchell",
+            " Cole Hauser"
+        ],
+        "tha": [
+            "Gerard Butler",
+            " Aaron Eckhart",
+            " Finley Jacobsen",
+            " Dylan McDermott",
+            " Rick Yune",
+            " Morgan Freeman",
+            " Angela Bassett",
+            " Melissa Leo",
+            " Radha Mitchell",
+            " Cole Hauser"
+        ],
+        "ind": [
+            "Gerard Butler",
+            " Aaron Eckhart",
+            " Finley Jacobsen",
+            " Dylan McDermott",
+            " Rick Yune",
+            " Morgan Freeman",
+            " Angela Bassett",
+            " Melissa Leo",
+            " Radha Mitchell",
+            " Cole Hauser"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Antoine Fuqua"
+        ],
+        "may": [
+            "Antoine Fuqua"
+        ],
+        "tam": [
+            "Antoine Fuqua"
+        ],
+        "chi": [
+            "Antoine Fuqua"
+        ],
+        "tha": [
+            "Antoine Fuqua"
+        ],
+        "ind": [
+            "Antoine Fuqua"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Guy Avshalom",
+            " Gerard Butler",
+            " Ed Cathell III",
+            " Boaz Davidson",
+            " Danny Dimbort",
+            " Will French",
+            " Antoine Fuqua",
+            " Mark Gill",
+            " Zygi Kamasa",
+            " Avi Lerner"
+        ],
+        "may": [
+            "Guy Avshalom",
+            " Gerard Butler",
+            " Ed Cathell III",
+            " Boaz Davidson",
+            " Danny Dimbort",
+            " Will French",
+            " Antoine Fuqua",
+            " Mark Gill",
+            " Zygi Kamasa",
+            " Avi Lerner"
+        ],
+        "tam": [
+            "Guy Avshalom",
+            " Gerard Butler",
+            " Ed Cathell III",
+            " Boaz Davidson",
+            " Danny Dimbort",
+            " Will French",
+            " Antoine Fuqua",
+            " Mark Gill",
+            " Zygi Kamasa",
+            " Avi Lerner"
+        ],
+        "chi": [
+            "Guy Avshalom",
+            " Gerard Butler",
+            " Ed Cathell III",
+            " Boaz Davidson",
+            " Danny Dimbort",
+            " Will French",
+            " Antoine Fuqua",
+            " Mark Gill",
+            " Zygi Kamasa",
+            " Avi Lerner"
+        ],
+        "tha": [
+            "Guy Avshalom",
+            " Gerard Butler",
+            " Ed Cathell III",
+            " Boaz Davidson",
+            " Danny Dimbort",
+            " Will French",
+            " Antoine Fuqua",
+            " Mark Gill",
+            " Zygi Kamasa",
+            " Avi Lerner"
+        ],
+        "ind": [
+            "Guy Avshalom",
+            " Gerard Butler",
+            " Ed Cathell III",
+            " Boaz Davidson",
+            " Danny Dimbort",
+            " Will French",
+            " Antoine Fuqua",
+            " Mark Gill",
+            " Zygi Kamasa",
+            " Avi Lerner"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Thriller",
+                    "may": " Thriller",
+                    "tam": " Thriller",
+                    "chi": " Thriller",
+                    "tha": " Thriller",
+                    "ind": " Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/OlympusHasFallen_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/OlympusHasFallen_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/OlympusHasFallen_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2013,
+    "rating": "6.5",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

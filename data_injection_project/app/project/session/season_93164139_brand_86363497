@@ -1,0 +1,233 @@
+{
+    "externalId": "AggregatedSeason_0250d65e-51b7-586f-a4b7-7a0d5c3a506b",
+    "clientContentId": "PACK0000000005952930",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "chi": "Crime",
+                    "tam": "Crime",
+                    "ind": "Crime",
+                    "tha": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "chi": "Crime",
+                    "tam": "Crime",
+                    "ind": "Crime",
+                    "tha": "Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2014,
+    "rating": "8.7",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Marco D'Amore",
+            " Salvatore Esposito",
+            " Fortunato Cerlino",
+            " Maria Pia Calzone"
+        ],
+        "may": [
+            "Marco D'Amore",
+            " Salvatore Esposito",
+            " Fortunato Cerlino",
+            " Maria Pia Calzone"
+        ],
+        "chi": [
+            "Marco D'Amore",
+            " Salvatore Esposito",
+            " Fortunato Cerlino",
+            " Maria Pia Calzone"
+        ],
+        "tam": [
+            "Marco D'Amore",
+            " Salvatore Esposito",
+            " Fortunato Cerlino",
+            " Maria Pia Calzone"
+        ],
+        "ind": [
+            "Marco D'Amore",
+            " Salvatore Esposito",
+            " Fortunato Cerlino",
+            " Maria Pia Calzone"
+        ],
+        "tha": [
+            "Marco D'Amore",
+            " Salvatore Esposito",
+            " Fortunato Cerlino",
+            " Maria Pia Calzone"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Roberto Saviano"
+        ],
+        "may": [
+            "Roberto Saviano"
+        ],
+        "chi": [
+            "Roberto Saviano"
+        ],
+        "tam": [
+            "Roberto Saviano"
+        ],
+        "ind": [
+            "Roberto Saviano"
+        ],
+        "tha": [
+            "Roberto Saviano"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Roberto Saviano"
+        ],
+        "may": [
+            "Roberto Saviano"
+        ],
+        "chi": [
+            "Roberto Saviano"
+        ],
+        "tam": [
+            "Roberto Saviano"
+        ],
+        "ind": [
+            "Roberto Saviano"
+        ],
+        "tha": [
+            "Roberto Saviano"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_399f98a1-e512-5e1d-827b-fee079ef52ff",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Gomorrah S01 EP01",
+            "may": "Gomorrah S01 EP01",
+            "chi": "Gomorrah S01 EP01",
+            "tam": "Gomorrah S01 EP01",
+            "ind": "Gomorrah S01 EP01",
+            "tha": "Gomorrah S01 EP01"
+        },
+        "long": {
+            "eng": "Gomorrah S01 EP01",
+            "may": "Gomorrah S01 EP01",
+            "chi": "Gomorrah S01 EP01",
+            "tam": "Gomorrah S01 EP01",
+            "ind": "Gomorrah S01 EP01",
+            "tha": "Gomorrah S01 EP01"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "may": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "chi": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "tam": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "ind": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "tha": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk."
+        },
+        "long": {
+            "eng": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "may": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "chi": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "tam": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "ind": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk.",
+            "tha": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/Gomorrah_S01_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/Gomorrah_S01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/Gomorrah_S01_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

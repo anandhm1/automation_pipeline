@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_aee07fe9-96fd-5027-8ff8-16de4610642a",
+    "clientContentId": "PACK0000000005507847",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "WRATH OF MAN",
+            "may": "WRATH OF MAN",
+            "tam": "WRATH OF MAN",
+            "chi": "WRATH OF MAN",
+            "tha": "WRATH OF MAN",
+            "ind": "WRATH OF MAN"
+        },
+        "long": {
+            "eng": "WRATH OF MAN",
+            "may": "WRATH OF MAN",
+            "tam": "WRATH OF MAN",
+            "chi": "WRATH OF MAN",
+            "tha": "WRATH OF MAN",
+            "ind": "WRATH OF MAN"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A cold and mysterious character working at a cash truck company responsible for moving a lot of money around Los Angeles each week.",
+            "may": "A cold and mysterious character working at a cash truck company responsible for moving a lot of money around Los Angeles each week.",
+            "tam": "A cold and mysterious character working at a cash truck company responsible for moving a lot of money around Los Angeles each week.",
+            "chi": "A cold and mysterious character working at a cash truck company responsible for moving a lot of money around Los Angeles each week.",
+            "tha": "A cold and mysterious character working at a cash truck company responsible for moving a lot of money around Los Angeles each week.",
+            "ind": "A cold and mysterious character working at a cash truck company responsible for moving a lot of money around Los Angeles each week."
+        },
+        "long": {
+            "eng": "A cold and mysterious character working at a cash truck company responsible for moving a lot of money around Los Angeles each week.",
+            "may": "A cold and mysterious character working at a cash truck company responsible for moving a lot of money around Los Angeles each week.",
+            "tam": "A cold and mysterious character working at a cash truck company responsible for moving a lot of money around Los Angeles each week.",
+            "chi": "A cold and mysterious character working at a cash truck company responsible for moving a lot of money around Los Angeles each week.",
+            "tha": "A cold and mysterious character working at a cash truck company responsible for moving a lot of money around Los Angeles each week.",
+            "ind": "A cold and mysterious character working at a cash truck company responsible for moving a lot of money around Los Angeles each week."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jason Statham",
+            " Holt McCallany",
+            " Rocci Boy Williams",
+            " Josh Hartnett",
+            " Jeffrey Donovan",
+            " Scott Eastwood",
+            " Andy Garcia",
+            " Deobia Oparei",
+            " Laz Alonso",
+            " Ra\u00fal Castillo"
+        ],
+        "may": [
+            "Jason Statham",
+            " Holt McCallany",
+            " Rocci Boy Williams",
+            " Josh Hartnett",
+            " Jeffrey Donovan",
+            " Scott Eastwood",
+            " Andy Garcia",
+            " Deobia Oparei",
+            " Laz Alonso",
+            " Ra\u00fal Castillo"
+        ],
+        "tam": [
+            "Jason Statham",
+            " Holt McCallany",
+            " Rocci Boy Williams",
+            " Josh Hartnett",
+            " Jeffrey Donovan",
+            " Scott Eastwood",
+            " Andy Garcia",
+            " Deobia Oparei",
+            " Laz Alonso",
+            " Ra\u00fal Castillo"
+        ],
+        "chi": [
+            "Jason Statham",
+            " Holt McCallany",
+            " Rocci Boy Williams",
+            " Josh Hartnett",
+            " Jeffrey Donovan",
+            " Scott Eastwood",
+            " Andy Garcia",
+            " Deobia Oparei",
+            " Laz Alonso",
+            " Ra\u00fal Castillo"
+        ],
+        "tha": [
+            "Jason Statham",
+            " Holt McCallany",
+            " Rocci Boy Williams",
+            " Josh Hartnett",
+            " Jeffrey Donovan",
+            " Scott Eastwood",
+            " Andy Garcia",
+            " Deobia Oparei",
+            " Laz Alonso",
+            " Ra\u00fal Castillo"
+        ],
+        "ind": [
+            "Jason Statham",
+            " Holt McCallany",
+            " Rocci Boy Williams",
+            " Josh Hartnett",
+            " Jeffrey Donovan",
+            " Scott Eastwood",
+            " Andy Garcia",
+            " Deobia Oparei",
+            " Laz Alonso",
+            " Ra\u00fal Castillo"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Guy Ritchie"
+        ],
+        "may": [
+            "Guy Ritchie"
+        ],
+        "tam": [
+            "Guy Ritchie"
+        ],
+        "chi": [
+            "Guy Ritchie"
+        ],
+        "tha": [
+            "Guy Ritchie"
+        ],
+        "ind": [
+            "Guy Ritchie"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ivan Atkinson",
+            " Bill Block",
+            " Steven Chasman",
+            " Andrew Golov",
+            " Jack Ivins",
+            " Max Keene",
+            " Louise Killin",
+            " Abby Mills",
+            " Guy Ritchie",
+            " Joshua Throne"
+        ],
+        "may": [
+            "Ivan Atkinson",
+            " Bill Block",
+            " Steven Chasman",
+            " Andrew Golov",
+            " Jack Ivins",
+            " Max Keene",
+            " Louise Killin",
+            " Abby Mills",
+            " Guy Ritchie",
+            " Joshua Throne"
+        ],
+        "tam": [
+            "Ivan Atkinson",
+            " Bill Block",
+            " Steven Chasman",
+            " Andrew Golov",
+            " Jack Ivins",
+            " Max Keene",
+            " Louise Killin",
+            " Abby Mills",
+            " Guy Ritchie",
+            " Joshua Throne"
+        ],
+        "chi": [
+            "Ivan Atkinson",
+            " Bill Block",
+            " Steven Chasman",
+            " Andrew Golov",
+            " Jack Ivins",
+            " Max Keene",
+            " Louise Killin",
+            " Abby Mills",
+            " Guy Ritchie",
+            " Joshua Throne"
+        ],
+        "tha": [
+            "Ivan Atkinson",
+            " Bill Block",
+            " Steven Chasman",
+            " Andrew Golov",
+            " Jack Ivins",
+            " Max Keene",
+            " Louise Killin",
+            " Abby Mills",
+            " Guy Ritchie",
+            " Joshua Throne"
+        ],
+        "ind": [
+            "Ivan Atkinson",
+            " Bill Block",
+            " Steven Chasman",
+            " Andrew Golov",
+            " Jack Ivins",
+            " Max Keene",
+            " Louise Killin",
+            " Abby Mills",
+            " Guy Ritchie",
+            " Joshua Throne"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/WRATHOFMAN_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/WRATHOFMAN_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/WRATHOFMAN_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2021,
+    "rating": "7.1",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

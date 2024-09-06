@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedSeries_f89ff333-b6be-5820-88c0-7fec58ca47d5",
+    "clientContentId": "PACK0000000002219308",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Mayor Of Kingstown",
+            "may": "Mayor Of Kingstown",
+            "tam": "Mayor Of Kingstown",
+            "chi": "Mayor Of Kingstown",
+            "tha": "Mayor Of Kingstown",
+            "ind": "Mayor Of Kingstown"
+        },
+        "long": {
+            "eng": "Mayor Of Kingstown",
+            "may": "Mayor Of Kingstown",
+            "tam": "Mayor Of Kingstown",
+            "chi": "Mayor Of Kingstown",
+            "tha": "Mayor Of Kingstown",
+            "ind": "Mayor Of Kingstown"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The McLusky family are power brokers tackling themes of systemic racism, corruption and inequality in Kingstown, Michigan, where the business of incarceration is the only thriving industry.",
+            "may": "The McLusky family are power brokers tackling themes of systemic racism, corruption and inequality in Kingstown, Michigan, where the business of incarceration is the only thriving industry.",
+            "tam": "The McLusky family are power brokers tackling themes of systemic racism, corruption and inequality in Kingstown, Michigan, where the business of incarceration is the only thriving industry.",
+            "chi": "The McLusky family are power brokers tackling themes of systemic racism, corruption and inequality in Kingstown, Michigan, where the business of incarceration is the only thriving industry.",
+            "tha": "The McLusky family are power brokers tackling themes of systemic racism, corruption and inequality in Kingstown, Michigan, where the business of incarceration is the only thriving industry.",
+            "ind": "The McLusky family are power brokers tackling themes of systemic racism, corruption and inequality in Kingstown, Michigan, where the business of incarceration is the only thriving industry."
+        },
+        "long": {
+            "eng": "The McLusky family are power brokers tackling themes of systemic racism, corruption and inequality in Kingstown, Michigan, where the business of incarceration is the only thriving industry.",
+            "may": "The McLusky family are power brokers tackling themes of systemic racism, corruption and inequality in Kingstown, Michigan, where the business of incarceration is the only thriving industry.",
+            "tam": "The McLusky family are power brokers tackling themes of systemic racism, corruption and inequality in Kingstown, Michigan, where the business of incarceration is the only thriving industry.",
+            "chi": "The McLusky family are power brokers tackling themes of systemic racism, corruption and inequality in Kingstown, Michigan, where the business of incarceration is the only thriving industry.",
+            "tha": "The McLusky family are power brokers tackling themes of systemic racism, corruption and inequality in Kingstown, Michigan, where the business of incarceration is the only thriving industry.",
+            "ind": "The McLusky family are power brokers tackling themes of systemic racism, corruption and inequality in Kingstown, Michigan, where the business of incarceration is the only thriving industry."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Jeremy Renner",
+            " Dianne Wiest",
+            " Hugh Dillon",
+            " Tobi Bamtefa",
+            " Taylor Handley",
+            " Emma Laird",
+            " Derek Webster",
+            " Hamish Allan-Headley",
+            " Aidan Gillen",
+            " Nishi Munshi"
+        ],
+        "may": [
+            "Jeremy Renner",
+            " Dianne Wiest",
+            " Hugh Dillon",
+            " Tobi Bamtefa",
+            " Taylor Handley",
+            " Emma Laird",
+            " Derek Webster",
+            " Hamish Allan-Headley",
+            " Aidan Gillen",
+            " Nishi Munshi"
+        ],
+        "tam": [
+            "Jeremy Renner",
+            " Dianne Wiest",
+            " Hugh Dillon",
+            " Tobi Bamtefa",
+            " Taylor Handley",
+            " Emma Laird",
+            " Derek Webster",
+            " Hamish Allan-Headley",
+            " Aidan Gillen",
+            " Nishi Munshi"
+        ],
+        "chi": [
+            "Jeremy Renner",
+            " Dianne Wiest",
+            " Hugh Dillon",
+            " Tobi Bamtefa",
+            " Taylor Handley",
+            " Emma Laird",
+            " Derek Webster",
+            " Hamish Allan-Headley",
+            " Aidan Gillen",
+            " Nishi Munshi"
+        ],
+        "tha": [
+            "Jeremy Renner",
+            " Dianne Wiest",
+            " Hugh Dillon",
+            " Tobi Bamtefa",
+            " Taylor Handley",
+            " Emma Laird",
+            " Derek Webster",
+            " Hamish Allan-Headley",
+            " Aidan Gillen",
+            " Nishi Munshi"
+        ],
+        "ind": [
+            "Jeremy Renner",
+            " Dianne Wiest",
+            " Hugh Dillon",
+            " Tobi Bamtefa",
+            " Taylor Handley",
+            " Emma Laird",
+            " Derek Webster",
+            " Hamish Allan-Headley",
+            " Aidan Gillen",
+            " Nishi Munshi"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Stephen Kay",
+            " Guy Ferland",
+            " Clark Johnson",
+            " Ben Richardson",
+            " Taylor Sheridan",
+            " Tasha Smith"
+        ],
+        "may": [
+            "Stephen Kay",
+            " Guy Ferland",
+            " Clark Johnson",
+            " Ben Richardson",
+            " Taylor Sheridan",
+            " Tasha Smith"
+        ],
+        "tam": [
+            "Stephen Kay",
+            " Guy Ferland",
+            " Clark Johnson",
+            " Ben Richardson",
+            " Taylor Sheridan",
+            " Tasha Smith"
+        ],
+        "chi": [
+            "Stephen Kay",
+            " Guy Ferland",
+            " Clark Johnson",
+            " Ben Richardson",
+            " Taylor Sheridan",
+            " Tasha Smith"
+        ],
+        "tha": [
+            "Stephen Kay",
+            " Guy Ferland",
+            " Clark Johnson",
+            " Ben Richardson",
+            " Taylor Sheridan",
+            " Tasha Smith"
+        ],
+        "ind": [
+            "Stephen Kay",
+            " Guy Ferland",
+            " Clark Johnson",
+            " Ben Richardson",
+            " Taylor Sheridan",
+            " Tasha Smith"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Michael Friedman",
+            " Ron Burkle",
+            " Hugh Dillon",
+            " Antoine Fuqua",
+            " David Glasser",
+            " Jeremy Renner",
+            " Taylor Sheridan",
+            " Bob Yari",
+            " Alex Jordan",
+            " Ben Richardson"
+        ],
+        "may": [
+            "Michael Friedman",
+            " Ron Burkle",
+            " Hugh Dillon",
+            " Antoine Fuqua",
+            " David Glasser",
+            " Jeremy Renner",
+            " Taylor Sheridan",
+            " Bob Yari",
+            " Alex Jordan",
+            " Ben Richardson"
+        ],
+        "tam": [
+            "Michael Friedman",
+            " Ron Burkle",
+            " Hugh Dillon",
+            " Antoine Fuqua",
+            " David Glasser",
+            " Jeremy Renner",
+            " Taylor Sheridan",
+            " Bob Yari",
+            " Alex Jordan",
+            " Ben Richardson"
+        ],
+        "chi": [
+            "Michael Friedman",
+            " Ron Burkle",
+            " Hugh Dillon",
+            " Antoine Fuqua",
+            " David Glasser",
+            " Jeremy Renner",
+            " Taylor Sheridan",
+            " Bob Yari",
+            " Alex Jordan",
+            " Ben Richardson"
+        ],
+        "tha": [
+            "Michael Friedman",
+            " Ron Burkle",
+            " Hugh Dillon",
+            " Antoine Fuqua",
+            " David Glasser",
+            " Jeremy Renner",
+            " Taylor Sheridan",
+            " Bob Yari",
+            " Alex Jordan",
+            " Ben Richardson"
+        ],
+        "ind": [
+            "Michael Friedman",
+            " Ron Burkle",
+            " Hugh Dillon",
+            " Antoine Fuqua",
+            " David Glasser",
+            " Jeremy Renner",
+            " Taylor Sheridan",
+            " Bob Yari",
+            " Alex Jordan",
+            " Ben Richardson"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "tam": "Documentary",
+                    "chi": "Documentary",
+                    "tha": "Documentary",
+                    "ind": "Documentary"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "tam": "Documentary",
+                    "chi": "Documentary",
+                    "tha": "Documentary",
+                    "ind": "Documentary"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MayorOfKingstownS01EP01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MayorOfKingstownS01EP01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MayorOfKingstownS01EP01_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "7",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2021,
+    "maxConcurrentStreams": 0
+}

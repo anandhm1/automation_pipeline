@@ -1,0 +1,331 @@
+{
+    "externalId": "AggregatedSeries_85ce0cd4-6d87-5516-bdab-96b05b22a042",
+    "clientContentId": "PACK0000000007651448",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Peacemaker",
+            "may": "Peacemaker",
+            "tam": "Peacemaker",
+            "chi": "Peacemaker",
+            "tha": "Peacemaker",
+            "ind": "Peacemaker"
+        },
+        "long": {
+            "eng": "Peacemaker",
+            "may": "Peacemaker",
+            "tam": "Peacemaker",
+            "chi": "Peacemaker",
+            "tha": "Peacemaker",
+            "ind": "Peacemaker"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Picking up where The Suicide Squad (2021) left off, Peacemaker returns home after recovering from his encounter with Bloodsport - only to discover that his freedom comes at a price.",
+            "may": "Picking up where The Suicide Squad (2021) left off, Peacemaker returns home after recovering from his encounter with Bloodsport - only to discover that his freedom comes at a price.",
+            "tam": "Picking up where The Suicide Squad (2021) left off, Peacemaker returns home after recovering from his encounter with Bloodsport - only to discover that his freedom comes at a price.",
+            "chi": "Picking up where The Suicide Squad (2021) left off, Peacemaker returns home after recovering from his encounter with Bloodsport - only to discover that his freedom comes at a price.",
+            "tha": "Picking up where The Suicide Squad (2021) left off, Peacemaker returns home after recovering from his encounter with Bloodsport - only to discover that his freedom comes at a price.",
+            "ind": "Picking up where The Suicide Squad (2021) left off, Peacemaker returns home after recovering from his encounter with Bloodsport - only to discover that his freedom comes at a price."
+        },
+        "long": {
+            "eng": "Picking up where The Suicide Squad (2021) left off, Peacemaker returns home after recovering from his encounter with Bloodsport - only to discover that his freedom comes at a price.",
+            "may": "Picking up where The Suicide Squad (2021) left off, Peacemaker returns home after recovering from his encounter with Bloodsport - only to discover that his freedom comes at a price.",
+            "tam": "Picking up where The Suicide Squad (2021) left off, Peacemaker returns home after recovering from his encounter with Bloodsport - only to discover that his freedom comes at a price.",
+            "chi": "Picking up where The Suicide Squad (2021) left off, Peacemaker returns home after recovering from his encounter with Bloodsport - only to discover that his freedom comes at a price.",
+            "tha": "Picking up where The Suicide Squad (2021) left off, Peacemaker returns home after recovering from his encounter with Bloodsport - only to discover that his freedom comes at a price.",
+            "ind": "Picking up where The Suicide Squad (2021) left off, Peacemaker returns home after recovering from his encounter with Bloodsport - only to discover that his freedom comes at a price."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "John Cena",
+            " Danielle Brooks",
+            " Freddie Stroma",
+            " Jennifer Holland",
+            " Steve Agee",
+            " Dee Bradley Baker",
+            " Chukwudi Iwuji",
+            " Robert Patrick",
+            " Annie Chang",
+            " Lochlyn Munro"
+        ],
+        "may": [
+            "John Cena",
+            " Danielle Brooks",
+            " Freddie Stroma",
+            " Jennifer Holland",
+            " Steve Agee",
+            " Dee Bradley Baker",
+            " Chukwudi Iwuji",
+            " Robert Patrick",
+            " Annie Chang",
+            " Lochlyn Munro"
+        ],
+        "tam": [
+            "John Cena",
+            " Danielle Brooks",
+            " Freddie Stroma",
+            " Jennifer Holland",
+            " Steve Agee",
+            " Dee Bradley Baker",
+            " Chukwudi Iwuji",
+            " Robert Patrick",
+            " Annie Chang",
+            " Lochlyn Munro"
+        ],
+        "chi": [
+            "John Cena",
+            " Danielle Brooks",
+            " Freddie Stroma",
+            " Jennifer Holland",
+            " Steve Agee",
+            " Dee Bradley Baker",
+            " Chukwudi Iwuji",
+            " Robert Patrick",
+            " Annie Chang",
+            " Lochlyn Munro"
+        ],
+        "tha": [
+            "John Cena",
+            " Danielle Brooks",
+            " Freddie Stroma",
+            " Jennifer Holland",
+            " Steve Agee",
+            " Dee Bradley Baker",
+            " Chukwudi Iwuji",
+            " Robert Patrick",
+            " Annie Chang",
+            " Lochlyn Munro"
+        ],
+        "ind": [
+            "John Cena",
+            " Danielle Brooks",
+            " Freddie Stroma",
+            " Jennifer Holland",
+            " Steve Agee",
+            " Dee Bradley Baker",
+            " Chukwudi Iwuji",
+            " Robert Patrick",
+            " Annie Chang",
+            " Lochlyn Munro"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "James Gunn",
+            " Brad Anderson",
+            " Jody Hill",
+            " Rosemary Rodriguez"
+        ],
+        "may": [
+            "James Gunn",
+            " Brad Anderson",
+            " Jody Hill",
+            " Rosemary Rodriguez"
+        ],
+        "tam": [
+            "James Gunn",
+            " Brad Anderson",
+            " Jody Hill",
+            " Rosemary Rodriguez"
+        ],
+        "chi": [
+            "James Gunn",
+            " Brad Anderson",
+            " Jody Hill",
+            " Rosemary Rodriguez"
+        ],
+        "tha": [
+            "James Gunn",
+            " Brad Anderson",
+            " Jody Hill",
+            " Rosemary Rodriguez"
+        ],
+        "ind": [
+            "James Gunn",
+            " Brad Anderson",
+            " Jody Hill",
+            " Rosemary Rodriguez"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "James Gunn",
+            " Matthew Miller",
+            " Peter Safran",
+            " Bryan H. Carroll",
+            " John Cena",
+            " Simon Hatt",
+            " Stacy A. Littlejohn",
+            " Fred Raskin",
+            " John Rickard",
+            " John H. Starke"
+        ],
+        "may": [
+            "James Gunn",
+            " Matthew Miller",
+            " Peter Safran",
+            " Bryan H. Carroll",
+            " John Cena",
+            " Simon Hatt",
+            " Stacy A. Littlejohn",
+            " Fred Raskin",
+            " John Rickard",
+            " John H. Starke"
+        ],
+        "tam": [
+            "James Gunn",
+            " Matthew Miller",
+            " Peter Safran",
+            " Bryan H. Carroll",
+            " John Cena",
+            " Simon Hatt",
+            " Stacy A. Littlejohn",
+            " Fred Raskin",
+            " John Rickard",
+            " John H. Starke"
+        ],
+        "chi": [
+            "James Gunn",
+            " Matthew Miller",
+            " Peter Safran",
+            " Bryan H. Carroll",
+            " John Cena",
+            " Simon Hatt",
+            " Stacy A. Littlejohn",
+            " Fred Raskin",
+            " John Rickard",
+            " John H. Starke"
+        ],
+        "tha": [
+            "James Gunn",
+            " Matthew Miller",
+            " Peter Safran",
+            " Bryan H. Carroll",
+            " John Cena",
+            " Simon Hatt",
+            " Stacy A. Littlejohn",
+            " Fred Raskin",
+            " John Rickard",
+            " John H. Starke"
+        ],
+        "ind": [
+            "James Gunn",
+            " Matthew Miller",
+            " Peter Safran",
+            " Bryan H. Carroll",
+            " John Cena",
+            " Simon Hatt",
+            " Stacy A. Littlejohn",
+            " Fred Raskin",
+            " John Rickard",
+            " John H. Starke"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PeacemakerSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PeacemakerSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PeacemakerSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "8",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2022,
+    "maxConcurrentStreams": 0
+}

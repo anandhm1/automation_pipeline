@@ -1,0 +1,353 @@
+{
+    "externalId": "AggregatedSeason_e0127fc2-2be7-51b2-b3d0-a040fb1503ef",
+    "clientContentId": "PACK0000000001697056",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "chi": " Horror",
+                    "tam": " Horror",
+                    "ind": " Horror",
+                    "tha": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Ian Somerhalder",
+            " Adrian Holmes",
+            " Jacky Lai",
+            " Kyle Breitkopf",
+            " Kimberly-Sue Murray",
+            " Peter Outerbridge",
+            " Michael Greyeyes",
+            " Sydney Ozerov-Meyer",
+            " Laura Vandervoort",
+            " Samantha Cole"
+        ],
+        "may": [
+            "Ian Somerhalder",
+            " Adrian Holmes",
+            " Jacky Lai",
+            " Kyle Breitkopf",
+            " Kimberly-Sue Murray",
+            " Peter Outerbridge",
+            " Michael Greyeyes",
+            " Sydney Ozerov-Meyer",
+            " Laura Vandervoort",
+            " Samantha Cole"
+        ],
+        "chi": [
+            "Ian Somerhalder",
+            " Adrian Holmes",
+            " Jacky Lai",
+            " Kyle Breitkopf",
+            " Kimberly-Sue Murray",
+            " Peter Outerbridge",
+            " Michael Greyeyes",
+            " Sydney Ozerov-Meyer",
+            " Laura Vandervoort",
+            " Samantha Cole"
+        ],
+        "tam": [
+            "Ian Somerhalder",
+            " Adrian Holmes",
+            " Jacky Lai",
+            " Kyle Breitkopf",
+            " Kimberly-Sue Murray",
+            " Peter Outerbridge",
+            " Michael Greyeyes",
+            " Sydney Ozerov-Meyer",
+            " Laura Vandervoort",
+            " Samantha Cole"
+        ],
+        "ind": [
+            "Ian Somerhalder",
+            " Adrian Holmes",
+            " Jacky Lai",
+            " Kyle Breitkopf",
+            " Kimberly-Sue Murray",
+            " Peter Outerbridge",
+            " Michael Greyeyes",
+            " Sydney Ozerov-Meyer",
+            " Laura Vandervoort",
+            " Samantha Cole"
+        ],
+        "tha": [
+            "Ian Somerhalder",
+            " Adrian Holmes",
+            " Jacky Lai",
+            " Kyle Breitkopf",
+            " Kimberly-Sue Murray",
+            " Peter Outerbridge",
+            " Michael Greyeyes",
+            " Sydney Ozerov-Meyer",
+            " Laura Vandervoort",
+            " Samantha Cole"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Brad Turner",
+            " T.J. Scott",
+            " Kaare Andrews",
+            " Marita Grabiak",
+            " Bobby Roth",
+            " Ian Somerhalder"
+        ],
+        "may": [
+            "Brad Turner",
+            " T.J. Scott",
+            " Kaare Andrews",
+            " Marita Grabiak",
+            " Bobby Roth",
+            " Ian Somerhalder"
+        ],
+        "chi": [
+            "Brad Turner",
+            " T.J. Scott",
+            " Kaare Andrews",
+            " Marita Grabiak",
+            " Bobby Roth",
+            " Ian Somerhalder"
+        ],
+        "tam": [
+            "Brad Turner",
+            " T.J. Scott",
+            " Kaare Andrews",
+            " Marita Grabiak",
+            " Bobby Roth",
+            " Ian Somerhalder"
+        ],
+        "ind": [
+            "Brad Turner",
+            " T.J. Scott",
+            " Kaare Andrews",
+            " Marita Grabiak",
+            " Bobby Roth",
+            " Ian Somerhalder"
+        ],
+        "tha": [
+            "Brad Turner",
+            " T.J. Scott",
+            " Kaare Andrews",
+            " Marita Grabiak",
+            " Bobby Roth",
+            " Ian Somerhalder"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ted Adams",
+            " David Anselmo",
+            " Lydia Antonini",
+            " Philip Bedard",
+            " Eric Birnberg",
+            " Glenn Davis",
+            " James Gibb",
+            " David Hackl",
+            " Paul Harb",
+            " Larry Lalonde"
+        ],
+        "may": [
+            "Ted Adams",
+            " David Anselmo",
+            " Lydia Antonini",
+            " Philip Bedard",
+            " Eric Birnberg",
+            " Glenn Davis",
+            " James Gibb",
+            " David Hackl",
+            " Paul Harb",
+            " Larry Lalonde"
+        ],
+        "chi": [
+            "Ted Adams",
+            " David Anselmo",
+            " Lydia Antonini",
+            " Philip Bedard",
+            " Eric Birnberg",
+            " Glenn Davis",
+            " James Gibb",
+            " David Hackl",
+            " Paul Harb",
+            " Larry Lalonde"
+        ],
+        "tam": [
+            "Ted Adams",
+            " David Anselmo",
+            " Lydia Antonini",
+            " Philip Bedard",
+            " Eric Birnberg",
+            " Glenn Davis",
+            " James Gibb",
+            " David Hackl",
+            " Paul Harb",
+            " Larry Lalonde"
+        ],
+        "ind": [
+            "Ted Adams",
+            " David Anselmo",
+            " Lydia Antonini",
+            " Philip Bedard",
+            " Eric Birnberg",
+            " Glenn Davis",
+            " James Gibb",
+            " David Hackl",
+            " Paul Harb",
+            " Larry Lalonde"
+        ],
+        "tha": [
+            "Ted Adams",
+            " David Anselmo",
+            " Lydia Antonini",
+            " Philip Bedard",
+            " Eric Birnberg",
+            " Glenn Davis",
+            " James Gibb",
+            " David Hackl",
+            " Paul Harb",
+            " Larry Lalonde"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_2aa9d73b-6c29-53c8-8466-a38d103b26ab",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "V Wars Season 1",
+            "may": "V Wars Season 1",
+            "chi": "V Wars Season 1",
+            "tam": "V Wars Season 1",
+            "ind": "V Wars Season 1",
+            "tha": "V Wars Season 1"
+        },
+        "long": {
+            "eng": "V Wars Season 1",
+            "may": "V Wars Season 1",
+            "chi": "V Wars Season 1",
+            "tam": "V Wars Season 1",
+            "ind": "V Wars Season 1",
+            "tha": "V Wars Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "may": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "chi": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "tam": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "ind": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "tha": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change."
+        },
+        "long": {
+            "eng": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "may": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "chi": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "tam": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "ind": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "tha": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VirginRiverSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VirginRiverSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VirginRiverSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

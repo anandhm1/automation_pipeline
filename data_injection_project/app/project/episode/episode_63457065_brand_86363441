@@ -1,0 +1,397 @@
+{
+    "externalId": "AggregatedTvShow_8447fc7b-61f4-5054-9de3-7d3cbc707883",
+    "clientContentId": "PACK0000000008165910",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Next Generation",
+            "may": "The Next Generation",
+            "tam": "The Next Generation",
+            "chi": "The Next Generation",
+            "tha": "The Next Generation",
+            "ind": "The Next Generation"
+        },
+        "long": {
+            "eng": "The Next Generation",
+            "may": "The Next Generation",
+            "tam": "The Next Generation",
+            "chi": "The Next Generation",
+            "tha": "The Next Generation",
+            "ind": "The Next Generation"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "After receiving a distress call from Beverly Crusher, Jean-Luc Picard enlists help from generations old and new for one last adventure: a mission that will change Starfleet and his old crew forever.",
+            "may": "After receiving a distress call from Beverly Crusher, Jean-Luc Picard enlists help from generations old and new for one last adventure: a mission that will change Starfleet and his old crew forever.",
+            "tam": "After receiving a distress call from Beverly Crusher, Jean-Luc Picard enlists help from generations old and new for one last adventure: a mission that will change Starfleet and his old crew forever.",
+            "chi": "After receiving a distress call from Beverly Crusher, Jean-Luc Picard enlists help from generations old and new for one last adventure: a mission that will change Starfleet and his old crew forever.",
+            "tha": "After receiving a distress call from Beverly Crusher, Jean-Luc Picard enlists help from generations old and new for one last adventure: a mission that will change Starfleet and his old crew forever.",
+            "ind": "After receiving a distress call from Beverly Crusher, Jean-Luc Picard enlists help from generations old and new for one last adventure: a mission that will change Starfleet and his old crew forever."
+        },
+        "long": {
+            "eng": "After receiving a distress call from Beverly Crusher, Jean-Luc Picard enlists help from generations old and new for one last adventure: a mission that will change Starfleet and his old crew forever.",
+            "may": "After receiving a distress call from Beverly Crusher, Jean-Luc Picard enlists help from generations old and new for one last adventure: a mission that will change Starfleet and his old crew forever.",
+            "tam": "After receiving a distress call from Beverly Crusher, Jean-Luc Picard enlists help from generations old and new for one last adventure: a mission that will change Starfleet and his old crew forever.",
+            "chi": "After receiving a distress call from Beverly Crusher, Jean-Luc Picard enlists help from generations old and new for one last adventure: a mission that will change Starfleet and his old crew forever.",
+            "tha": "After receiving a distress call from Beverly Crusher, Jean-Luc Picard enlists help from generations old and new for one last adventure: a mission that will change Starfleet and his old crew forever.",
+            "ind": "After receiving a distress call from Beverly Crusher, Jean-Luc Picard enlists help from generations old and new for one last adventure: a mission that will change Starfleet and his old crew forever."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Patrick Stewart",
+            " Michelle Hurd",
+            " Jeri Ryan",
+            " Alison Pill",
+            " Santiago Cabrera",
+            " Evan Evagora",
+            " Isa Briones",
+            " Orla Brady",
+            " Kay Bess",
+            " Brent Spiner"
+        ],
+        "may": [
+            "Patrick Stewart",
+            " Michelle Hurd",
+            " Jeri Ryan",
+            " Alison Pill",
+            " Santiago Cabrera",
+            " Evan Evagora",
+            " Isa Briones",
+            " Orla Brady",
+            " Kay Bess",
+            " Brent Spiner"
+        ],
+        "tam": [
+            "Patrick Stewart",
+            " Michelle Hurd",
+            " Jeri Ryan",
+            " Alison Pill",
+            " Santiago Cabrera",
+            " Evan Evagora",
+            " Isa Briones",
+            " Orla Brady",
+            " Kay Bess",
+            " Brent Spiner"
+        ],
+        "chi": [
+            "Patrick Stewart",
+            " Michelle Hurd",
+            " Jeri Ryan",
+            " Alison Pill",
+            " Santiago Cabrera",
+            " Evan Evagora",
+            " Isa Briones",
+            " Orla Brady",
+            " Kay Bess",
+            " Brent Spiner"
+        ],
+        "tha": [
+            "Patrick Stewart",
+            " Michelle Hurd",
+            " Jeri Ryan",
+            " Alison Pill",
+            " Santiago Cabrera",
+            " Evan Evagora",
+            " Isa Briones",
+            " Orla Brady",
+            " Kay Bess",
+            " Brent Spiner"
+        ],
+        "ind": [
+            "Patrick Stewart",
+            " Michelle Hurd",
+            " Jeri Ryan",
+            " Alison Pill",
+            " Santiago Cabrera",
+            " Evan Evagora",
+            " Isa Briones",
+            " Orla Brady",
+            " Kay Bess",
+            " Brent Spiner"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jonathan Frakes",
+            " Douglas Aarniokoski",
+            " Hanelle M. Culpepper",
+            " Akiva Goldsman",
+            " Maja Vrvilo",
+            " Joe Menendez",
+            " Lea Thompson",
+            " Michael Weaver",
+            " Deborah Kampmeier",
+            " Dan Liu"
+        ],
+        "may": [
+            "Jonathan Frakes",
+            " Douglas Aarniokoski",
+            " Hanelle M. Culpepper",
+            " Akiva Goldsman",
+            " Maja Vrvilo",
+            " Joe Menendez",
+            " Lea Thompson",
+            " Michael Weaver",
+            " Deborah Kampmeier",
+            " Dan Liu"
+        ],
+        "tam": [
+            "Jonathan Frakes",
+            " Douglas Aarniokoski",
+            " Hanelle M. Culpepper",
+            " Akiva Goldsman",
+            " Maja Vrvilo",
+            " Joe Menendez",
+            " Lea Thompson",
+            " Michael Weaver",
+            " Deborah Kampmeier",
+            " Dan Liu"
+        ],
+        "chi": [
+            "Jonathan Frakes",
+            " Douglas Aarniokoski",
+            " Hanelle M. Culpepper",
+            " Akiva Goldsman",
+            " Maja Vrvilo",
+            " Joe Menendez",
+            " Lea Thompson",
+            " Michael Weaver",
+            " Deborah Kampmeier",
+            " Dan Liu"
+        ],
+        "tha": [
+            "Jonathan Frakes",
+            " Douglas Aarniokoski",
+            " Hanelle M. Culpepper",
+            " Akiva Goldsman",
+            " Maja Vrvilo",
+            " Joe Menendez",
+            " Lea Thompson",
+            " Michael Weaver",
+            " Deborah Kampmeier",
+            " Dan Liu"
+        ],
+        "ind": [
+            "Jonathan Frakes",
+            " Douglas Aarniokoski",
+            " Hanelle M. Culpepper",
+            " Akiva Goldsman",
+            " Maja Vrvilo",
+            " Joe Menendez",
+            " Lea Thompson",
+            " Michael Weaver",
+            " Deborah Kampmeier",
+            " Dan Liu"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Akiva Goldsman",
+            " Alex Kurtzman",
+            " Patrick Stewart",
+            " Douglas Aarniokoski",
+            " Aaron Baiers",
+            " Heather Kadin",
+            " Dylan K. Massin",
+            " Rod Roddenberry",
+            " Trevor Roth",
+            " Jason Michael Zimmerman"
+        ],
+        "may": [
+            "Akiva Goldsman",
+            " Alex Kurtzman",
+            " Patrick Stewart",
+            " Douglas Aarniokoski",
+            " Aaron Baiers",
+            " Heather Kadin",
+            " Dylan K. Massin",
+            " Rod Roddenberry",
+            " Trevor Roth",
+            " Jason Michael Zimmerman"
+        ],
+        "tam": [
+            "Akiva Goldsman",
+            " Alex Kurtzman",
+            " Patrick Stewart",
+            " Douglas Aarniokoski",
+            " Aaron Baiers",
+            " Heather Kadin",
+            " Dylan K. Massin",
+            " Rod Roddenberry",
+            " Trevor Roth",
+            " Jason Michael Zimmerman"
+        ],
+        "chi": [
+            "Akiva Goldsman",
+            " Alex Kurtzman",
+            " Patrick Stewart",
+            " Douglas Aarniokoski",
+            " Aaron Baiers",
+            " Heather Kadin",
+            " Dylan K. Massin",
+            " Rod Roddenberry",
+            " Trevor Roth",
+            " Jason Michael Zimmerman"
+        ],
+        "tha": [
+            "Akiva Goldsman",
+            " Alex Kurtzman",
+            " Patrick Stewart",
+            " Douglas Aarniokoski",
+            " Aaron Baiers",
+            " Heather Kadin",
+            " Dylan K. Massin",
+            " Rod Roddenberry",
+            " Trevor Roth",
+            " Jason Michael Zimmerman"
+        ],
+        "ind": [
+            "Akiva Goldsman",
+            " Alex Kurtzman",
+            " Patrick Stewart",
+            " Douglas Aarniokoski",
+            " Aaron Baiers",
+            " Heather Kadin",
+            " Dylan K. Massin",
+            " Rod Roddenberry",
+            " Trevor Roth",
+            " Jason Michael Zimmerman"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StarTrekPicardS03E01_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StarTrekPicardS03E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StarTrekPicardS03E01_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_cdc0fb7d-8f78-57de-8458-5599bb0924b0",
+    "seasonId": "AggregatedSeason_452fbcda-3bd8-5fd9-81b0-20087dae1957",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2020,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

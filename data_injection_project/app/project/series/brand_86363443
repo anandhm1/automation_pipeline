@@ -1,0 +1,319 @@
+{
+    "externalId": "AggregatedSeries_23758d98-7d17-5f11-81fe-d6f66e0ba683",
+    "clientContentId": "PACK0000000006850672",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Starstruck",
+            "may": "Starstruck",
+            "tam": "Starstruck",
+            "chi": "Starstruck",
+            "tha": "Starstruck",
+            "ind": "Starstruck"
+        },
+        "long": {
+            "eng": "Starstruck",
+            "may": "Starstruck",
+            "tam": "Starstruck",
+            "chi": "Starstruck",
+            "tha": "Starstruck",
+            "ind": "Starstruck"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "may": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "tam": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "chi": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "tha": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "ind": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star."
+        },
+        "long": {
+            "eng": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "may": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "tam": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "chi": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "tha": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "ind": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Rose Matafeo",
+            " Nikesh Patel",
+            " Emma Sidi",
+            " Al Roberts",
+            " Joe Barnes",
+            " Nic Sampson",
+            " Lola-Rose Maxwell",
+            " Ambreen Razia",
+            " Minnie Driver",
+            " Sindhu Vee"
+        ],
+        "may": [
+            "Rose Matafeo",
+            " Nikesh Patel",
+            " Emma Sidi",
+            " Al Roberts",
+            " Joe Barnes",
+            " Nic Sampson",
+            " Lola-Rose Maxwell",
+            " Ambreen Razia",
+            " Minnie Driver",
+            " Sindhu Vee"
+        ],
+        "tam": [
+            "Rose Matafeo",
+            " Nikesh Patel",
+            " Emma Sidi",
+            " Al Roberts",
+            " Joe Barnes",
+            " Nic Sampson",
+            " Lola-Rose Maxwell",
+            " Ambreen Razia",
+            " Minnie Driver",
+            " Sindhu Vee"
+        ],
+        "chi": [
+            "Rose Matafeo",
+            " Nikesh Patel",
+            " Emma Sidi",
+            " Al Roberts",
+            " Joe Barnes",
+            " Nic Sampson",
+            " Lola-Rose Maxwell",
+            " Ambreen Razia",
+            " Minnie Driver",
+            " Sindhu Vee"
+        ],
+        "tha": [
+            "Rose Matafeo",
+            " Nikesh Patel",
+            " Emma Sidi",
+            " Al Roberts",
+            " Joe Barnes",
+            " Nic Sampson",
+            " Lola-Rose Maxwell",
+            " Ambreen Razia",
+            " Minnie Driver",
+            " Sindhu Vee"
+        ],
+        "ind": [
+            "Rose Matafeo",
+            " Nikesh Patel",
+            " Emma Sidi",
+            " Al Roberts",
+            " Joe Barnes",
+            " Nic Sampson",
+            " Lola-Rose Maxwell",
+            " Ambreen Razia",
+            " Minnie Driver",
+            " Sindhu Vee"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Karen Maine",
+            " Jamie Jay Johnson"
+        ],
+        "may": [
+            "Karen Maine",
+            " Jamie Jay Johnson"
+        ],
+        "tam": [
+            "Karen Maine",
+            " Jamie Jay Johnson"
+        ],
+        "chi": [
+            "Karen Maine",
+            " Jamie Jay Johnson"
+        ],
+        "tha": [
+            "Karen Maine",
+            " Jamie Jay Johnson"
+        ],
+        "ind": [
+            "Karen Maine",
+            " Jamie Jay Johnson"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Toby Welch",
+            " Richard Allen-Turner",
+            " Rob Aslett",
+            " Rose Matafeo",
+            " Jon Thoday",
+            " Wendy Wright",
+            " Claire McCarthy",
+            " Bridget Goodman",
+            " Gregor Sharp",
+            " Alice Snedden"
+        ],
+        "may": [
+            "Toby Welch",
+            " Richard Allen-Turner",
+            " Rob Aslett",
+            " Rose Matafeo",
+            " Jon Thoday",
+            " Wendy Wright",
+            " Claire McCarthy",
+            " Bridget Goodman",
+            " Gregor Sharp",
+            " Alice Snedden"
+        ],
+        "tam": [
+            "Toby Welch",
+            " Richard Allen-Turner",
+            " Rob Aslett",
+            " Rose Matafeo",
+            " Jon Thoday",
+            " Wendy Wright",
+            " Claire McCarthy",
+            " Bridget Goodman",
+            " Gregor Sharp",
+            " Alice Snedden"
+        ],
+        "chi": [
+            "Toby Welch",
+            " Richard Allen-Turner",
+            " Rob Aslett",
+            " Rose Matafeo",
+            " Jon Thoday",
+            " Wendy Wright",
+            " Claire McCarthy",
+            " Bridget Goodman",
+            " Gregor Sharp",
+            " Alice Snedden"
+        ],
+        "tha": [
+            "Toby Welch",
+            " Richard Allen-Turner",
+            " Rob Aslett",
+            " Rose Matafeo",
+            " Jon Thoday",
+            " Wendy Wright",
+            " Claire McCarthy",
+            " Bridget Goodman",
+            " Gregor Sharp",
+            " Alice Snedden"
+        ],
+        "ind": [
+            "Toby Welch",
+            " Richard Allen-Turner",
+            " Rob Aslett",
+            " Rose Matafeo",
+            " Jon Thoday",
+            " Wendy Wright",
+            " Claire McCarthy",
+            " Bridget Goodman",
+            " Gregor Sharp",
+            " Alice Snedden"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StarstruckSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StarstruckSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StarstruckSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "9",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2021,
+    "maxConcurrentStreams": 0
+}

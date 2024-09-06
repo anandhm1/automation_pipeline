@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedSeries_847e3c06-9eeb-5741-90a2-d3322632c042",
+    "clientContentId": "PACK0000000008582879",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Company You Keep",
+            "may": "The Company You Keep",
+            "tam": "The Company You Keep",
+            "chi": "The Company You Keep",
+            "tha": "The Company You Keep",
+            "ind": "The Company You Keep"
+        },
+        "long": {
+            "eng": "The Company You Keep",
+            "may": "The Company You Keep",
+            "tam": "The Company You Keep",
+            "chi": "The Company You Keep",
+            "tha": "The Company You Keep",
+            "ind": "The Company You Keep"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "It tells the story of con-man Charlie and undercover CIA officer Emma. A night of passion ignites love between the pair, who are on a collision course professionally.",
+            "may": "It tells the story of con-man Charlie and undercover CIA officer Emma. A night of passion ignites love between the pair, who are on a collision course professionally.",
+            "tam": "It tells the story of con-man Charlie and undercover CIA officer Emma. A night of passion ignites love between the pair, who are on a collision course professionally.",
+            "chi": "It tells the story of con-man Charlie and undercover CIA officer Emma. A night of passion ignites love between the pair, who are on a collision course professionally.",
+            "tha": "It tells the story of con-man Charlie and undercover CIA officer Emma. A night of passion ignites love between the pair, who are on a collision course professionally.",
+            "ind": "It tells the story of con-man Charlie and undercover CIA officer Emma. A night of passion ignites love between the pair, who are on a collision course professionally."
+        },
+        "long": {
+            "eng": "It tells the story of con-man Charlie and undercover CIA officer Emma. A night of passion ignites love between the pair, who are on a collision course professionally.",
+            "may": "It tells the story of con-man Charlie and undercover CIA officer Emma. A night of passion ignites love between the pair, who are on a collision course professionally.",
+            "tam": "It tells the story of con-man Charlie and undercover CIA officer Emma. A night of passion ignites love between the pair, who are on a collision course professionally.",
+            "chi": "It tells the story of con-man Charlie and undercover CIA officer Emma. A night of passion ignites love between the pair, who are on a collision course professionally.",
+            "tha": "It tells the story of con-man Charlie and undercover CIA officer Emma. A night of passion ignites love between the pair, who are on a collision course professionally.",
+            "ind": "It tells the story of con-man Charlie and undercover CIA officer Emma. A night of passion ignites love between the pair, who are on a collision course professionally."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Milo Ventimiglia",
+            " Catherine Haena Kim",
+            " Sarah Wayne Callies",
+            " Polly Draper",
+            " Tim Chiou",
+            " James Saito",
+            " Freda Foh Shen",
+            " Felisha Terrell",
+            " William Fichtner",
+            " Efka Kvaraciejus"
+        ],
+        "may": [
+            "Milo Ventimiglia",
+            " Catherine Haena Kim",
+            " Sarah Wayne Callies",
+            " Polly Draper",
+            " Tim Chiou",
+            " James Saito",
+            " Freda Foh Shen",
+            " Felisha Terrell",
+            " William Fichtner",
+            " Efka Kvaraciejus"
+        ],
+        "tam": [
+            "Milo Ventimiglia",
+            " Catherine Haena Kim",
+            " Sarah Wayne Callies",
+            " Polly Draper",
+            " Tim Chiou",
+            " James Saito",
+            " Freda Foh Shen",
+            " Felisha Terrell",
+            " William Fichtner",
+            " Efka Kvaraciejus"
+        ],
+        "chi": [
+            "Milo Ventimiglia",
+            " Catherine Haena Kim",
+            " Sarah Wayne Callies",
+            " Polly Draper",
+            " Tim Chiou",
+            " James Saito",
+            " Freda Foh Shen",
+            " Felisha Terrell",
+            " William Fichtner",
+            " Efka Kvaraciejus"
+        ],
+        "tha": [
+            "Milo Ventimiglia",
+            " Catherine Haena Kim",
+            " Sarah Wayne Callies",
+            " Polly Draper",
+            " Tim Chiou",
+            " James Saito",
+            " Freda Foh Shen",
+            " Felisha Terrell",
+            " William Fichtner",
+            " Efka Kvaraciejus"
+        ],
+        "ind": [
+            "Milo Ventimiglia",
+            " Catherine Haena Kim",
+            " Sarah Wayne Callies",
+            " Polly Draper",
+            " Tim Chiou",
+            " James Saito",
+            " Freda Foh Shen",
+            " Felisha Terrell",
+            " William Fichtner",
+            " Efka Kvaraciejus"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Chi Yoon Chung",
+            " Jon Huertas",
+            " Anna Mastro",
+            " Kevin Mock",
+            " David Straiton",
+            " Ben Younger"
+        ],
+        "may": [
+            "Chi Yoon Chung",
+            " Jon Huertas",
+            " Anna Mastro",
+            " Kevin Mock",
+            " David Straiton",
+            " Ben Younger"
+        ],
+        "tam": [
+            "Chi Yoon Chung",
+            " Jon Huertas",
+            " Anna Mastro",
+            " Kevin Mock",
+            " David Straiton",
+            " Ben Younger"
+        ],
+        "chi": [
+            "Chi Yoon Chung",
+            " Jon Huertas",
+            " Anna Mastro",
+            " Kevin Mock",
+            " David Straiton",
+            " Ben Younger"
+        ],
+        "tha": [
+            "Chi Yoon Chung",
+            " Jon Huertas",
+            " Anna Mastro",
+            " Kevin Mock",
+            " David Straiton",
+            " Ben Younger"
+        ],
+        "ind": [
+            "Chi Yoon Chung",
+            " Jon Huertas",
+            " Anna Mastro",
+            " Kevin Mock",
+            " David Straiton",
+            " Ben Younger"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Julia Cohen",
+            " Phil Klemmer",
+            " Jon M. Chu",
+            " Russ Cundiff",
+            " Caitlin Foito",
+            " Lindsay Goffman",
+            " Mike Gray",
+            " Deanna Harris",
+            " Todd Harthan",
+            " Han-Sang Jo"
+        ],
+        "may": [
+            "Julia Cohen",
+            " Phil Klemmer",
+            " Jon M. Chu",
+            " Russ Cundiff",
+            " Caitlin Foito",
+            " Lindsay Goffman",
+            " Mike Gray",
+            " Deanna Harris",
+            " Todd Harthan",
+            " Han-Sang Jo"
+        ],
+        "tam": [
+            "Julia Cohen",
+            " Phil Klemmer",
+            " Jon M. Chu",
+            " Russ Cundiff",
+            " Caitlin Foito",
+            " Lindsay Goffman",
+            " Mike Gray",
+            " Deanna Harris",
+            " Todd Harthan",
+            " Han-Sang Jo"
+        ],
+        "chi": [
+            "Julia Cohen",
+            " Phil Klemmer",
+            " Jon M. Chu",
+            " Russ Cundiff",
+            " Caitlin Foito",
+            " Lindsay Goffman",
+            " Mike Gray",
+            " Deanna Harris",
+            " Todd Harthan",
+            " Han-Sang Jo"
+        ],
+        "tha": [
+            "Julia Cohen",
+            " Phil Klemmer",
+            " Jon M. Chu",
+            " Russ Cundiff",
+            " Caitlin Foito",
+            " Lindsay Goffman",
+            " Mike Gray",
+            " Deanna Harris",
+            " Todd Harthan",
+            " Han-Sang Jo"
+        ],
+        "ind": [
+            "Julia Cohen",
+            " Phil Klemmer",
+            " Jon M. Chu",
+            " Russ Cundiff",
+            " Caitlin Foito",
+            " Lindsay Goffman",
+            " Mike Gray",
+            " Deanna Harris",
+            " Todd Harthan",
+            " Han-Sang Jo"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheCompanyYouKeepS01E01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheCompanyYouKeepS01E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheCompanyYouKeepS01E01_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "7",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2023,
+    "maxConcurrentStreams": 0
+}

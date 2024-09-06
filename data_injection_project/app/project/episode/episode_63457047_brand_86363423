@@ -1,0 +1,325 @@
+{
+    "externalId": "AggregatedTvShow_76a6d2ab-8bb4-5223-a4d3-852a0257604e",
+    "clientContentId": "PACK0000000001922247",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "National Treasure Edge Of History - Trailer",
+            "may": "National Treasure Edge Of History - Trailer",
+            "tam": "National Treasure Edge Of History - Trailer",
+            "chi": "National Treasure Edge Of History - Trailer",
+            "tha": "National Treasure Edge Of History - Trailer",
+            "ind": "National Treasure Edge Of History - Trailer"
+        },
+        "long": {
+            "eng": "National Treasure Edge Of History - Trailer",
+            "may": "National Treasure Edge Of History - Trailer",
+            "tam": "National Treasure Edge Of History - Trailer",
+            "chi": "National Treasure Edge Of History - Trailer",
+            "tha": "National Treasure Edge Of History - Trailer",
+            "ind": "National Treasure Edge Of History - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Jess Valenzuela, a 20-year-old Dreamer, sets off on an exploration to discover the mystery of her family history, and, with the help of her friends, seeks to recover historical lost treasure.",
+            "may": "Jess Valenzuela, a 20-year-old Dreamer, sets off on an exploration to discover the mystery of her family history, and, with the help of her friends, seeks to recover historical lost treasure.",
+            "tam": "Jess Valenzuela, a 20-year-old Dreamer, sets off on an exploration to discover the mystery of her family history, and, with the help of her friends, seeks to recover historical lost treasure.",
+            "chi": "Jess Valenzuela, a 20-year-old Dreamer, sets off on an exploration to discover the mystery of her family history, and, with the help of her friends, seeks to recover historical lost treasure.",
+            "tha": "Jess Valenzuela, a 20-year-old Dreamer, sets off on an exploration to discover the mystery of her family history, and, with the help of her friends, seeks to recover historical lost treasure.",
+            "ind": "Jess Valenzuela, a 20-year-old Dreamer, sets off on an exploration to discover the mystery of her family history, and, with the help of her friends, seeks to recover historical lost treasure."
+        },
+        "long": {
+            "eng": "Jess Valenzuela, a 20-year-old Dreamer, sets off on an exploration to discover the mystery of her family history, and, with the help of her friends, seeks to recover historical lost treasure.",
+            "may": "Jess Valenzuela, a 20-year-old Dreamer, sets off on an exploration to discover the mystery of her family history, and, with the help of her friends, seeks to recover historical lost treasure.",
+            "tam": "Jess Valenzuela, a 20-year-old Dreamer, sets off on an exploration to discover the mystery of her family history, and, with the help of her friends, seeks to recover historical lost treasure.",
+            "chi": "Jess Valenzuela, a 20-year-old Dreamer, sets off on an exploration to discover the mystery of her family history, and, with the help of her friends, seeks to recover historical lost treasure.",
+            "tha": "Jess Valenzuela, a 20-year-old Dreamer, sets off on an exploration to discover the mystery of her family history, and, with the help of her friends, seeks to recover historical lost treasure.",
+            "ind": "Jess Valenzuela, a 20-year-old Dreamer, sets off on an exploration to discover the mystery of her family history, and, with the help of her friends, seeks to recover historical lost treasure."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Lisette Olivera",
+            " Zuri Reed",
+            " Antonio Cipriano",
+            " Jordan Rodrigues",
+            " Jake Austin Walker",
+            " Catherine Zeta-JonesBreeda WoolLyndon SmithArmando RiescoDarri Ingolfsson"
+        ],
+        "may": [
+            "Lisette Olivera",
+            " Zuri Reed",
+            " Antonio Cipriano",
+            " Jordan Rodrigues",
+            " Jake Austin Walker",
+            " Catherine Zeta-JonesBreeda WoolLyndon SmithArmando RiescoDarri Ingolfsson"
+        ],
+        "tam": [
+            "Lisette Olivera",
+            " Zuri Reed",
+            " Antonio Cipriano",
+            " Jordan Rodrigues",
+            " Jake Austin Walker",
+            " Catherine Zeta-JonesBreeda WoolLyndon SmithArmando RiescoDarri Ingolfsson"
+        ],
+        "chi": [
+            "Lisette Olivera",
+            " Zuri Reed",
+            " Antonio Cipriano",
+            " Jordan Rodrigues",
+            " Jake Austin Walker",
+            " Catherine Zeta-JonesBreeda WoolLyndon SmithArmando RiescoDarri Ingolfsson"
+        ],
+        "tha": [
+            "Lisette Olivera",
+            " Zuri Reed",
+            " Antonio Cipriano",
+            " Jordan Rodrigues",
+            " Jake Austin Walker",
+            " Catherine Zeta-JonesBreeda WoolLyndon SmithArmando RiescoDarri Ingolfsson"
+        ],
+        "ind": [
+            "Lisette Olivera",
+            " Zuri Reed",
+            " Antonio Cipriano",
+            " Jordan Rodrigues",
+            " Jake Austin Walker",
+            " Catherine Zeta-JonesBreeda WoolLyndon SmithArmando RiescoDarri Ingolfsson"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Nathan Hope",
+            " Sherwin Shilati",
+            " Mira Nair",
+            " Antonio Negret",
+            " Monica Raymund",
+            " Kevin AlejandroLaura BelseyBrad Tanenbaum"
+        ],
+        "may": [
+            "Nathan Hope",
+            " Sherwin Shilati",
+            " Mira Nair",
+            " Antonio Negret",
+            " Monica Raymund",
+            " Kevin AlejandroLaura BelseyBrad Tanenbaum"
+        ],
+        "tam": [
+            "Nathan Hope",
+            " Sherwin Shilati",
+            " Mira Nair",
+            " Antonio Negret",
+            " Monica Raymund",
+            " Kevin AlejandroLaura BelseyBrad Tanenbaum"
+        ],
+        "chi": [
+            "Nathan Hope",
+            " Sherwin Shilati",
+            " Mira Nair",
+            " Antonio Negret",
+            " Monica Raymund",
+            " Kevin AlejandroLaura BelseyBrad Tanenbaum"
+        ],
+        "tha": [
+            "Nathan Hope",
+            " Sherwin Shilati",
+            " Mira Nair",
+            " Antonio Negret",
+            " Monica Raymund",
+            " Kevin AlejandroLaura BelseyBrad Tanenbaum"
+        ],
+        "ind": [
+            "Nathan Hope",
+            " Sherwin Shilati",
+            " Mira Nair",
+            " Antonio Negret",
+            " Monica Raymund",
+            " Kevin AlejandroLaura BelseyBrad Tanenbaum"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Joan Cunningham",
+            " Nathan Hope",
+            " Cormac Wibberley",
+            " Marianne Wibberley",
+            " Gabriel Llanas",
+            " John-Paul NickelDwain WorrellJeremy BeimJerry BruckheimerJonathan Littman"
+        ],
+        "may": [
+            "Joan Cunningham",
+            " Nathan Hope",
+            " Cormac Wibberley",
+            " Marianne Wibberley",
+            " Gabriel Llanas",
+            " John-Paul NickelDwain WorrellJeremy BeimJerry BruckheimerJonathan Littman"
+        ],
+        "tam": [
+            "Joan Cunningham",
+            " Nathan Hope",
+            " Cormac Wibberley",
+            " Marianne Wibberley",
+            " Gabriel Llanas",
+            " John-Paul NickelDwain WorrellJeremy BeimJerry BruckheimerJonathan Littman"
+        ],
+        "chi": [
+            "Joan Cunningham",
+            " Nathan Hope",
+            " Cormac Wibberley",
+            " Marianne Wibberley",
+            " Gabriel Llanas",
+            " John-Paul NickelDwain WorrellJeremy BeimJerry BruckheimerJonathan Littman"
+        ],
+        "tha": [
+            "Joan Cunningham",
+            " Nathan Hope",
+            " Cormac Wibberley",
+            " Marianne Wibberley",
+            " Gabriel Llanas",
+            " John-Paul NickelDwain WorrellJeremy BeimJerry BruckheimerJonathan Littman"
+        ],
+        "ind": [
+            "Joan Cunningham",
+            " Nathan Hope",
+            " Cormac Wibberley",
+            " Marianne Wibberley",
+            " Gabriel Llanas",
+            " John-Paul NickelDwain WorrellJeremy BeimJerry BruckheimerJonathan Littman"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/NationalTreasureEdgeOfHistorySeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/NationalTreasureEdgeOfHistorySeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/NationalTreasureEdgeOfHistorySeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_9ce0f3e7-1ceb-5bce-a938-b6e1c7e68865",
+    "seasonId": "AggregatedSeason_86481b87-191e-5c67-a5e5-c72e0d2db693",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "TV-14",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

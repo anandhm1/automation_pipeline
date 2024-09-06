@@ -1,0 +1,347 @@
+{
+    "externalId": "AggregatedSeason_c496ac83-53e4-5e85-a6ad-cbe11a69fa55",
+    "clientContentId": "PACK0000000002136772",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Animation",
+                    "may": "Animation",
+                    "chi": "Animation",
+                    "tam": "Animation",
+                    "ind": "Animation",
+                    "tha": "Animation"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Action",
+                    "may": " Action",
+                    "chi": " Action",
+                    "tam": " Action",
+                    "ind": " Action",
+                    "tha": " Action"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2018,
+    "rating": "TV-Y7",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Paula Burrows",
+            " Jack De Sena",
+            " Sasha Rojen",
+            " Jason Simpson",
+            " Racquel Belmonte",
+            " Jesse Inocalla",
+            " Erik Dellums",
+            " Adrian Petriw",
+            " Luc Roderique",
+            " Omari Newton"
+        ],
+        "may": [
+            "Paula Burrows",
+            " Jack De Sena",
+            " Sasha Rojen",
+            " Jason Simpson",
+            " Racquel Belmonte",
+            " Jesse Inocalla",
+            " Erik Dellums",
+            " Adrian Petriw",
+            " Luc Roderique",
+            " Omari Newton"
+        ],
+        "chi": [
+            "Paula Burrows",
+            " Jack De Sena",
+            " Sasha Rojen",
+            " Jason Simpson",
+            " Racquel Belmonte",
+            " Jesse Inocalla",
+            " Erik Dellums",
+            " Adrian Petriw",
+            " Luc Roderique",
+            " Omari Newton"
+        ],
+        "tam": [
+            "Paula Burrows",
+            " Jack De Sena",
+            " Sasha Rojen",
+            " Jason Simpson",
+            " Racquel Belmonte",
+            " Jesse Inocalla",
+            " Erik Dellums",
+            " Adrian Petriw",
+            " Luc Roderique",
+            " Omari Newton"
+        ],
+        "ind": [
+            "Paula Burrows",
+            " Jack De Sena",
+            " Sasha Rojen",
+            " Jason Simpson",
+            " Racquel Belmonte",
+            " Jesse Inocalla",
+            " Erik Dellums",
+            " Adrian Petriw",
+            " Luc Roderique",
+            " Omari Newton"
+        ],
+        "tha": [
+            "Paula Burrows",
+            " Jack De Sena",
+            " Sasha Rojen",
+            " Jason Simpson",
+            " Racquel Belmonte",
+            " Jesse Inocalla",
+            " Erik Dellums",
+            " Adrian Petriw",
+            " Luc Roderique",
+            " Omari Newton"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Villads Spangsberg",
+            " George Samilski",
+            " Lih Liau",
+            " Giancarlo Volpe",
+            " Meruan Salim"
+        ],
+        "may": [
+            "Villads Spangsberg",
+            " George Samilski",
+            " Lih Liau",
+            " Giancarlo Volpe",
+            " Meruan Salim"
+        ],
+        "chi": [
+            "Villads Spangsberg",
+            " George Samilski",
+            " Lih Liau",
+            " Giancarlo Volpe",
+            " Meruan Salim"
+        ],
+        "tam": [
+            "Villads Spangsberg",
+            " George Samilski",
+            " Lih Liau",
+            " Giancarlo Volpe",
+            " Meruan Salim"
+        ],
+        "ind": [
+            "Villads Spangsberg",
+            " George Samilski",
+            " Lih Liau",
+            " Giancarlo Volpe",
+            " Meruan Salim"
+        ],
+        "tha": [
+            "Villads Spangsberg",
+            " George Samilski",
+            " Lih Liau",
+            " Giancarlo Volpe",
+            " Meruan Salim"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Josh Eckland",
+            " Aaron Ehasz",
+            " Devon Giehl",
+            " Richard Grieve",
+            " Iain Hendry",
+            " Neil Mukhopadhyay",
+            " Justin Richmond",
+            " Justin Santistevan",
+            " Delna Bhesania",
+            " Lauren Topal"
+        ],
+        "may": [
+            "Josh Eckland",
+            " Aaron Ehasz",
+            " Devon Giehl",
+            " Richard Grieve",
+            " Iain Hendry",
+            " Neil Mukhopadhyay",
+            " Justin Richmond",
+            " Justin Santistevan",
+            " Delna Bhesania",
+            " Lauren Topal"
+        ],
+        "chi": [
+            "Josh Eckland",
+            " Aaron Ehasz",
+            " Devon Giehl",
+            " Richard Grieve",
+            " Iain Hendry",
+            " Neil Mukhopadhyay",
+            " Justin Richmond",
+            " Justin Santistevan",
+            " Delna Bhesania",
+            " Lauren Topal"
+        ],
+        "tam": [
+            "Josh Eckland",
+            " Aaron Ehasz",
+            " Devon Giehl",
+            " Richard Grieve",
+            " Iain Hendry",
+            " Neil Mukhopadhyay",
+            " Justin Richmond",
+            " Justin Santistevan",
+            " Delna Bhesania",
+            " Lauren Topal"
+        ],
+        "ind": [
+            "Josh Eckland",
+            " Aaron Ehasz",
+            " Devon Giehl",
+            " Richard Grieve",
+            " Iain Hendry",
+            " Neil Mukhopadhyay",
+            " Justin Richmond",
+            " Justin Santistevan",
+            " Delna Bhesania",
+            " Lauren Topal"
+        ],
+        "tha": [
+            "Josh Eckland",
+            " Aaron Ehasz",
+            " Devon Giehl",
+            " Richard Grieve",
+            " Iain Hendry",
+            " Neil Mukhopadhyay",
+            " Justin Richmond",
+            " Justin Santistevan",
+            " Delna Bhesania",
+            " Lauren Topal"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_8a28bff2-0398-5e6e-9cdb-6970829016c8",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Dragon Prince Season 1",
+            "may": "The Dragon Prince Season 1",
+            "chi": "The Dragon Prince Season 1",
+            "tam": "The Dragon Prince Season 1",
+            "ind": "The Dragon Prince Season 1",
+            "tha": "The Dragon Prince Season 1"
+        },
+        "long": {
+            "eng": "The Dragon Prince Season 1",
+            "may": "The Dragon Prince Season 1",
+            "chi": "The Dragon Prince Season 1",
+            "tam": "The Dragon Prince Season 1",
+            "ind": "The Dragon Prince Season 1",
+            "tha": "The Dragon Prince Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "may": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "chi": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "tam": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "ind": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "tha": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands."
+        },
+        "long": {
+            "eng": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "may": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "chi": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "tam": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "ind": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "tha": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheDragonPrinceSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheDragonPrinceSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheDragonPrinceSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

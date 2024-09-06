@@ -1,0 +1,337 @@
+{
+    "externalId": "AggregatedSeries_f84c7545-2dd2-5762-9733-8ca89a8bfe25",
+    "clientContentId": "PACK0000000009530658",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Andor",
+            "may": "Andor",
+            "tam": "Andor",
+            "chi": "Andor",
+            "tha": "Andor",
+            "ind": "Andor"
+        },
+        "long": {
+            "eng": "Andor",
+            "may": "Andor",
+            "tam": "Andor",
+            "chi": "Andor",
+            "tha": "Andor",
+            "ind": "Andor"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Prequel series to Star Wars' 'Rogue One'. In an era filled with danger, deception and intrigue, Cassian will embark on the path that is destined to turn him into a Rebel hero.",
+            "may": "Prequel series to Star Wars' 'Rogue One'. In an era filled with danger, deception and intrigue, Cassian will embark on the path that is destined to turn him into a Rebel hero.",
+            "tam": "Prequel series to Star Wars' 'Rogue One'. In an era filled with danger, deception and intrigue, Cassian will embark on the path that is destined to turn him into a Rebel hero.",
+            "chi": "Prequel series to Star Wars' 'Rogue One'. In an era filled with danger, deception and intrigue, Cassian will embark on the path that is destined to turn him into a Rebel hero.",
+            "tha": "Prequel series to Star Wars' 'Rogue One'. In an era filled with danger, deception and intrigue, Cassian will embark on the path that is destined to turn him into a Rebel hero.",
+            "ind": "Prequel series to Star Wars' 'Rogue One'. In an era filled with danger, deception and intrigue, Cassian will embark on the path that is destined to turn him into a Rebel hero."
+        },
+        "long": {
+            "eng": "Prequel series to Star Wars' 'Rogue One'. In an era filled with danger, deception and intrigue, Cassian will embark on the path that is destined to turn him into a Rebel hero.",
+            "may": "Prequel series to Star Wars' 'Rogue One'. In an era filled with danger, deception and intrigue, Cassian will embark on the path that is destined to turn him into a Rebel hero.",
+            "tam": "Prequel series to Star Wars' 'Rogue One'. In an era filled with danger, deception and intrigue, Cassian will embark on the path that is destined to turn him into a Rebel hero.",
+            "chi": "Prequel series to Star Wars' 'Rogue One'. In an era filled with danger, deception and intrigue, Cassian will embark on the path that is destined to turn him into a Rebel hero.",
+            "tha": "Prequel series to Star Wars' 'Rogue One'. In an era filled with danger, deception and intrigue, Cassian will embark on the path that is destined to turn him into a Rebel hero.",
+            "ind": "Prequel series to Star Wars' 'Rogue One'. In an era filled with danger, deception and intrigue, Cassian will embark on the path that is destined to turn him into a Rebel hero."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Diego Luna",
+            " Kyle Soller",
+            " Stellan Skarsg\u00e5rd",
+            " Genevieve O'Reilly",
+            " Denise Gough",
+            " Adria Arjona",
+            " Jacob James Beswick",
+            " Varada Sethu",
+            " Faye Marsay",
+            " Anton Lesser",
+            " Michael Jenn"
+        ],
+        "may": [
+            "Diego Luna",
+            " Kyle Soller",
+            " Stellan Skarsg\u00e5rd",
+            " Genevieve O'Reilly",
+            " Denise Gough",
+            " Adria Arjona",
+            " Jacob James Beswick",
+            " Varada Sethu",
+            " Faye Marsay",
+            " Anton Lesser",
+            " Michael Jenn"
+        ],
+        "tam": [
+            "Diego Luna",
+            " Kyle Soller",
+            " Stellan Skarsg\u00e5rd",
+            " Genevieve O'Reilly",
+            " Denise Gough",
+            " Adria Arjona",
+            " Jacob James Beswick",
+            " Varada Sethu",
+            " Faye Marsay",
+            " Anton Lesser",
+            " Michael Jenn"
+        ],
+        "chi": [
+            "Diego Luna",
+            " Kyle Soller",
+            " Stellan Skarsg\u00e5rd",
+            " Genevieve O'Reilly",
+            " Denise Gough",
+            " Adria Arjona",
+            " Jacob James Beswick",
+            " Varada Sethu",
+            " Faye Marsay",
+            " Anton Lesser",
+            " Michael Jenn"
+        ],
+        "tha": [
+            "Diego Luna",
+            " Kyle Soller",
+            " Stellan Skarsg\u00e5rd",
+            " Genevieve O'Reilly",
+            " Denise Gough",
+            " Adria Arjona",
+            " Jacob James Beswick",
+            " Varada Sethu",
+            " Faye Marsay",
+            " Anton Lesser",
+            " Michael Jenn"
+        ],
+        "ind": [
+            "Diego Luna",
+            " Kyle Soller",
+            " Stellan Skarsg\u00e5rd",
+            " Genevieve O'Reilly",
+            " Denise Gough",
+            " Adria Arjona",
+            " Jacob James Beswick",
+            " Varada Sethu",
+            " Faye Marsay",
+            " Anton Lesser",
+            " Michael Jenn"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Toby Haynes",
+            " Benjamin Caron",
+            " Susanna White"
+        ],
+        "may": [
+            "Toby Haynes",
+            " Benjamin Caron",
+            " Susanna White"
+        ],
+        "tam": [
+            "Toby Haynes",
+            " Benjamin Caron",
+            " Susanna White"
+        ],
+        "chi": [
+            "Toby Haynes",
+            " Benjamin Caron",
+            " Susanna White"
+        ],
+        "tha": [
+            "Toby Haynes",
+            " Benjamin Caron",
+            " Susanna White"
+        ],
+        "ind": [
+            "Toby Haynes",
+            " Benjamin Caron",
+            " Susanna White"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "John Gilroy",
+            " Tony Gilroy",
+            " John Hampian",
+            " Kate Hazell",
+            " Kathleen Kennedy",
+            " David Meanti",
+            " Stephen Schiff",
+            " Sanne Wohlenberg",
+            " Toby Haynes",
+            " Michael A. Garcia",
+            " Diego Luna"
+        ],
+        "may": [
+            "John Gilroy",
+            " Tony Gilroy",
+            " John Hampian",
+            " Kate Hazell",
+            " Kathleen Kennedy",
+            " David Meanti",
+            " Stephen Schiff",
+            " Sanne Wohlenberg",
+            " Toby Haynes",
+            " Michael A. Garcia",
+            " Diego Luna"
+        ],
+        "tam": [
+            "John Gilroy",
+            " Tony Gilroy",
+            " John Hampian",
+            " Kate Hazell",
+            " Kathleen Kennedy",
+            " David Meanti",
+            " Stephen Schiff",
+            " Sanne Wohlenberg",
+            " Toby Haynes",
+            " Michael A. Garcia",
+            " Diego Luna"
+        ],
+        "chi": [
+            "John Gilroy",
+            " Tony Gilroy",
+            " John Hampian",
+            " Kate Hazell",
+            " Kathleen Kennedy",
+            " David Meanti",
+            " Stephen Schiff",
+            " Sanne Wohlenberg",
+            " Toby Haynes",
+            " Michael A. Garcia",
+            " Diego Luna"
+        ],
+        "tha": [
+            "John Gilroy",
+            " Tony Gilroy",
+            " John Hampian",
+            " Kate Hazell",
+            " Kathleen Kennedy",
+            " David Meanti",
+            " Stephen Schiff",
+            " Sanne Wohlenberg",
+            " Toby Haynes",
+            " Michael A. Garcia",
+            " Diego Luna"
+        ],
+        "ind": [
+            "John Gilroy",
+            " Tony Gilroy",
+            " John Hampian",
+            " Kate Hazell",
+            " Kathleen Kennedy",
+            " David Meanti",
+            " Stephen Schiff",
+            " Sanne Wohlenberg",
+            " Toby Haynes",
+            " Michael A. Garcia",
+            " Diego Luna"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/AndorSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/AndorSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/AndorSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "9",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2022,
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,367 @@
+{
+    "externalId": "AggregatedSeries_a98128ff-836a-5b2b-ba52-caff256a5466",
+    "clientContentId": "PACK0000000001609857",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Into The Badlands",
+            "may": "Into The Badlands",
+            "tam": "Into The Badlands",
+            "chi": "Into The Badlands",
+            "tha": "Into The Badlands",
+            "ind": "Into The Badlands"
+        },
+        "long": {
+            "eng": "Into The Badlands",
+            "may": "Into The Badlands",
+            "tam": "Into The Badlands",
+            "chi": "Into The Badlands",
+            "tha": "Into The Badlands",
+            "ind": "Into The Badlands"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "may": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "tam": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "chi": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "tha": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "ind": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons."
+        },
+        "long": {
+            "eng": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "may": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "tam": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "chi": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "tha": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "ind": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Daniel Wu",
+            " Orla Brady",
+            " Emily Beecham",
+            " Aramis Knight",
+            " Ally Ioannides",
+            " Nick Frost",
+            " Sherman Augustus",
+            " Sarah Bolger",
+            " Oliver Stark",
+            " Madeleine Mantock"
+        ],
+        "may": [
+            "Daniel Wu",
+            " Orla Brady",
+            " Emily Beecham",
+            " Aramis Knight",
+            " Ally Ioannides",
+            " Nick Frost",
+            " Sherman Augustus",
+            " Sarah Bolger",
+            " Oliver Stark",
+            " Madeleine Mantock"
+        ],
+        "tam": [
+            "Daniel Wu",
+            " Orla Brady",
+            " Emily Beecham",
+            " Aramis Knight",
+            " Ally Ioannides",
+            " Nick Frost",
+            " Sherman Augustus",
+            " Sarah Bolger",
+            " Oliver Stark",
+            " Madeleine Mantock"
+        ],
+        "chi": [
+            "Daniel Wu",
+            " Orla Brady",
+            " Emily Beecham",
+            " Aramis Knight",
+            " Ally Ioannides",
+            " Nick Frost",
+            " Sherman Augustus",
+            " Sarah Bolger",
+            " Oliver Stark",
+            " Madeleine Mantock"
+        ],
+        "tha": [
+            "Daniel Wu",
+            " Orla Brady",
+            " Emily Beecham",
+            " Aramis Knight",
+            " Ally Ioannides",
+            " Nick Frost",
+            " Sherman Augustus",
+            " Sarah Bolger",
+            " Oliver Stark",
+            " Madeleine Mantock"
+        ],
+        "ind": [
+            "Daniel Wu",
+            " Orla Brady",
+            " Emily Beecham",
+            " Aramis Knight",
+            " Ally Ioannides",
+            " Nick Frost",
+            " Sherman Augustus",
+            " Sarah Bolger",
+            " Oliver Stark",
+            " Madeleine Mantock"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Paco Cabezas",
+            " Toa Fraser",
+            " David Dobkin",
+            " Guy Ferland",
+            " Nick Copus",
+            " Stephen Fung",
+            " James Marshall",
+            " Tricia Brock",
+            " Miles Millar",
+            " Wayne Yip"
+        ],
+        "may": [
+            "Paco Cabezas",
+            " Toa Fraser",
+            " David Dobkin",
+            " Guy Ferland",
+            " Nick Copus",
+            " Stephen Fung",
+            " James Marshall",
+            " Tricia Brock",
+            " Miles Millar",
+            " Wayne Yip"
+        ],
+        "tam": [
+            "Paco Cabezas",
+            " Toa Fraser",
+            " David Dobkin",
+            " Guy Ferland",
+            " Nick Copus",
+            " Stephen Fung",
+            " James Marshall",
+            " Tricia Brock",
+            " Miles Millar",
+            " Wayne Yip"
+        ],
+        "chi": [
+            "Paco Cabezas",
+            " Toa Fraser",
+            " David Dobkin",
+            " Guy Ferland",
+            " Nick Copus",
+            " Stephen Fung",
+            " James Marshall",
+            " Tricia Brock",
+            " Miles Millar",
+            " Wayne Yip"
+        ],
+        "tha": [
+            "Paco Cabezas",
+            " Toa Fraser",
+            " David Dobkin",
+            " Guy Ferland",
+            " Nick Copus",
+            " Stephen Fung",
+            " James Marshall",
+            " Tricia Brock",
+            " Miles Millar",
+            " Wayne Yip"
+        ],
+        "ind": [
+            "Paco Cabezas",
+            " Toa Fraser",
+            " David Dobkin",
+            " Guy Ferland",
+            " Nick Copus",
+            " Stephen Fung",
+            " James Marshall",
+            " Tricia Brock",
+            " Miles Millar",
+            " Wayne Yip"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Kimberly Boyd",
+            " David Dobkin",
+            " Stephen Fung",
+            " Alfred Gough",
+            " Huen Chiu Ku",
+            " Miles Millar",
+            " Michael Shamberg",
+            " Stacey Sher",
+            " Daniel Wu",
+            " Mikey Eberle"
+        ],
+        "may": [
+            "Kimberly Boyd",
+            " David Dobkin",
+            " Stephen Fung",
+            " Alfred Gough",
+            " Huen Chiu Ku",
+            " Miles Millar",
+            " Michael Shamberg",
+            " Stacey Sher",
+            " Daniel Wu",
+            " Mikey Eberle"
+        ],
+        "tam": [
+            "Kimberly Boyd",
+            " David Dobkin",
+            " Stephen Fung",
+            " Alfred Gough",
+            " Huen Chiu Ku",
+            " Miles Millar",
+            " Michael Shamberg",
+            " Stacey Sher",
+            " Daniel Wu",
+            " Mikey Eberle"
+        ],
+        "chi": [
+            "Kimberly Boyd",
+            " David Dobkin",
+            " Stephen Fung",
+            " Alfred Gough",
+            " Huen Chiu Ku",
+            " Miles Millar",
+            " Michael Shamberg",
+            " Stacey Sher",
+            " Daniel Wu",
+            " Mikey Eberle"
+        ],
+        "tha": [
+            "Kimberly Boyd",
+            " David Dobkin",
+            " Stephen Fung",
+            " Alfred Gough",
+            " Huen Chiu Ku",
+            " Miles Millar",
+            " Michael Shamberg",
+            " Stacey Sher",
+            " Daniel Wu",
+            " Mikey Eberle"
+        ],
+        "ind": [
+            "Kimberly Boyd",
+            " David Dobkin",
+            " Stephen Fung",
+            " Alfred Gough",
+            " Huen Chiu Ku",
+            " Miles Millar",
+            " Michael Shamberg",
+            " Stacey Sher",
+            " Daniel Wu",
+            " Mikey Eberle"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/INTOTHEBADLANDSSeason3_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/INTOTHEBADLANDSSeason3_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/INTOTHEBADLANDSSeason3_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "8",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2015,
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_a88fb533-f8ca-59f5-9e78-15d408d37c3c",
+    "clientContentId": "PACK0000000003266549",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "GHOST RIDER [2007]",
+            "may": "GHOST RIDER [2007]",
+            "tam": "GHOST RIDER [2007]",
+            "chi": "GHOST RIDER [2007]",
+            "tha": "GHOST RIDER [2007]",
+            "ind": "GHOST RIDER [2007]"
+        },
+        "long": {
+            "eng": "GHOST RIDER [2007]",
+            "may": "GHOST RIDER [2007]",
+            "tam": "GHOST RIDER [2007]",
+            "chi": "GHOST RIDER [2007]",
+            "tha": "GHOST RIDER [2007]",
+            "ind": "GHOST RIDER [2007]"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "When motorcycle rider Johnny Blaze sells his soul to the Devil to save his father's life, he is transformed into the Ghost Rider, the Devil's own bounty hunter, and is sent to hunt down sinners.",
+            "may": "When motorcycle rider Johnny Blaze sells his soul to the Devil to save his father's life, he is transformed into the Ghost Rider, the Devil's own bounty hunter, and is sent to hunt down sinners.",
+            "tam": "When motorcycle rider Johnny Blaze sells his soul to the Devil to save his father's life, he is transformed into the Ghost Rider, the Devil's own bounty hunter, and is sent to hunt down sinners.",
+            "chi": "When motorcycle rider Johnny Blaze sells his soul to the Devil to save his father's life, he is transformed into the Ghost Rider, the Devil's own bounty hunter, and is sent to hunt down sinners.",
+            "tha": "When motorcycle rider Johnny Blaze sells his soul to the Devil to save his father's life, he is transformed into the Ghost Rider, the Devil's own bounty hunter, and is sent to hunt down sinners.",
+            "ind": "When motorcycle rider Johnny Blaze sells his soul to the Devil to save his father's life, he is transformed into the Ghost Rider, the Devil's own bounty hunter, and is sent to hunt down sinners."
+        },
+        "long": {
+            "eng": "When motorcycle rider Johnny Blaze sells his soul to the Devil to save his father's life, he is transformed into the Ghost Rider, the Devil's own bounty hunter, and is sent to hunt down sinners.",
+            "may": "When motorcycle rider Johnny Blaze sells his soul to the Devil to save his father's life, he is transformed into the Ghost Rider, the Devil's own bounty hunter, and is sent to hunt down sinners.",
+            "tam": "When motorcycle rider Johnny Blaze sells his soul to the Devil to save his father's life, he is transformed into the Ghost Rider, the Devil's own bounty hunter, and is sent to hunt down sinners.",
+            "chi": "When motorcycle rider Johnny Blaze sells his soul to the Devil to save his father's life, he is transformed into the Ghost Rider, the Devil's own bounty hunter, and is sent to hunt down sinners.",
+            "tha": "When motorcycle rider Johnny Blaze sells his soul to the Devil to save his father's life, he is transformed into the Ghost Rider, the Devil's own bounty hunter, and is sent to hunt down sinners.",
+            "ind": "When motorcycle rider Johnny Blaze sells his soul to the Devil to save his father's life, he is transformed into the Ghost Rider, the Devil's own bounty hunter, and is sent to hunt down sinners."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Nicolas Cage",
+            " Eva Mendes",
+            " Sam Elliott",
+            " Matt Long",
+            " Raquel Alessi",
+            " Brett Cullen",
+            " Peter Fonda",
+            " Donal Logue",
+            " Tony Ghosthawk",
+            " Hugh Sexton"
+        ],
+        "may": [
+            "Nicolas Cage",
+            " Eva Mendes",
+            " Sam Elliott",
+            " Matt Long",
+            " Raquel Alessi",
+            " Brett Cullen",
+            " Peter Fonda",
+            " Donal Logue",
+            " Tony Ghosthawk",
+            " Hugh Sexton"
+        ],
+        "tam": [
+            "Nicolas Cage",
+            " Eva Mendes",
+            " Sam Elliott",
+            " Matt Long",
+            " Raquel Alessi",
+            " Brett Cullen",
+            " Peter Fonda",
+            " Donal Logue",
+            " Tony Ghosthawk",
+            " Hugh Sexton"
+        ],
+        "chi": [
+            "Nicolas Cage",
+            " Eva Mendes",
+            " Sam Elliott",
+            " Matt Long",
+            " Raquel Alessi",
+            " Brett Cullen",
+            " Peter Fonda",
+            " Donal Logue",
+            " Tony Ghosthawk",
+            " Hugh Sexton"
+        ],
+        "tha": [
+            "Nicolas Cage",
+            " Eva Mendes",
+            " Sam Elliott",
+            " Matt Long",
+            " Raquel Alessi",
+            " Brett Cullen",
+            " Peter Fonda",
+            " Donal Logue",
+            " Tony Ghosthawk",
+            " Hugh Sexton"
+        ],
+        "ind": [
+            "Nicolas Cage",
+            " Eva Mendes",
+            " Sam Elliott",
+            " Matt Long",
+            " Raquel Alessi",
+            " Brett Cullen",
+            " Peter Fonda",
+            " Donal Logue",
+            " Tony Ghosthawk",
+            " Hugh Sexton"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Mark Steven Johnson"
+        ],
+        "may": [
+            "Mark Steven Johnson"
+        ],
+        "tam": [
+            "Mark Steven Johnson"
+        ],
+        "chi": [
+            "Mark Steven Johnson"
+        ],
+        "tha": [
+            "Mark Steven Johnson"
+        ],
+        "ind": [
+            "Mark Steven Johnson"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ari Arad",
+            " Avi Arad",
+            " Michael De Luca",
+            " Gary Foster",
+            " Norman Golightly",
+            " David S. Goyer",
+            " Stan Lee",
+            " Steven Paul",
+            " Anna Phelps",
+            " Lynwood Spinks"
+        ],
+        "may": [
+            "Ari Arad",
+            " Avi Arad",
+            " Michael De Luca",
+            " Gary Foster",
+            " Norman Golightly",
+            " David S. Goyer",
+            " Stan Lee",
+            " Steven Paul",
+            " Anna Phelps",
+            " Lynwood Spinks"
+        ],
+        "tam": [
+            "Ari Arad",
+            " Avi Arad",
+            " Michael De Luca",
+            " Gary Foster",
+            " Norman Golightly",
+            " David S. Goyer",
+            " Stan Lee",
+            " Steven Paul",
+            " Anna Phelps",
+            " Lynwood Spinks"
+        ],
+        "chi": [
+            "Ari Arad",
+            " Avi Arad",
+            " Michael De Luca",
+            " Gary Foster",
+            " Norman Golightly",
+            " David S. Goyer",
+            " Stan Lee",
+            " Steven Paul",
+            " Anna Phelps",
+            " Lynwood Spinks"
+        ],
+        "tha": [
+            "Ari Arad",
+            " Avi Arad",
+            " Michael De Luca",
+            " Gary Foster",
+            " Norman Golightly",
+            " David S. Goyer",
+            " Stan Lee",
+            " Steven Paul",
+            " Anna Phelps",
+            " Lynwood Spinks"
+        ],
+        "ind": [
+            "Ari Arad",
+            " Avi Arad",
+            " Michael De Luca",
+            " Gary Foster",
+            " Norman Golightly",
+            " David S. Goyer",
+            " Stan Lee",
+            " Steven Paul",
+            " Anna Phelps",
+            " Lynwood Spinks"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "tam": " Horror",
+                    "chi": " Horror",
+                    "tha": " Horror",
+                    "ind": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/GHOSTRIDER_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/GHOSTRIDER_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/GHOSTRIDER_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2007,
+    "rating": "5.3",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

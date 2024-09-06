@@ -1,0 +1,325 @@
+{
+    "externalId": "AggregatedTvShow_f49ef878-1757-518d-9fa8-e9f477d49eb4",
+    "clientContentId": "PACK0000000007361257",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Acheron: Part I",
+            "may": "Acheron: Part I",
+            "tam": "Acheron: Part I",
+            "chi": "Acheron: Part I",
+            "tha": "Acheron: Part I",
+            "ind": "Acheron: Part I"
+        },
+        "long": {
+            "eng": "Acheron: Part I",
+            "may": "Acheron: Part I",
+            "tam": "Acheron: Part I",
+            "chi": "Acheron: Part I",
+            "tha": "Acheron: Part I",
+            "ind": "Acheron: Part I"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "may": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "tam": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "chi": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "tha": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "ind": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police."
+        },
+        "long": {
+            "eng": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "may": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "tam": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "chi": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "tha": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "ind": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Norman Reedus",
+            " Melissa McBride",
+            " Lauren Cohan",
+            " Christian Serratos",
+            " Josh McDermitt",
+            " Danai GuriraSeth GilliamAndrew LincolnRoss MarquandChandler Riggs"
+        ],
+        "may": [
+            "Norman Reedus",
+            " Melissa McBride",
+            " Lauren Cohan",
+            " Christian Serratos",
+            " Josh McDermitt",
+            " Danai GuriraSeth GilliamAndrew LincolnRoss MarquandChandler Riggs"
+        ],
+        "tam": [
+            "Norman Reedus",
+            " Melissa McBride",
+            " Lauren Cohan",
+            " Christian Serratos",
+            " Josh McDermitt",
+            " Danai GuriraSeth GilliamAndrew LincolnRoss MarquandChandler Riggs"
+        ],
+        "chi": [
+            "Norman Reedus",
+            " Melissa McBride",
+            " Lauren Cohan",
+            " Christian Serratos",
+            " Josh McDermitt",
+            " Danai GuriraSeth GilliamAndrew LincolnRoss MarquandChandler Riggs"
+        ],
+        "tha": [
+            "Norman Reedus",
+            " Melissa McBride",
+            " Lauren Cohan",
+            " Christian Serratos",
+            " Josh McDermitt",
+            " Danai GuriraSeth GilliamAndrew LincolnRoss MarquandChandler Riggs"
+        ],
+        "ind": [
+            "Norman Reedus",
+            " Melissa McBride",
+            " Lauren Cohan",
+            " Christian Serratos",
+            " Josh McDermitt",
+            " Danai GuriraSeth GilliamAndrew LincolnRoss MarquandChandler Riggs"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Greg Nicotero",
+            " Michael E. Satrazemis",
+            " David Boyd",
+            " Ernest R. Dickerson",
+            " Guy Ferland",
+            " Billy GierhartLaura BelseyJeffrey F. JanuaryMichael CudlitzSharat Raju"
+        ],
+        "may": [
+            "Greg Nicotero",
+            " Michael E. Satrazemis",
+            " David Boyd",
+            " Ernest R. Dickerson",
+            " Guy Ferland",
+            " Billy GierhartLaura BelseyJeffrey F. JanuaryMichael CudlitzSharat Raju"
+        ],
+        "tam": [
+            "Greg Nicotero",
+            " Michael E. Satrazemis",
+            " David Boyd",
+            " Ernest R. Dickerson",
+            " Guy Ferland",
+            " Billy GierhartLaura BelseyJeffrey F. JanuaryMichael CudlitzSharat Raju"
+        ],
+        "chi": [
+            "Greg Nicotero",
+            " Michael E. Satrazemis",
+            " David Boyd",
+            " Ernest R. Dickerson",
+            " Guy Ferland",
+            " Billy GierhartLaura BelseyJeffrey F. JanuaryMichael CudlitzSharat Raju"
+        ],
+        "tha": [
+            "Greg Nicotero",
+            " Michael E. Satrazemis",
+            " David Boyd",
+            " Ernest R. Dickerson",
+            " Guy Ferland",
+            " Billy GierhartLaura BelseyJeffrey F. JanuaryMichael CudlitzSharat Raju"
+        ],
+        "ind": [
+            "Greg Nicotero",
+            " Michael E. Satrazemis",
+            " David Boyd",
+            " Ernest R. Dickerson",
+            " Guy Ferland",
+            " Billy GierhartLaura BelseyJeffrey F. JanuaryMichael CudlitzSharat Raju"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "David Alpert",
+            " Gale Anne Hurd",
+            " Denise M. Huth",
+            " Robert Kirkman",
+            " Greg Nicotero",
+            " Scott M. GimpleAngela KangCaleb WombleTom LuseCorey Reed"
+        ],
+        "may": [
+            "David Alpert",
+            " Gale Anne Hurd",
+            " Denise M. Huth",
+            " Robert Kirkman",
+            " Greg Nicotero",
+            " Scott M. GimpleAngela KangCaleb WombleTom LuseCorey Reed"
+        ],
+        "tam": [
+            "David Alpert",
+            " Gale Anne Hurd",
+            " Denise M. Huth",
+            " Robert Kirkman",
+            " Greg Nicotero",
+            " Scott M. GimpleAngela KangCaleb WombleTom LuseCorey Reed"
+        ],
+        "chi": [
+            "David Alpert",
+            " Gale Anne Hurd",
+            " Denise M. Huth",
+            " Robert Kirkman",
+            " Greg Nicotero",
+            " Scott M. GimpleAngela KangCaleb WombleTom LuseCorey Reed"
+        ],
+        "tha": [
+            "David Alpert",
+            " Gale Anne Hurd",
+            " Denise M. Huth",
+            " Robert Kirkman",
+            " Greg Nicotero",
+            " Scott M. GimpleAngela KangCaleb WombleTom LuseCorey Reed"
+        ],
+        "ind": [
+            "David Alpert",
+            " Gale Anne Hurd",
+            " Denise M. Huth",
+            " Robert Kirkman",
+            " Greg Nicotero",
+            " Scott M. GimpleAngela KangCaleb WombleTom LuseCorey Reed"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "tam": " Horror",
+                    "chi": " Horror",
+                    "tha": " Horror",
+                    "ind": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheWalkingDeadS11E01_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheWalkingDeadS11E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheWalkingDeadS11E01_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_bbb33e91-f3ac-5f16-bb34-74ed3db8c093",
+    "seasonId": "AggregatedSeason_1598ae08-6de6-5f1d-ae80-06e4c8f4b503",
+    "boxsetIds": [],
+    "episodeNumber": "2.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2010,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

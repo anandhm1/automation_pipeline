@@ -1,0 +1,367 @@
+{
+    "externalId": "AggregatedSeries_57609cef-104b-57d5-a4da-c8efe6a1d42f",
+    "clientContentId": "PACK0000000008997873",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Vikings",
+            "may": "Vikings",
+            "tam": "Vikings",
+            "chi": "Vikings",
+            "tha": "Vikings",
+            "ind": "Vikings"
+        },
+        "long": {
+            "eng": "Vikings",
+            "may": "Vikings",
+            "tam": "Vikings",
+            "chi": "Vikings",
+            "tha": "Vikings",
+            "ind": "Vikings"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "may": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "tam": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "chi": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "tha": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "ind": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean."
+        },
+        "long": {
+            "eng": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "may": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "tam": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "chi": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "tha": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+            "ind": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Katheryn Winnick",
+            " Gustaf Skarsg\u00e5rd",
+            " Alexander Ludwig",
+            " Georgia Hirst",
+            " Alex H\u00f8gh Andersen",
+            " Jordan Patrick Smith",
+            " Marco Ils\u00f8",
+            " Peter Franz\u00e9n",
+            " Travis Fimmel",
+            " Clive Standen"
+        ],
+        "may": [
+            "Katheryn Winnick",
+            " Gustaf Skarsg\u00e5rd",
+            " Alexander Ludwig",
+            " Georgia Hirst",
+            " Alex H\u00f8gh Andersen",
+            " Jordan Patrick Smith",
+            " Marco Ils\u00f8",
+            " Peter Franz\u00e9n",
+            " Travis Fimmel",
+            " Clive Standen"
+        ],
+        "tam": [
+            "Katheryn Winnick",
+            " Gustaf Skarsg\u00e5rd",
+            " Alexander Ludwig",
+            " Georgia Hirst",
+            " Alex H\u00f8gh Andersen",
+            " Jordan Patrick Smith",
+            " Marco Ils\u00f8",
+            " Peter Franz\u00e9n",
+            " Travis Fimmel",
+            " Clive Standen"
+        ],
+        "chi": [
+            "Katheryn Winnick",
+            " Gustaf Skarsg\u00e5rd",
+            " Alexander Ludwig",
+            " Georgia Hirst",
+            " Alex H\u00f8gh Andersen",
+            " Jordan Patrick Smith",
+            " Marco Ils\u00f8",
+            " Peter Franz\u00e9n",
+            " Travis Fimmel",
+            " Clive Standen"
+        ],
+        "tha": [
+            "Katheryn Winnick",
+            " Gustaf Skarsg\u00e5rd",
+            " Alexander Ludwig",
+            " Georgia Hirst",
+            " Alex H\u00f8gh Andersen",
+            " Jordan Patrick Smith",
+            " Marco Ils\u00f8",
+            " Peter Franz\u00e9n",
+            " Travis Fimmel",
+            " Clive Standen"
+        ],
+        "ind": [
+            "Katheryn Winnick",
+            " Gustaf Skarsg\u00e5rd",
+            " Alexander Ludwig",
+            " Georgia Hirst",
+            " Alex H\u00f8gh Andersen",
+            " Jordan Patrick Smith",
+            " Marco Ils\u00f8",
+            " Peter Franz\u00e9n",
+            " Travis Fimmel",
+            " Clive Standen"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Ciaran Donnelly",
+            " Ken Girotti",
+            " Steve Saint Leger",
+            " Jeff Woolnough",
+            " Helen Shaver",
+            " Daniel Grou",
+            " David Frazee",
+            " Joshua Zimmerman",
+            " David Wellington",
+            " Johan Renck"
+        ],
+        "may": [
+            "Ciaran Donnelly",
+            " Ken Girotti",
+            " Steve Saint Leger",
+            " Jeff Woolnough",
+            " Helen Shaver",
+            " Daniel Grou",
+            " David Frazee",
+            " Joshua Zimmerman",
+            " David Wellington",
+            " Johan Renck"
+        ],
+        "tam": [
+            "Ciaran Donnelly",
+            " Ken Girotti",
+            " Steve Saint Leger",
+            " Jeff Woolnough",
+            " Helen Shaver",
+            " Daniel Grou",
+            " David Frazee",
+            " Joshua Zimmerman",
+            " David Wellington",
+            " Johan Renck"
+        ],
+        "chi": [
+            "Ciaran Donnelly",
+            " Ken Girotti",
+            " Steve Saint Leger",
+            " Jeff Woolnough",
+            " Helen Shaver",
+            " Daniel Grou",
+            " David Frazee",
+            " Joshua Zimmerman",
+            " David Wellington",
+            " Johan Renck"
+        ],
+        "tha": [
+            "Ciaran Donnelly",
+            " Ken Girotti",
+            " Steve Saint Leger",
+            " Jeff Woolnough",
+            " Helen Shaver",
+            " Daniel Grou",
+            " David Frazee",
+            " Joshua Zimmerman",
+            " David Wellington",
+            " Johan Renck"
+        ],
+        "ind": [
+            "Ciaran Donnelly",
+            " Ken Girotti",
+            " Steve Saint Leger",
+            " Jeff Woolnough",
+            " Helen Shaver",
+            " Daniel Grou",
+            " David Frazee",
+            " Joshua Zimmerman",
+            " David Wellington",
+            " Johan Renck"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Michael Hirst",
+            " Sheila Hockin",
+            " James Flynn",
+            " Bill Goddard",
+            " Sherry Marsh",
+            " Seamus McInerney",
+            " Morgan O'Sullivan",
+            " John Weber",
+            " Alan Gasmer",
+            " Justin Pollard"
+        ],
+        "may": [
+            "Michael Hirst",
+            " Sheila Hockin",
+            " James Flynn",
+            " Bill Goddard",
+            " Sherry Marsh",
+            " Seamus McInerney",
+            " Morgan O'Sullivan",
+            " John Weber",
+            " Alan Gasmer",
+            " Justin Pollard"
+        ],
+        "tam": [
+            "Michael Hirst",
+            " Sheila Hockin",
+            " James Flynn",
+            " Bill Goddard",
+            " Sherry Marsh",
+            " Seamus McInerney",
+            " Morgan O'Sullivan",
+            " John Weber",
+            " Alan Gasmer",
+            " Justin Pollard"
+        ],
+        "chi": [
+            "Michael Hirst",
+            " Sheila Hockin",
+            " James Flynn",
+            " Bill Goddard",
+            " Sherry Marsh",
+            " Seamus McInerney",
+            " Morgan O'Sullivan",
+            " John Weber",
+            " Alan Gasmer",
+            " Justin Pollard"
+        ],
+        "tha": [
+            "Michael Hirst",
+            " Sheila Hockin",
+            " James Flynn",
+            " Bill Goddard",
+            " Sherry Marsh",
+            " Seamus McInerney",
+            " Morgan O'Sullivan",
+            " John Weber",
+            " Alan Gasmer",
+            " Justin Pollard"
+        ],
+        "ind": [
+            "Michael Hirst",
+            " Sheila Hockin",
+            " James Flynn",
+            " Bill Goddard",
+            " Sherry Marsh",
+            " Seamus McInerney",
+            " Morgan O'Sullivan",
+            " John Weber",
+            " Alan Gasmer",
+            " Justin Pollard"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VikingsSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VikingsSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VikingsSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "9",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2013,
+    "maxConcurrentStreams": 0
+}

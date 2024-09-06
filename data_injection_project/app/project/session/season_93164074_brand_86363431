@@ -1,0 +1,377 @@
+{
+    "externalId": "AggregatedSeason_6532ed4a-ae01-55ca-bea2-28e5b302a573",
+    "clientContentId": "PACK0000000009599028",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "chi": "Crime",
+                    "tam": "Crime",
+                    "ind": "Crime",
+                    "tha": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Joseph Sikora",
+            " Shane Harper",
+            " Isaac Keys",
+            " Kris D. Lofton",
+            " Lucien Cambric",
+            " Anthony Fleming III",
+            " Gabrielle Ryan",
+            " Lili Simmons",
+            " Tommy Flanagan",
+            " Guy Van Swearingen"
+        ],
+        "may": [
+            "Joseph Sikora",
+            " Shane Harper",
+            " Isaac Keys",
+            " Kris D. Lofton",
+            " Lucien Cambric",
+            " Anthony Fleming III",
+            " Gabrielle Ryan",
+            " Lili Simmons",
+            " Tommy Flanagan",
+            " Guy Van Swearingen"
+        ],
+        "chi": [
+            "Joseph Sikora",
+            " Shane Harper",
+            " Isaac Keys",
+            " Kris D. Lofton",
+            " Lucien Cambric",
+            " Anthony Fleming III",
+            " Gabrielle Ryan",
+            " Lili Simmons",
+            " Tommy Flanagan",
+            " Guy Van Swearingen"
+        ],
+        "tam": [
+            "Joseph Sikora",
+            " Shane Harper",
+            " Isaac Keys",
+            " Kris D. Lofton",
+            " Lucien Cambric",
+            " Anthony Fleming III",
+            " Gabrielle Ryan",
+            " Lili Simmons",
+            " Tommy Flanagan",
+            " Guy Van Swearingen"
+        ],
+        "ind": [
+            "Joseph Sikora",
+            " Shane Harper",
+            " Isaac Keys",
+            " Kris D. Lofton",
+            " Lucien Cambric",
+            " Anthony Fleming III",
+            " Gabrielle Ryan",
+            " Lili Simmons",
+            " Tommy Flanagan",
+            " Guy Van Swearingen"
+        ],
+        "tha": [
+            "Joseph Sikora",
+            " Shane Harper",
+            " Isaac Keys",
+            " Kris D. Lofton",
+            " Lucien Cambric",
+            " Anthony Fleming III",
+            " Gabrielle Ryan",
+            " Lili Simmons",
+            " Tommy Flanagan",
+            " Guy Van Swearingen"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Kieron Hawkes",
+            " Rob Hardy",
+            " Larysa Kondracki",
+            " Eif Rivera",
+            " Carl Seaton",
+            " Shana Stein",
+            " Deon Taylor",
+            " Bart Wenrich",
+            " Lisa Demaine",
+            " "
+        ],
+        "may": [
+            "Kieron Hawkes",
+            " Rob Hardy",
+            " Larysa Kondracki",
+            " Eif Rivera",
+            " Carl Seaton",
+            " Shana Stein",
+            " Deon Taylor",
+            " Bart Wenrich",
+            " Lisa Demaine",
+            " "
+        ],
+        "chi": [
+            "Kieron Hawkes",
+            " Rob Hardy",
+            " Larysa Kondracki",
+            " Eif Rivera",
+            " Carl Seaton",
+            " Shana Stein",
+            " Deon Taylor",
+            " Bart Wenrich",
+            " Lisa Demaine",
+            " "
+        ],
+        "tam": [
+            "Kieron Hawkes",
+            " Rob Hardy",
+            " Larysa Kondracki",
+            " Eif Rivera",
+            " Carl Seaton",
+            " Shana Stein",
+            " Deon Taylor",
+            " Bart Wenrich",
+            " Lisa Demaine",
+            " "
+        ],
+        "ind": [
+            "Kieron Hawkes",
+            " Rob Hardy",
+            " Larysa Kondracki",
+            " Eif Rivera",
+            " Carl Seaton",
+            " Shana Stein",
+            " Deon Taylor",
+            " Bart Wenrich",
+            " Lisa Demaine",
+            " "
+        ],
+        "tha": [
+            "Kieron Hawkes",
+            " Rob Hardy",
+            " Larysa Kondracki",
+            " Eif Rivera",
+            " Carl Seaton",
+            " Shana Stein",
+            " Deon Taylor",
+            " Bart Wenrich",
+            " Lisa Demaine",
+            " "
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Richard S. Lederer",
+            " Aaron Carew",
+            " Michael Cobian",
+            " Frank L. Fleming",
+            " Tara McSherry",
+            " Robert Munic",
+            " Elle Triedman",
+            " Bart Wenrich",
+            " Brian Badie",
+            " James R. McAllister"
+        ],
+        "may": [
+            "Richard S. Lederer",
+            " Aaron Carew",
+            " Michael Cobian",
+            " Frank L. Fleming",
+            " Tara McSherry",
+            " Robert Munic",
+            " Elle Triedman",
+            " Bart Wenrich",
+            " Brian Badie",
+            " James R. McAllister"
+        ],
+        "chi": [
+            "Richard S. Lederer",
+            " Aaron Carew",
+            " Michael Cobian",
+            " Frank L. Fleming",
+            " Tara McSherry",
+            " Robert Munic",
+            " Elle Triedman",
+            " Bart Wenrich",
+            " Brian Badie",
+            " James R. McAllister"
+        ],
+        "tam": [
+            "Richard S. Lederer",
+            " Aaron Carew",
+            " Michael Cobian",
+            " Frank L. Fleming",
+            " Tara McSherry",
+            " Robert Munic",
+            " Elle Triedman",
+            " Bart Wenrich",
+            " Brian Badie",
+            " James R. McAllister"
+        ],
+        "ind": [
+            "Richard S. Lederer",
+            " Aaron Carew",
+            " Michael Cobian",
+            " Frank L. Fleming",
+            " Tara McSherry",
+            " Robert Munic",
+            " Elle Triedman",
+            " Bart Wenrich",
+            " Brian Badie",
+            " James R. McAllister"
+        ],
+        "tha": [
+            "Richard S. Lederer",
+            " Aaron Carew",
+            " Michael Cobian",
+            " Frank L. Fleming",
+            " Tara McSherry",
+            " Robert Munic",
+            " Elle Triedman",
+            " Bart Wenrich",
+            " Brian Badie",
+            " James R. McAllister"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_959e5540-dd5b-55a8-8893-e66ab76100d7",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Power Book IV Force Season 1",
+            "may": "Power Book IV Force Season 1",
+            "chi": "Power Book IV Force Season 1",
+            "tam": "Power Book IV Force Season 1",
+            "ind": "Power Book IV Force Season 1",
+            "tha": "Power Book IV Force Season 1"
+        },
+        "long": {
+            "eng": "Power Book IV Force Season 1",
+            "may": "Power Book IV Force Season 1",
+            "chi": "Power Book IV Force Season 1",
+            "tam": "Power Book IV Force Season 1",
+            "ind": "Power Book IV Force Season 1",
+            "tha": "Power Book IV Force Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "may": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "chi": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "tam": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "ind": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "tha": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good."
+        },
+        "long": {
+            "eng": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "may": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "chi": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "tam": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "ind": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good.",
+            "tha": "Follows Tommy Egan after he cuts ties and puts New York in his rear-view mirror for good."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PowerBookIVForceSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PowerBookIVForceSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PowerBookIVForceSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

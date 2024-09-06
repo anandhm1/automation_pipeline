@@ -1,0 +1,367 @@
+{
+    "externalId": "AggregatedSeries_f45ff027-9d11-5fbf-b425-cabd99dd9259",
+    "clientContentId": "PACK0000000002434064",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "You",
+            "may": "You",
+            "tam": "You",
+            "chi": "You",
+            "tha": "You",
+            "ind": "You"
+        },
+        "long": {
+            "eng": "You",
+            "may": "You",
+            "tam": "You",
+            "chi": "You",
+            "tha": "You",
+            "ind": "You"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+            "may": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+            "tam": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+            "chi": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+            "tha": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+            "ind": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by."
+        },
+        "long": {
+            "eng": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+            "may": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+            "tam": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+            "chi": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+            "tha": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+            "ind": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Penn Badgley",
+            " Victoria Pedretti",
+            " Tati Gabrielle",
+            " Ambyr Childers",
+            " Elizabeth Lail",
+            " James Scully",
+            " Saffron Burrows",
+            " Charlotte Ritchie",
+            " Luca Padovan",
+            " Jenna Ortega"
+        ],
+        "may": [
+            "Penn Badgley",
+            " Victoria Pedretti",
+            " Tati Gabrielle",
+            " Ambyr Childers",
+            " Elizabeth Lail",
+            " James Scully",
+            " Saffron Burrows",
+            " Charlotte Ritchie",
+            " Luca Padovan",
+            " Jenna Ortega"
+        ],
+        "tam": [
+            "Penn Badgley",
+            " Victoria Pedretti",
+            " Tati Gabrielle",
+            " Ambyr Childers",
+            " Elizabeth Lail",
+            " James Scully",
+            " Saffron Burrows",
+            " Charlotte Ritchie",
+            " Luca Padovan",
+            " Jenna Ortega"
+        ],
+        "chi": [
+            "Penn Badgley",
+            " Victoria Pedretti",
+            " Tati Gabrielle",
+            " Ambyr Childers",
+            " Elizabeth Lail",
+            " James Scully",
+            " Saffron Burrows",
+            " Charlotte Ritchie",
+            " Luca Padovan",
+            " Jenna Ortega"
+        ],
+        "tha": [
+            "Penn Badgley",
+            " Victoria Pedretti",
+            " Tati Gabrielle",
+            " Ambyr Childers",
+            " Elizabeth Lail",
+            " James Scully",
+            " Saffron Burrows",
+            " Charlotte Ritchie",
+            " Luca Padovan",
+            " Jenna Ortega"
+        ],
+        "ind": [
+            "Penn Badgley",
+            " Victoria Pedretti",
+            " Tati Gabrielle",
+            " Ambyr Childers",
+            " Elizabeth Lail",
+            " James Scully",
+            " Saffron Burrows",
+            " Charlotte Ritchie",
+            " Luca Padovan",
+            " Jenna Ortega"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Silver Tree",
+            " John Scott",
+            " Harry Jierjian",
+            " Marcos Siega",
+            " Lee Toland Krieger",
+            " Pete Chatmon",
+            " Rachel Leiterman",
+            " Marta Cunningham",
+            " Kellie Cyrus",
+            " Erin Feeley"
+        ],
+        "may": [
+            "Silver Tree",
+            " John Scott",
+            " Harry Jierjian",
+            " Marcos Siega",
+            " Lee Toland Krieger",
+            " Pete Chatmon",
+            " Rachel Leiterman",
+            " Marta Cunningham",
+            " Kellie Cyrus",
+            " Erin Feeley"
+        ],
+        "tam": [
+            "Silver Tree",
+            " John Scott",
+            " Harry Jierjian",
+            " Marcos Siega",
+            " Lee Toland Krieger",
+            " Pete Chatmon",
+            " Rachel Leiterman",
+            " Marta Cunningham",
+            " Kellie Cyrus",
+            " Erin Feeley"
+        ],
+        "chi": [
+            "Silver Tree",
+            " John Scott",
+            " Harry Jierjian",
+            " Marcos Siega",
+            " Lee Toland Krieger",
+            " Pete Chatmon",
+            " Rachel Leiterman",
+            " Marta Cunningham",
+            " Kellie Cyrus",
+            " Erin Feeley"
+        ],
+        "tha": [
+            "Silver Tree",
+            " John Scott",
+            " Harry Jierjian",
+            " Marcos Siega",
+            " Lee Toland Krieger",
+            " Pete Chatmon",
+            " Rachel Leiterman",
+            " Marta Cunningham",
+            " Kellie Cyrus",
+            " Erin Feeley"
+        ],
+        "ind": [
+            "Silver Tree",
+            " John Scott",
+            " Harry Jierjian",
+            " Marcos Siega",
+            " Lee Toland Krieger",
+            " Pete Chatmon",
+            " Rachel Leiterman",
+            " Marta Cunningham",
+            " Kellie Cyrus",
+            " Erin Feeley"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Michael Foley",
+            " Sera Gamble",
+            " Greg Berlanti",
+            " Gina Girolamo",
+            " Lee Toland Krieger",
+            " Jennifer Lence",
+            " Leslie Morgenstein",
+            " Carl Ogawa",
+            " Neil Reynolds",
+            " Sarah Schechter"
+        ],
+        "may": [
+            "Michael Foley",
+            " Sera Gamble",
+            " Greg Berlanti",
+            " Gina Girolamo",
+            " Lee Toland Krieger",
+            " Jennifer Lence",
+            " Leslie Morgenstein",
+            " Carl Ogawa",
+            " Neil Reynolds",
+            " Sarah Schechter"
+        ],
+        "tam": [
+            "Michael Foley",
+            " Sera Gamble",
+            " Greg Berlanti",
+            " Gina Girolamo",
+            " Lee Toland Krieger",
+            " Jennifer Lence",
+            " Leslie Morgenstein",
+            " Carl Ogawa",
+            " Neil Reynolds",
+            " Sarah Schechter"
+        ],
+        "chi": [
+            "Michael Foley",
+            " Sera Gamble",
+            " Greg Berlanti",
+            " Gina Girolamo",
+            " Lee Toland Krieger",
+            " Jennifer Lence",
+            " Leslie Morgenstein",
+            " Carl Ogawa",
+            " Neil Reynolds",
+            " Sarah Schechter"
+        ],
+        "tha": [
+            "Michael Foley",
+            " Sera Gamble",
+            " Greg Berlanti",
+            " Gina Girolamo",
+            " Lee Toland Krieger",
+            " Jennifer Lence",
+            " Leslie Morgenstein",
+            " Carl Ogawa",
+            " Neil Reynolds",
+            " Sarah Schechter"
+        ],
+        "ind": [
+            "Michael Foley",
+            " Sera Gamble",
+            " Greg Berlanti",
+            " Gina Girolamo",
+            " Lee Toland Krieger",
+            " Jennifer Lence",
+            " Leslie Morgenstein",
+            " Carl Ogawa",
+            " Neil Reynolds",
+            " Sarah Schechter"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/YOUSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/YOUSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/YOUSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "8",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2018,
+    "maxConcurrentStreams": 0
+}

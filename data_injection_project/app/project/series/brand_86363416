@@ -1,0 +1,265 @@
+{
+    "externalId": "AggregatedSeries_a1b3565a-7506-5594-848a-59b9825748e6",
+    "clientContentId": "PACK0000000006111380",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Lost Ollie",
+            "may": "Lost Ollie",
+            "tam": "Lost Ollie",
+            "chi": "Lost Ollie",
+            "tha": "Lost Ollie",
+            "ind": "Lost Ollie"
+        },
+        "long": {
+            "eng": "Lost Ollie",
+            "may": "Lost Ollie",
+            "tam": "Lost Ollie",
+            "chi": "Lost Ollie",
+            "tha": "Lost Ollie",
+            "ind": "Lost Ollie"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "may": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "tam": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "chi": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "tha": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "ind": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend."
+        },
+        "long": {
+            "eng": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "may": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "tam": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "chi": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "tha": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "ind": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Jake Johnson",
+            " Gina Rodriguez",
+            " Kesler Talbot",
+            " Jonathan Groff",
+            " Tim Blake Nelson",
+            " Mary J. BligeBJ HarrisonEverett AndresPaul AnthonyZo\u00eb Noelle Baker"
+        ],
+        "may": [
+            "Jake Johnson",
+            " Gina Rodriguez",
+            " Kesler Talbot",
+            " Jonathan Groff",
+            " Tim Blake Nelson",
+            " Mary J. BligeBJ HarrisonEverett AndresPaul AnthonyZo\u00eb Noelle Baker"
+        ],
+        "tam": [
+            "Jake Johnson",
+            " Gina Rodriguez",
+            " Kesler Talbot",
+            " Jonathan Groff",
+            " Tim Blake Nelson",
+            " Mary J. BligeBJ HarrisonEverett AndresPaul AnthonyZo\u00eb Noelle Baker"
+        ],
+        "chi": [
+            "Jake Johnson",
+            " Gina Rodriguez",
+            " Kesler Talbot",
+            " Jonathan Groff",
+            " Tim Blake Nelson",
+            " Mary J. BligeBJ HarrisonEverett AndresPaul AnthonyZo\u00eb Noelle Baker"
+        ],
+        "tha": [
+            "Jake Johnson",
+            " Gina Rodriguez",
+            " Kesler Talbot",
+            " Jonathan Groff",
+            " Tim Blake Nelson",
+            " Mary J. BligeBJ HarrisonEverett AndresPaul AnthonyZo\u00eb Noelle Baker"
+        ],
+        "ind": [
+            "Jake Johnson",
+            " Gina Rodriguez",
+            " Kesler Talbot",
+            " Jonathan Groff",
+            " Tim Blake Nelson",
+            " Mary J. BligeBJ HarrisonEverett AndresPaul AnthonyZo\u00eb Noelle Baker"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Peter Ramsey"
+        ],
+        "may": [
+            "Peter Ramsey"
+        ],
+        "tam": [
+            "Peter Ramsey"
+        ],
+        "chi": [
+            "Peter Ramsey"
+        ],
+        "tha": [
+            "Peter Ramsey"
+        ],
+        "ind": [
+            "Peter Ramsey"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Josh S. Barry",
+            " Brent Crowell",
+            " Lampton Enochs",
+            " Kate Gersten",
+            " Ebony P. Jones",
+            " Shawn LevyEmily MorrisBrandon OldenburgShannon TindleLaury Christensen"
+        ],
+        "may": [
+            "Josh S. Barry",
+            " Brent Crowell",
+            " Lampton Enochs",
+            " Kate Gersten",
+            " Ebony P. Jones",
+            " Shawn LevyEmily MorrisBrandon OldenburgShannon TindleLaury Christensen"
+        ],
+        "tam": [
+            "Josh S. Barry",
+            " Brent Crowell",
+            " Lampton Enochs",
+            " Kate Gersten",
+            " Ebony P. Jones",
+            " Shawn LevyEmily MorrisBrandon OldenburgShannon TindleLaury Christensen"
+        ],
+        "chi": [
+            "Josh S. Barry",
+            " Brent Crowell",
+            " Lampton Enochs",
+            " Kate Gersten",
+            " Ebony P. Jones",
+            " Shawn LevyEmily MorrisBrandon OldenburgShannon TindleLaury Christensen"
+        ],
+        "tha": [
+            "Josh S. Barry",
+            " Brent Crowell",
+            " Lampton Enochs",
+            " Kate Gersten",
+            " Ebony P. Jones",
+            " Shawn LevyEmily MorrisBrandon OldenburgShannon TindleLaury Christensen"
+        ],
+        "ind": [
+            "Josh S. Barry",
+            " Brent Crowell",
+            " Lampton Enochs",
+            " Kate Gersten",
+            " Ebony P. Jones",
+            " Shawn LevyEmily MorrisBrandon OldenburgShannon TindleLaury Christensen"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Animation",
+                    "may": "Animation",
+                    "tam": "Animation",
+                    "chi": "Animation",
+                    "tha": "Animation",
+                    "ind": "Animation"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LostOllieSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LostOllieSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LostOllieSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "10",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2022,
+    "maxConcurrentStreams": 0
+}

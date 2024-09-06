@@ -1,0 +1,299 @@
+{
+    "externalId": "AggregatedSeason_5f4a17d1-3573-5325-837e-9e50738aa210",
+    "clientContentId": "PACK0000000005727308",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "chi": "Crime",
+                    "tam": "Crime",
+                    "ind": "Crime",
+                    "tha": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2021,
+    "rating": "15",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Olly Alexander",
+            " Nathaniel Curtis",
+            " Shaun Dooley",
+            " Omari Douglas",
+            " Lydia West",
+            " Keeley Hawes",
+            " Neil Ashton",
+            " Callum Scott Howells",
+            " Toto Bruin",
+            " David Carlyle"
+        ],
+        "may": [
+            "Olly Alexander",
+            " Nathaniel Curtis",
+            " Shaun Dooley",
+            " Omari Douglas",
+            " Lydia West",
+            " Keeley Hawes",
+            " Neil Ashton",
+            " Callum Scott Howells",
+            " Toto Bruin",
+            " David Carlyle"
+        ],
+        "chi": [
+            "Olly Alexander",
+            " Nathaniel Curtis",
+            " Shaun Dooley",
+            " Omari Douglas",
+            " Lydia West",
+            " Keeley Hawes",
+            " Neil Ashton",
+            " Callum Scott Howells",
+            " Toto Bruin",
+            " David Carlyle"
+        ],
+        "tam": [
+            "Olly Alexander",
+            " Nathaniel Curtis",
+            " Shaun Dooley",
+            " Omari Douglas",
+            " Lydia West",
+            " Keeley Hawes",
+            " Neil Ashton",
+            " Callum Scott Howells",
+            " Toto Bruin",
+            " David Carlyle"
+        ],
+        "ind": [
+            "Olly Alexander",
+            " Nathaniel Curtis",
+            " Shaun Dooley",
+            " Omari Douglas",
+            " Lydia West",
+            " Keeley Hawes",
+            " Neil Ashton",
+            " Callum Scott Howells",
+            " Toto Bruin",
+            " David Carlyle"
+        ],
+        "tha": [
+            "Olly Alexander",
+            " Nathaniel Curtis",
+            " Shaun Dooley",
+            " Omari Douglas",
+            " Lydia West",
+            " Keeley Hawes",
+            " Neil Ashton",
+            " Callum Scott Howells",
+            " Toto Bruin",
+            " David Carlyle"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Peter Hoar"
+        ],
+        "may": [
+            "Peter Hoar"
+        ],
+        "chi": [
+            "Peter Hoar"
+        ],
+        "tam": [
+            "Peter Hoar"
+        ],
+        "ind": [
+            "Peter Hoar"
+        ],
+        "tha": [
+            "Peter Hoar"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Phil Collinson",
+            " Russell T. Davies",
+            " Michaela Fereday",
+            " Peter Hoar",
+            " Nicola Shindler",
+            " Des Hughes"
+        ],
+        "may": [
+            "Phil Collinson",
+            " Russell T. Davies",
+            " Michaela Fereday",
+            " Peter Hoar",
+            " Nicola Shindler",
+            " Des Hughes"
+        ],
+        "chi": [
+            "Phil Collinson",
+            " Russell T. Davies",
+            " Michaela Fereday",
+            " Peter Hoar",
+            " Nicola Shindler",
+            " Des Hughes"
+        ],
+        "tam": [
+            "Phil Collinson",
+            " Russell T. Davies",
+            " Michaela Fereday",
+            " Peter Hoar",
+            " Nicola Shindler",
+            " Des Hughes"
+        ],
+        "ind": [
+            "Phil Collinson",
+            " Russell T. Davies",
+            " Michaela Fereday",
+            " Peter Hoar",
+            " Nicola Shindler",
+            " Des Hughes"
+        ],
+        "tha": [
+            "Phil Collinson",
+            " Russell T. Davies",
+            " Michaela Fereday",
+            " Peter Hoar",
+            " Nicola Shindler",
+            " Des Hughes"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_247da424-7a34-5169-b04b-5f2cd6f24f13",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "It's A Sin Season 1",
+            "may": "It's A Sin Season 1",
+            "chi": "It's A Sin Season 1",
+            "tam": "It's A Sin Season 1",
+            "ind": "It's A Sin Season 1",
+            "tha": "It's A Sin Season 1"
+        },
+        "long": {
+            "eng": "It's A Sin Season 1",
+            "may": "It's A Sin Season 1",
+            "chi": "It's A Sin Season 1",
+            "tam": "It's A Sin Season 1",
+            "ind": "It's A Sin Season 1",
+            "tha": "It's A Sin Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "may": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "chi": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "tam": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "ind": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "tha": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS."
+        },
+        "long": {
+            "eng": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "may": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "chi": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "tam": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "ind": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "tha": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/It'sASinSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/It'sASinSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/It'sASinSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

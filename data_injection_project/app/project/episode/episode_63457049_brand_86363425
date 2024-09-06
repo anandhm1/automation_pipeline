@@ -1,0 +1,397 @@
+{
+    "externalId": "AggregatedTvShow_915c734b-5b18-5a5b-a4d0-2910f44e3aeb",
+    "clientContentId": "PACK0000000002654039",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Orange Is The New Black - Trailer",
+            "may": "Orange Is The New Black - Trailer",
+            "tam": "Orange Is The New Black - Trailer",
+            "chi": "Orange Is The New Black - Trailer",
+            "tha": "Orange Is The New Black - Trailer",
+            "ind": "Orange Is The New Black - Trailer"
+        },
+        "long": {
+            "eng": "Orange Is The New Black - Trailer",
+            "may": "Orange Is The New Black - Trailer",
+            "tam": "Orange Is The New Black - Trailer",
+            "chi": "Orange Is The New Black - Trailer",
+            "tha": "Orange Is The New Black - Trailer",
+            "ind": "Orange Is The New Black - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "may": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "tam": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "chi": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "tha": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "ind": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be."
+        },
+        "long": {
+            "eng": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "may": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "tam": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "chi": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "tha": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+            "ind": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Taylor Schilling",
+            " Kate Mulgrew",
+            " Uzo Aduba",
+            " Danielle Brooks",
+            " Dascha Polanco",
+            " Selenis Leyva",
+            " Nick Sandow",
+            " Yael Stone",
+            " Taryn Manning",
+            " Jackie Cruz"
+        ],
+        "may": [
+            "Taylor Schilling",
+            " Kate Mulgrew",
+            " Uzo Aduba",
+            " Danielle Brooks",
+            " Dascha Polanco",
+            " Selenis Leyva",
+            " Nick Sandow",
+            " Yael Stone",
+            " Taryn Manning",
+            " Jackie Cruz"
+        ],
+        "tam": [
+            "Taylor Schilling",
+            " Kate Mulgrew",
+            " Uzo Aduba",
+            " Danielle Brooks",
+            " Dascha Polanco",
+            " Selenis Leyva",
+            " Nick Sandow",
+            " Yael Stone",
+            " Taryn Manning",
+            " Jackie Cruz"
+        ],
+        "chi": [
+            "Taylor Schilling",
+            " Kate Mulgrew",
+            " Uzo Aduba",
+            " Danielle Brooks",
+            " Dascha Polanco",
+            " Selenis Leyva",
+            " Nick Sandow",
+            " Yael Stone",
+            " Taryn Manning",
+            " Jackie Cruz"
+        ],
+        "tha": [
+            "Taylor Schilling",
+            " Kate Mulgrew",
+            " Uzo Aduba",
+            " Danielle Brooks",
+            " Dascha Polanco",
+            " Selenis Leyva",
+            " Nick Sandow",
+            " Yael Stone",
+            " Taryn Manning",
+            " Jackie Cruz"
+        ],
+        "ind": [
+            "Taylor Schilling",
+            " Kate Mulgrew",
+            " Uzo Aduba",
+            " Danielle Brooks",
+            " Dascha Polanco",
+            " Selenis Leyva",
+            " Nick Sandow",
+            " Yael Stone",
+            " Taryn Manning",
+            " Jackie Cruz"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Andrew McCarthy",
+            " Phil Abraham",
+            " Michael Trim",
+            " Constantine Makris",
+            " Mark A. Burley",
+            " Nick Sandow",
+            " Uta Briesewitz",
+            " Erin Feeley",
+            " Laura Prepon",
+            " Jodie Foster"
+        ],
+        "may": [
+            "Andrew McCarthy",
+            " Phil Abraham",
+            " Michael Trim",
+            " Constantine Makris",
+            " Mark A. Burley",
+            " Nick Sandow",
+            " Uta Briesewitz",
+            " Erin Feeley",
+            " Laura Prepon",
+            " Jodie Foster"
+        ],
+        "tam": [
+            "Andrew McCarthy",
+            " Phil Abraham",
+            " Michael Trim",
+            " Constantine Makris",
+            " Mark A. Burley",
+            " Nick Sandow",
+            " Uta Briesewitz",
+            " Erin Feeley",
+            " Laura Prepon",
+            " Jodie Foster"
+        ],
+        "chi": [
+            "Andrew McCarthy",
+            " Phil Abraham",
+            " Michael Trim",
+            " Constantine Makris",
+            " Mark A. Burley",
+            " Nick Sandow",
+            " Uta Briesewitz",
+            " Erin Feeley",
+            " Laura Prepon",
+            " Jodie Foster"
+        ],
+        "tha": [
+            "Andrew McCarthy",
+            " Phil Abraham",
+            " Michael Trim",
+            " Constantine Makris",
+            " Mark A. Burley",
+            " Nick Sandow",
+            " Uta Briesewitz",
+            " Erin Feeley",
+            " Laura Prepon",
+            " Jodie Foster"
+        ],
+        "ind": [
+            "Andrew McCarthy",
+            " Phil Abraham",
+            " Michael Trim",
+            " Constantine Makris",
+            " Mark A. Burley",
+            " Nick Sandow",
+            " Uta Briesewitz",
+            " Erin Feeley",
+            " Laura Prepon",
+            " Jodie Foster"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Mark A. Burley",
+            " Tara Herrmann",
+            " Jenji Kohan",
+            " Neri Kyle Tannenbaum",
+            " Lisa Vinnecour",
+            " Arturo Guzman",
+            " Sara Hess",
+            " David Price",
+            " Aimee Roth",
+            " Lauren Morelli"
+        ],
+        "may": [
+            "Mark A. Burley",
+            " Tara Herrmann",
+            " Jenji Kohan",
+            " Neri Kyle Tannenbaum",
+            " Lisa Vinnecour",
+            " Arturo Guzman",
+            " Sara Hess",
+            " David Price",
+            " Aimee Roth",
+            " Lauren Morelli"
+        ],
+        "tam": [
+            "Mark A. Burley",
+            " Tara Herrmann",
+            " Jenji Kohan",
+            " Neri Kyle Tannenbaum",
+            " Lisa Vinnecour",
+            " Arturo Guzman",
+            " Sara Hess",
+            " David Price",
+            " Aimee Roth",
+            " Lauren Morelli"
+        ],
+        "chi": [
+            "Mark A. Burley",
+            " Tara Herrmann",
+            " Jenji Kohan",
+            " Neri Kyle Tannenbaum",
+            " Lisa Vinnecour",
+            " Arturo Guzman",
+            " Sara Hess",
+            " David Price",
+            " Aimee Roth",
+            " Lauren Morelli"
+        ],
+        "tha": [
+            "Mark A. Burley",
+            " Tara Herrmann",
+            " Jenji Kohan",
+            " Neri Kyle Tannenbaum",
+            " Lisa Vinnecour",
+            " Arturo Guzman",
+            " Sara Hess",
+            " David Price",
+            " Aimee Roth",
+            " Lauren Morelli"
+        ],
+        "ind": [
+            "Mark A. Burley",
+            " Tara Herrmann",
+            " Jenji Kohan",
+            " Neri Kyle Tannenbaum",
+            " Lisa Vinnecour",
+            " Arturo Guzman",
+            " Sara Hess",
+            " David Price",
+            " Aimee Roth",
+            " Lauren Morelli"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/OrangeIstheNewBlackSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/OrangeIstheNewBlackSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/OrangeIstheNewBlackSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_0ff01f93-9703-55e6-aa6b-ed50e25784e2",
+    "seasonId": "AggregatedSeason_cb3d1362-a46f-5ba2-a939-50a79c03ddbb",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2013,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

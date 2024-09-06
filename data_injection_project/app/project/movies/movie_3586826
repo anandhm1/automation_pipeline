@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_75d35f06-5b82-5b62-84b7-3edf05d46014",
+    "clientContentId": "PACK0000000007119669",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Sicario Day of the Soldado",
+            "may": "Sicario Day of the Soldado",
+            "tam": "Sicario Day of the Soldado",
+            "chi": "Sicario Day of the Soldado",
+            "tha": "Sicario Day of the Soldado",
+            "ind": "Sicario Day of the Soldado"
+        },
+        "long": {
+            "eng": "Sicario Day of the Soldado",
+            "may": "Sicario Day of the Soldado",
+            "tam": "Sicario Day of the Soldado",
+            "chi": "Sicario Day of the Soldado",
+            "tha": "Sicario Day of the Soldado",
+            "ind": "Sicario Day of the Soldado"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The drug war on the U.S.-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border. To fight the war, federal agent Matt Graver re-teams with the mercurial Alejandro.",
+            "may": "The drug war on the U.S.-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border. To fight the war, federal agent Matt Graver re-teams with the mercurial Alejandro.",
+            "tam": "The drug war on the U.S.-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border. To fight the war, federal agent Matt Graver re-teams with the mercurial Alejandro.",
+            "chi": "The drug war on the U.S.-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border. To fight the war, federal agent Matt Graver re-teams with the mercurial Alejandro.",
+            "tha": "The drug war on the U.S.-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border. To fight the war, federal agent Matt Graver re-teams with the mercurial Alejandro.",
+            "ind": "The drug war on the U.S.-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border. To fight the war, federal agent Matt Graver re-teams with the mercurial Alejandro."
+        },
+        "long": {
+            "eng": "The drug war on the U.S.-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border. To fight the war, federal agent Matt Graver re-teams with the mercurial Alejandro.",
+            "may": "The drug war on the U.S.-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border. To fight the war, federal agent Matt Graver re-teams with the mercurial Alejandro.",
+            "tam": "The drug war on the U.S.-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border. To fight the war, federal agent Matt Graver re-teams with the mercurial Alejandro.",
+            "chi": "The drug war on the U.S.-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border. To fight the war, federal agent Matt Graver re-teams with the mercurial Alejandro.",
+            "tha": "The drug war on the U.S.-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border. To fight the war, federal agent Matt Graver re-teams with the mercurial Alejandro.",
+            "ind": "The drug war on the U.S.-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border. To fight the war, federal agent Matt Graver re-teams with the mercurial Alejandro."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Benicio Del Toro",
+            " Josh Brolin",
+            " Isabela Merced",
+            " Jeffrey Donovan",
+            " Catherine Keener",
+            " Manuel Garcia-Rulfo",
+            " Matthew Modine",
+            " Shea Whigham",
+            " Elijah Rodriguez",
+            " Howard Ferguson Jr."
+        ],
+        "may": [
+            "Benicio Del Toro",
+            " Josh Brolin",
+            " Isabela Merced",
+            " Jeffrey Donovan",
+            " Catherine Keener",
+            " Manuel Garcia-Rulfo",
+            " Matthew Modine",
+            " Shea Whigham",
+            " Elijah Rodriguez",
+            " Howard Ferguson Jr."
+        ],
+        "tam": [
+            "Benicio Del Toro",
+            " Josh Brolin",
+            " Isabela Merced",
+            " Jeffrey Donovan",
+            " Catherine Keener",
+            " Manuel Garcia-Rulfo",
+            " Matthew Modine",
+            " Shea Whigham",
+            " Elijah Rodriguez",
+            " Howard Ferguson Jr."
+        ],
+        "chi": [
+            "Benicio Del Toro",
+            " Josh Brolin",
+            " Isabela Merced",
+            " Jeffrey Donovan",
+            " Catherine Keener",
+            " Manuel Garcia-Rulfo",
+            " Matthew Modine",
+            " Shea Whigham",
+            " Elijah Rodriguez",
+            " Howard Ferguson Jr."
+        ],
+        "tha": [
+            "Benicio Del Toro",
+            " Josh Brolin",
+            " Isabela Merced",
+            " Jeffrey Donovan",
+            " Catherine Keener",
+            " Manuel Garcia-Rulfo",
+            " Matthew Modine",
+            " Shea Whigham",
+            " Elijah Rodriguez",
+            " Howard Ferguson Jr."
+        ],
+        "ind": [
+            "Benicio Del Toro",
+            " Josh Brolin",
+            " Isabela Merced",
+            " Jeffrey Donovan",
+            " Catherine Keener",
+            " Manuel Garcia-Rulfo",
+            " Matthew Modine",
+            " Shea Whigham",
+            " Elijah Rodriguez",
+            " Howard Ferguson Jr."
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Stefano Sollima"
+        ],
+        "may": [
+            "Stefano Sollima"
+        ],
+        "tam": [
+            "Stefano Sollima"
+        ],
+        "chi": [
+            "Stefano Sollima"
+        ],
+        "tha": [
+            "Stefano Sollima"
+        ],
+        "ind": [
+            "Stefano Sollima"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Basil Iwanyk",
+            " Erica Lee",
+            " Thad Luckinbill",
+            " Trent Luckinbill",
+            " Edward L. McDonnell",
+            " Emma McGill",
+            " Richard Middleton",
+            " Stacy Perskie",
+            " Jon Schumacher",
+            " Ellen H. Schwartz"
+        ],
+        "may": [
+            "Basil Iwanyk",
+            " Erica Lee",
+            " Thad Luckinbill",
+            " Trent Luckinbill",
+            " Edward L. McDonnell",
+            " Emma McGill",
+            " Richard Middleton",
+            " Stacy Perskie",
+            " Jon Schumacher",
+            " Ellen H. Schwartz"
+        ],
+        "tam": [
+            "Basil Iwanyk",
+            " Erica Lee",
+            " Thad Luckinbill",
+            " Trent Luckinbill",
+            " Edward L. McDonnell",
+            " Emma McGill",
+            " Richard Middleton",
+            " Stacy Perskie",
+            " Jon Schumacher",
+            " Ellen H. Schwartz"
+        ],
+        "chi": [
+            "Basil Iwanyk",
+            " Erica Lee",
+            " Thad Luckinbill",
+            " Trent Luckinbill",
+            " Edward L. McDonnell",
+            " Emma McGill",
+            " Richard Middleton",
+            " Stacy Perskie",
+            " Jon Schumacher",
+            " Ellen H. Schwartz"
+        ],
+        "tha": [
+            "Basil Iwanyk",
+            " Erica Lee",
+            " Thad Luckinbill",
+            " Trent Luckinbill",
+            " Edward L. McDonnell",
+            " Emma McGill",
+            " Richard Middleton",
+            " Stacy Perskie",
+            " Jon Schumacher",
+            " Ellen H. Schwartz"
+        ],
+        "ind": [
+            "Basil Iwanyk",
+            " Erica Lee",
+            " Thad Luckinbill",
+            " Trent Luckinbill",
+            " Edward L. McDonnell",
+            " Emma McGill",
+            " Richard Middleton",
+            " Stacy Perskie",
+            " Jon Schumacher",
+            " Ellen H. Schwartz"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/SicarioDayoftheSoldado_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/SicarioDayoftheSoldado_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/SicarioDayoftheSoldado_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2018,
+    "rating": "7.0",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,331 @@
+{
+    "externalId": "AggregatedSeries_66c90ebb-4d84-5e8d-ac06-ad5ac588e814",
+    "clientContentId": "PACK0000000005592264",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Watcher",
+            "may": "The Watcher",
+            "tam": "The Watcher",
+            "chi": "The Watcher",
+            "tha": "The Watcher",
+            "ind": "The Watcher"
+        },
+        "long": {
+            "eng": "The Watcher",
+            "may": "The Watcher",
+            "tam": "The Watcher",
+            "chi": "The Watcher",
+            "tha": "The Watcher",
+            "ind": "The Watcher"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A married couple moving into their dream home are threatened by terrifying letters from a stalker, signed - The Watcher.",
+            "may": "A married couple moving into their dream home are threatened by terrifying letters from a stalker, signed - The Watcher.",
+            "tam": "A married couple moving into their dream home are threatened by terrifying letters from a stalker, signed - The Watcher.",
+            "chi": "A married couple moving into their dream home are threatened by terrifying letters from a stalker, signed - The Watcher.",
+            "tha": "A married couple moving into their dream home are threatened by terrifying letters from a stalker, signed - The Watcher.",
+            "ind": "A married couple moving into their dream home are threatened by terrifying letters from a stalker, signed - The Watcher."
+        },
+        "long": {
+            "eng": "A married couple moving into their dream home are threatened by terrifying letters from a stalker, signed - The Watcher.",
+            "may": "A married couple moving into their dream home are threatened by terrifying letters from a stalker, signed - The Watcher.",
+            "tam": "A married couple moving into their dream home are threatened by terrifying letters from a stalker, signed - The Watcher.",
+            "chi": "A married couple moving into their dream home are threatened by terrifying letters from a stalker, signed - The Watcher.",
+            "tha": "A married couple moving into their dream home are threatened by terrifying letters from a stalker, signed - The Watcher.",
+            "ind": "A married couple moving into their dream home are threatened by terrifying letters from a stalker, signed - The Watcher."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Naomi Watts",
+            " Bobby Cannavale",
+            " Mia Farrow",
+            " Terry Kinney",
+            " Henry Hunter Hall",
+            " Isabel Gravitt",
+            " Luke David Blumm",
+            " Jennifer Coolidge",
+            " Christopher McDonald",
+            " Noma Dumezweni"
+        ],
+        "may": [
+            "Naomi Watts",
+            " Bobby Cannavale",
+            " Mia Farrow",
+            " Terry Kinney",
+            " Henry Hunter Hall",
+            " Isabel Gravitt",
+            " Luke David Blumm",
+            " Jennifer Coolidge",
+            " Christopher McDonald",
+            " Noma Dumezweni"
+        ],
+        "tam": [
+            "Naomi Watts",
+            " Bobby Cannavale",
+            " Mia Farrow",
+            " Terry Kinney",
+            " Henry Hunter Hall",
+            " Isabel Gravitt",
+            " Luke David Blumm",
+            " Jennifer Coolidge",
+            " Christopher McDonald",
+            " Noma Dumezweni"
+        ],
+        "chi": [
+            "Naomi Watts",
+            " Bobby Cannavale",
+            " Mia Farrow",
+            " Terry Kinney",
+            " Henry Hunter Hall",
+            " Isabel Gravitt",
+            " Luke David Blumm",
+            " Jennifer Coolidge",
+            " Christopher McDonald",
+            " Noma Dumezweni"
+        ],
+        "tha": [
+            "Naomi Watts",
+            " Bobby Cannavale",
+            " Mia Farrow",
+            " Terry Kinney",
+            " Henry Hunter Hall",
+            " Isabel Gravitt",
+            " Luke David Blumm",
+            " Jennifer Coolidge",
+            " Christopher McDonald",
+            " Noma Dumezweni"
+        ],
+        "ind": [
+            "Naomi Watts",
+            " Bobby Cannavale",
+            " Mia Farrow",
+            " Terry Kinney",
+            " Henry Hunter Hall",
+            " Isabel Gravitt",
+            " Luke David Blumm",
+            " Jennifer Coolidge",
+            " Christopher McDonald",
+            " Noma Dumezweni"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Paris Barclay",
+            " Jennifer Lynch",
+            " Ryan Murphy",
+            " Max Winkler"
+        ],
+        "may": [
+            "Paris Barclay",
+            " Jennifer Lynch",
+            " Ryan Murphy",
+            " Max Winkler"
+        ],
+        "tam": [
+            "Paris Barclay",
+            " Jennifer Lynch",
+            " Ryan Murphy",
+            " Max Winkler"
+        ],
+        "chi": [
+            "Paris Barclay",
+            " Jennifer Lynch",
+            " Ryan Murphy",
+            " Max Winkler"
+        ],
+        "tha": [
+            "Paris Barclay",
+            " Jennifer Lynch",
+            " Ryan Murphy",
+            " Max Winkler"
+        ],
+        "ind": [
+            "Paris Barclay",
+            " Jennifer Lynch",
+            " Ryan Murphy",
+            " Max Winkler"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ian Brennan",
+            " Ryan Murphy",
+            " Paris Barclay",
+            " Jordan Bracewell",
+            " Jason De Beer",
+            " Lou Eyrich",
+            " Genevieve Fontaine",
+            " Henry Joost",
+            " Eric Kovtun",
+            " Todd Kubrak"
+        ],
+        "may": [
+            "Ian Brennan",
+            " Ryan Murphy",
+            " Paris Barclay",
+            " Jordan Bracewell",
+            " Jason De Beer",
+            " Lou Eyrich",
+            " Genevieve Fontaine",
+            " Henry Joost",
+            " Eric Kovtun",
+            " Todd Kubrak"
+        ],
+        "tam": [
+            "Ian Brennan",
+            " Ryan Murphy",
+            " Paris Barclay",
+            " Jordan Bracewell",
+            " Jason De Beer",
+            " Lou Eyrich",
+            " Genevieve Fontaine",
+            " Henry Joost",
+            " Eric Kovtun",
+            " Todd Kubrak"
+        ],
+        "chi": [
+            "Ian Brennan",
+            " Ryan Murphy",
+            " Paris Barclay",
+            " Jordan Bracewell",
+            " Jason De Beer",
+            " Lou Eyrich",
+            " Genevieve Fontaine",
+            " Henry Joost",
+            " Eric Kovtun",
+            " Todd Kubrak"
+        ],
+        "tha": [
+            "Ian Brennan",
+            " Ryan Murphy",
+            " Paris Barclay",
+            " Jordan Bracewell",
+            " Jason De Beer",
+            " Lou Eyrich",
+            " Genevieve Fontaine",
+            " Henry Joost",
+            " Eric Kovtun",
+            " Todd Kubrak"
+        ],
+        "ind": [
+            "Ian Brennan",
+            " Ryan Murphy",
+            " Paris Barclay",
+            " Jordan Bracewell",
+            " Jason De Beer",
+            " Lou Eyrich",
+            " Genevieve Fontaine",
+            " Henry Joost",
+            " Eric Kovtun",
+            " Todd Kubrak"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "tam": " Horror",
+                    "chi": " Horror",
+                    "tha": " Horror",
+                    "ind": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheWatcherSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheWatcherSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheWatcherSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "8",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2022,
+    "maxConcurrentStreams": 0
+}

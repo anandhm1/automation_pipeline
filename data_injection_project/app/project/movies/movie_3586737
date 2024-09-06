@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_c0cda9c8-1ff0-5a36-bd18-6bf458f41b25",
+    "clientContentId": "PACK0000000004201049",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Doctor Strange in the Multiverse of Madness",
+            "may": "Doctor Strange in the Multiverse of Madness",
+            "tam": "Doctor Strange in the Multiverse of Madness",
+            "chi": "Doctor Strange in the Multiverse of Madness",
+            "tha": "Doctor Strange in the Multiverse of Madness",
+            "ind": "Doctor Strange in the Multiverse of Madness"
+        },
+        "long": {
+            "eng": "Doctor Strange in the Multiverse of Madness",
+            "may": "Doctor Strange in the Multiverse of Madness",
+            "tam": "Doctor Strange in the Multiverse of Madness",
+            "chi": "Doctor Strange in the Multiverse of Madness",
+            "tha": "Doctor Strange in the Multiverse of Madness",
+            "ind": "Doctor Strange in the Multiverse of Madness"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.",
+            "may": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.",
+            "tam": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.",
+            "chi": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.",
+            "tha": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.",
+            "ind": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others."
+        },
+        "long": {
+            "eng": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.",
+            "may": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.",
+            "tam": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.",
+            "chi": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.",
+            "tha": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.",
+            "ind": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Benedict Cumberbatch",
+            " Elizabeth Olsen",
+            " Chiwetel Ejiofor",
+            " Benedict Wong",
+            " Xochitl Gomez",
+            " Rachel McAdams",
+            " Jett Klyne",
+            " Julian Hilliard",
+            " Michael Stuhlbarg",
+            " Hayley Atwell"
+        ],
+        "may": [
+            "Benedict Cumberbatch",
+            " Elizabeth Olsen",
+            " Chiwetel Ejiofor",
+            " Benedict Wong",
+            " Xochitl Gomez",
+            " Rachel McAdams",
+            " Jett Klyne",
+            " Julian Hilliard",
+            " Michael Stuhlbarg",
+            " Hayley Atwell"
+        ],
+        "tam": [
+            "Benedict Cumberbatch",
+            " Elizabeth Olsen",
+            " Chiwetel Ejiofor",
+            " Benedict Wong",
+            " Xochitl Gomez",
+            " Rachel McAdams",
+            " Jett Klyne",
+            " Julian Hilliard",
+            " Michael Stuhlbarg",
+            " Hayley Atwell"
+        ],
+        "chi": [
+            "Benedict Cumberbatch",
+            " Elizabeth Olsen",
+            " Chiwetel Ejiofor",
+            " Benedict Wong",
+            " Xochitl Gomez",
+            " Rachel McAdams",
+            " Jett Klyne",
+            " Julian Hilliard",
+            " Michael Stuhlbarg",
+            " Hayley Atwell"
+        ],
+        "tha": [
+            "Benedict Cumberbatch",
+            " Elizabeth Olsen",
+            " Chiwetel Ejiofor",
+            " Benedict Wong",
+            " Xochitl Gomez",
+            " Rachel McAdams",
+            " Jett Klyne",
+            " Julian Hilliard",
+            " Michael Stuhlbarg",
+            " Hayley Atwell"
+        ],
+        "ind": [
+            "Benedict Cumberbatch",
+            " Elizabeth Olsen",
+            " Chiwetel Ejiofor",
+            " Benedict Wong",
+            " Xochitl Gomez",
+            " Rachel McAdams",
+            " Jett Klyne",
+            " Julian Hilliard",
+            " Michael Stuhlbarg",
+            " Hayley Atwell"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Sam Raimi"
+        ],
+        "may": [
+            "Sam Raimi"
+        ],
+        "tam": [
+            "Sam Raimi"
+        ],
+        "chi": [
+            "Sam Raimi"
+        ],
+        "tha": [
+            "Sam Raimi"
+        ],
+        "ind": [
+            "Sam Raimi"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Victoria Alonso",
+            " Mitchell Bell",
+            " Eric Hauserman Carroll",
+            " Jamie Christopher",
+            " Louis D'Esposito",
+            " Scott Derrickson",
+            " Kevin Feige",
+            " Richie Palmer",
+            " JoAnn Perritano",
+            " Helen Pollak"
+        ],
+        "may": [
+            "Victoria Alonso",
+            " Mitchell Bell",
+            " Eric Hauserman Carroll",
+            " Jamie Christopher",
+            " Louis D'Esposito",
+            " Scott Derrickson",
+            " Kevin Feige",
+            " Richie Palmer",
+            " JoAnn Perritano",
+            " Helen Pollak"
+        ],
+        "tam": [
+            "Victoria Alonso",
+            " Mitchell Bell",
+            " Eric Hauserman Carroll",
+            " Jamie Christopher",
+            " Louis D'Esposito",
+            " Scott Derrickson",
+            " Kevin Feige",
+            " Richie Palmer",
+            " JoAnn Perritano",
+            " Helen Pollak"
+        ],
+        "chi": [
+            "Victoria Alonso",
+            " Mitchell Bell",
+            " Eric Hauserman Carroll",
+            " Jamie Christopher",
+            " Louis D'Esposito",
+            " Scott Derrickson",
+            " Kevin Feige",
+            " Richie Palmer",
+            " JoAnn Perritano",
+            " Helen Pollak"
+        ],
+        "tha": [
+            "Victoria Alonso",
+            " Mitchell Bell",
+            " Eric Hauserman Carroll",
+            " Jamie Christopher",
+            " Louis D'Esposito",
+            " Scott Derrickson",
+            " Kevin Feige",
+            " Richie Palmer",
+            " JoAnn Perritano",
+            " Helen Pollak"
+        ],
+        "ind": [
+            "Victoria Alonso",
+            " Mitchell Bell",
+            " Eric Hauserman Carroll",
+            " Jamie Christopher",
+            " Louis D'Esposito",
+            " Scott Derrickson",
+            " Kevin Feige",
+            " Richie Palmer",
+            " JoAnn Perritano",
+            " Helen Pollak"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/DoctorStrangeintheMultiverseofMadness_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/DoctorStrangeintheMultiverseofMadness_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/DoctorStrangeintheMultiverseofMadness_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "6.9",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

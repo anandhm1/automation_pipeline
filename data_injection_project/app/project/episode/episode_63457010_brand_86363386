@@ -1,0 +1,361 @@
+{
+    "externalId": "AggregatedTvShow_61b926ab-e025-5b87-9047-2e64d808835e",
+    "clientContentId": "PACK0000000009177204",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Blockbuster - Trailer",
+            "may": "Blockbuster - Trailer",
+            "tam": "Blockbuster - Trailer",
+            "chi": "Blockbuster - Trailer",
+            "tha": "Blockbuster - Trailer",
+            "ind": "Blockbuster - Trailer"
+        },
+        "long": {
+            "eng": "Blockbuster - Trailer",
+            "may": "Blockbuster - Trailer",
+            "tam": "Blockbuster - Trailer",
+            "chi": "Blockbuster - Trailer",
+            "tha": "Blockbuster - Trailer",
+            "ind": "Blockbuster - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "may": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "tam": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "chi": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "tha": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "ind": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed."
+        },
+        "long": {
+            "eng": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "may": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "tam": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "chi": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "tha": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "ind": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Randall Park",
+            " Melissa Fumero",
+            " Olga Merediz",
+            " Tyler Alvarez",
+            " Madeleine Arthur",
+            " J.B. Smoove",
+            " Kamaia Fairburn",
+            " Dan Shea",
+            " Keegan Connor Tracy",
+            " Leonard Robinson"
+        ],
+        "may": [
+            "Randall Park",
+            " Melissa Fumero",
+            " Olga Merediz",
+            " Tyler Alvarez",
+            " Madeleine Arthur",
+            " J.B. Smoove",
+            " Kamaia Fairburn",
+            " Dan Shea",
+            " Keegan Connor Tracy",
+            " Leonard Robinson"
+        ],
+        "tam": [
+            "Randall Park",
+            " Melissa Fumero",
+            " Olga Merediz",
+            " Tyler Alvarez",
+            " Madeleine Arthur",
+            " J.B. Smoove",
+            " Kamaia Fairburn",
+            " Dan Shea",
+            " Keegan Connor Tracy",
+            " Leonard Robinson"
+        ],
+        "chi": [
+            "Randall Park",
+            " Melissa Fumero",
+            " Olga Merediz",
+            " Tyler Alvarez",
+            " Madeleine Arthur",
+            " J.B. Smoove",
+            " Kamaia Fairburn",
+            " Dan Shea",
+            " Keegan Connor Tracy",
+            " Leonard Robinson"
+        ],
+        "tha": [
+            "Randall Park",
+            " Melissa Fumero",
+            " Olga Merediz",
+            " Tyler Alvarez",
+            " Madeleine Arthur",
+            " J.B. Smoove",
+            " Kamaia Fairburn",
+            " Dan Shea",
+            " Keegan Connor Tracy",
+            " Leonard Robinson"
+        ],
+        "ind": [
+            "Randall Park",
+            " Melissa Fumero",
+            " Olga Merediz",
+            " Tyler Alvarez",
+            " Madeleine Arthur",
+            " J.B. Smoove",
+            " Kamaia Fairburn",
+            " Dan Shea",
+            " Keegan Connor Tracy",
+            " Leonard Robinson"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Payman Benz",
+            " Jackie Clarke",
+            " Katie Locke O'Brien",
+            " Aleysa Young"
+        ],
+        "may": [
+            "Payman Benz",
+            " Jackie Clarke",
+            " Katie Locke O'Brien",
+            " Aleysa Young"
+        ],
+        "tam": [
+            "Payman Benz",
+            " Jackie Clarke",
+            " Katie Locke O'Brien",
+            " Aleysa Young"
+        ],
+        "chi": [
+            "Payman Benz",
+            " Jackie Clarke",
+            " Katie Locke O'Brien",
+            " Aleysa Young"
+        ],
+        "tha": [
+            "Payman Benz",
+            " Jackie Clarke",
+            " Katie Locke O'Brien",
+            " Aleysa Young"
+        ],
+        "ind": [
+            "Payman Benz",
+            " Jackie Clarke",
+            " Katie Locke O'Brien",
+            " Aleysa Young"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "David Caspe",
+            " Jackie Clarke",
+            " John Davis",
+            " John Fox",
+            " Adam Haracz",
+            " Randall Park",
+            " Rachel Pegram",
+            " Robert Petrovicz",
+            " Vanessa Ramos",
+            " Frank Sackett"
+        ],
+        "may": [
+            "David Caspe",
+            " Jackie Clarke",
+            " John Davis",
+            " John Fox",
+            " Adam Haracz",
+            " Randall Park",
+            " Rachel Pegram",
+            " Robert Petrovicz",
+            " Vanessa Ramos",
+            " Frank Sackett"
+        ],
+        "tam": [
+            "David Caspe",
+            " Jackie Clarke",
+            " John Davis",
+            " John Fox",
+            " Adam Haracz",
+            " Randall Park",
+            " Rachel Pegram",
+            " Robert Petrovicz",
+            " Vanessa Ramos",
+            " Frank Sackett"
+        ],
+        "chi": [
+            "David Caspe",
+            " Jackie Clarke",
+            " John Davis",
+            " John Fox",
+            " Adam Haracz",
+            " Randall Park",
+            " Rachel Pegram",
+            " Robert Petrovicz",
+            " Vanessa Ramos",
+            " Frank Sackett"
+        ],
+        "tha": [
+            "David Caspe",
+            " Jackie Clarke",
+            " John Davis",
+            " John Fox",
+            " Adam Haracz",
+            " Randall Park",
+            " Rachel Pegram",
+            " Robert Petrovicz",
+            " Vanessa Ramos",
+            " Frank Sackett"
+        ],
+        "ind": [
+            "David Caspe",
+            " Jackie Clarke",
+            " John Davis",
+            " John Fox",
+            " Adam Haracz",
+            " Randall Park",
+            " Rachel Pegram",
+            " Robert Petrovicz",
+            " Vanessa Ramos",
+            " Frank Sackett"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BlockbusterSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BlockbusterSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BlockbusterSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_7b977e37-88f2-5bd3-9da8-4c0791ed98e0",
+    "seasonId": "AggregatedSeason_3d299505-fa37-54a8-8628-61e53c1d2328",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "TV-14",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

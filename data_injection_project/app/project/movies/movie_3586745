@@ -1,0 +1,301 @@
+{
+    "externalId": "AggregatedMovie_7a532571-9899-5673-a8dc-58612cfb5038",
+    "clientContentId": "PACK0000000007637121",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "GOD'S CREATURES",
+            "may": "GOD'S CREATURES",
+            "tam": "GOD'S CREATURES",
+            "chi": "GOD'S CREATURES",
+            "tha": "GOD'S CREATURES",
+            "ind": "GOD'S CREATURES"
+        },
+        "long": {
+            "eng": "GOD'S CREATURES",
+            "may": "GOD'S CREATURES",
+            "tam": "GOD'S CREATURES",
+            "chi": "GOD'S CREATURES",
+            "tha": "GOD'S CREATURES",
+            "ind": "GOD'S CREATURES"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "In a windswept fishing village, a mother is torn between protecting her beloved son and her own sense of right and wrong. A lie she tells for him rips apart their family and close-knit community in this tense, sweepingly emotional epic.",
+            "may": "In a windswept fishing village, a mother is torn between protecting her beloved son and her own sense of right and wrong. A lie she tells for him rips apart their family and close-knit community in this tense, sweepingly emotional epic.",
+            "tam": "In a windswept fishing village, a mother is torn between protecting her beloved son and her own sense of right and wrong. A lie she tells for him rips apart their family and close-knit community in this tense, sweepingly emotional epic.",
+            "chi": "In a windswept fishing village, a mother is torn between protecting her beloved son and her own sense of right and wrong. A lie she tells for him rips apart their family and close-knit community in this tense, sweepingly emotional epic.",
+            "tha": "In a windswept fishing village, a mother is torn between protecting her beloved son and her own sense of right and wrong. A lie she tells for him rips apart their family and close-knit community in this tense, sweepingly emotional epic.",
+            "ind": "In a windswept fishing village, a mother is torn between protecting her beloved son and her own sense of right and wrong. A lie she tells for him rips apart their family and close-knit community in this tense, sweepingly emotional epic."
+        },
+        "long": {
+            "eng": "In a windswept fishing village, a mother is torn between protecting her beloved son and her own sense of right and wrong. A lie she tells for him rips apart their family and close-knit community in this tense, sweepingly emotional epic.",
+            "may": "In a windswept fishing village, a mother is torn between protecting her beloved son and her own sense of right and wrong. A lie she tells for him rips apart their family and close-knit community in this tense, sweepingly emotional epic.",
+            "tam": "In a windswept fishing village, a mother is torn between protecting her beloved son and her own sense of right and wrong. A lie she tells for him rips apart their family and close-knit community in this tense, sweepingly emotional epic.",
+            "chi": "In a windswept fishing village, a mother is torn between protecting her beloved son and her own sense of right and wrong. A lie she tells for him rips apart their family and close-knit community in this tense, sweepingly emotional epic.",
+            "tha": "In a windswept fishing village, a mother is torn between protecting her beloved son and her own sense of right and wrong. A lie she tells for him rips apart their family and close-knit community in this tense, sweepingly emotional epic.",
+            "ind": "In a windswept fishing village, a mother is torn between protecting her beloved son and her own sense of right and wrong. A lie she tells for him rips apart their family and close-knit community in this tense, sweepingly emotional epic."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Emily Watson",
+            " Paul Mescal",
+            " Aisling Franciosi",
+            " Declan Conlon",
+            " Marion O'Dwyer",
+            " Toni O'RourkeBrendan McCormackIsabelle ConnollyRest of cast listed alphabetically:Barry Barnes"
+        ],
+        "may": [
+            "Emily Watson",
+            " Paul Mescal",
+            " Aisling Franciosi",
+            " Declan Conlon",
+            " Marion O'Dwyer",
+            " Toni O'RourkeBrendan McCormackIsabelle ConnollyRest of cast listed alphabetically:Barry Barnes"
+        ],
+        "tam": [
+            "Emily Watson",
+            " Paul Mescal",
+            " Aisling Franciosi",
+            " Declan Conlon",
+            " Marion O'Dwyer",
+            " Toni O'RourkeBrendan McCormackIsabelle ConnollyRest of cast listed alphabetically:Barry Barnes"
+        ],
+        "chi": [
+            "Emily Watson",
+            " Paul Mescal",
+            " Aisling Franciosi",
+            " Declan Conlon",
+            " Marion O'Dwyer",
+            " Toni O'RourkeBrendan McCormackIsabelle ConnollyRest of cast listed alphabetically:Barry Barnes"
+        ],
+        "tha": [
+            "Emily Watson",
+            " Paul Mescal",
+            " Aisling Franciosi",
+            " Declan Conlon",
+            " Marion O'Dwyer",
+            " Toni O'RourkeBrendan McCormackIsabelle ConnollyRest of cast listed alphabetically:Barry Barnes"
+        ],
+        "ind": [
+            "Emily Watson",
+            " Paul Mescal",
+            " Aisling Franciosi",
+            " Declan Conlon",
+            " Marion O'Dwyer",
+            " Toni O'RourkeBrendan McCormackIsabelle ConnollyRest of cast listed alphabetically:Barry Barnes"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Saela Davis",
+            " Anna Rose Holmer"
+        ],
+        "may": [
+            "Saela Davis",
+            " Anna Rose Holmer"
+        ],
+        "tam": [
+            "Saela Davis",
+            " Anna Rose Holmer"
+        ],
+        "chi": [
+            "Saela Davis",
+            " Anna Rose Holmer"
+        ],
+        "tha": [
+            "Saela Davis",
+            " Anna Rose Holmer"
+        ],
+        "ind": [
+            "Saela Davis",
+            " Anna Rose Holmer"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Fodhla Cronin O'Reilly",
+            " Saela Davis",
+            " Emmet Fleming",
+            " Rose Garnett",
+            " Celine Haddad",
+            " Anna Rose HolmerRichard MansellJeffrey PenmanRob WatsonMichael Wood"
+        ],
+        "may": [
+            "Fodhla Cronin O'Reilly",
+            " Saela Davis",
+            " Emmet Fleming",
+            " Rose Garnett",
+            " Celine Haddad",
+            " Anna Rose HolmerRichard MansellJeffrey PenmanRob WatsonMichael Wood"
+        ],
+        "tam": [
+            "Fodhla Cronin O'Reilly",
+            " Saela Davis",
+            " Emmet Fleming",
+            " Rose Garnett",
+            " Celine Haddad",
+            " Anna Rose HolmerRichard MansellJeffrey PenmanRob WatsonMichael Wood"
+        ],
+        "chi": [
+            "Fodhla Cronin O'Reilly",
+            " Saela Davis",
+            " Emmet Fleming",
+            " Rose Garnett",
+            " Celine Haddad",
+            " Anna Rose HolmerRichard MansellJeffrey PenmanRob WatsonMichael Wood"
+        ],
+        "tha": [
+            "Fodhla Cronin O'Reilly",
+            " Saela Davis",
+            " Emmet Fleming",
+            " Rose Garnett",
+            " Celine Haddad",
+            " Anna Rose HolmerRichard MansellJeffrey PenmanRob WatsonMichael Wood"
+        ],
+        "ind": [
+            "Fodhla Cronin O'Reilly",
+            " Saela Davis",
+            " Emmet Fleming",
+            " Rose Garnett",
+            " Celine Haddad",
+            " Anna Rose HolmerRichard MansellJeffrey PenmanRob WatsonMichael Wood"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/GOD'SCREATURES_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/GOD'SCREATURES_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/GOD'SCREATURES_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "5.9",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

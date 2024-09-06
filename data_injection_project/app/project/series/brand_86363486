@@ -1,0 +1,325 @@
+{
+    "externalId": "AggregatedSeries_eb544678-1621-59e9-92c6-8bb3e79c1046",
+    "clientContentId": "PACK0000000006314663",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Wednesday",
+            "may": "Wednesday",
+            "tam": "Wednesday",
+            "chi": "Wednesday",
+            "tha": "Wednesday",
+            "ind": "Wednesday"
+        },
+        "long": {
+            "eng": "Wednesday",
+            "may": "Wednesday",
+            "tam": "Wednesday",
+            "chi": "Wednesday",
+            "tha": "Wednesday",
+            "ind": "Wednesday"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Follows Wednesday Addams' years as a student, when she attempts to master her emerging psychic ability, thwart a killing spree, and solve the mystery that embroiled her parents.",
+            "may": "Follows Wednesday Addams' years as a student, when she attempts to master her emerging psychic ability, thwart a killing spree, and solve the mystery that embroiled her parents.",
+            "tam": "Follows Wednesday Addams' years as a student, when she attempts to master her emerging psychic ability, thwart a killing spree, and solve the mystery that embroiled her parents.",
+            "chi": "Follows Wednesday Addams' years as a student, when she attempts to master her emerging psychic ability, thwart a killing spree, and solve the mystery that embroiled her parents.",
+            "tha": "Follows Wednesday Addams' years as a student, when she attempts to master her emerging psychic ability, thwart a killing spree, and solve the mystery that embroiled her parents.",
+            "ind": "Follows Wednesday Addams' years as a student, when she attempts to master her emerging psychic ability, thwart a killing spree, and solve the mystery that embroiled her parents."
+        },
+        "long": {
+            "eng": "Follows Wednesday Addams' years as a student, when she attempts to master her emerging psychic ability, thwart a killing spree, and solve the mystery that embroiled her parents.",
+            "may": "Follows Wednesday Addams' years as a student, when she attempts to master her emerging psychic ability, thwart a killing spree, and solve the mystery that embroiled her parents.",
+            "tam": "Follows Wednesday Addams' years as a student, when she attempts to master her emerging psychic ability, thwart a killing spree, and solve the mystery that embroiled her parents.",
+            "chi": "Follows Wednesday Addams' years as a student, when she attempts to master her emerging psychic ability, thwart a killing spree, and solve the mystery that embroiled her parents.",
+            "tha": "Follows Wednesday Addams' years as a student, when she attempts to master her emerging psychic ability, thwart a killing spree, and solve the mystery that embroiled her parents.",
+            "ind": "Follows Wednesday Addams' years as a student, when she attempts to master her emerging psychic ability, thwart a killing spree, and solve the mystery that embroiled her parents."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Jenna Ortega",
+            " Hunter Doohan",
+            " Percy Hynes White",
+            " Emma Myers",
+            " Joy Sunday",
+            " Georgie Farmer",
+            " Christina Ricci",
+            " Victor Dorobantu",
+            " Gwendoline Christie",
+            " Riki Lindhome"
+        ],
+        "may": [
+            "Jenna Ortega",
+            " Hunter Doohan",
+            " Percy Hynes White",
+            " Emma Myers",
+            " Joy Sunday",
+            " Georgie Farmer",
+            " Christina Ricci",
+            " Victor Dorobantu",
+            " Gwendoline Christie",
+            " Riki Lindhome"
+        ],
+        "tam": [
+            "Jenna Ortega",
+            " Hunter Doohan",
+            " Percy Hynes White",
+            " Emma Myers",
+            " Joy Sunday",
+            " Georgie Farmer",
+            " Christina Ricci",
+            " Victor Dorobantu",
+            " Gwendoline Christie",
+            " Riki Lindhome"
+        ],
+        "chi": [
+            "Jenna Ortega",
+            " Hunter Doohan",
+            " Percy Hynes White",
+            " Emma Myers",
+            " Joy Sunday",
+            " Georgie Farmer",
+            " Christina Ricci",
+            " Victor Dorobantu",
+            " Gwendoline Christie",
+            " Riki Lindhome"
+        ],
+        "tha": [
+            "Jenna Ortega",
+            " Hunter Doohan",
+            " Percy Hynes White",
+            " Emma Myers",
+            " Joy Sunday",
+            " Georgie Farmer",
+            " Christina Ricci",
+            " Victor Dorobantu",
+            " Gwendoline Christie",
+            " Riki Lindhome"
+        ],
+        "ind": [
+            "Jenna Ortega",
+            " Hunter Doohan",
+            " Percy Hynes White",
+            " Emma Myers",
+            " Joy Sunday",
+            " Georgie Farmer",
+            " Christina Ricci",
+            " Victor Dorobantu",
+            " Gwendoline Christie",
+            " Riki Lindhome"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Tim Burton",
+            " James Marshall",
+            " Gandja Monteiro"
+        ],
+        "may": [
+            "Tim Burton",
+            " James Marshall",
+            " Gandja Monteiro"
+        ],
+        "tam": [
+            "Tim Burton",
+            " James Marshall",
+            " Gandja Monteiro"
+        ],
+        "chi": [
+            "Tim Burton",
+            " James Marshall",
+            " Gandja Monteiro"
+        ],
+        "tha": [
+            "Tim Burton",
+            " James Marshall",
+            " Gandja Monteiro"
+        ],
+        "ind": [
+            "Tim Burton",
+            " James Marshall",
+            " Gandja Monteiro"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Kayla Alpert",
+            " Gail Berman",
+            " Tim Burton",
+            " Jonathan Glickman",
+            " Carla Gonz\u00e1lez Vargas",
+            " Alfred Gough",
+            " Tommy Harper",
+            " Nick Iannelli",
+            " Kevin Lafferty",
+            " Miles Millar"
+        ],
+        "may": [
+            "Kayla Alpert",
+            " Gail Berman",
+            " Tim Burton",
+            " Jonathan Glickman",
+            " Carla Gonz\u00e1lez Vargas",
+            " Alfred Gough",
+            " Tommy Harper",
+            " Nick Iannelli",
+            " Kevin Lafferty",
+            " Miles Millar"
+        ],
+        "tam": [
+            "Kayla Alpert",
+            " Gail Berman",
+            " Tim Burton",
+            " Jonathan Glickman",
+            " Carla Gonz\u00e1lez Vargas",
+            " Alfred Gough",
+            " Tommy Harper",
+            " Nick Iannelli",
+            " Kevin Lafferty",
+            " Miles Millar"
+        ],
+        "chi": [
+            "Kayla Alpert",
+            " Gail Berman",
+            " Tim Burton",
+            " Jonathan Glickman",
+            " Carla Gonz\u00e1lez Vargas",
+            " Alfred Gough",
+            " Tommy Harper",
+            " Nick Iannelli",
+            " Kevin Lafferty",
+            " Miles Millar"
+        ],
+        "tha": [
+            "Kayla Alpert",
+            " Gail Berman",
+            " Tim Burton",
+            " Jonathan Glickman",
+            " Carla Gonz\u00e1lez Vargas",
+            " Alfred Gough",
+            " Tommy Harper",
+            " Nick Iannelli",
+            " Kevin Lafferty",
+            " Miles Millar"
+        ],
+        "ind": [
+            "Kayla Alpert",
+            " Gail Berman",
+            " Tim Burton",
+            " Jonathan Glickman",
+            " Carla Gonz\u00e1lez Vargas",
+            " Alfred Gough",
+            " Tommy Harper",
+            " Nick Iannelli",
+            " Kevin Lafferty",
+            " Miles Millar"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/WednesdaySeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/WednesdaySeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/WednesdaySeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "8",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2022,
+    "maxConcurrentStreams": 0
+}

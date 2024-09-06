@@ -1,0 +1,313 @@
+{
+    "externalId": "AggregatedMovie_0b5f7bb7-5df8-5a78-9875-1f87b4b1c09b",
+    "clientContentId": "PACK0000000006866948",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "American Carnage (2022)",
+            "may": "American Carnage (2022)",
+            "tam": "American Carnage (2022)",
+            "chi": "American Carnage (2022)",
+            "tha": "American Carnage (2022)",
+            "ind": "American Carnage (2022)"
+        },
+        "long": {
+            "eng": "American Carnage (2022)",
+            "may": "American Carnage (2022)",
+            "tam": "American Carnage (2022)",
+            "chi": "American Carnage (2022)",
+            "tha": "American Carnage (2022)",
+            "ind": "American Carnage (2022)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "After a governor issues an executive order to arrest the children of undocumented immigrants, the newly detained youth are offered an opportunity to have their charges dropped by volunteering to provide care to the elderly.",
+            "may": "After a governor issues an executive order to arrest the children of undocumented immigrants, the newly detained youth are offered an opportunity to have their charges dropped by volunteering to provide care to the elderly.",
+            "tam": "After a governor issues an executive order to arrest the children of undocumented immigrants, the newly detained youth are offered an opportunity to have their charges dropped by volunteering to provide care to the elderly.",
+            "chi": "After a governor issues an executive order to arrest the children of undocumented immigrants, the newly detained youth are offered an opportunity to have their charges dropped by volunteering to provide care to the elderly.",
+            "tha": "After a governor issues an executive order to arrest the children of undocumented immigrants, the newly detained youth are offered an opportunity to have their charges dropped by volunteering to provide care to the elderly.",
+            "ind": "After a governor issues an executive order to arrest the children of undocumented immigrants, the newly detained youth are offered an opportunity to have their charges dropped by volunteering to provide care to the elderly."
+        },
+        "long": {
+            "eng": "After a governor issues an executive order to arrest the children of undocumented immigrants, the newly detained youth are offered an opportunity to have their charges dropped by volunteering to provide care to the elderly.",
+            "may": "After a governor issues an executive order to arrest the children of undocumented immigrants, the newly detained youth are offered an opportunity to have their charges dropped by volunteering to provide care to the elderly.",
+            "tam": "After a governor issues an executive order to arrest the children of undocumented immigrants, the newly detained youth are offered an opportunity to have their charges dropped by volunteering to provide care to the elderly.",
+            "chi": "After a governor issues an executive order to arrest the children of undocumented immigrants, the newly detained youth are offered an opportunity to have their charges dropped by volunteering to provide care to the elderly.",
+            "tha": "After a governor issues an executive order to arrest the children of undocumented immigrants, the newly detained youth are offered an opportunity to have their charges dropped by volunteering to provide care to the elderly.",
+            "ind": "After a governor issues an executive order to arrest the children of undocumented immigrants, the newly detained youth are offered an opportunity to have their charges dropped by volunteering to provide care to the elderly."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jenna Ortega",
+            " Jorge Lendeborg Jr.",
+            " Allen Maldonado",
+            " Eric Dane",
+            " Brett Cullen",
+            " Jorge Diaz",
+            " Bella Ortiz",
+            " Yumarie Morales",
+            " Catherine McCafferty",
+            " Andrew Kaempfer"
+        ],
+        "may": [
+            "Jenna Ortega",
+            " Jorge Lendeborg Jr.",
+            " Allen Maldonado",
+            " Eric Dane",
+            " Brett Cullen",
+            " Jorge Diaz",
+            " Bella Ortiz",
+            " Yumarie Morales",
+            " Catherine McCafferty",
+            " Andrew Kaempfer"
+        ],
+        "tam": [
+            "Jenna Ortega",
+            " Jorge Lendeborg Jr.",
+            " Allen Maldonado",
+            " Eric Dane",
+            " Brett Cullen",
+            " Jorge Diaz",
+            " Bella Ortiz",
+            " Yumarie Morales",
+            " Catherine McCafferty",
+            " Andrew Kaempfer"
+        ],
+        "chi": [
+            "Jenna Ortega",
+            " Jorge Lendeborg Jr.",
+            " Allen Maldonado",
+            " Eric Dane",
+            " Brett Cullen",
+            " Jorge Diaz",
+            " Bella Ortiz",
+            " Yumarie Morales",
+            " Catherine McCafferty",
+            " Andrew Kaempfer"
+        ],
+        "tha": [
+            "Jenna Ortega",
+            " Jorge Lendeborg Jr.",
+            " Allen Maldonado",
+            " Eric Dane",
+            " Brett Cullen",
+            " Jorge Diaz",
+            " Bella Ortiz",
+            " Yumarie Morales",
+            " Catherine McCafferty",
+            " Andrew Kaempfer"
+        ],
+        "ind": [
+            "Jenna Ortega",
+            " Jorge Lendeborg Jr.",
+            " Allen Maldonado",
+            " Eric Dane",
+            " Brett Cullen",
+            " Jorge Diaz",
+            " Bella Ortiz",
+            " Yumarie Morales",
+            " Catherine McCafferty",
+            " Andrew Kaempfer"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Diego Hallivis"
+        ],
+        "may": [
+            "Diego Hallivis"
+        ],
+        "tam": [
+            "Diego Hallivis"
+        ],
+        "chi": [
+            "Diego Hallivis"
+        ],
+        "tha": [
+            "Diego Hallivis"
+        ],
+        "ind": [
+            "Diego Hallivis"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Braden Aftergood",
+            " Rocco Giamatteo",
+            " Diego Hallivis",
+            " Julio Hallivis",
+            " Andres Rosende"
+        ],
+        "may": [
+            "Braden Aftergood",
+            " Rocco Giamatteo",
+            " Diego Hallivis",
+            " Julio Hallivis",
+            " Andres Rosende"
+        ],
+        "tam": [
+            "Braden Aftergood",
+            " Rocco Giamatteo",
+            " Diego Hallivis",
+            " Julio Hallivis",
+            " Andres Rosende"
+        ],
+        "chi": [
+            "Braden Aftergood",
+            " Rocco Giamatteo",
+            " Diego Hallivis",
+            " Julio Hallivis",
+            " Andres Rosende"
+        ],
+        "tha": [
+            "Braden Aftergood",
+            " Rocco Giamatteo",
+            " Diego Hallivis",
+            " Julio Hallivis",
+            " Andres Rosende"
+        ],
+        "ind": [
+            "Braden Aftergood",
+            " Rocco Giamatteo",
+            " Diego Hallivis",
+            " Julio Hallivis",
+            " Andres Rosende"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Comedy",
+                    "may": " Comedy",
+                    "tam": " Comedy",
+                    "chi": " Comedy",
+                    "tha": " Comedy",
+                    "ind": " Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AmericanCarnage_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AmericanCarnage_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AmericanCarnage_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "4.9",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

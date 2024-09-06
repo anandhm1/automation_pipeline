@@ -1,0 +1,353 @@
+{
+    "externalId": "AggregatedSeason_2ef0b6ae-6eaa-50bd-8461-8b0f0f203fe3",
+    "clientContentId": "PACK0000000002431423",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "chi": " Horror",
+                    "tam": " Horror",
+                    "ind": " Horror",
+                    "tha": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Iman Benson",
+            " Igby Rigney",
+            " Sadoc Vazkez",
+            " Ruth Codd",
+            " Annarah Cymone",
+            " William Chris Sumpter",
+            " Adia",
+            " Aya Furukawa",
+            " Sauriyan Sapkota",
+            " Matt Biedel"
+        ],
+        "may": [
+            "Iman Benson",
+            " Igby Rigney",
+            " Sadoc Vazkez",
+            " Ruth Codd",
+            " Annarah Cymone",
+            " William Chris Sumpter",
+            " Adia",
+            " Aya Furukawa",
+            " Sauriyan Sapkota",
+            " Matt Biedel"
+        ],
+        "chi": [
+            "Iman Benson",
+            " Igby Rigney",
+            " Sadoc Vazkez",
+            " Ruth Codd",
+            " Annarah Cymone",
+            " William Chris Sumpter",
+            " Adia",
+            " Aya Furukawa",
+            " Sauriyan Sapkota",
+            " Matt Biedel"
+        ],
+        "tam": [
+            "Iman Benson",
+            " Igby Rigney",
+            " Sadoc Vazkez",
+            " Ruth Codd",
+            " Annarah Cymone",
+            " William Chris Sumpter",
+            " Adia",
+            " Aya Furukawa",
+            " Sauriyan Sapkota",
+            " Matt Biedel"
+        ],
+        "ind": [
+            "Iman Benson",
+            " Igby Rigney",
+            " Sadoc Vazkez",
+            " Ruth Codd",
+            " Annarah Cymone",
+            " William Chris Sumpter",
+            " Adia",
+            " Aya Furukawa",
+            " Sauriyan Sapkota",
+            " Matt Biedel"
+        ],
+        "tha": [
+            "Iman Benson",
+            " Igby Rigney",
+            " Sadoc Vazkez",
+            " Ruth Codd",
+            " Annarah Cymone",
+            " William Chris Sumpter",
+            " Adia",
+            " Aya Furukawa",
+            " Sauriyan Sapkota",
+            " Matt Biedel"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Axelle Carolyn",
+            " Michael Fimognari",
+            " Mike Flanagan",
+            " Viet Nguyen",
+            " Morgan Beggs",
+            " Emmanuel Osei-Kuffour"
+        ],
+        "may": [
+            "Axelle Carolyn",
+            " Michael Fimognari",
+            " Mike Flanagan",
+            " Viet Nguyen",
+            " Morgan Beggs",
+            " Emmanuel Osei-Kuffour"
+        ],
+        "chi": [
+            "Axelle Carolyn",
+            " Michael Fimognari",
+            " Mike Flanagan",
+            " Viet Nguyen",
+            " Morgan Beggs",
+            " Emmanuel Osei-Kuffour"
+        ],
+        "tam": [
+            "Axelle Carolyn",
+            " Michael Fimognari",
+            " Mike Flanagan",
+            " Viet Nguyen",
+            " Morgan Beggs",
+            " Emmanuel Osei-Kuffour"
+        ],
+        "ind": [
+            "Axelle Carolyn",
+            " Michael Fimognari",
+            " Mike Flanagan",
+            " Viet Nguyen",
+            " Morgan Beggs",
+            " Emmanuel Osei-Kuffour"
+        ],
+        "tha": [
+            "Axelle Carolyn",
+            " Michael Fimognari",
+            " Mike Flanagan",
+            " Viet Nguyen",
+            " Morgan Beggs",
+            " Emmanuel Osei-Kuffour"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Morgan Beggs",
+            " Julia Bicknell",
+            " Adam Fasullo",
+            " Jamie Flanagan",
+            " Mike Flanagan",
+            " Leah Fong",
+            " Elan Gale",
+            " Kathy Gilroy",
+            " Chinaka Hodge",
+            " Nancy Kirhoffer"
+        ],
+        "may": [
+            "Morgan Beggs",
+            " Julia Bicknell",
+            " Adam Fasullo",
+            " Jamie Flanagan",
+            " Mike Flanagan",
+            " Leah Fong",
+            " Elan Gale",
+            " Kathy Gilroy",
+            " Chinaka Hodge",
+            " Nancy Kirhoffer"
+        ],
+        "chi": [
+            "Morgan Beggs",
+            " Julia Bicknell",
+            " Adam Fasullo",
+            " Jamie Flanagan",
+            " Mike Flanagan",
+            " Leah Fong",
+            " Elan Gale",
+            " Kathy Gilroy",
+            " Chinaka Hodge",
+            " Nancy Kirhoffer"
+        ],
+        "tam": [
+            "Morgan Beggs",
+            " Julia Bicknell",
+            " Adam Fasullo",
+            " Jamie Flanagan",
+            " Mike Flanagan",
+            " Leah Fong",
+            " Elan Gale",
+            " Kathy Gilroy",
+            " Chinaka Hodge",
+            " Nancy Kirhoffer"
+        ],
+        "ind": [
+            "Morgan Beggs",
+            " Julia Bicknell",
+            " Adam Fasullo",
+            " Jamie Flanagan",
+            " Mike Flanagan",
+            " Leah Fong",
+            " Elan Gale",
+            " Kathy Gilroy",
+            " Chinaka Hodge",
+            " Nancy Kirhoffer"
+        ],
+        "tha": [
+            "Morgan Beggs",
+            " Julia Bicknell",
+            " Adam Fasullo",
+            " Jamie Flanagan",
+            " Mike Flanagan",
+            " Leah Fong",
+            " Elan Gale",
+            " Kathy Gilroy",
+            " Chinaka Hodge",
+            " Nancy Kirhoffer"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_c66d8a62-fa93-5623-b21f-1f07ca4bd335",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "THE MIDNIGHT CLUB Season 1",
+            "may": "THE MIDNIGHT CLUB Season 1",
+            "chi": "THE MIDNIGHT CLUB Season 1",
+            "tam": "THE MIDNIGHT CLUB Season 1",
+            "ind": "THE MIDNIGHT CLUB Season 1",
+            "tha": "THE MIDNIGHT CLUB Season 1"
+        },
+        "long": {
+            "eng": "THE MIDNIGHT CLUB Season 1",
+            "may": "THE MIDNIGHT CLUB Season 1",
+            "chi": "THE MIDNIGHT CLUB Season 1",
+            "tam": "THE MIDNIGHT CLUB Season 1",
+            "ind": "THE MIDNIGHT CLUB Season 1",
+            "tha": "THE MIDNIGHT CLUB Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "may": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "chi": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "tam": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "ind": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "tha": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories."
+        },
+        "long": {
+            "eng": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "may": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "chi": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "tam": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "ind": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories.",
+            "tha": "The Midnight Club follows an octet of terminally-ill teenage patients at Brightcliffe Hospice as they gather at midnight to share scary stories."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/THEMIDNIGHTCLUBSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/THEMIDNIGHTCLUBSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/THEMIDNIGHTCLUBSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

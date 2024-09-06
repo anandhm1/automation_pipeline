@@ -1,0 +1,307 @@
+{
+    "externalId": "AggregatedMovie_ddfcf58c-6d34-5caa-8f0b-596d4960a5f0",
+    "clientContentId": "PACK0000000004597438",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "A Wrinkle in Time",
+            "may": "A Wrinkle in Time",
+            "tam": "A Wrinkle in Time",
+            "chi": "A Wrinkle in Time",
+            "tha": "A Wrinkle in Time",
+            "ind": "A Wrinkle in Time"
+        },
+        "long": {
+            "eng": "A Wrinkle in Time",
+            "may": "A Wrinkle in Time",
+            "tam": "A Wrinkle in Time",
+            "chi": "A Wrinkle in Time",
+            "tha": "A Wrinkle in Time",
+            "ind": "A Wrinkle in Time"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.",
+            "may": "After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.",
+            "tam": "After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.",
+            "chi": "After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.",
+            "tha": "After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.",
+            "ind": "After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him."
+        },
+        "long": {
+            "eng": "After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.",
+            "may": "After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.",
+            "tam": "After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.",
+            "chi": "After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.",
+            "tha": "After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.",
+            "ind": "After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Storm Reid",
+            " Oprah Winfrey",
+            " Reese Witherspoon",
+            " Mindy Kaling",
+            " Levi Miller",
+            " Deric McCabe",
+            " Chris Pine",
+            " Gugu Mbatha-Raw",
+            " Zach Galifianakis",
+            " Michael Pe\u00f1a"
+        ],
+        "may": [
+            "Storm Reid",
+            " Oprah Winfrey",
+            " Reese Witherspoon",
+            " Mindy Kaling",
+            " Levi Miller",
+            " Deric McCabe",
+            " Chris Pine",
+            " Gugu Mbatha-Raw",
+            " Zach Galifianakis",
+            " Michael Pe\u00f1a"
+        ],
+        "tam": [
+            "Storm Reid",
+            " Oprah Winfrey",
+            " Reese Witherspoon",
+            " Mindy Kaling",
+            " Levi Miller",
+            " Deric McCabe",
+            " Chris Pine",
+            " Gugu Mbatha-Raw",
+            " Zach Galifianakis",
+            " Michael Pe\u00f1a"
+        ],
+        "chi": [
+            "Storm Reid",
+            " Oprah Winfrey",
+            " Reese Witherspoon",
+            " Mindy Kaling",
+            " Levi Miller",
+            " Deric McCabe",
+            " Chris Pine",
+            " Gugu Mbatha-Raw",
+            " Zach Galifianakis",
+            " Michael Pe\u00f1a"
+        ],
+        "tha": [
+            "Storm Reid",
+            " Oprah Winfrey",
+            " Reese Witherspoon",
+            " Mindy Kaling",
+            " Levi Miller",
+            " Deric McCabe",
+            " Chris Pine",
+            " Gugu Mbatha-Raw",
+            " Zach Galifianakis",
+            " Michael Pe\u00f1a"
+        ],
+        "ind": [
+            "Storm Reid",
+            " Oprah Winfrey",
+            " Reese Witherspoon",
+            " Mindy Kaling",
+            " Levi Miller",
+            " Deric McCabe",
+            " Chris Pine",
+            " Gugu Mbatha-Raw",
+            " Zach Galifianakis",
+            " Michael Pe\u00f1a"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Ava DuVernay"
+        ],
+        "may": [
+            "Ava DuVernay"
+        ],
+        "tam": [
+            "Ava DuVernay"
+        ],
+        "chi": [
+            "Ava DuVernay"
+        ],
+        "tha": [
+            "Ava DuVernay"
+        ],
+        "ind": [
+            "Ava DuVernay"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Adam Borba",
+            " Catherine Hand",
+            " Douglas C. Merrifield",
+            " Jim Whitaker"
+        ],
+        "may": [
+            "Adam Borba",
+            " Catherine Hand",
+            " Douglas C. Merrifield",
+            " Jim Whitaker"
+        ],
+        "tam": [
+            "Adam Borba",
+            " Catherine Hand",
+            " Douglas C. Merrifield",
+            " Jim Whitaker"
+        ],
+        "chi": [
+            "Adam Borba",
+            " Catherine Hand",
+            " Douglas C. Merrifield",
+            " Jim Whitaker"
+        ],
+        "tha": [
+            "Adam Borba",
+            " Catherine Hand",
+            " Douglas C. Merrifield",
+            " Jim Whitaker"
+        ],
+        "ind": [
+            "Adam Borba",
+            " Catherine Hand",
+            " Douglas C. Merrifield",
+            " Jim Whitaker"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Adventure",
+                    "may": "Adventure",
+                    "tam": "Adventure",
+                    "chi": "Adventure",
+                    "tha": "Adventure",
+                    "ind": "Adventure"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Family",
+                    "may": " Family",
+                    "tam": " Family",
+                    "chi": " Family",
+                    "tha": " Family",
+                    "ind": " Family"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AWrinkleinTime_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AWrinkleinTime_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AWrinkleinTime_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2018,
+    "rating": "4.2",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

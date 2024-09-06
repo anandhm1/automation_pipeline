@@ -1,0 +1,377 @@
+{
+    "externalId": "AggregatedSeason_d0d25a42-6e84-57bc-9aa4-7081414a00af",
+    "clientContentId": "PACK0000000001569513",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "chi": "Action",
+                    "tam": "Action",
+                    "ind": "Action",
+                    "tha": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "chi": " Adventure",
+                    "tam": " Adventure",
+                    "ind": " Adventure",
+                    "tha": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2018,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Brenton Thwaites",
+            " Anna Diop",
+            " Ryan Potter",
+            " Teagan Croft",
+            " Curran Walters",
+            " Joshua Orpin",
+            " Conor Leslie",
+            " Minka Kelly",
+            " Alan Ritchson",
+            " Jay Lycurgo"
+        ],
+        "may": [
+            "Brenton Thwaites",
+            " Anna Diop",
+            " Ryan Potter",
+            " Teagan Croft",
+            " Curran Walters",
+            " Joshua Orpin",
+            " Conor Leslie",
+            " Minka Kelly",
+            " Alan Ritchson",
+            " Jay Lycurgo"
+        ],
+        "chi": [
+            "Brenton Thwaites",
+            " Anna Diop",
+            " Ryan Potter",
+            " Teagan Croft",
+            " Curran Walters",
+            " Joshua Orpin",
+            " Conor Leslie",
+            " Minka Kelly",
+            " Alan Ritchson",
+            " Jay Lycurgo"
+        ],
+        "tam": [
+            "Brenton Thwaites",
+            " Anna Diop",
+            " Ryan Potter",
+            " Teagan Croft",
+            " Curran Walters",
+            " Joshua Orpin",
+            " Conor Leslie",
+            " Minka Kelly",
+            " Alan Ritchson",
+            " Jay Lycurgo"
+        ],
+        "ind": [
+            "Brenton Thwaites",
+            " Anna Diop",
+            " Ryan Potter",
+            " Teagan Croft",
+            " Curran Walters",
+            " Joshua Orpin",
+            " Conor Leslie",
+            " Minka Kelly",
+            " Alan Ritchson",
+            " Jay Lycurgo"
+        ],
+        "tha": [
+            "Brenton Thwaites",
+            " Anna Diop",
+            " Ryan Potter",
+            " Teagan Croft",
+            " Curran Walters",
+            " Joshua Orpin",
+            " Conor Leslie",
+            " Minka Kelly",
+            " Alan Ritchson",
+            " Jay Lycurgo"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Carol Banker",
+            " Boris Mojsovski",
+            " Nick Copus",
+            " Nick Gomez",
+            " Millicent Shelton",
+            " Larnell Stovall",
+            " Akiva Goldsman",
+            " Alex Kalymnios",
+            " Kevin Rodney Sullivan",
+            " Glen Winter"
+        ],
+        "may": [
+            "Carol Banker",
+            " Boris Mojsovski",
+            " Nick Copus",
+            " Nick Gomez",
+            " Millicent Shelton",
+            " Larnell Stovall",
+            " Akiva Goldsman",
+            " Alex Kalymnios",
+            " Kevin Rodney Sullivan",
+            " Glen Winter"
+        ],
+        "chi": [
+            "Carol Banker",
+            " Boris Mojsovski",
+            " Nick Copus",
+            " Nick Gomez",
+            " Millicent Shelton",
+            " Larnell Stovall",
+            " Akiva Goldsman",
+            " Alex Kalymnios",
+            " Kevin Rodney Sullivan",
+            " Glen Winter"
+        ],
+        "tam": [
+            "Carol Banker",
+            " Boris Mojsovski",
+            " Nick Copus",
+            " Nick Gomez",
+            " Millicent Shelton",
+            " Larnell Stovall",
+            " Akiva Goldsman",
+            " Alex Kalymnios",
+            " Kevin Rodney Sullivan",
+            " Glen Winter"
+        ],
+        "ind": [
+            "Carol Banker",
+            " Boris Mojsovski",
+            " Nick Copus",
+            " Nick Gomez",
+            " Millicent Shelton",
+            " Larnell Stovall",
+            " Akiva Goldsman",
+            " Alex Kalymnios",
+            " Kevin Rodney Sullivan",
+            " Glen Winter"
+        ],
+        "tha": [
+            "Carol Banker",
+            " Boris Mojsovski",
+            " Nick Copus",
+            " Nick Gomez",
+            " Millicent Shelton",
+            " Larnell Stovall",
+            " Akiva Goldsman",
+            " Alex Kalymnios",
+            " Kevin Rodney Sullivan",
+            " Glen Winter"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Tom Flores",
+            " Greg Berlanti",
+            " Akiva Goldsman",
+            " Richard Hatem",
+            " Geoff Johns",
+            " Sarah Schechter",
+            " Greg Walker",
+            " Jamie Gorenberg",
+            " Michael Wray",
+            " Carol Banker"
+        ],
+        "may": [
+            "Tom Flores",
+            " Greg Berlanti",
+            " Akiva Goldsman",
+            " Richard Hatem",
+            " Geoff Johns",
+            " Sarah Schechter",
+            " Greg Walker",
+            " Jamie Gorenberg",
+            " Michael Wray",
+            " Carol Banker"
+        ],
+        "chi": [
+            "Tom Flores",
+            " Greg Berlanti",
+            " Akiva Goldsman",
+            " Richard Hatem",
+            " Geoff Johns",
+            " Sarah Schechter",
+            " Greg Walker",
+            " Jamie Gorenberg",
+            " Michael Wray",
+            " Carol Banker"
+        ],
+        "tam": [
+            "Tom Flores",
+            " Greg Berlanti",
+            " Akiva Goldsman",
+            " Richard Hatem",
+            " Geoff Johns",
+            " Sarah Schechter",
+            " Greg Walker",
+            " Jamie Gorenberg",
+            " Michael Wray",
+            " Carol Banker"
+        ],
+        "ind": [
+            "Tom Flores",
+            " Greg Berlanti",
+            " Akiva Goldsman",
+            " Richard Hatem",
+            " Geoff Johns",
+            " Sarah Schechter",
+            " Greg Walker",
+            " Jamie Gorenberg",
+            " Michael Wray",
+            " Carol Banker"
+        ],
+        "tha": [
+            "Tom Flores",
+            " Greg Berlanti",
+            " Akiva Goldsman",
+            " Richard Hatem",
+            " Geoff Johns",
+            " Sarah Schechter",
+            " Greg Walker",
+            " Jamie Gorenberg",
+            " Michael Wray",
+            " Carol Banker"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_90399ea1-16d4-5e14-baf5-c5ea2c16e70a",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Titans Season 1",
+            "may": "Titans Season 1",
+            "chi": "Titans Season 1",
+            "tam": "Titans Season 1",
+            "ind": "Titans Season 1",
+            "tha": "Titans Season 1"
+        },
+        "long": {
+            "eng": "Titans Season 1",
+            "may": "Titans Season 1",
+            "chi": "Titans Season 1",
+            "tam": "Titans Season 1",
+            "ind": "Titans Season 1",
+            "tha": "Titans Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A team of young superheroes combat evil and other perils.",
+            "may": "A team of young superheroes combat evil and other perils.",
+            "chi": "A team of young superheroes combat evil and other perils.",
+            "tam": "A team of young superheroes combat evil and other perils.",
+            "ind": "A team of young superheroes combat evil and other perils.",
+            "tha": "A team of young superheroes combat evil and other perils."
+        },
+        "long": {
+            "eng": "A team of young superheroes combat evil and other perils.",
+            "may": "A team of young superheroes combat evil and other perils.",
+            "chi": "A team of young superheroes combat evil and other perils.",
+            "tam": "A team of young superheroes combat evil and other perils.",
+            "ind": "A team of young superheroes combat evil and other perils.",
+            "tha": "A team of young superheroes combat evil and other perils."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TitansSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TitansSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TitansSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

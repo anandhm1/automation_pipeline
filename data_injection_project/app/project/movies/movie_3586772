@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedMovie_cf960be0-4d17-58fe-b830-504e83dc91c1",
+    "clientContentId": "PACK0000000002940846",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "SECTION 8 (2022)",
+            "may": "SECTION 8 (2022)",
+            "tam": "SECTION 8 (2022)",
+            "chi": "SECTION 8 (2022)",
+            "tha": "SECTION 8 (2022)",
+            "ind": "SECTION 8 (2022)"
+        },
+        "long": {
+            "eng": "SECTION 8 (2022)",
+            "may": "SECTION 8 (2022)",
+            "tam": "SECTION 8 (2022)",
+            "chi": "SECTION 8 (2022)",
+            "tha": "SECTION 8 (2022)",
+            "ind": "SECTION 8 (2022)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "After avenging the murder of his family, a former soldier is sprung from prison and recruited by a shadowy government agency.",
+            "may": "After avenging the murder of his family, a former soldier is sprung from prison and recruited by a shadowy government agency.",
+            "tam": "After avenging the murder of his family, a former soldier is sprung from prison and recruited by a shadowy government agency.",
+            "chi": "After avenging the murder of his family, a former soldier is sprung from prison and recruited by a shadowy government agency.",
+            "tha": "After avenging the murder of his family, a former soldier is sprung from prison and recruited by a shadowy government agency.",
+            "ind": "After avenging the murder of his family, a former soldier is sprung from prison and recruited by a shadowy government agency."
+        },
+        "long": {
+            "eng": "After avenging the murder of his family, a former soldier is sprung from prison and recruited by a shadowy government agency.",
+            "may": "After avenging the murder of his family, a former soldier is sprung from prison and recruited by a shadowy government agency.",
+            "tam": "After avenging the murder of his family, a former soldier is sprung from prison and recruited by a shadowy government agency.",
+            "chi": "After avenging the murder of his family, a former soldier is sprung from prison and recruited by a shadowy government agency.",
+            "tha": "After avenging the murder of his family, a former soldier is sprung from prison and recruited by a shadowy government agency.",
+            "ind": "After avenging the murder of his family, a former soldier is sprung from prison and recruited by a shadowy government agency."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Ryan Kwanten",
+            " Dolph Lundgren",
+            " Dermot Mulroney",
+            " Mickey Rourke",
+            " Scott Adkins",
+            " Justin FurstenfeldMaurice CompteTracy PerezRobert LaSardoBrandon Burrows"
+        ],
+        "may": [
+            "Ryan Kwanten",
+            " Dolph Lundgren",
+            " Dermot Mulroney",
+            " Mickey Rourke",
+            " Scott Adkins",
+            " Justin FurstenfeldMaurice CompteTracy PerezRobert LaSardoBrandon Burrows"
+        ],
+        "tam": [
+            "Ryan Kwanten",
+            " Dolph Lundgren",
+            " Dermot Mulroney",
+            " Mickey Rourke",
+            " Scott Adkins",
+            " Justin FurstenfeldMaurice CompteTracy PerezRobert LaSardoBrandon Burrows"
+        ],
+        "chi": [
+            "Ryan Kwanten",
+            " Dolph Lundgren",
+            " Dermot Mulroney",
+            " Mickey Rourke",
+            " Scott Adkins",
+            " Justin FurstenfeldMaurice CompteTracy PerezRobert LaSardoBrandon Burrows"
+        ],
+        "tha": [
+            "Ryan Kwanten",
+            " Dolph Lundgren",
+            " Dermot Mulroney",
+            " Mickey Rourke",
+            " Scott Adkins",
+            " Justin FurstenfeldMaurice CompteTracy PerezRobert LaSardoBrandon Burrows"
+        ],
+        "ind": [
+            "Ryan Kwanten",
+            " Dolph Lundgren",
+            " Dermot Mulroney",
+            " Mickey Rourke",
+            " Scott Adkins",
+            " Justin FurstenfeldMaurice CompteTracy PerezRobert LaSardoBrandon Burrows"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Christian Sesma"
+        ],
+        "may": [
+            "Christian Sesma"
+        ],
+        "tam": [
+            "Christian Sesma"
+        ],
+        "chi": [
+            "Christian Sesma"
+        ],
+        "tha": [
+            "Christian Sesma"
+        ],
+        "ind": [
+            "Christian Sesma"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Scott Adkins",
+            " Brandon Burrows",
+            " Kimberly Hines",
+            " Chad Law",
+            " Dolph Lundgren",
+            " Lonnie RamatiChristian Sesma"
+        ],
+        "may": [
+            "Scott Adkins",
+            " Brandon Burrows",
+            " Kimberly Hines",
+            " Chad Law",
+            " Dolph Lundgren",
+            " Lonnie RamatiChristian Sesma"
+        ],
+        "tam": [
+            "Scott Adkins",
+            " Brandon Burrows",
+            " Kimberly Hines",
+            " Chad Law",
+            " Dolph Lundgren",
+            " Lonnie RamatiChristian Sesma"
+        ],
+        "chi": [
+            "Scott Adkins",
+            " Brandon Burrows",
+            " Kimberly Hines",
+            " Chad Law",
+            " Dolph Lundgren",
+            " Lonnie RamatiChristian Sesma"
+        ],
+        "tha": [
+            "Scott Adkins",
+            " Brandon Burrows",
+            " Kimberly Hines",
+            " Chad Law",
+            " Dolph Lundgren",
+            " Lonnie RamatiChristian Sesma"
+        ],
+        "ind": [
+            "Scott Adkins",
+            " Brandon Burrows",
+            " Kimberly Hines",
+            " Chad Law",
+            " Dolph Lundgren",
+            " Lonnie RamatiChristian Sesma"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Thriller",
+                    "may": " Thriller",
+                    "tam": " Thriller",
+                    "chi": " Thriller",
+                    "tha": " Thriller",
+                    "ind": " Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/SECTION8_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/SECTION8_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/SECTION8_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "4.1",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

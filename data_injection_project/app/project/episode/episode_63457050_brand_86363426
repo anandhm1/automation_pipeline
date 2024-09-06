@@ -1,0 +1,259 @@
+{
+    "externalId": "AggregatedTvShow_a7c6ebec-2505-539a-9b06-86ff0bc49df3",
+    "clientContentId": "PACK0000000002519036",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Our Universe - Trailer",
+            "may": "Our Universe - Trailer",
+            "tam": "Our Universe - Trailer",
+            "chi": "Our Universe - Trailer",
+            "tha": "Our Universe - Trailer",
+            "ind": "Our Universe - Trailer"
+        },
+        "long": {
+            "eng": "Our Universe - Trailer",
+            "may": "Our Universe - Trailer",
+            "tam": "Our Universe - Trailer",
+            "chi": "Our Universe - Trailer",
+            "tha": "Our Universe - Trailer",
+            "ind": "Our Universe - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "may": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "tam": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "chi": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "tha": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "ind": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman"
+        },
+        "long": {
+            "eng": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "may": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "tam": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "chi": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "tha": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "ind": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman"
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Morgan Freeman"
+        ],
+        "may": [
+            "Morgan Freeman"
+        ],
+        "tam": [
+            "Morgan Freeman"
+        ],
+        "chi": [
+            "Morgan Freeman"
+        ],
+        "tha": [
+            "Morgan Freeman"
+        ],
+        "ind": [
+            "Morgan Freeman"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Naomi Austin",
+            " Stephen Cooter",
+            " Alice Jones"
+        ],
+        "may": [
+            "Naomi Austin",
+            " Stephen Cooter",
+            " Alice Jones"
+        ],
+        "tam": [
+            "Naomi Austin",
+            " Stephen Cooter",
+            " Alice Jones"
+        ],
+        "chi": [
+            "Naomi Austin",
+            " Stephen Cooter",
+            " Alice Jones"
+        ],
+        "tha": [
+            "Naomi Austin",
+            " Stephen Cooter",
+            " Alice Jones"
+        ],
+        "ind": [
+            "Naomi Austin",
+            " Stephen Cooter",
+            " Alice Jones"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Michael Davis",
+            " Hugh Wilson",
+            " Andrew Cohen"
+        ],
+        "may": [
+            "Michael Davis",
+            " Hugh Wilson",
+            " Andrew Cohen"
+        ],
+        "tam": [
+            "Michael Davis",
+            " Hugh Wilson",
+            " Andrew Cohen"
+        ],
+        "chi": [
+            "Michael Davis",
+            " Hugh Wilson",
+            " Andrew Cohen"
+        ],
+        "tha": [
+            "Michael Davis",
+            " Hugh Wilson",
+            " Andrew Cohen"
+        ],
+        "ind": [
+            "Michael Davis",
+            " Hugh Wilson",
+            " Andrew Cohen"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "tam": "Documentary",
+                    "chi": "Documentary",
+                    "tha": "Documentary",
+                    "ind": "Documentary"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "tam": "Documentary",
+                    "chi": "Documentary",
+                    "tha": "Documentary",
+                    "ind": "Documentary"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/OurUniverseSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/OurUniverseSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/OurUniverseSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_b5c0574a-6402-52e4-bbe5-8727df0de98c",
+    "seasonId": "AggregatedSeason_451090a9-4b8e-53d9-b4ca-2c6f6f514230",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "TV-PG",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

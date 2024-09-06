@@ -1,0 +1,259 @@
+{
+    "externalId": "AggregatedSeries_797b7064-efe0-52b6-b059-0a02e7ed21dd",
+    "clientContentId": "PACK0000000008660667",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Mh370 The Plane That Disappeared",
+            "may": "Mh370 The Plane That Disappeared",
+            "tam": "Mh370 The Plane That Disappeared",
+            "chi": "Mh370 The Plane That Disappeared",
+            "tha": "Mh370 The Plane That Disappeared",
+            "ind": "Mh370 The Plane That Disappeared"
+        },
+        "long": {
+            "eng": "Mh370 The Plane That Disappeared",
+            "may": "Mh370 The Plane That Disappeared",
+            "tam": "Mh370 The Plane That Disappeared",
+            "chi": "Mh370 The Plane That Disappeared",
+            "tha": "Mh370 The Plane That Disappeared",
+            "ind": "Mh370 The Plane That Disappeared"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "March 8th, 2014, Malaysia Airlines Flight 370 disappeared from radar. 239 people went missing, a global investigation into this greatest mystery Despite reports, countless theories, and searches for evidence, nothing. What Are We Missing?",
+            "may": "March 8th, 2014, Malaysia Airlines Flight 370 disappeared from radar. 239 people went missing, a global investigation into this greatest mystery Despite reports, countless theories, and searches for evidence, nothing. What Are We Missing?",
+            "tam": "March 8th, 2014, Malaysia Airlines Flight 370 disappeared from radar. 239 people went missing, a global investigation into this greatest mystery Despite reports, countless theories, and searches for evidence, nothing. What Are We Missing?",
+            "chi": "March 8th, 2014, Malaysia Airlines Flight 370 disappeared from radar. 239 people went missing, a global investigation into this greatest mystery Despite reports, countless theories, and searches for evidence, nothing. What Are We Missing?",
+            "tha": "March 8th, 2014, Malaysia Airlines Flight 370 disappeared from radar. 239 people went missing, a global investigation into this greatest mystery Despite reports, countless theories, and searches for evidence, nothing. What Are We Missing?",
+            "ind": "March 8th, 2014, Malaysia Airlines Flight 370 disappeared from radar. 239 people went missing, a global investigation into this greatest mystery Despite reports, countless theories, and searches for evidence, nothing. What Are We Missing?"
+        },
+        "long": {
+            "eng": "March 8th, 2014, Malaysia Airlines Flight 370 disappeared from radar. 239 people went missing, a global investigation into this greatest mystery Despite reports, countless theories, and searches for evidence, nothing. What Are We Missing?",
+            "may": "March 8th, 2014, Malaysia Airlines Flight 370 disappeared from radar. 239 people went missing, a global investigation into this greatest mystery Despite reports, countless theories, and searches for evidence, nothing. What Are We Missing?",
+            "tam": "March 8th, 2014, Malaysia Airlines Flight 370 disappeared from radar. 239 people went missing, a global investigation into this greatest mystery Despite reports, countless theories, and searches for evidence, nothing. What Are We Missing?",
+            "chi": "March 8th, 2014, Malaysia Airlines Flight 370 disappeared from radar. 239 people went missing, a global investigation into this greatest mystery Despite reports, countless theories, and searches for evidence, nothing. What Are We Missing?",
+            "tha": "March 8th, 2014, Malaysia Airlines Flight 370 disappeared from radar. 239 people went missing, a global investigation into this greatest mystery Despite reports, countless theories, and searches for evidence, nothing. What Are We Missing?",
+            "ind": "March 8th, 2014, Malaysia Airlines Flight 370 disappeared from radar. 239 people went missing, a global investigation into this greatest mystery Despite reports, countless theories, and searches for evidence, nothing. What Are We Missing?"
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Jeff Wise",
+            " Ghislain Wattrelos",
+            " Danica Weeks",
+            " Jiang Hui",
+            " Intan Othman",
+            " Mike Exner",
+            " Mark Dickinson",
+            " Florence de Changy",
+            " Blaine Gibson",
+            " Grace Nathan"
+        ],
+        "may": [
+            "Jeff Wise",
+            " Ghislain Wattrelos",
+            " Danica Weeks",
+            " Jiang Hui",
+            " Intan Othman",
+            " Mike Exner",
+            " Mark Dickinson",
+            " Florence de Changy",
+            " Blaine Gibson",
+            " Grace Nathan"
+        ],
+        "tam": [
+            "Jeff Wise",
+            " Ghislain Wattrelos",
+            " Danica Weeks",
+            " Jiang Hui",
+            " Intan Othman",
+            " Mike Exner",
+            " Mark Dickinson",
+            " Florence de Changy",
+            " Blaine Gibson",
+            " Grace Nathan"
+        ],
+        "chi": [
+            "Jeff Wise",
+            " Ghislain Wattrelos",
+            " Danica Weeks",
+            " Jiang Hui",
+            " Intan Othman",
+            " Mike Exner",
+            " Mark Dickinson",
+            " Florence de Changy",
+            " Blaine Gibson",
+            " Grace Nathan"
+        ],
+        "tha": [
+            "Jeff Wise",
+            " Ghislain Wattrelos",
+            " Danica Weeks",
+            " Jiang Hui",
+            " Intan Othman",
+            " Mike Exner",
+            " Mark Dickinson",
+            " Florence de Changy",
+            " Blaine Gibson",
+            " Grace Nathan"
+        ],
+        "ind": [
+            "Jeff Wise",
+            " Ghislain Wattrelos",
+            " Danica Weeks",
+            " Jiang Hui",
+            " Intan Othman",
+            " Mike Exner",
+            " Mark Dickinson",
+            " Florence de Changy",
+            " Blaine Gibson",
+            " Grace Nathan"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Louise Malkinson"
+        ],
+        "may": [
+            "Louise Malkinson"
+        ],
+        "tam": [
+            "Louise Malkinson"
+        ],
+        "chi": [
+            "Louise Malkinson"
+        ],
+        "tha": [
+            "Louise Malkinson"
+        ],
+        "ind": [
+            "Louise Malkinson"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Harry Hewland"
+        ],
+        "may": [
+            "Harry Hewland"
+        ],
+        "tam": [
+            "Harry Hewland"
+        ],
+        "chi": [
+            "Harry Hewland"
+        ],
+        "tha": [
+            "Harry Hewland"
+        ],
+        "ind": [
+            "Harry Hewland"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "tam": "Documentary",
+                    "chi": "Documentary",
+                    "tha": "Documentary",
+                    "ind": "Documentary"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "tam": "Documentary",
+                    "chi": "Documentary",
+                    "tha": "Documentary",
+                    "ind": "Documentary"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Mh370ThePlaneThatDisappearedS01Ep01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Mh370ThePlaneThatDisappearedS01Ep01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Mh370ThePlaneThatDisappearedS01Ep01_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "9",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2023,
+    "maxConcurrentStreams": 0
+}

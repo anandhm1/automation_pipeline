@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedSeries_44dcf076-94b9-50d2-8d86-1e730f181e0b",
+    "clientContentId": "PACK0000000001156697",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Tales Of The City",
+            "may": "Tales Of The City",
+            "tam": "Tales Of The City",
+            "chi": "Tales Of The City",
+            "tha": "Tales Of The City",
+            "ind": "Tales Of The City"
+        },
+        "long": {
+            "eng": "Tales Of The City",
+            "may": "Tales Of The City",
+            "tam": "Tales Of The City",
+            "chi": "Tales Of The City",
+            "tha": "Tales Of The City",
+            "ind": "Tales Of The City"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A middle-aged Mary Ann returns to San Francisco and reunites with the eccentric friends she left behind. Tales of the City focuses primarily on the people who live in a boardinghouse turned apartment complex owned by Anna Madrigal at 28 Barbary Lane, all of whom quickly become part of what Maupin coined a logical family. It's no longer a secret that Mrs. Madrigal is transgender. Instead, she is haunted by something from her past that has long been too painful to share.",
+            "may": "A middle-aged Mary Ann returns to San Francisco and reunites with the eccentric friends she left behind. Tales of the City focuses primarily on the people who live in a boardinghouse turned apartment complex owned by Anna Madrigal at 28 Barbary Lane, all of whom quickly become part of what Maupin coined a logical family. It's no longer a secret that Mrs. Madrigal is transgender. Instead, she is haunted by something from her past that has long been too painful to share.",
+            "tam": "A middle-aged Mary Ann returns to San Francisco and reunites with the eccentric friends she left behind. Tales of the City focuses primarily on the people who live in a boardinghouse turned apartment complex owned by Anna Madrigal at 28 Barbary Lane, all of whom quickly become part of what Maupin coined a logical family. It's no longer a secret that Mrs. Madrigal is transgender. Instead, she is haunted by something from her past that has long been too painful to share.",
+            "chi": "A middle-aged Mary Ann returns to San Francisco and reunites with the eccentric friends she left behind. Tales of the City focuses primarily on the people who live in a boardinghouse turned apartment complex owned by Anna Madrigal at 28 Barbary Lane, all of whom quickly become part of what Maupin coined a logical family. It's no longer a secret that Mrs. Madrigal is transgender. Instead, she is haunted by something from her past that has long been too painful to share.",
+            "tha": "A middle-aged Mary Ann returns to San Francisco and reunites with the eccentric friends she left behind. Tales of the City focuses primarily on the people who live in a boardinghouse turned apartment complex owned by Anna Madrigal at 28 Barbary Lane, all of whom quickly become part of what Maupin coined a logical family. It's no longer a secret that Mrs. Madrigal is transgender. Instead, she is haunted by something from her past that has long been too painful to share.",
+            "ind": "A middle-aged Mary Ann returns to San Francisco and reunites with the eccentric friends she left behind. Tales of the City focuses primarily on the people who live in a boardinghouse turned apartment complex owned by Anna Madrigal at 28 Barbary Lane, all of whom quickly become part of what Maupin coined a logical family. It's no longer a secret that Mrs. Madrigal is transgender. Instead, she is haunted by something from her past that has long been too painful to share."
+        },
+        "long": {
+            "eng": "A middle-aged Mary Ann returns to San Francisco and reunites with the eccentric friends she left behind. Tales of the City focuses primarily on the people who live in a boardinghouse turned apartment complex owned by Anna Madrigal at 28 Barbary Lane, all of whom quickly become part of what Maupin coined a logical family. It's no longer a secret that Mrs. Madrigal is transgender. Instead, she is haunted by something from her past that has long been too painful to share.",
+            "may": "A middle-aged Mary Ann returns to San Francisco and reunites with the eccentric friends she left behind. Tales of the City focuses primarily on the people who live in a boardinghouse turned apartment complex owned by Anna Madrigal at 28 Barbary Lane, all of whom quickly become part of what Maupin coined a logical family. It's no longer a secret that Mrs. Madrigal is transgender. Instead, she is haunted by something from her past that has long been too painful to share.",
+            "tam": "A middle-aged Mary Ann returns to San Francisco and reunites with the eccentric friends she left behind. Tales of the City focuses primarily on the people who live in a boardinghouse turned apartment complex owned by Anna Madrigal at 28 Barbary Lane, all of whom quickly become part of what Maupin coined a logical family. It's no longer a secret that Mrs. Madrigal is transgender. Instead, she is haunted by something from her past that has long been too painful to share.",
+            "chi": "A middle-aged Mary Ann returns to San Francisco and reunites with the eccentric friends she left behind. Tales of the City focuses primarily on the people who live in a boardinghouse turned apartment complex owned by Anna Madrigal at 28 Barbary Lane, all of whom quickly become part of what Maupin coined a logical family. It's no longer a secret that Mrs. Madrigal is transgender. Instead, she is haunted by something from her past that has long been too painful to share.",
+            "tha": "A middle-aged Mary Ann returns to San Francisco and reunites with the eccentric friends she left behind. Tales of the City focuses primarily on the people who live in a boardinghouse turned apartment complex owned by Anna Madrigal at 28 Barbary Lane, all of whom quickly become part of what Maupin coined a logical family. It's no longer a secret that Mrs. Madrigal is transgender. Instead, she is haunted by something from her past that has long been too painful to share.",
+            "ind": "A middle-aged Mary Ann returns to San Francisco and reunites with the eccentric friends she left behind. Tales of the City focuses primarily on the people who live in a boardinghouse turned apartment complex owned by Anna Madrigal at 28 Barbary Lane, all of whom quickly become part of what Maupin coined a logical family. It's no longer a secret that Mrs. Madrigal is transgender. Instead, she is haunted by something from her past that has long been too painful to share."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Laura Linney",
+            " Elliot Page",
+            " Paul Gross",
+            " Murray Bartlett",
+            " Charlie Barnett",
+            " Olympia Dukakis",
+            " Garcia",
+            " May Hong",
+            " Victor Garber",
+            " Ashley Park"
+        ],
+        "may": [
+            "Laura Linney",
+            " Elliot Page",
+            " Paul Gross",
+            " Murray Bartlett",
+            " Charlie Barnett",
+            " Olympia Dukakis",
+            " Garcia",
+            " May Hong",
+            " Victor Garber",
+            " Ashley Park"
+        ],
+        "tam": [
+            "Laura Linney",
+            " Elliot Page",
+            " Paul Gross",
+            " Murray Bartlett",
+            " Charlie Barnett",
+            " Olympia Dukakis",
+            " Garcia",
+            " May Hong",
+            " Victor Garber",
+            " Ashley Park"
+        ],
+        "chi": [
+            "Laura Linney",
+            " Elliot Page",
+            " Paul Gross",
+            " Murray Bartlett",
+            " Charlie Barnett",
+            " Olympia Dukakis",
+            " Garcia",
+            " May Hong",
+            " Victor Garber",
+            " Ashley Park"
+        ],
+        "tha": [
+            "Laura Linney",
+            " Elliot Page",
+            " Paul Gross",
+            " Murray Bartlett",
+            " Charlie Barnett",
+            " Olympia Dukakis",
+            " Garcia",
+            " May Hong",
+            " Victor Garber",
+            " Ashley Park"
+        ],
+        "ind": [
+            "Laura Linney",
+            " Elliot Page",
+            " Paul Gross",
+            " Murray Bartlett",
+            " Charlie Barnett",
+            " Olympia Dukakis",
+            " Garcia",
+            " May Hong",
+            " Victor Garber",
+            " Ashley Park"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Alan Poul",
+            " Silas Howard",
+            " Stacie Passon",
+            " Kyle Patrick Alvarez",
+            " Patricia Cardoso",
+            " Sydney Freeland"
+        ],
+        "may": [
+            "Alan Poul",
+            " Silas Howard",
+            " Stacie Passon",
+            " Kyle Patrick Alvarez",
+            " Patricia Cardoso",
+            " Sydney Freeland"
+        ],
+        "tam": [
+            "Alan Poul",
+            " Silas Howard",
+            " Stacie Passon",
+            " Kyle Patrick Alvarez",
+            " Patricia Cardoso",
+            " Sydney Freeland"
+        ],
+        "chi": [
+            "Alan Poul",
+            " Silas Howard",
+            " Stacie Passon",
+            " Kyle Patrick Alvarez",
+            " Patricia Cardoso",
+            " Sydney Freeland"
+        ],
+        "tha": [
+            "Alan Poul",
+            " Silas Howard",
+            " Stacie Passon",
+            " Kyle Patrick Alvarez",
+            " Patricia Cardoso",
+            " Sydney Freeland"
+        ],
+        "ind": [
+            "Alan Poul",
+            " Silas Howard",
+            " Stacie Passon",
+            " Kyle Patrick Alvarez",
+            " Patricia Cardoso",
+            " Sydney Freeland"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Gail Barringer",
+            " Tim Bevan",
+            " Liza Chasin",
+            " Michael Cunningham",
+            " Eric Fellner",
+            " Seth Hauer",
+            " Laura Linney",
+            " Armistead Maupin",
+            " Kendall McCarthy",
+            " Lauren Morelli"
+        ],
+        "may": [
+            "Gail Barringer",
+            " Tim Bevan",
+            " Liza Chasin",
+            " Michael Cunningham",
+            " Eric Fellner",
+            " Seth Hauer",
+            " Laura Linney",
+            " Armistead Maupin",
+            " Kendall McCarthy",
+            " Lauren Morelli"
+        ],
+        "tam": [
+            "Gail Barringer",
+            " Tim Bevan",
+            " Liza Chasin",
+            " Michael Cunningham",
+            " Eric Fellner",
+            " Seth Hauer",
+            " Laura Linney",
+            " Armistead Maupin",
+            " Kendall McCarthy",
+            " Lauren Morelli"
+        ],
+        "chi": [
+            "Gail Barringer",
+            " Tim Bevan",
+            " Liza Chasin",
+            " Michael Cunningham",
+            " Eric Fellner",
+            " Seth Hauer",
+            " Laura Linney",
+            " Armistead Maupin",
+            " Kendall McCarthy",
+            " Lauren Morelli"
+        ],
+        "tha": [
+            "Gail Barringer",
+            " Tim Bevan",
+            " Liza Chasin",
+            " Michael Cunningham",
+            " Eric Fellner",
+            " Seth Hauer",
+            " Laura Linney",
+            " Armistead Maupin",
+            " Kendall McCarthy",
+            " Lauren Morelli"
+        ],
+        "ind": [
+            "Gail Barringer",
+            " Tim Bevan",
+            " Liza Chasin",
+            " Michael Cunningham",
+            " Eric Fellner",
+            " Seth Hauer",
+            " Laura Linney",
+            " Armistead Maupin",
+            " Kendall McCarthy",
+            " Lauren Morelli"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TALESOFTHECITYSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TALESOFTHECITYSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TALESOFTHECITYSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "10",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2019,
+    "maxConcurrentStreams": 0
+}

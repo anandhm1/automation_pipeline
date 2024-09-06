@@ -1,0 +1,247 @@
+{
+    "externalId": "AggregatedTvShow_0532e702-cb80-5a84-9dd7-b5e3a777b1d0",
+    "clientContentId": "PACK0000000008524380",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Jugaadistan S1 E2",
+            "may": "Jugaadistan S1 E2",
+            "tam": "Jugaadistan S1 E2",
+            "chi": "Jugaadistan S1 E2",
+            "tha": "Jugaadistan S1 E2",
+            "ind": "Jugaadistan S1 E2"
+        },
+        "long": {
+            "eng": "Jugaadistan S1 E2",
+            "may": "Jugaadistan S1 E2",
+            "tam": "Jugaadistan S1 E2",
+            "chi": "Jugaadistan S1 E2",
+            "tha": "Jugaadistan S1 E2",
+            "ind": "Jugaadistan S1 E2"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "may": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "tam": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "chi": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "tha": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "ind": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions."
+        },
+        "long": {
+            "eng": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "may": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "tam": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "chi": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "tha": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions.",
+            "ind": "A college life drama focusing on the gritty side of campus life, Politics, Love and Emotions."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Rukshar Dhillon",
+            " Taaruk Raina",
+            " Sumeet Vyas"
+        ],
+        "may": [
+            "Rukshar Dhillon",
+            " Taaruk Raina",
+            " Sumeet Vyas"
+        ],
+        "tam": [
+            "Rukshar Dhillon",
+            " Taaruk Raina",
+            " Sumeet Vyas"
+        ],
+        "chi": [
+            "Rukshar Dhillon",
+            " Taaruk Raina",
+            " Sumeet Vyas"
+        ],
+        "tha": [
+            "Rukshar Dhillon",
+            " Taaruk Raina",
+            " Sumeet Vyas"
+        ],
+        "ind": [
+            "Rukshar Dhillon",
+            " Taaruk Raina",
+            " Sumeet Vyas"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Akarsh Khurana"
+        ],
+        "may": [
+            "Akarsh Khurana"
+        ],
+        "tam": [
+            "Akarsh Khurana"
+        ],
+        "chi": [
+            "Akarsh Khurana"
+        ],
+        "tha": [
+            "Akarsh Khurana"
+        ],
+        "ind": [
+            "Akarsh Khurana"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Akarsh Khurana"
+        ],
+        "may": [
+            "Akarsh Khurana"
+        ],
+        "tam": [
+            "Akarsh Khurana"
+        ],
+        "chi": [
+            "Akarsh Khurana"
+        ],
+        "tha": [
+            "Akarsh Khurana"
+        ],
+        "ind": [
+            "Akarsh Khurana"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/Jugaadistan_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/Jugaadistan_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/Jugaadistan_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_63399caa-7846-58f3-a5f1-6e638877e07f",
+    "seasonId": "AggregatedSeason_f04eda8a-9c0f-513f-be6d-8f915c5aa0b5",
+    "boxsetIds": [],
+    "episodeNumber": "3.0",
+    "seasonNumber": "2",
+    "yearOfRelease": 2022,
+    "rating": "8.5",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

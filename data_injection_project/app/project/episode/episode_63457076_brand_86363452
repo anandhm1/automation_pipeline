@@ -1,0 +1,367 @@
+{
+    "externalId": "AggregatedTvShow_c736834c-a8d9-51f1-8c6a-d7a9d9fcd416",
+    "clientContentId": "PACK0000000009262507",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Dragon Prince - Trailer",
+            "may": "The Dragon Prince - Trailer",
+            "tam": "The Dragon Prince - Trailer",
+            "chi": "The Dragon Prince - Trailer",
+            "tha": "The Dragon Prince - Trailer",
+            "ind": "The Dragon Prince - Trailer"
+        },
+        "long": {
+            "eng": "The Dragon Prince - Trailer",
+            "may": "The Dragon Prince - Trailer",
+            "tam": "The Dragon Prince - Trailer",
+            "chi": "The Dragon Prince - Trailer",
+            "tha": "The Dragon Prince - Trailer",
+            "ind": "The Dragon Prince - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "may": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "tam": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "chi": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "tha": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "ind": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands."
+        },
+        "long": {
+            "eng": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "may": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "tam": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "chi": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "tha": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.",
+            "ind": "Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Paula Burrows",
+            " Jack De Sena",
+            " Sasha Rojen",
+            " Jason Simpson",
+            " Racquel Belmonte",
+            " Jesse Inocalla",
+            " Erik Dellums",
+            " Adrian Petriw",
+            " Luc Roderique",
+            " Omari Newton"
+        ],
+        "may": [
+            "Paula Burrows",
+            " Jack De Sena",
+            " Sasha Rojen",
+            " Jason Simpson",
+            " Racquel Belmonte",
+            " Jesse Inocalla",
+            " Erik Dellums",
+            " Adrian Petriw",
+            " Luc Roderique",
+            " Omari Newton"
+        ],
+        "tam": [
+            "Paula Burrows",
+            " Jack De Sena",
+            " Sasha Rojen",
+            " Jason Simpson",
+            " Racquel Belmonte",
+            " Jesse Inocalla",
+            " Erik Dellums",
+            " Adrian Petriw",
+            " Luc Roderique",
+            " Omari Newton"
+        ],
+        "chi": [
+            "Paula Burrows",
+            " Jack De Sena",
+            " Sasha Rojen",
+            " Jason Simpson",
+            " Racquel Belmonte",
+            " Jesse Inocalla",
+            " Erik Dellums",
+            " Adrian Petriw",
+            " Luc Roderique",
+            " Omari Newton"
+        ],
+        "tha": [
+            "Paula Burrows",
+            " Jack De Sena",
+            " Sasha Rojen",
+            " Jason Simpson",
+            " Racquel Belmonte",
+            " Jesse Inocalla",
+            " Erik Dellums",
+            " Adrian Petriw",
+            " Luc Roderique",
+            " Omari Newton"
+        ],
+        "ind": [
+            "Paula Burrows",
+            " Jack De Sena",
+            " Sasha Rojen",
+            " Jason Simpson",
+            " Racquel Belmonte",
+            " Jesse Inocalla",
+            " Erik Dellums",
+            " Adrian Petriw",
+            " Luc Roderique",
+            " Omari Newton"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Villads Spangsberg",
+            " George Samilski",
+            " Lih Liau",
+            " Giancarlo Volpe",
+            " Meruan Salim"
+        ],
+        "may": [
+            "Villads Spangsberg",
+            " George Samilski",
+            " Lih Liau",
+            " Giancarlo Volpe",
+            " Meruan Salim"
+        ],
+        "tam": [
+            "Villads Spangsberg",
+            " George Samilski",
+            " Lih Liau",
+            " Giancarlo Volpe",
+            " Meruan Salim"
+        ],
+        "chi": [
+            "Villads Spangsberg",
+            " George Samilski",
+            " Lih Liau",
+            " Giancarlo Volpe",
+            " Meruan Salim"
+        ],
+        "tha": [
+            "Villads Spangsberg",
+            " George Samilski",
+            " Lih Liau",
+            " Giancarlo Volpe",
+            " Meruan Salim"
+        ],
+        "ind": [
+            "Villads Spangsberg",
+            " George Samilski",
+            " Lih Liau",
+            " Giancarlo Volpe",
+            " Meruan Salim"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Josh Eckland",
+            " Aaron Ehasz",
+            " Devon Giehl",
+            " Richard Grieve",
+            " Iain Hendry",
+            " Neil Mukhopadhyay",
+            " Justin Richmond",
+            " Justin Santistevan",
+            " Delna Bhesania",
+            " Lauren Topal"
+        ],
+        "may": [
+            "Josh Eckland",
+            " Aaron Ehasz",
+            " Devon Giehl",
+            " Richard Grieve",
+            " Iain Hendry",
+            " Neil Mukhopadhyay",
+            " Justin Richmond",
+            " Justin Santistevan",
+            " Delna Bhesania",
+            " Lauren Topal"
+        ],
+        "tam": [
+            "Josh Eckland",
+            " Aaron Ehasz",
+            " Devon Giehl",
+            " Richard Grieve",
+            " Iain Hendry",
+            " Neil Mukhopadhyay",
+            " Justin Richmond",
+            " Justin Santistevan",
+            " Delna Bhesania",
+            " Lauren Topal"
+        ],
+        "chi": [
+            "Josh Eckland",
+            " Aaron Ehasz",
+            " Devon Giehl",
+            " Richard Grieve",
+            " Iain Hendry",
+            " Neil Mukhopadhyay",
+            " Justin Richmond",
+            " Justin Santistevan",
+            " Delna Bhesania",
+            " Lauren Topal"
+        ],
+        "tha": [
+            "Josh Eckland",
+            " Aaron Ehasz",
+            " Devon Giehl",
+            " Richard Grieve",
+            " Iain Hendry",
+            " Neil Mukhopadhyay",
+            " Justin Richmond",
+            " Justin Santistevan",
+            " Delna Bhesania",
+            " Lauren Topal"
+        ],
+        "ind": [
+            "Josh Eckland",
+            " Aaron Ehasz",
+            " Devon Giehl",
+            " Richard Grieve",
+            " Iain Hendry",
+            " Neil Mukhopadhyay",
+            " Justin Richmond",
+            " Justin Santistevan",
+            " Delna Bhesania",
+            " Lauren Topal"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Animation",
+                    "may": "Animation",
+                    "tam": "Animation",
+                    "chi": "Animation",
+                    "tha": "Animation",
+                    "ind": "Animation"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Action",
+                    "may": " Action",
+                    "tam": " Action",
+                    "chi": " Action",
+                    "tha": " Action",
+                    "ind": " Action"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheDragonPrinceSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheDragonPrinceSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheDragonPrinceSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_8a28bff2-0398-5e6e-9cdb-6970829016c8",
+    "seasonId": "AggregatedSeason_c496ac83-53e4-5e85-a6ad-cbe11a69fa55",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2018,
+    "rating": "TV-Y7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

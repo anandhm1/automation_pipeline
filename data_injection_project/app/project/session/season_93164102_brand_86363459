@@ -1,0 +1,347 @@
+{
+    "externalId": "AggregatedSeason_27ffabf4-4368-515c-816c-5b795780daa4",
+    "clientContentId": "PACK0000000005038459",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "chi": "Action",
+                    "tam": "Action",
+                    "ind": "Action",
+                    "tha": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "chi": " Adventure",
+                    "tam": " Adventure",
+                    "ind": " Adventure",
+                    "tha": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-14",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Morfydd Clark",
+            " Ismael Cruz Cordova",
+            " Charlie Vickers",
+            " Markella Kavenagh",
+            " Megan Richards",
+            " Sara Zwangobani",
+            " Daniel Weyman",
+            " Cynthia Addai-Robinson",
+            " Lenny Henry",
+            " Lloyd Owen"
+        ],
+        "may": [
+            "Morfydd Clark",
+            " Ismael Cruz Cordova",
+            " Charlie Vickers",
+            " Markella Kavenagh",
+            " Megan Richards",
+            " Sara Zwangobani",
+            " Daniel Weyman",
+            " Cynthia Addai-Robinson",
+            " Lenny Henry",
+            " Lloyd Owen"
+        ],
+        "chi": [
+            "Morfydd Clark",
+            " Ismael Cruz Cordova",
+            " Charlie Vickers",
+            " Markella Kavenagh",
+            " Megan Richards",
+            " Sara Zwangobani",
+            " Daniel Weyman",
+            " Cynthia Addai-Robinson",
+            " Lenny Henry",
+            " Lloyd Owen"
+        ],
+        "tam": [
+            "Morfydd Clark",
+            " Ismael Cruz Cordova",
+            " Charlie Vickers",
+            " Markella Kavenagh",
+            " Megan Richards",
+            " Sara Zwangobani",
+            " Daniel Weyman",
+            " Cynthia Addai-Robinson",
+            " Lenny Henry",
+            " Lloyd Owen"
+        ],
+        "ind": [
+            "Morfydd Clark",
+            " Ismael Cruz Cordova",
+            " Charlie Vickers",
+            " Markella Kavenagh",
+            " Megan Richards",
+            " Sara Zwangobani",
+            " Daniel Weyman",
+            " Cynthia Addai-Robinson",
+            " Lenny Henry",
+            " Lloyd Owen"
+        ],
+        "tha": [
+            "Morfydd Clark",
+            " Ismael Cruz Cordova",
+            " Charlie Vickers",
+            " Markella Kavenagh",
+            " Megan Richards",
+            " Sara Zwangobani",
+            " Daniel Weyman",
+            " Cynthia Addai-Robinson",
+            " Lenny Henry",
+            " Lloyd Owen"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Wayne Yip",
+            " Charlotte Br\u00e4ndstr\u00f6m",
+            " J.A. Bayona",
+            " Sanaa Hamri",
+            " Louise Hooper"
+        ],
+        "may": [
+            "Wayne Yip",
+            " Charlotte Br\u00e4ndstr\u00f6m",
+            " J.A. Bayona",
+            " Sanaa Hamri",
+            " Louise Hooper"
+        ],
+        "chi": [
+            "Wayne Yip",
+            " Charlotte Br\u00e4ndstr\u00f6m",
+            " J.A. Bayona",
+            " Sanaa Hamri",
+            " Louise Hooper"
+        ],
+        "tam": [
+            "Wayne Yip",
+            " Charlotte Br\u00e4ndstr\u00f6m",
+            " J.A. Bayona",
+            " Sanaa Hamri",
+            " Louise Hooper"
+        ],
+        "ind": [
+            "Wayne Yip",
+            " Charlotte Br\u00e4ndstr\u00f6m",
+            " J.A. Bayona",
+            " Sanaa Hamri",
+            " Louise Hooper"
+        ],
+        "tha": [
+            "Wayne Yip",
+            " Charlotte Br\u00e4ndstr\u00f6m",
+            " J.A. Bayona",
+            " Sanaa Hamri",
+            " Louise Hooper"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Bel\u00e9n Atienza",
+            " J.A. Bayona",
+            " Jason Cahill",
+            " Justin Doble",
+            " Callum Greene",
+            " Gennifer Hutchison",
+            " Patrick McKay",
+            " John D. Payne",
+            " Bruce Richmond",
+            " Sharon Tal Yguado"
+        ],
+        "may": [
+            "Bel\u00e9n Atienza",
+            " J.A. Bayona",
+            " Jason Cahill",
+            " Justin Doble",
+            " Callum Greene",
+            " Gennifer Hutchison",
+            " Patrick McKay",
+            " John D. Payne",
+            " Bruce Richmond",
+            " Sharon Tal Yguado"
+        ],
+        "chi": [
+            "Bel\u00e9n Atienza",
+            " J.A. Bayona",
+            " Jason Cahill",
+            " Justin Doble",
+            " Callum Greene",
+            " Gennifer Hutchison",
+            " Patrick McKay",
+            " John D. Payne",
+            " Bruce Richmond",
+            " Sharon Tal Yguado"
+        ],
+        "tam": [
+            "Bel\u00e9n Atienza",
+            " J.A. Bayona",
+            " Jason Cahill",
+            " Justin Doble",
+            " Callum Greene",
+            " Gennifer Hutchison",
+            " Patrick McKay",
+            " John D. Payne",
+            " Bruce Richmond",
+            " Sharon Tal Yguado"
+        ],
+        "ind": [
+            "Bel\u00e9n Atienza",
+            " J.A. Bayona",
+            " Jason Cahill",
+            " Justin Doble",
+            " Callum Greene",
+            " Gennifer Hutchison",
+            " Patrick McKay",
+            " John D. Payne",
+            " Bruce Richmond",
+            " Sharon Tal Yguado"
+        ],
+        "tha": [
+            "Bel\u00e9n Atienza",
+            " J.A. Bayona",
+            " Jason Cahill",
+            " Justin Doble",
+            " Callum Greene",
+            " Gennifer Hutchison",
+            " Patrick McKay",
+            " John D. Payne",
+            " Bruce Richmond",
+            " Sharon Tal Yguado"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_853fb77a-f3a6-5d94-a207-d565648e4bb0",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Lord of the Rings The Rings of Power Season 1",
+            "may": "The Lord of the Rings The Rings of Power Season 1",
+            "chi": "The Lord of the Rings The Rings of Power Season 1",
+            "tam": "The Lord of the Rings The Rings of Power Season 1",
+            "ind": "The Lord of the Rings The Rings of Power Season 1",
+            "tha": "The Lord of the Rings The Rings of Power Season 1"
+        },
+        "long": {
+            "eng": "The Lord of the Rings The Rings of Power Season 1",
+            "may": "The Lord of the Rings The Rings of Power Season 1",
+            "chi": "The Lord of the Rings The Rings of Power Season 1",
+            "tam": "The Lord of the Rings The Rings of Power Season 1",
+            "ind": "The Lord of the Rings The Rings of Power Season 1",
+            "tha": "The Lord of the Rings The Rings of Power Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth.",
+            "may": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth.",
+            "chi": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth.",
+            "tam": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth.",
+            "ind": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth.",
+            "tha": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth."
+        },
+        "long": {
+            "eng": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth.",
+            "may": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth.",
+            "chi": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth.",
+            "tam": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth.",
+            "ind": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth.",
+            "tha": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheLordoftheRingsTheRingsofPowerSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheLordoftheRingsTheRingsofPowerSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheLordoftheRingsTheRingsofPowerSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

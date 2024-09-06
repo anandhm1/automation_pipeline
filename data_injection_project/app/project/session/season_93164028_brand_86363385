@@ -1,0 +1,245 @@
+{
+    "externalId": "AggregatedSeason_42532268-4b8a-5b3d-bc44-8617ab92f490",
+    "clientContentId": "PACK0000000001119492",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Adventure",
+                    "may": "Adventure",
+                    "chi": "Adventure",
+                    "tam": "Adventure",
+                    "ind": "Adventure",
+                    "tha": "Adventure"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Adventure",
+                    "may": "Adventure",
+                    "chi": "Adventure",
+                    "tam": "Adventure",
+                    "ind": "Adventure",
+                    "tha": "Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2014,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Jessica Parker Kennedy",
+            " Toby Stephens",
+            " Hannah New"
+        ],
+        "may": [
+            "Jessica Parker Kennedy",
+            " Toby Stephens",
+            " Hannah New"
+        ],
+        "chi": [
+            "Jessica Parker Kennedy",
+            " Toby Stephens",
+            " Hannah New"
+        ],
+        "tam": [
+            "Jessica Parker Kennedy",
+            " Toby Stephens",
+            " Hannah New"
+        ],
+        "ind": [
+            "Jessica Parker Kennedy",
+            " Toby Stephens",
+            " Hannah New"
+        ],
+        "tha": [
+            "Jessica Parker Kennedy",
+            " Toby Stephens",
+            " Hannah New"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Robert LevineJonathan",
+            " E. Steinberg"
+        ],
+        "may": [
+            "Robert LevineJonathan",
+            " E. Steinberg"
+        ],
+        "chi": [
+            "Robert LevineJonathan",
+            " E. Steinberg"
+        ],
+        "tam": [
+            "Robert LevineJonathan",
+            " E. Steinberg"
+        ],
+        "ind": [
+            "Robert LevineJonathan",
+            " E. Steinberg"
+        ],
+        "tha": [
+            "Robert LevineJonathan",
+            " E. Steinberg"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Nina Heyns",
+            " Jonathan Brytus",
+            " Erik Henry"
+        ],
+        "may": [
+            "Nina Heyns",
+            " Jonathan Brytus",
+            " Erik Henry"
+        ],
+        "chi": [
+            "Nina Heyns",
+            " Jonathan Brytus",
+            " Erik Henry"
+        ],
+        "tam": [
+            "Nina Heyns",
+            " Jonathan Brytus",
+            " Erik Henry"
+        ],
+        "ind": [
+            "Nina Heyns",
+            " Jonathan Brytus",
+            " Erik Henry"
+        ],
+        "tha": [
+            "Nina Heyns",
+            " Jonathan Brytus",
+            " Erik Henry"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_ad20baa8-9b66-51a2-a650-acfec94cd023",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Black Sails",
+            "may": "Black Sails",
+            "chi": "Black Sails",
+            "tam": "Black Sails",
+            "ind": "Black Sails",
+            "tha": "Black Sails"
+        },
+        "long": {
+            "eng": "Black Sails",
+            "may": "Black Sails",
+            "chi": "Black Sails",
+            "tam": "Black Sails",
+            "ind": "Black Sails",
+            "tha": "Black Sails"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "may": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "chi": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "tam": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "ind": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "tha": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island."
+        },
+        "long": {
+            "eng": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "may": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "chi": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "tam": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "ind": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+            "tha": "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BlackSails_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BlackSails_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BlackSails_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

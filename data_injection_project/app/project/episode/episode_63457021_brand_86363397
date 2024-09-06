@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedTvShow_66568ece-3aa2-57e5-8e55-5b4bf3b240a0",
+    "clientContentId": "PACK0000000002266373",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Gaslit - Trailer",
+            "may": "Gaslit - Trailer",
+            "tam": "Gaslit - Trailer",
+            "chi": "Gaslit - Trailer",
+            "tha": "Gaslit - Trailer",
+            "ind": "Gaslit - Trailer"
+        },
+        "long": {
+            "eng": "Gaslit - Trailer",
+            "may": "Gaslit - Trailer",
+            "tam": "Gaslit - Trailer",
+            "chi": "Gaslit - Trailer",
+            "tha": "Gaslit - Trailer",
+            "ind": "Gaslit - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "may": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "tam": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "chi": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "tha": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "ind": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time."
+        },
+        "long": {
+            "eng": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "may": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "tam": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "chi": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "tha": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "ind": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Julia Roberts",
+            " Sean Penn",
+            " Dan Stevens",
+            " Betty Gilpin",
+            " Shea Whigham",
+            " Darby Camp",
+            " Hamish Linklater",
+            " Allison Tolman",
+            " Chris Bauer",
+            " J.C. MacKenzie"
+        ],
+        "may": [
+            "Julia Roberts",
+            " Sean Penn",
+            " Dan Stevens",
+            " Betty Gilpin",
+            " Shea Whigham",
+            " Darby Camp",
+            " Hamish Linklater",
+            " Allison Tolman",
+            " Chris Bauer",
+            " J.C. MacKenzie"
+        ],
+        "tam": [
+            "Julia Roberts",
+            " Sean Penn",
+            " Dan Stevens",
+            " Betty Gilpin",
+            " Shea Whigham",
+            " Darby Camp",
+            " Hamish Linklater",
+            " Allison Tolman",
+            " Chris Bauer",
+            " J.C. MacKenzie"
+        ],
+        "chi": [
+            "Julia Roberts",
+            " Sean Penn",
+            " Dan Stevens",
+            " Betty Gilpin",
+            " Shea Whigham",
+            " Darby Camp",
+            " Hamish Linklater",
+            " Allison Tolman",
+            " Chris Bauer",
+            " J.C. MacKenzie"
+        ],
+        "tha": [
+            "Julia Roberts",
+            " Sean Penn",
+            " Dan Stevens",
+            " Betty Gilpin",
+            " Shea Whigham",
+            " Darby Camp",
+            " Hamish Linklater",
+            " Allison Tolman",
+            " Chris Bauer",
+            " J.C. MacKenzie"
+        ],
+        "ind": [
+            "Julia Roberts",
+            " Sean Penn",
+            " Dan Stevens",
+            " Betty Gilpin",
+            " Shea Whigham",
+            " Darby Camp",
+            " Hamish Linklater",
+            " Allison Tolman",
+            " Chris Bauer",
+            " J.C. MacKenzie"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Matt Ross"
+        ],
+        "may": [
+            "Matt Ross"
+        ],
+        "tam": [
+            "Matt Ross"
+        ],
+        "chi": [
+            "Matt Ross"
+        ],
+        "tha": [
+            "Matt Ross"
+        ],
+        "ind": [
+            "Matt Ross"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Sam Esmail",
+            " Gina Fattore",
+            " Marisa Yeres Gill",
+            " Lisa Roberts Gillan",
+            " Amelia Gray",
+            " Chad Hamilton",
+            " Caroline James",
+            " Josh Levin",
+            " Sarah Matte",
+            " Leon Neyfakh"
+        ],
+        "may": [
+            "Sam Esmail",
+            " Gina Fattore",
+            " Marisa Yeres Gill",
+            " Lisa Roberts Gillan",
+            " Amelia Gray",
+            " Chad Hamilton",
+            " Caroline James",
+            " Josh Levin",
+            " Sarah Matte",
+            " Leon Neyfakh"
+        ],
+        "tam": [
+            "Sam Esmail",
+            " Gina Fattore",
+            " Marisa Yeres Gill",
+            " Lisa Roberts Gillan",
+            " Amelia Gray",
+            " Chad Hamilton",
+            " Caroline James",
+            " Josh Levin",
+            " Sarah Matte",
+            " Leon Neyfakh"
+        ],
+        "chi": [
+            "Sam Esmail",
+            " Gina Fattore",
+            " Marisa Yeres Gill",
+            " Lisa Roberts Gillan",
+            " Amelia Gray",
+            " Chad Hamilton",
+            " Caroline James",
+            " Josh Levin",
+            " Sarah Matte",
+            " Leon Neyfakh"
+        ],
+        "tha": [
+            "Sam Esmail",
+            " Gina Fattore",
+            " Marisa Yeres Gill",
+            " Lisa Roberts Gillan",
+            " Amelia Gray",
+            " Chad Hamilton",
+            " Caroline James",
+            " Josh Levin",
+            " Sarah Matte",
+            " Leon Neyfakh"
+        ],
+        "ind": [
+            "Sam Esmail",
+            " Gina Fattore",
+            " Marisa Yeres Gill",
+            " Lisa Roberts Gillan",
+            " Amelia Gray",
+            " Chad Hamilton",
+            " Caroline James",
+            " Josh Levin",
+            " Sarah Matte",
+            " Leon Neyfakh"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Biography",
+                    "may": "Biography",
+                    "tam": "Biography",
+                    "chi": "Biography",
+                    "tha": "Biography",
+                    "ind": "Biography"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/GaslitSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/GaslitSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/GaslitSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_daf4d81e-2ed4-5d16-a874-2b624c1d89e3",
+    "seasonId": "AggregatedSeason_d7b3175b-fca5-5ef2-89a2-de5061f1bb63",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

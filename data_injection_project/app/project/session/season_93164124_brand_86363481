@@ -1,0 +1,335 @@
+{
+    "externalId": "AggregatedSeason_0592f1fe-ef00-5284-9581-edb3e8c156dc",
+    "clientContentId": "PACK0000000007692691",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "chi": "Crime",
+                    "tam": "Crime",
+                    "ind": "Crime",
+                    "tha": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Kaitlyn Dever",
+            " Toni Collette",
+            " Merritt Wever",
+            " Blake Ellis",
+            " Dale Dickey",
+            " Liza Lapira",
+            " Kai Lennox",
+            " Omar Maskati",
+            " Valery Altamar",
+            " Austin H\u00e9bert"
+        ],
+        "may": [
+            "Kaitlyn Dever",
+            " Toni Collette",
+            " Merritt Wever",
+            " Blake Ellis",
+            " Dale Dickey",
+            " Liza Lapira",
+            " Kai Lennox",
+            " Omar Maskati",
+            " Valery Altamar",
+            " Austin H\u00e9bert"
+        ],
+        "chi": [
+            "Kaitlyn Dever",
+            " Toni Collette",
+            " Merritt Wever",
+            " Blake Ellis",
+            " Dale Dickey",
+            " Liza Lapira",
+            " Kai Lennox",
+            " Omar Maskati",
+            " Valery Altamar",
+            " Austin H\u00e9bert"
+        ],
+        "tam": [
+            "Kaitlyn Dever",
+            " Toni Collette",
+            " Merritt Wever",
+            " Blake Ellis",
+            " Dale Dickey",
+            " Liza Lapira",
+            " Kai Lennox",
+            " Omar Maskati",
+            " Valery Altamar",
+            " Austin H\u00e9bert"
+        ],
+        "ind": [
+            "Kaitlyn Dever",
+            " Toni Collette",
+            " Merritt Wever",
+            " Blake Ellis",
+            " Dale Dickey",
+            " Liza Lapira",
+            " Kai Lennox",
+            " Omar Maskati",
+            " Valery Altamar",
+            " Austin H\u00e9bert"
+        ],
+        "tha": [
+            "Kaitlyn Dever",
+            " Toni Collette",
+            " Merritt Wever",
+            " Blake Ellis",
+            " Dale Dickey",
+            " Liza Lapira",
+            " Kai Lennox",
+            " Omar Maskati",
+            " Valery Altamar",
+            " Austin H\u00e9bert"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Lisa Cholodenko",
+            " Michael Dinner",
+            " Susannah Grant"
+        ],
+        "may": [
+            "Lisa Cholodenko",
+            " Michael Dinner",
+            " Susannah Grant"
+        ],
+        "chi": [
+            "Lisa Cholodenko",
+            " Michael Dinner",
+            " Susannah Grant"
+        ],
+        "tam": [
+            "Lisa Cholodenko",
+            " Michael Dinner",
+            " Susannah Grant"
+        ],
+        "ind": [
+            "Lisa Cholodenko",
+            " Michael Dinner",
+            " Susannah Grant"
+        ],
+        "tha": [
+            "Lisa Cholodenko",
+            " Michael Dinner",
+            " Susannah Grant"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ken Armstrong",
+            " Carl Beverly",
+            " Michael Chabon",
+            " Lisa Cholodenko",
+            " Katie Couric",
+            " Katie DiMento",
+            " Susannah Grant",
+            " T. Christian Miller",
+            " Daniel Rodriguez",
+            " Robyn Semien"
+        ],
+        "may": [
+            "Ken Armstrong",
+            " Carl Beverly",
+            " Michael Chabon",
+            " Lisa Cholodenko",
+            " Katie Couric",
+            " Katie DiMento",
+            " Susannah Grant",
+            " T. Christian Miller",
+            " Daniel Rodriguez",
+            " Robyn Semien"
+        ],
+        "chi": [
+            "Ken Armstrong",
+            " Carl Beverly",
+            " Michael Chabon",
+            " Lisa Cholodenko",
+            " Katie Couric",
+            " Katie DiMento",
+            " Susannah Grant",
+            " T. Christian Miller",
+            " Daniel Rodriguez",
+            " Robyn Semien"
+        ],
+        "tam": [
+            "Ken Armstrong",
+            " Carl Beverly",
+            " Michael Chabon",
+            " Lisa Cholodenko",
+            " Katie Couric",
+            " Katie DiMento",
+            " Susannah Grant",
+            " T. Christian Miller",
+            " Daniel Rodriguez",
+            " Robyn Semien"
+        ],
+        "ind": [
+            "Ken Armstrong",
+            " Carl Beverly",
+            " Michael Chabon",
+            " Lisa Cholodenko",
+            " Katie Couric",
+            " Katie DiMento",
+            " Susannah Grant",
+            " T. Christian Miller",
+            " Daniel Rodriguez",
+            " Robyn Semien"
+        ],
+        "tha": [
+            "Ken Armstrong",
+            " Carl Beverly",
+            " Michael Chabon",
+            " Lisa Cholodenko",
+            " Katie Couric",
+            " Katie DiMento",
+            " Susannah Grant",
+            " T. Christian Miller",
+            " Daniel Rodriguez",
+            " Robyn Semien"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_382185ab-cca8-55a6-b406-254fdbda07e2",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Unbelievable Season 1",
+            "may": "Unbelievable Season 1",
+            "chi": "Unbelievable Season 1",
+            "tam": "Unbelievable Season 1",
+            "ind": "Unbelievable Season 1",
+            "tha": "Unbelievable Season 1"
+        },
+        "long": {
+            "eng": "Unbelievable Season 1",
+            "may": "Unbelievable Season 1",
+            "chi": "Unbelievable Season 1",
+            "tam": "Unbelievable Season 1",
+            "ind": "Unbelievable Season 1",
+            "tha": "Unbelievable Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "may": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "chi": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "tam": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "ind": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "tha": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth."
+        },
+        "long": {
+            "eng": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "may": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "chi": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "tam": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "ind": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "tha": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/UnbelievableSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/UnbelievableSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/UnbelievableSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

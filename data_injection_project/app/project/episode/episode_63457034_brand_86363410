@@ -1,0 +1,361 @@
+{
+    "externalId": "AggregatedTvShow_a193dc14-91fb-5cfc-a482-3ed62c883aa4",
+    "clientContentId": "PACK0000000009420042",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Kaleidoscope - Trailer",
+            "may": "Kaleidoscope - Trailer",
+            "tam": "Kaleidoscope - Trailer",
+            "chi": "Kaleidoscope - Trailer",
+            "tha": "Kaleidoscope - Trailer",
+            "ind": "Kaleidoscope - Trailer"
+        },
+        "long": {
+            "eng": "Kaleidoscope - Trailer",
+            "may": "Kaleidoscope - Trailer",
+            "tam": "Kaleidoscope - Trailer",
+            "chi": "Kaleidoscope - Trailer",
+            "tha": "Kaleidoscope - Trailer",
+            "ind": "Kaleidoscope - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Centered around the largest heist ever attempted, the vengeance and betrayals that surround it.",
+            "may": "Centered around the largest heist ever attempted, the vengeance and betrayals that surround it.",
+            "tam": "Centered around the largest heist ever attempted, the vengeance and betrayals that surround it.",
+            "chi": "Centered around the largest heist ever attempted, the vengeance and betrayals that surround it.",
+            "tha": "Centered around the largest heist ever attempted, the vengeance and betrayals that surround it.",
+            "ind": "Centered around the largest heist ever attempted, the vengeance and betrayals that surround it."
+        },
+        "long": {
+            "eng": "Centered around the largest heist ever attempted, the vengeance and betrayals that surround it.",
+            "may": "Centered around the largest heist ever attempted, the vengeance and betrayals that surround it.",
+            "tam": "Centered around the largest heist ever attempted, the vengeance and betrayals that surround it.",
+            "chi": "Centered around the largest heist ever attempted, the vengeance and betrayals that surround it.",
+            "tha": "Centered around the largest heist ever attempted, the vengeance and betrayals that surround it.",
+            "ind": "Centered around the largest heist ever attempted, the vengeance and betrayals that surround it."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Giancarlo Esposito",
+            " Rufus Sewell",
+            " Paz Vega",
+            " Rosaline Elbay",
+            " Jai Courtney",
+            " Tati Gabrielle",
+            " Peter Mark Kendall",
+            " Niousha Noor",
+            " Bubba Weiler",
+            " Jordan Mendoza"
+        ],
+        "may": [
+            "Giancarlo Esposito",
+            " Rufus Sewell",
+            " Paz Vega",
+            " Rosaline Elbay",
+            " Jai Courtney",
+            " Tati Gabrielle",
+            " Peter Mark Kendall",
+            " Niousha Noor",
+            " Bubba Weiler",
+            " Jordan Mendoza"
+        ],
+        "tam": [
+            "Giancarlo Esposito",
+            " Rufus Sewell",
+            " Paz Vega",
+            " Rosaline Elbay",
+            " Jai Courtney",
+            " Tati Gabrielle",
+            " Peter Mark Kendall",
+            " Niousha Noor",
+            " Bubba Weiler",
+            " Jordan Mendoza"
+        ],
+        "chi": [
+            "Giancarlo Esposito",
+            " Rufus Sewell",
+            " Paz Vega",
+            " Rosaline Elbay",
+            " Jai Courtney",
+            " Tati Gabrielle",
+            " Peter Mark Kendall",
+            " Niousha Noor",
+            " Bubba Weiler",
+            " Jordan Mendoza"
+        ],
+        "tha": [
+            "Giancarlo Esposito",
+            " Rufus Sewell",
+            " Paz Vega",
+            " Rosaline Elbay",
+            " Jai Courtney",
+            " Tati Gabrielle",
+            " Peter Mark Kendall",
+            " Niousha Noor",
+            " Bubba Weiler",
+            " Jordan Mendoza"
+        ],
+        "ind": [
+            "Giancarlo Esposito",
+            " Rufus Sewell",
+            " Paz Vega",
+            " Rosaline Elbay",
+            " Jai Courtney",
+            " Tati Gabrielle",
+            " Peter Mark Kendall",
+            " Niousha Noor",
+            " Bubba Weiler",
+            " Jordan Mendoza"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Mairzee Almas",
+            " Russell Lee Fine",
+            " Everardo Gout",
+            " Robert Townsend"
+        ],
+        "may": [
+            "Mairzee Almas",
+            " Russell Lee Fine",
+            " Everardo Gout",
+            " Robert Townsend"
+        ],
+        "tam": [
+            "Mairzee Almas",
+            " Russell Lee Fine",
+            " Everardo Gout",
+            " Robert Townsend"
+        ],
+        "chi": [
+            "Mairzee Almas",
+            " Russell Lee Fine",
+            " Everardo Gout",
+            " Robert Townsend"
+        ],
+        "tha": [
+            "Mairzee Almas",
+            " Russell Lee Fine",
+            " Everardo Gout",
+            " Robert Townsend"
+        ],
+        "ind": [
+            "Mairzee Almas",
+            " Russell Lee Fine",
+            " Everardo Gout",
+            " Robert Townsend"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Fred Berger",
+            " Brad Carpenter",
+            " Christie Colliopoulos",
+            " Russell Lee Fine",
+            " Justin Levy",
+            " Eric Garcia",
+            " Kate Barnow",
+            " Kalen Egan",
+            " Evan Endicott",
+            " Brian Kavanaugh-Jones"
+        ],
+        "may": [
+            "Fred Berger",
+            " Brad Carpenter",
+            " Christie Colliopoulos",
+            " Russell Lee Fine",
+            " Justin Levy",
+            " Eric Garcia",
+            " Kate Barnow",
+            " Kalen Egan",
+            " Evan Endicott",
+            " Brian Kavanaugh-Jones"
+        ],
+        "tam": [
+            "Fred Berger",
+            " Brad Carpenter",
+            " Christie Colliopoulos",
+            " Russell Lee Fine",
+            " Justin Levy",
+            " Eric Garcia",
+            " Kate Barnow",
+            " Kalen Egan",
+            " Evan Endicott",
+            " Brian Kavanaugh-Jones"
+        ],
+        "chi": [
+            "Fred Berger",
+            " Brad Carpenter",
+            " Christie Colliopoulos",
+            " Russell Lee Fine",
+            " Justin Levy",
+            " Eric Garcia",
+            " Kate Barnow",
+            " Kalen Egan",
+            " Evan Endicott",
+            " Brian Kavanaugh-Jones"
+        ],
+        "tha": [
+            "Fred Berger",
+            " Brad Carpenter",
+            " Christie Colliopoulos",
+            " Russell Lee Fine",
+            " Justin Levy",
+            " Eric Garcia",
+            " Kate Barnow",
+            " Kalen Egan",
+            " Evan Endicott",
+            " Brian Kavanaugh-Jones"
+        ],
+        "ind": [
+            "Fred Berger",
+            " Brad Carpenter",
+            " Christie Colliopoulos",
+            " Russell Lee Fine",
+            " Justin Levy",
+            " Eric Garcia",
+            " Kate Barnow",
+            " Kalen Egan",
+            " Evan Endicott",
+            " Brian Kavanaugh-Jones"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/KALEIDOSCOPESeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/KALEIDOSCOPESeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/KALEIDOSCOPESeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_ba998277-3ad3-5517-adf4-e962b3240572",
+    "seasonId": "AggregatedSeason_5eaa29ae-68e5-5587-bede-ddc98d2b6c56",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2023,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

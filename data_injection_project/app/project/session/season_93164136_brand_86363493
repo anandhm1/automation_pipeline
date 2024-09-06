@@ -1,0 +1,353 @@
+{
+    "externalId": "AggregatedSeason_b9848599-bbcf-536d-921d-404aa0db594b",
+    "clientContentId": "PACK0000000006274886",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "chi": "Crime",
+                    "tam": "Crime",
+                    "ind": "Crime",
+                    "tha": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2017,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "may": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "chi": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "tam": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "ind": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "tha": [
+            "Jonathan Groff",
+            " Holt McCallany",
+            " Anna Torv",
+            " Sonny Valicenti",
+            " Stacey Roca",
+            " Hannah Gross",
+            " Joe Tuttle",
+            " Zachary Scott Ross",
+            " Cotter Smith",
+            " Albert Jones"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "may": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "chi": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "tam": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "ind": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "tha": [
+            "David Fincher",
+            " Carl Franklin",
+            " Andrew Douglas",
+            " Asif Kapadia",
+            " Tobias Lindholm",
+            " Andrew Dominik"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "may": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "chi": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "tam": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "ind": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "tha": [
+            "Kirk Baxter",
+            " Ce\u00e1n Chaffin",
+            " Jim Davidson",
+            " Joshua Donen",
+            " William Doyle",
+            " Jennifer Erwin",
+            " David Fincher",
+            " Beth Kono",
+            " Peter Mavromates",
+            " Charlize Theron"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_668bbd80-71df-5511-987d-28e15226f5ee",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Mindhunter S01 Ep01",
+            "may": "Mindhunter S01 Ep01",
+            "chi": "Mindhunter S01 Ep01",
+            "tam": "Mindhunter S01 Ep01",
+            "ind": "Mindhunter S01 Ep01",
+            "tha": "Mindhunter S01 Ep01"
+        },
+        "long": {
+            "eng": "Mindhunter S01 Ep01",
+            "may": "Mindhunter S01 Ep01",
+            "chi": "Mindhunter S01 Ep01",
+            "tam": "Mindhunter S01 Ep01",
+            "ind": "Mindhunter S01 Ep01",
+            "tha": "Mindhunter S01 Ep01"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "In 1977, frustrated FBI hostage negotiator Holden Ford finds an unlikely ally in veteran agent Bill Tench and begins studying a new class of murderer.",
+            "may": "In 1977, frustrated FBI hostage negotiator Holden Ford finds an unlikely ally in veteran agent Bill Tench and begins studying a new class of murderer.",
+            "chi": "In 1977, frustrated FBI hostage negotiator Holden Ford finds an unlikely ally in veteran agent Bill Tench and begins studying a new class of murderer.",
+            "tam": "In 1977, frustrated FBI hostage negotiator Holden Ford finds an unlikely ally in veteran agent Bill Tench and begins studying a new class of murderer.",
+            "ind": "In 1977, frustrated FBI hostage negotiator Holden Ford finds an unlikely ally in veteran agent Bill Tench and begins studying a new class of murderer.",
+            "tha": "In 1977, frustrated FBI hostage negotiator Holden Ford finds an unlikely ally in veteran agent Bill Tench and begins studying a new class of murderer."
+        },
+        "long": {
+            "eng": "In 1977, frustrated FBI hostage negotiator Holden Ford finds an unlikely ally in veteran agent Bill Tench and begins studying a new class of murderer.",
+            "may": "In 1977, frustrated FBI hostage negotiator Holden Ford finds an unlikely ally in veteran agent Bill Tench and begins studying a new class of murderer.",
+            "chi": "In 1977, frustrated FBI hostage negotiator Holden Ford finds an unlikely ally in veteran agent Bill Tench and begins studying a new class of murderer.",
+            "tam": "In 1977, frustrated FBI hostage negotiator Holden Ford finds an unlikely ally in veteran agent Bill Tench and begins studying a new class of murderer.",
+            "ind": "In 1977, frustrated FBI hostage negotiator Holden Ford finds an unlikely ally in veteran agent Bill Tench and begins studying a new class of murderer.",
+            "tha": "In 1977, frustrated FBI hostage negotiator Holden Ford finds an unlikely ally in veteran agent Bill Tench and begins studying a new class of murderer."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MindhunterS01Ep01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MindhunterS01Ep01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MindhunterS01Ep01_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

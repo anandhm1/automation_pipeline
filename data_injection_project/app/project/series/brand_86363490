@@ -1,0 +1,325 @@
+{
+    "externalId": "AggregatedSeries_a372a43e-5360-5cef-97ad-eee3f374de62",
+    "clientContentId": "PACK0000000008601376",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "A Perfect Planet",
+            "may": "A Perfect Planet",
+            "tam": "A Perfect Planet",
+            "chi": "A Perfect Planet",
+            "tha": "A Perfect Planet",
+            "ind": "A Perfect Planet"
+        },
+        "long": {
+            "eng": "A Perfect Planet",
+            "may": "A Perfect Planet",
+            "tam": "A Perfect Planet",
+            "chi": "A Perfect Planet",
+            "tha": "A Perfect Planet",
+            "ind": "A Perfect Planet"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Perfect Planet analyzes, in five episodes, how the forces of nature, including the power of the Sun or even humans, drive and shape life on Earth.",
+            "may": "Perfect Planet analyzes, in five episodes, how the forces of nature, including the power of the Sun or even humans, drive and shape life on Earth.",
+            "tam": "Perfect Planet analyzes, in five episodes, how the forces of nature, including the power of the Sun or even humans, drive and shape life on Earth.",
+            "chi": "Perfect Planet analyzes, in five episodes, how the forces of nature, including the power of the Sun or even humans, drive and shape life on Earth.",
+            "tha": "Perfect Planet analyzes, in five episodes, how the forces of nature, including the power of the Sun or even humans, drive and shape life on Earth.",
+            "ind": "Perfect Planet analyzes, in five episodes, how the forces of nature, including the power of the Sun or even humans, drive and shape life on Earth."
+        },
+        "long": {
+            "eng": "Perfect Planet analyzes, in five episodes, how the forces of nature, including the power of the Sun or even humans, drive and shape life on Earth.",
+            "may": "Perfect Planet analyzes, in five episodes, how the forces of nature, including the power of the Sun or even humans, drive and shape life on Earth.",
+            "tam": "Perfect Planet analyzes, in five episodes, how the forces of nature, including the power of the Sun or even humans, drive and shape life on Earth.",
+            "chi": "Perfect Planet analyzes, in five episodes, how the forces of nature, including the power of the Sun or even humans, drive and shape life on Earth.",
+            "tha": "Perfect Planet analyzes, in five episodes, how the forces of nature, including the power of the Sun or even humans, drive and shape life on Earth.",
+            "ind": "Perfect Planet analyzes, in five episodes, how the forces of nature, including the power of the Sun or even humans, drive and shape life on Earth."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "David Attenborough",
+            " Toby Nowlan",
+            " Chadden Hunter",
+            " Rolf Steinmann",
+            " Matthew Aeberhard",
+            " Jeremy Rifkin",
+            " Cong Liu",
+            " Huw Cordey",
+            " Ed Charles",
+            " Sophie Lanfear"
+        ],
+        "may": [
+            "David Attenborough",
+            " Toby Nowlan",
+            " Chadden Hunter",
+            " Rolf Steinmann",
+            " Matthew Aeberhard",
+            " Jeremy Rifkin",
+            " Cong Liu",
+            " Huw Cordey",
+            " Ed Charles",
+            " Sophie Lanfear"
+        ],
+        "tam": [
+            "David Attenborough",
+            " Toby Nowlan",
+            " Chadden Hunter",
+            " Rolf Steinmann",
+            " Matthew Aeberhard",
+            " Jeremy Rifkin",
+            " Cong Liu",
+            " Huw Cordey",
+            " Ed Charles",
+            " Sophie Lanfear"
+        ],
+        "chi": [
+            "David Attenborough",
+            " Toby Nowlan",
+            " Chadden Hunter",
+            " Rolf Steinmann",
+            " Matthew Aeberhard",
+            " Jeremy Rifkin",
+            " Cong Liu",
+            " Huw Cordey",
+            " Ed Charles",
+            " Sophie Lanfear"
+        ],
+        "tha": [
+            "David Attenborough",
+            " Toby Nowlan",
+            " Chadden Hunter",
+            " Rolf Steinmann",
+            " Matthew Aeberhard",
+            " Jeremy Rifkin",
+            " Cong Liu",
+            " Huw Cordey",
+            " Ed Charles",
+            " Sophie Lanfear"
+        ],
+        "ind": [
+            "David Attenborough",
+            " Toby Nowlan",
+            " Chadden Hunter",
+            " Rolf Steinmann",
+            " Matthew Aeberhard",
+            " Jeremy Rifkin",
+            " Cong Liu",
+            " Huw Cordey",
+            " Ed Charles",
+            " Sophie Lanfear"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Ed Charles",
+            " Nick Shoolingin-Jordan",
+            " Huw Cordey"
+        ],
+        "may": [
+            "Ed Charles",
+            " Nick Shoolingin-Jordan",
+            " Huw Cordey"
+        ],
+        "tam": [
+            "Ed Charles",
+            " Nick Shoolingin-Jordan",
+            " Huw Cordey"
+        ],
+        "chi": [
+            "Ed Charles",
+            " Nick Shoolingin-Jordan",
+            " Huw Cordey"
+        ],
+        "tha": [
+            "Ed Charles",
+            " Nick Shoolingin-Jordan",
+            " Huw Cordey"
+        ],
+        "ind": [
+            "Ed Charles",
+            " Nick Shoolingin-Jordan",
+            " Huw Cordey"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Daniel Rasmussen",
+            " Ed Charles",
+            " Huw Cordey",
+            " Alastair Fothergill",
+            " Toby Nowlan",
+            " Keith Scholey",
+            " Darren Williams",
+            " Jonathan Hughes",
+            " Nick Shoolingin-Jordan",
+            " Nancy Daniels"
+        ],
+        "may": [
+            "Daniel Rasmussen",
+            " Ed Charles",
+            " Huw Cordey",
+            " Alastair Fothergill",
+            " Toby Nowlan",
+            " Keith Scholey",
+            " Darren Williams",
+            " Jonathan Hughes",
+            " Nick Shoolingin-Jordan",
+            " Nancy Daniels"
+        ],
+        "tam": [
+            "Daniel Rasmussen",
+            " Ed Charles",
+            " Huw Cordey",
+            " Alastair Fothergill",
+            " Toby Nowlan",
+            " Keith Scholey",
+            " Darren Williams",
+            " Jonathan Hughes",
+            " Nick Shoolingin-Jordan",
+            " Nancy Daniels"
+        ],
+        "chi": [
+            "Daniel Rasmussen",
+            " Ed Charles",
+            " Huw Cordey",
+            " Alastair Fothergill",
+            " Toby Nowlan",
+            " Keith Scholey",
+            " Darren Williams",
+            " Jonathan Hughes",
+            " Nick Shoolingin-Jordan",
+            " Nancy Daniels"
+        ],
+        "tha": [
+            "Daniel Rasmussen",
+            " Ed Charles",
+            " Huw Cordey",
+            " Alastair Fothergill",
+            " Toby Nowlan",
+            " Keith Scholey",
+            " Darren Williams",
+            " Jonathan Hughes",
+            " Nick Shoolingin-Jordan",
+            " Nancy Daniels"
+        ],
+        "ind": [
+            "Daniel Rasmussen",
+            " Ed Charles",
+            " Huw Cordey",
+            " Alastair Fothergill",
+            " Toby Nowlan",
+            " Keith Scholey",
+            " Darren Williams",
+            " Jonathan Hughes",
+            " Nick Shoolingin-Jordan",
+            " Nancy Daniels"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "tam": "Documentary",
+                    "chi": "Documentary",
+                    "tha": "Documentary",
+                    "ind": "Documentary"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "tam": "Documentary",
+                    "chi": "Documentary",
+                    "tha": "Documentary",
+                    "ind": "Documentary"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/APerfectPlanetS01Ep01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/APerfectPlanetS01Ep01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/APerfectPlanetS01Ep01_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "9",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2021,
+    "maxConcurrentStreams": 0
+}

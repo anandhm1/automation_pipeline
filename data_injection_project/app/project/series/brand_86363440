@@ -1,0 +1,325 @@
+{
+    "externalId": "AggregatedSeries_4cc67bed-5e6c-56df-bae6-acbedf4a90c4",
+    "clientContentId": "PACK0000000006446097",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Spinning Out",
+            "may": "Spinning Out",
+            "tam": "Spinning Out",
+            "chi": "Spinning Out",
+            "tha": "Spinning Out",
+            "ind": "Spinning Out"
+        },
+        "long": {
+            "eng": "Spinning Out",
+            "may": "Spinning Out",
+            "tam": "Spinning Out",
+            "chi": "Spinning Out",
+            "tha": "Spinning Out",
+            "ind": "Spinning Out"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A figure skating Olympic hopeful's struggle to balance love, family and fragile mental health as her dream of winning takes a dizzying hold.",
+            "may": "A figure skating Olympic hopeful's struggle to balance love, family and fragile mental health as her dream of winning takes a dizzying hold.",
+            "tam": "A figure skating Olympic hopeful's struggle to balance love, family and fragile mental health as her dream of winning takes a dizzying hold.",
+            "chi": "A figure skating Olympic hopeful's struggle to balance love, family and fragile mental health as her dream of winning takes a dizzying hold.",
+            "tha": "A figure skating Olympic hopeful's struggle to balance love, family and fragile mental health as her dream of winning takes a dizzying hold.",
+            "ind": "A figure skating Olympic hopeful's struggle to balance love, family and fragile mental health as her dream of winning takes a dizzying hold."
+        },
+        "long": {
+            "eng": "A figure skating Olympic hopeful's struggle to balance love, family and fragile mental health as her dream of winning takes a dizzying hold.",
+            "may": "A figure skating Olympic hopeful's struggle to balance love, family and fragile mental health as her dream of winning takes a dizzying hold.",
+            "tam": "A figure skating Olympic hopeful's struggle to balance love, family and fragile mental health as her dream of winning takes a dizzying hold.",
+            "chi": "A figure skating Olympic hopeful's struggle to balance love, family and fragile mental health as her dream of winning takes a dizzying hold.",
+            "tha": "A figure skating Olympic hopeful's struggle to balance love, family and fragile mental health as her dream of winning takes a dizzying hold.",
+            "ind": "A figure skating Olympic hopeful's struggle to balance love, family and fragile mental health as her dream of winning takes a dizzying hold."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Kaya Scodelario",
+            " January Jones",
+            " Willow Shields",
+            " Evan Roderick",
+            " David James Elliott",
+            " Sarah Wright",
+            " Svetlana Efremova",
+            " Amanda Zhou",
+            " Will Kemp",
+            " Mitchell Edwards"
+        ],
+        "may": [
+            "Kaya Scodelario",
+            " January Jones",
+            " Willow Shields",
+            " Evan Roderick",
+            " David James Elliott",
+            " Sarah Wright",
+            " Svetlana Efremova",
+            " Amanda Zhou",
+            " Will Kemp",
+            " Mitchell Edwards"
+        ],
+        "tam": [
+            "Kaya Scodelario",
+            " January Jones",
+            " Willow Shields",
+            " Evan Roderick",
+            " David James Elliott",
+            " Sarah Wright",
+            " Svetlana Efremova",
+            " Amanda Zhou",
+            " Will Kemp",
+            " Mitchell Edwards"
+        ],
+        "chi": [
+            "Kaya Scodelario",
+            " January Jones",
+            " Willow Shields",
+            " Evan Roderick",
+            " David James Elliott",
+            " Sarah Wright",
+            " Svetlana Efremova",
+            " Amanda Zhou",
+            " Will Kemp",
+            " Mitchell Edwards"
+        ],
+        "tha": [
+            "Kaya Scodelario",
+            " January Jones",
+            " Willow Shields",
+            " Evan Roderick",
+            " David James Elliott",
+            " Sarah Wright",
+            " Svetlana Efremova",
+            " Amanda Zhou",
+            " Will Kemp",
+            " Mitchell Edwards"
+        ],
+        "ind": [
+            "Kaya Scodelario",
+            " January Jones",
+            " Willow Shields",
+            " Evan Roderick",
+            " David James Elliott",
+            " Sarah Wright",
+            " Svetlana Efremova",
+            " Amanda Zhou",
+            " Will Kemp",
+            " Mitchell Edwards"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Matthew Hastings",
+            " Jon Amiel",
+            " Norma Bailey",
+            " Elizabeth Allen Rosenbaum"
+        ],
+        "may": [
+            "Matthew Hastings",
+            " Jon Amiel",
+            " Norma Bailey",
+            " Elizabeth Allen Rosenbaum"
+        ],
+        "tam": [
+            "Matthew Hastings",
+            " Jon Amiel",
+            " Norma Bailey",
+            " Elizabeth Allen Rosenbaum"
+        ],
+        "chi": [
+            "Matthew Hastings",
+            " Jon Amiel",
+            " Norma Bailey",
+            " Elizabeth Allen Rosenbaum"
+        ],
+        "tha": [
+            "Matthew Hastings",
+            " Jon Amiel",
+            " Norma Bailey",
+            " Elizabeth Allen Rosenbaum"
+        ],
+        "ind": [
+            "Matthew Hastings",
+            " Jon Amiel",
+            " Norma Bailey",
+            " Elizabeth Allen Rosenbaum"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Joby Harold",
+            " Daniel Iron",
+            " Armand Leo",
+            " Lara Olsen",
+            " Lance Samuels",
+            " Samantha Stratton",
+            " Tory Tunnell",
+            " Matthew Hastings",
+            " Elizabeth Allen Rosenbaum"
+        ],
+        "may": [
+            "Joby Harold",
+            " Daniel Iron",
+            " Armand Leo",
+            " Lara Olsen",
+            " Lance Samuels",
+            " Samantha Stratton",
+            " Tory Tunnell",
+            " Matthew Hastings",
+            " Elizabeth Allen Rosenbaum"
+        ],
+        "tam": [
+            "Joby Harold",
+            " Daniel Iron",
+            " Armand Leo",
+            " Lara Olsen",
+            " Lance Samuels",
+            " Samantha Stratton",
+            " Tory Tunnell",
+            " Matthew Hastings",
+            " Elizabeth Allen Rosenbaum"
+        ],
+        "chi": [
+            "Joby Harold",
+            " Daniel Iron",
+            " Armand Leo",
+            " Lara Olsen",
+            " Lance Samuels",
+            " Samantha Stratton",
+            " Tory Tunnell",
+            " Matthew Hastings",
+            " Elizabeth Allen Rosenbaum"
+        ],
+        "tha": [
+            "Joby Harold",
+            " Daniel Iron",
+            " Armand Leo",
+            " Lara Olsen",
+            " Lance Samuels",
+            " Samantha Stratton",
+            " Tory Tunnell",
+            " Matthew Hastings",
+            " Elizabeth Allen Rosenbaum"
+        ],
+        "ind": [
+            "Joby Harold",
+            " Daniel Iron",
+            " Armand Leo",
+            " Lara Olsen",
+            " Lance Samuels",
+            " Samantha Stratton",
+            " Tory Tunnell",
+            " Matthew Hastings",
+            " Elizabeth Allen Rosenbaum"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Sport",
+                    "may": " Sport",
+                    "tam": " Sport",
+                    "chi": " Sport",
+                    "tha": " Sport",
+                    "ind": " Sport"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/SpinningOutSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/SpinningOutSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/SpinningOutSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "6",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2020,
+    "maxConcurrentStreams": 0
+}

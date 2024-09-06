@@ -1,0 +1,331 @@
+{
+    "externalId": "AggregatedSeries_c1f2ea85-b8d8-5d1e-b319-735cd9149ce1",
+    "clientContentId": "PACK0000000002962078",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Willow",
+            "may": "Willow",
+            "tam": "Willow",
+            "chi": "Willow",
+            "tha": "Willow",
+            "ind": "Willow"
+        },
+        "long": {
+            "eng": "Willow",
+            "may": "Willow",
+            "tam": "Willow",
+            "chi": "Willow",
+            "tha": "Willow",
+            "ind": "Willow"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "may": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "tam": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "chi": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "tha": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "ind": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown."
+        },
+        "long": {
+            "eng": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "may": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "tam": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "chi": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "tha": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "ind": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Ruby Cruz",
+            " Ellie Bamber",
+            " Tony Revolori",
+            " Erin Kellyman",
+            " Amar Chadha-Patel",
+            " Warwick Davis",
+            " Dempsey Bryk",
+            " Joonas Suotamo",
+            " Claudia Hughes",
+            " Joanne Whalley"
+        ],
+        "may": [
+            "Ruby Cruz",
+            " Ellie Bamber",
+            " Tony Revolori",
+            " Erin Kellyman",
+            " Amar Chadha-Patel",
+            " Warwick Davis",
+            " Dempsey Bryk",
+            " Joonas Suotamo",
+            " Claudia Hughes",
+            " Joanne Whalley"
+        ],
+        "tam": [
+            "Ruby Cruz",
+            " Ellie Bamber",
+            " Tony Revolori",
+            " Erin Kellyman",
+            " Amar Chadha-Patel",
+            " Warwick Davis",
+            " Dempsey Bryk",
+            " Joonas Suotamo",
+            " Claudia Hughes",
+            " Joanne Whalley"
+        ],
+        "chi": [
+            "Ruby Cruz",
+            " Ellie Bamber",
+            " Tony Revolori",
+            " Erin Kellyman",
+            " Amar Chadha-Patel",
+            " Warwick Davis",
+            " Dempsey Bryk",
+            " Joonas Suotamo",
+            " Claudia Hughes",
+            " Joanne Whalley"
+        ],
+        "tha": [
+            "Ruby Cruz",
+            " Ellie Bamber",
+            " Tony Revolori",
+            " Erin Kellyman",
+            " Amar Chadha-Patel",
+            " Warwick Davis",
+            " Dempsey Bryk",
+            " Joonas Suotamo",
+            " Claudia Hughes",
+            " Joanne Whalley"
+        ],
+        "ind": [
+            "Ruby Cruz",
+            " Ellie Bamber",
+            " Tony Revolori",
+            " Erin Kellyman",
+            " Amar Chadha-Patel",
+            " Warwick Davis",
+            " Dempsey Bryk",
+            " Joonas Suotamo",
+            " Claudia Hughes",
+            " Joanne Whalley"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Philippa Lowthorpe",
+            " Debs Paterson",
+            " Stephen Woolfenden",
+            " Jamie Childs"
+        ],
+        "may": [
+            "Philippa Lowthorpe",
+            " Debs Paterson",
+            " Stephen Woolfenden",
+            " Jamie Childs"
+        ],
+        "tam": [
+            "Philippa Lowthorpe",
+            " Debs Paterson",
+            " Stephen Woolfenden",
+            " Jamie Childs"
+        ],
+        "chi": [
+            "Philippa Lowthorpe",
+            " Debs Paterson",
+            " Stephen Woolfenden",
+            " Jamie Childs"
+        ],
+        "tha": [
+            "Philippa Lowthorpe",
+            " Debs Paterson",
+            " Stephen Woolfenden",
+            " Jamie Childs"
+        ],
+        "ind": [
+            "Philippa Lowthorpe",
+            " Debs Paterson",
+            " Stephen Woolfenden",
+            " Jamie Childs"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Julia Cooperman",
+            " Tommy Harper",
+            " Jonathan Kasdan",
+            " Roopesh Parekh",
+            " Hameed Shaukat",
+            " Rob Bredow",
+            " Bob Dolman",
+            " Samie Kim Falvey",
+            " Hannah Friedman",
+            " Ron Howard"
+        ],
+        "may": [
+            "Julia Cooperman",
+            " Tommy Harper",
+            " Jonathan Kasdan",
+            " Roopesh Parekh",
+            " Hameed Shaukat",
+            " Rob Bredow",
+            " Bob Dolman",
+            " Samie Kim Falvey",
+            " Hannah Friedman",
+            " Ron Howard"
+        ],
+        "tam": [
+            "Julia Cooperman",
+            " Tommy Harper",
+            " Jonathan Kasdan",
+            " Roopesh Parekh",
+            " Hameed Shaukat",
+            " Rob Bredow",
+            " Bob Dolman",
+            " Samie Kim Falvey",
+            " Hannah Friedman",
+            " Ron Howard"
+        ],
+        "chi": [
+            "Julia Cooperman",
+            " Tommy Harper",
+            " Jonathan Kasdan",
+            " Roopesh Parekh",
+            " Hameed Shaukat",
+            " Rob Bredow",
+            " Bob Dolman",
+            " Samie Kim Falvey",
+            " Hannah Friedman",
+            " Ron Howard"
+        ],
+        "tha": [
+            "Julia Cooperman",
+            " Tommy Harper",
+            " Jonathan Kasdan",
+            " Roopesh Parekh",
+            " Hameed Shaukat",
+            " Rob Bredow",
+            " Bob Dolman",
+            " Samie Kim Falvey",
+            " Hannah Friedman",
+            " Ron Howard"
+        ],
+        "ind": [
+            "Julia Cooperman",
+            " Tommy Harper",
+            " Jonathan Kasdan",
+            " Roopesh Parekh",
+            " Hameed Shaukat",
+            " Rob Bredow",
+            " Bob Dolman",
+            " Samie Kim Falvey",
+            " Hannah Friedman",
+            " Ron Howard"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/WillowSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/WillowSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/WillowSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "8",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2022,
+    "maxConcurrentStreams": 0
+}

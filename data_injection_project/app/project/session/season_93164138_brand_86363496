@@ -1,0 +1,227 @@
+{
+    "externalId": "AggregatedSeason_1fcdb38d-ee32-588c-9a61-884c76ad979f",
+    "clientContentId": "PACK0000000009674523",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "chi": "Comedy",
+                    "tam": "Comedy",
+                    "ind": "Comedy",
+                    "tha": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "chi": "Comedy",
+                    "tam": "Comedy",
+                    "ind": "Comedy",
+                    "tha": "Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "8.5",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Prit Kamani",
+            " Anshuman Malhotra",
+            " Mihir Ahuja"
+        ],
+        "may": [
+            "Prit Kamani",
+            " Anshuman Malhotra",
+            " Mihir Ahuja"
+        ],
+        "chi": [
+            "Prit Kamani",
+            " Anshuman Malhotra",
+            " Mihir Ahuja"
+        ],
+        "tam": [
+            "Prit Kamani",
+            " Anshuman Malhotra",
+            " Mihir Ahuja"
+        ],
+        "ind": [
+            "Prit Kamani",
+            " Anshuman Malhotra",
+            " Mihir Ahuja"
+        ],
+        "tha": [
+            "Prit Kamani",
+            " Anshuman Malhotra",
+            " Mihir Ahuja"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Sahir Raza"
+        ],
+        "may": [
+            "Sahir Raza"
+        ],
+        "chi": [
+            "Sahir Raza"
+        ],
+        "tam": [
+            "Sahir Raza"
+        ],
+        "ind": [
+            "Sahir Raza"
+        ],
+        "tha": [
+            "Sahir Raza"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Sahir Raza"
+        ],
+        "may": [
+            "Sahir Raza"
+        ],
+        "chi": [
+            "Sahir Raza"
+        ],
+        "tam": [
+            "Sahir Raza"
+        ],
+        "ind": [
+            "Sahir Raza"
+        ],
+        "tha": [
+            "Sahir Raza"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_e79a9448-5175-5e9e-ae8f-88a8de93774c",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Feels Like Home S01 EP01",
+            "may": "Feels Like Home S01 EP01",
+            "chi": "Feels Like Home S01 EP01",
+            "tam": "Feels Like Home S01 EP01",
+            "ind": "Feels Like Home S01 EP01",
+            "tha": "Feels Like Home S01 EP01"
+        },
+        "long": {
+            "eng": "Feels Like Home S01 EP01",
+            "may": "Feels Like Home S01 EP01",
+            "chi": "Feels Like Home S01 EP01",
+            "tam": "Feels Like Home S01 EP01",
+            "ind": "Feels Like Home S01 EP01",
+            "tha": "Feels Like Home S01 EP01"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "may": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "chi": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "tam": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "ind": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "tha": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home."
+        },
+        "long": {
+            "eng": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "may": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "chi": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "tam": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "ind": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home.",
+            "tha": "Four boys, Avi, Lakshay, Sameer and Gandhi, struggle to make their first house a home. Along the way they discover true friendship, love, heartbreak, an iguana named Godzilla and what it means to feel like home."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/FriendsWhoFeelLikeHome_S01_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/FriendsWhoFeelLikeHome_S01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/FriendsWhoFeelLikeHome_S01_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

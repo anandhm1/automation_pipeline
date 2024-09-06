@@ -1,0 +1,319 @@
+{
+    "externalId": "AggregatedMovie_35244474-3bb9-50ae-8474-65faa40f0fbc",
+    "clientContentId": "PACK0000000004678146",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "In His Shadow 2023",
+            "may": "In His Shadow 2023",
+            "tam": "In His Shadow 2023",
+            "chi": "In His Shadow 2023",
+            "tha": "In His Shadow 2023",
+            "ind": "In His Shadow 2023"
+        },
+        "long": {
+            "eng": "In His Shadow 2023",
+            "may": "In His Shadow 2023",
+            "tam": "In His Shadow 2023",
+            "chi": "In His Shadow 2023",
+            "tha": "In His Shadow 2023",
+            "ind": "In His Shadow 2023"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "After the death of their father, two half-brothers find themselves on opposite sides of an escalating conflict with tragic consequences.",
+            "may": "After the death of their father, two half-brothers find themselves on opposite sides of an escalating conflict with tragic consequences.",
+            "tam": "After the death of their father, two half-brothers find themselves on opposite sides of an escalating conflict with tragic consequences.",
+            "chi": "After the death of their father, two half-brothers find themselves on opposite sides of an escalating conflict with tragic consequences.",
+            "tha": "After the death of their father, two half-brothers find themselves on opposite sides of an escalating conflict with tragic consequences.",
+            "ind": "After the death of their father, two half-brothers find themselves on opposite sides of an escalating conflict with tragic consequences."
+        },
+        "long": {
+            "eng": "After the death of their father, two half-brothers find themselves on opposite sides of an escalating conflict with tragic consequences.",
+            "may": "After the death of their father, two half-brothers find themselves on opposite sides of an escalating conflict with tragic consequences.",
+            "tam": "After the death of their father, two half-brothers find themselves on opposite sides of an escalating conflict with tragic consequences.",
+            "chi": "After the death of their father, two half-brothers find themselves on opposite sides of an escalating conflict with tragic consequences.",
+            "tha": "After the death of their father, two half-brothers find themselves on opposite sides of an escalating conflict with tragic consequences.",
+            "ind": "After the death of their father, two half-brothers find themselves on opposite sides of an escalating conflict with tragic consequences."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Kaaris",
+            " Alassane Diong",
+            " Carl Malapa",
+            " Assa Sylla",
+            " Issaka Sawadogo",
+            " Hassam Ghancy",
+            " Mareme N'Diaye",
+            " Tatiana Rojo",
+            " Jonas Dinal",
+            " Myl\u00e8ne Wagram"
+        ],
+        "may": [
+            "Kaaris",
+            " Alassane Diong",
+            " Carl Malapa",
+            " Assa Sylla",
+            " Issaka Sawadogo",
+            " Hassam Ghancy",
+            " Mareme N'Diaye",
+            " Tatiana Rojo",
+            " Jonas Dinal",
+            " Myl\u00e8ne Wagram"
+        ],
+        "tam": [
+            "Kaaris",
+            " Alassane Diong",
+            " Carl Malapa",
+            " Assa Sylla",
+            " Issaka Sawadogo",
+            " Hassam Ghancy",
+            " Mareme N'Diaye",
+            " Tatiana Rojo",
+            " Jonas Dinal",
+            " Myl\u00e8ne Wagram"
+        ],
+        "chi": [
+            "Kaaris",
+            " Alassane Diong",
+            " Carl Malapa",
+            " Assa Sylla",
+            " Issaka Sawadogo",
+            " Hassam Ghancy",
+            " Mareme N'Diaye",
+            " Tatiana Rojo",
+            " Jonas Dinal",
+            " Myl\u00e8ne Wagram"
+        ],
+        "tha": [
+            "Kaaris",
+            " Alassane Diong",
+            " Carl Malapa",
+            " Assa Sylla",
+            " Issaka Sawadogo",
+            " Hassam Ghancy",
+            " Mareme N'Diaye",
+            " Tatiana Rojo",
+            " Jonas Dinal",
+            " Myl\u00e8ne Wagram"
+        ],
+        "ind": [
+            "Kaaris",
+            " Alassane Diong",
+            " Carl Malapa",
+            " Assa Sylla",
+            " Issaka Sawadogo",
+            " Hassam Ghancy",
+            " Mareme N'Diaye",
+            " Tatiana Rojo",
+            " Jonas Dinal",
+            " Myl\u00e8ne Wagram"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Marc Fouchard"
+        ],
+        "may": [
+            "Marc Fouchard"
+        ],
+        "tam": [
+            "Marc Fouchard"
+        ],
+        "chi": [
+            "Marc Fouchard"
+        ],
+        "tha": [
+            "Marc Fouchard"
+        ],
+        "ind": [
+            "Marc Fouchard"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Brahim Chioua",
+            " Alain de la Mata",
+            " No\u00e9mie Devide",
+            " Nathan Fischer",
+            " Vincent Maraval",
+            " Olivier Thery Lapiney"
+        ],
+        "may": [
+            "Brahim Chioua",
+            " Alain de la Mata",
+            " No\u00e9mie Devide",
+            " Nathan Fischer",
+            " Vincent Maraval",
+            " Olivier Thery Lapiney"
+        ],
+        "tam": [
+            "Brahim Chioua",
+            " Alain de la Mata",
+            " No\u00e9mie Devide",
+            " Nathan Fischer",
+            " Vincent Maraval",
+            " Olivier Thery Lapiney"
+        ],
+        "chi": [
+            "Brahim Chioua",
+            " Alain de la Mata",
+            " No\u00e9mie Devide",
+            " Nathan Fischer",
+            " Vincent Maraval",
+            " Olivier Thery Lapiney"
+        ],
+        "tha": [
+            "Brahim Chioua",
+            " Alain de la Mata",
+            " No\u00e9mie Devide",
+            " Nathan Fischer",
+            " Vincent Maraval",
+            " Olivier Thery Lapiney"
+        ],
+        "ind": [
+            "Brahim Chioua",
+            " Alain de la Mata",
+            " No\u00e9mie Devide",
+            " Nathan Fischer",
+            " Vincent Maraval",
+            " Olivier Thery Lapiney"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/InHisShadow_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/InHisShadow_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/InHisShadow_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2023,
+    "rating": "4.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

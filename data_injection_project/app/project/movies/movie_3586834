@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_9d236a34-3d8e-533e-b454-a37fcf78a840",
+    "clientContentId": "PACK0000000008374393",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Godzilla King of the Monsters",
+            "may": "Godzilla King of the Monsters",
+            "tam": "Godzilla King of the Monsters",
+            "chi": "Godzilla King of the Monsters",
+            "tha": "Godzilla King of the Monsters",
+            "ind": "Godzilla King of the Monsters"
+        },
+        "long": {
+            "eng": "Godzilla King of the Monsters",
+            "may": "Godzilla King of the Monsters",
+            "tam": "Godzilla King of the Monsters",
+            "chi": "Godzilla King of the Monsters",
+            "tha": "Godzilla King of the Monsters",
+            "ind": "Godzilla King of the Monsters"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+            "may": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+            "tam": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+            "chi": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+            "tha": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+            "ind": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah."
+        },
+        "long": {
+            "eng": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+            "may": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+            "tam": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+            "chi": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+            "tha": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+            "ind": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Kyle Chandler",
+            " Vera Farmiga",
+            " Millie Bobby Brown",
+            " Ken Watanabe",
+            " Ziyi Zhang",
+            " Bradley Whitford",
+            " Sally Hawkins",
+            " Charles Dance",
+            " Thomas Middleditch",
+            " Aisha Hinds"
+        ],
+        "may": [
+            "Kyle Chandler",
+            " Vera Farmiga",
+            " Millie Bobby Brown",
+            " Ken Watanabe",
+            " Ziyi Zhang",
+            " Bradley Whitford",
+            " Sally Hawkins",
+            " Charles Dance",
+            " Thomas Middleditch",
+            " Aisha Hinds"
+        ],
+        "tam": [
+            "Kyle Chandler",
+            " Vera Farmiga",
+            " Millie Bobby Brown",
+            " Ken Watanabe",
+            " Ziyi Zhang",
+            " Bradley Whitford",
+            " Sally Hawkins",
+            " Charles Dance",
+            " Thomas Middleditch",
+            " Aisha Hinds"
+        ],
+        "chi": [
+            "Kyle Chandler",
+            " Vera Farmiga",
+            " Millie Bobby Brown",
+            " Ken Watanabe",
+            " Ziyi Zhang",
+            " Bradley Whitford",
+            " Sally Hawkins",
+            " Charles Dance",
+            " Thomas Middleditch",
+            " Aisha Hinds"
+        ],
+        "tha": [
+            "Kyle Chandler",
+            " Vera Farmiga",
+            " Millie Bobby Brown",
+            " Ken Watanabe",
+            " Ziyi Zhang",
+            " Bradley Whitford",
+            " Sally Hawkins",
+            " Charles Dance",
+            " Thomas Middleditch",
+            " Aisha Hinds"
+        ],
+        "ind": [
+            "Kyle Chandler",
+            " Vera Farmiga",
+            " Millie Bobby Brown",
+            " Ken Watanabe",
+            " Ziyi Zhang",
+            " Bradley Whitford",
+            " Sally Hawkins",
+            " Charles Dance",
+            " Thomas Middleditch",
+            " Aisha Hinds"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Michael Dougherty"
+        ],
+        "may": [
+            "Michael Dougherty"
+        ],
+        "tam": [
+            "Michael Dougherty"
+        ],
+        "chi": [
+            "Michael Dougherty"
+        ],
+        "tha": [
+            "Michael Dougherty"
+        ],
+        "ind": [
+            "Michael Dougherty"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Matt Allsopp",
+            " Jay Ashenfelter",
+            " Yoshimitsu Banno",
+            " Shirit Bradley",
+            " Alex Garcia",
+            " Jon Jashni",
+            " Cliff Lanning",
+            " Roy Lee",
+            " Dan Lin",
+            " Hiro Matsuoka"
+        ],
+        "may": [
+            "Matt Allsopp",
+            " Jay Ashenfelter",
+            " Yoshimitsu Banno",
+            " Shirit Bradley",
+            " Alex Garcia",
+            " Jon Jashni",
+            " Cliff Lanning",
+            " Roy Lee",
+            " Dan Lin",
+            " Hiro Matsuoka"
+        ],
+        "tam": [
+            "Matt Allsopp",
+            " Jay Ashenfelter",
+            " Yoshimitsu Banno",
+            " Shirit Bradley",
+            " Alex Garcia",
+            " Jon Jashni",
+            " Cliff Lanning",
+            " Roy Lee",
+            " Dan Lin",
+            " Hiro Matsuoka"
+        ],
+        "chi": [
+            "Matt Allsopp",
+            " Jay Ashenfelter",
+            " Yoshimitsu Banno",
+            " Shirit Bradley",
+            " Alex Garcia",
+            " Jon Jashni",
+            " Cliff Lanning",
+            " Roy Lee",
+            " Dan Lin",
+            " Hiro Matsuoka"
+        ],
+        "tha": [
+            "Matt Allsopp",
+            " Jay Ashenfelter",
+            " Yoshimitsu Banno",
+            " Shirit Bradley",
+            " Alex Garcia",
+            " Jon Jashni",
+            " Cliff Lanning",
+            " Roy Lee",
+            " Dan Lin",
+            " Hiro Matsuoka"
+        ],
+        "ind": [
+            "Matt Allsopp",
+            " Jay Ashenfelter",
+            " Yoshimitsu Banno",
+            " Shirit Bradley",
+            " Alex Garcia",
+            " Jon Jashni",
+            " Cliff Lanning",
+            " Roy Lee",
+            " Dan Lin",
+            " Hiro Matsuoka"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/GodzillaKingoftheMonsters_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/GodzillaKingoftheMonsters_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/GodzillaKingoftheMonsters_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2019,
+    "rating": "6.0",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,325 @@
+{
+    "externalId": "AggregatedTvShow_d6879661-950c-5a58-9a34-c6aa2dcc18c7",
+    "clientContentId": "PACK0000000005593975",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Ms. Marvel - Trailer",
+            "may": "Ms. Marvel - Trailer",
+            "tam": "Ms. Marvel - Trailer",
+            "chi": "Ms. Marvel - Trailer",
+            "tha": "Ms. Marvel - Trailer",
+            "ind": "Ms. Marvel - Trailer"
+        },
+        "long": {
+            "eng": "Ms. Marvel - Trailer",
+            "may": "Ms. Marvel - Trailer",
+            "tam": "Ms. Marvel - Trailer",
+            "chi": "Ms. Marvel - Trailer",
+            "tha": "Ms. Marvel - Trailer",
+            "ind": "Ms. Marvel - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "may": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "tam": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "chi": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "tha": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "ind": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires."
+        },
+        "long": {
+            "eng": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "may": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "tam": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "chi": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "tha": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+            "ind": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Iman Vellani",
+            " Matt Lintz",
+            " Zenobia Shroff",
+            " Yasmeen Fletcher",
+            " Rish Shah",
+            " Mohan KapurSaagar ShaikhSamina AhmedNimra BuchaAlysia Reiner"
+        ],
+        "may": [
+            "Iman Vellani",
+            " Matt Lintz",
+            " Zenobia Shroff",
+            " Yasmeen Fletcher",
+            " Rish Shah",
+            " Mohan KapurSaagar ShaikhSamina AhmedNimra BuchaAlysia Reiner"
+        ],
+        "tam": [
+            "Iman Vellani",
+            " Matt Lintz",
+            " Zenobia Shroff",
+            " Yasmeen Fletcher",
+            " Rish Shah",
+            " Mohan KapurSaagar ShaikhSamina AhmedNimra BuchaAlysia Reiner"
+        ],
+        "chi": [
+            "Iman Vellani",
+            " Matt Lintz",
+            " Zenobia Shroff",
+            " Yasmeen Fletcher",
+            " Rish Shah",
+            " Mohan KapurSaagar ShaikhSamina AhmedNimra BuchaAlysia Reiner"
+        ],
+        "tha": [
+            "Iman Vellani",
+            " Matt Lintz",
+            " Zenobia Shroff",
+            " Yasmeen Fletcher",
+            " Rish Shah",
+            " Mohan KapurSaagar ShaikhSamina AhmedNimra BuchaAlysia Reiner"
+        ],
+        "ind": [
+            "Iman Vellani",
+            " Matt Lintz",
+            " Zenobia Shroff",
+            " Yasmeen Fletcher",
+            " Rish Shah",
+            " Mohan KapurSaagar ShaikhSamina AhmedNimra BuchaAlysia Reiner"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Adil El Arbi",
+            " Bilall Fallah",
+            " Meera Menon",
+            " Sharmeen Obaid-Chinoy",
+            " ",
+            " "
+        ],
+        "may": [
+            "Adil El Arbi",
+            " Bilall Fallah",
+            " Meera Menon",
+            " Sharmeen Obaid-Chinoy",
+            " ",
+            " "
+        ],
+        "tam": [
+            "Adil El Arbi",
+            " Bilall Fallah",
+            " Meera Menon",
+            " Sharmeen Obaid-Chinoy",
+            " ",
+            " "
+        ],
+        "chi": [
+            "Adil El Arbi",
+            " Bilall Fallah",
+            " Meera Menon",
+            " Sharmeen Obaid-Chinoy",
+            " ",
+            " "
+        ],
+        "tha": [
+            "Adil El Arbi",
+            " Bilall Fallah",
+            " Meera Menon",
+            " Sharmeen Obaid-Chinoy",
+            " ",
+            " "
+        ],
+        "ind": [
+            "Adil El Arbi",
+            " Bilall Fallah",
+            " Meera Menon",
+            " Sharmeen Obaid-Chinoy",
+            " ",
+            " "
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Bisha K. Ali",
+            " Victoria Alonso",
+            " Sana Amanat",
+            " A.C. Bradley",
+            " Matthew Chauncey",
+            " Louis D'EspositoKevin FeigeMatthew SpiegelFreddy SybornSabir Pirzada"
+        ],
+        "may": [
+            "Bisha K. Ali",
+            " Victoria Alonso",
+            " Sana Amanat",
+            " A.C. Bradley",
+            " Matthew Chauncey",
+            " Louis D'EspositoKevin FeigeMatthew SpiegelFreddy SybornSabir Pirzada"
+        ],
+        "tam": [
+            "Bisha K. Ali",
+            " Victoria Alonso",
+            " Sana Amanat",
+            " A.C. Bradley",
+            " Matthew Chauncey",
+            " Louis D'EspositoKevin FeigeMatthew SpiegelFreddy SybornSabir Pirzada"
+        ],
+        "chi": [
+            "Bisha K. Ali",
+            " Victoria Alonso",
+            " Sana Amanat",
+            " A.C. Bradley",
+            " Matthew Chauncey",
+            " Louis D'EspositoKevin FeigeMatthew SpiegelFreddy SybornSabir Pirzada"
+        ],
+        "tha": [
+            "Bisha K. Ali",
+            " Victoria Alonso",
+            " Sana Amanat",
+            " A.C. Bradley",
+            " Matthew Chauncey",
+            " Louis D'EspositoKevin FeigeMatthew SpiegelFreddy SybornSabir Pirzada"
+        ],
+        "ind": [
+            "Bisha K. Ali",
+            " Victoria Alonso",
+            " Sana Amanat",
+            " A.C. Bradley",
+            " Matthew Chauncey",
+            " Louis D'EspositoKevin FeigeMatthew SpiegelFreddy SybornSabir Pirzada"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Ms.MarvelSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Ms.MarvelSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Ms.MarvelSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_6c612298-6239-50b3-b8e7-32b1ac83c13f",
+    "seasonId": "AggregatedSeason_baca7c25-aad2-5d48-9d9a-3708429cb8b8",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "TV-PG",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

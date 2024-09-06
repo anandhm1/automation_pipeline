@@ -1,0 +1,331 @@
+{
+    "externalId": "AggregatedSeries_33ad9ba1-4869-5aaa-814f-782a183d5c3c",
+    "clientContentId": "PACK0000000009165613",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Heartbreak High",
+            "may": "Heartbreak High",
+            "tam": "Heartbreak High",
+            "chi": "Heartbreak High",
+            "tha": "Heartbreak High",
+            "ind": "Heartbreak High"
+        },
+        "long": {
+            "eng": "Heartbreak High",
+            "may": "Heartbreak High",
+            "tam": "Heartbreak High",
+            "chi": "Heartbreak High",
+            "tha": "Heartbreak High",
+            "ind": "Heartbreak High"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "may": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "tam": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "chi": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "tha": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "ind": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak."
+        },
+        "long": {
+            "eng": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "may": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "tam": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "chi": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "tha": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "ind": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Ayesha Madon",
+            " James Majoos",
+            " Chloe Hayden",
+            " Asher Yasbincek",
+            " Thomas Weatherall",
+            " Will McDonald",
+            " Josh Heuston",
+            " Gemma Chua-Tran",
+            " Bryn Chapman Parish",
+            " Sherry-Lee Watson"
+        ],
+        "may": [
+            "Ayesha Madon",
+            " James Majoos",
+            " Chloe Hayden",
+            " Asher Yasbincek",
+            " Thomas Weatherall",
+            " Will McDonald",
+            " Josh Heuston",
+            " Gemma Chua-Tran",
+            " Bryn Chapman Parish",
+            " Sherry-Lee Watson"
+        ],
+        "tam": [
+            "Ayesha Madon",
+            " James Majoos",
+            " Chloe Hayden",
+            " Asher Yasbincek",
+            " Thomas Weatherall",
+            " Will McDonald",
+            " Josh Heuston",
+            " Gemma Chua-Tran",
+            " Bryn Chapman Parish",
+            " Sherry-Lee Watson"
+        ],
+        "chi": [
+            "Ayesha Madon",
+            " James Majoos",
+            " Chloe Hayden",
+            " Asher Yasbincek",
+            " Thomas Weatherall",
+            " Will McDonald",
+            " Josh Heuston",
+            " Gemma Chua-Tran",
+            " Bryn Chapman Parish",
+            " Sherry-Lee Watson"
+        ],
+        "tha": [
+            "Ayesha Madon",
+            " James Majoos",
+            " Chloe Hayden",
+            " Asher Yasbincek",
+            " Thomas Weatherall",
+            " Will McDonald",
+            " Josh Heuston",
+            " Gemma Chua-Tran",
+            " Bryn Chapman Parish",
+            " Sherry-Lee Watson"
+        ],
+        "ind": [
+            "Ayesha Madon",
+            " James Majoos",
+            " Chloe Hayden",
+            " Asher Yasbincek",
+            " Thomas Weatherall",
+            " Will McDonald",
+            " Josh Heuston",
+            " Gemma Chua-Tran",
+            " Bryn Chapman Parish",
+            " Sherry-Lee Watson"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Gracie Otto",
+            " Adam Murfet",
+            " Jessie Oldfield",
+            " Neil Sharma"
+        ],
+        "may": [
+            "Gracie Otto",
+            " Adam Murfet",
+            " Jessie Oldfield",
+            " Neil Sharma"
+        ],
+        "tam": [
+            "Gracie Otto",
+            " Adam Murfet",
+            " Jessie Oldfield",
+            " Neil Sharma"
+        ],
+        "chi": [
+            "Gracie Otto",
+            " Adam Murfet",
+            " Jessie Oldfield",
+            " Neil Sharma"
+        ],
+        "tha": [
+            "Gracie Otto",
+            " Adam Murfet",
+            " Jessie Oldfield",
+            " Neil Sharma"
+        ],
+        "ind": [
+            "Gracie Otto",
+            " Adam Murfet",
+            " Jessie Oldfield",
+            " Neil Sharma"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Brian Abel",
+            " Anna Curtis",
+            " Sarah Freeman",
+            " Carly Heaton",
+            " Michael Jenkins",
+            " Jeroen Koopman",
+            " Chris Oliver-Taylor",
+            " Megan Palinkas",
+            " Anne Robinson",
+            " Tarik Traidia"
+        ],
+        "may": [
+            "Brian Abel",
+            " Anna Curtis",
+            " Sarah Freeman",
+            " Carly Heaton",
+            " Michael Jenkins",
+            " Jeroen Koopman",
+            " Chris Oliver-Taylor",
+            " Megan Palinkas",
+            " Anne Robinson",
+            " Tarik Traidia"
+        ],
+        "tam": [
+            "Brian Abel",
+            " Anna Curtis",
+            " Sarah Freeman",
+            " Carly Heaton",
+            " Michael Jenkins",
+            " Jeroen Koopman",
+            " Chris Oliver-Taylor",
+            " Megan Palinkas",
+            " Anne Robinson",
+            " Tarik Traidia"
+        ],
+        "chi": [
+            "Brian Abel",
+            " Anna Curtis",
+            " Sarah Freeman",
+            " Carly Heaton",
+            " Michael Jenkins",
+            " Jeroen Koopman",
+            " Chris Oliver-Taylor",
+            " Megan Palinkas",
+            " Anne Robinson",
+            " Tarik Traidia"
+        ],
+        "tha": [
+            "Brian Abel",
+            " Anna Curtis",
+            " Sarah Freeman",
+            " Carly Heaton",
+            " Michael Jenkins",
+            " Jeroen Koopman",
+            " Chris Oliver-Taylor",
+            " Megan Palinkas",
+            " Anne Robinson",
+            " Tarik Traidia"
+        ],
+        "ind": [
+            "Brian Abel",
+            " Anna Curtis",
+            " Sarah Freeman",
+            " Carly Heaton",
+            " Michael Jenkins",
+            " Jeroen Koopman",
+            " Chris Oliver-Taylor",
+            " Megan Palinkas",
+            " Anne Robinson",
+            " Tarik Traidia"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Romance",
+                    "may": " Romance",
+                    "tam": " Romance",
+                    "chi": " Romance",
+                    "tha": " Romance",
+                    "ind": " Romance"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HeartbreakHighSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HeartbreakHighSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HeartbreakHighSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "7",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2022,
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,217 @@
+{
+    "externalId": "AggregatedSeries_fa2b82f8-9adb-5d08-a315-b12ae5933507",
+    "clientContentId": "PACK0000000002277010",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Love Island UK",
+            "may": "Love Island UK",
+            "tam": "Love Island UK",
+            "chi": "Love Island UK",
+            "tha": "Love Island UK",
+            "ind": "Love Island UK"
+        },
+        "long": {
+            "eng": "Love Island UK",
+            "may": "Love Island UK",
+            "tam": "Love Island UK",
+            "chi": "Love Island UK",
+            "tha": "Love Island UK",
+            "ind": "Love Island UK"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "may": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "tam": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "chi": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "tha": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "ind": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama."
+        },
+        "long": {
+            "eng": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "may": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "tam": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "chi": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "tha": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "ind": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Iain Stirling",
+            " Caroline Flack",
+            " Laura Whitmore"
+        ],
+        "may": [
+            "Iain Stirling",
+            " Caroline Flack",
+            " Laura Whitmore"
+        ],
+        "tam": [
+            "Iain Stirling",
+            " Caroline Flack",
+            " Laura Whitmore"
+        ],
+        "chi": [
+            "Iain Stirling",
+            " Caroline Flack",
+            " Laura Whitmore"
+        ],
+        "tha": [
+            "Iain Stirling",
+            " Caroline Flack",
+            " Laura Whitmore"
+        ],
+        "ind": [
+            "Iain Stirling",
+            " Caroline Flack",
+            " Laura Whitmore"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Hayley MacFarlane"
+        ],
+        "may": [
+            "Hayley MacFarlane"
+        ],
+        "tam": [
+            "Hayley MacFarlane"
+        ],
+        "chi": [
+            "Hayley MacFarlane"
+        ],
+        "tha": [
+            "Hayley MacFarlane"
+        ],
+        "ind": [
+            "Hayley MacFarlane"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Andy Cadman"
+        ],
+        "may": [
+            "Andy Cadman"
+        ],
+        "tam": [
+            "Andy Cadman"
+        ],
+        "chi": [
+            "Andy Cadman"
+        ],
+        "tha": [
+            "Andy Cadman"
+        ],
+        "ind": [
+            "Andy Cadman"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Game-Show",
+                    "may": "Game-Show",
+                    "tam": "Game-Show",
+                    "chi": "Game-Show",
+                    "tha": "Game-Show",
+                    "ind": "Game-Show"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Reality-TV",
+                    "may": " Reality-TV",
+                    "tam": " Reality-TV",
+                    "chi": " Reality-TV",
+                    "tha": " Reality-TV",
+                    "ind": " Reality-TV"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LoveIslandUKSeason7_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LoveIslandUKSeason7_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LoveIslandUKSeason7_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "9",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2015,
+    "maxConcurrentStreams": 0
+}

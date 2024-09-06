@@ -1,0 +1,349 @@
+{
+    "externalId": "AggregatedTvShow_52d19266-18c2-50f0-84e4-935af34afb65",
+    "clientContentId": "PACK0000000001377353",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Vigil - Trailer",
+            "may": "Vigil - Trailer",
+            "tam": "Vigil - Trailer",
+            "chi": "Vigil - Trailer",
+            "tha": "Vigil - Trailer",
+            "ind": "Vigil - Trailer"
+        },
+        "long": {
+            "eng": "Vigil - Trailer",
+            "may": "Vigil - Trailer",
+            "tam": "Vigil - Trailer",
+            "chi": "Vigil - Trailer",
+            "tha": "Vigil - Trailer",
+            "ind": "Vigil - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "may": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "tam": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "chi": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "tha": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "ind": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services."
+        },
+        "long": {
+            "eng": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "may": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "tam": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "chi": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "tha": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "ind": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Suranne Jones",
+            " Rose Leslie",
+            " Shaun Evans",
+            " Paterson Joseph",
+            " Adam James",
+            " Gary Lewis",
+            " Lolita Chakrabarti",
+            " Anjli Mohindra",
+            " Connor Swindells",
+            " Lorne MacFadyen"
+        ],
+        "may": [
+            "Suranne Jones",
+            " Rose Leslie",
+            " Shaun Evans",
+            " Paterson Joseph",
+            " Adam James",
+            " Gary Lewis",
+            " Lolita Chakrabarti",
+            " Anjli Mohindra",
+            " Connor Swindells",
+            " Lorne MacFadyen"
+        ],
+        "tam": [
+            "Suranne Jones",
+            " Rose Leslie",
+            " Shaun Evans",
+            " Paterson Joseph",
+            " Adam James",
+            " Gary Lewis",
+            " Lolita Chakrabarti",
+            " Anjli Mohindra",
+            " Connor Swindells",
+            " Lorne MacFadyen"
+        ],
+        "chi": [
+            "Suranne Jones",
+            " Rose Leslie",
+            " Shaun Evans",
+            " Paterson Joseph",
+            " Adam James",
+            " Gary Lewis",
+            " Lolita Chakrabarti",
+            " Anjli Mohindra",
+            " Connor Swindells",
+            " Lorne MacFadyen"
+        ],
+        "tha": [
+            "Suranne Jones",
+            " Rose Leslie",
+            " Shaun Evans",
+            " Paterson Joseph",
+            " Adam James",
+            " Gary Lewis",
+            " Lolita Chakrabarti",
+            " Anjli Mohindra",
+            " Connor Swindells",
+            " Lorne MacFadyen"
+        ],
+        "ind": [
+            "Suranne Jones",
+            " Rose Leslie",
+            " Shaun Evans",
+            " Paterson Joseph",
+            " Adam James",
+            " Gary Lewis",
+            " Lolita Chakrabarti",
+            " Anjli Mohindra",
+            " Connor Swindells",
+            " Lorne MacFadyen"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Isabelle Sieb",
+            " James Strong"
+        ],
+        "may": [
+            "Isabelle Sieb",
+            " James Strong"
+        ],
+        "tam": [
+            "Isabelle Sieb",
+            " James Strong"
+        ],
+        "chi": [
+            "Isabelle Sieb",
+            " James Strong"
+        ],
+        "tha": [
+            "Isabelle Sieb",
+            " James Strong"
+        ],
+        "ind": [
+            "Isabelle Sieb",
+            " James Strong"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "George Aza-Selinger",
+            " Elizabeth Binns",
+            " Eric Coulter",
+            " Angie Daniell",
+            " Tom Edge",
+            " Leslie Finlay",
+            " Simon Heath",
+            " Gaynor Holmes",
+            " Jake Lushington",
+            " Donald MacKinnon"
+        ],
+        "may": [
+            "George Aza-Selinger",
+            " Elizabeth Binns",
+            " Eric Coulter",
+            " Angie Daniell",
+            " Tom Edge",
+            " Leslie Finlay",
+            " Simon Heath",
+            " Gaynor Holmes",
+            " Jake Lushington",
+            " Donald MacKinnon"
+        ],
+        "tam": [
+            "George Aza-Selinger",
+            " Elizabeth Binns",
+            " Eric Coulter",
+            " Angie Daniell",
+            " Tom Edge",
+            " Leslie Finlay",
+            " Simon Heath",
+            " Gaynor Holmes",
+            " Jake Lushington",
+            " Donald MacKinnon"
+        ],
+        "chi": [
+            "George Aza-Selinger",
+            " Elizabeth Binns",
+            " Eric Coulter",
+            " Angie Daniell",
+            " Tom Edge",
+            " Leslie Finlay",
+            " Simon Heath",
+            " Gaynor Holmes",
+            " Jake Lushington",
+            " Donald MacKinnon"
+        ],
+        "tha": [
+            "George Aza-Selinger",
+            " Elizabeth Binns",
+            " Eric Coulter",
+            " Angie Daniell",
+            " Tom Edge",
+            " Leslie Finlay",
+            " Simon Heath",
+            " Gaynor Holmes",
+            " Jake Lushington",
+            " Donald MacKinnon"
+        ],
+        "ind": [
+            "George Aza-Selinger",
+            " Elizabeth Binns",
+            " Eric Coulter",
+            " Angie Daniell",
+            " Tom Edge",
+            " Leslie Finlay",
+            " Simon Heath",
+            " Gaynor Holmes",
+            " Jake Lushington",
+            " Donald MacKinnon"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VigilSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VigilSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VigilSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_de8925d6-498d-554c-8eb2-e9ef628ec51c",
+    "seasonId": "AggregatedSeason_8538c802-d31a-5c7c-a1bb-435a86dca4dd",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2021,
+    "rating": "15",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

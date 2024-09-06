@@ -1,0 +1,197 @@
+{
+    "externalId": "AggregatedSeason_6d7f9084-01c8-4d99-a7df-8299b54f41f4",
+    "clientContentId": "PACK0000000001013754",
+    "provider": null,
+    "offers": [
+      {
+        "contractType": "SVOD",
+        "offerStartDate": "2023-05-17T00:00:00Z",
+        "offerEndDate": "2024-03-31T23:59:59Z",
+        "offerRegion": "Malaysia",
+        "rentalExpiry": 0,
+        "entitlements": [
+          "dummy_entitlement1",
+          "dummy_entitlement2"
+        ],
+        "adsEnabled": false,
+        "adsType": {
+          "adsPreRoll": null,
+          "adsMidRoll": null,
+          "adsPostRoll": null
+        },
+        "adsSupplier": null,
+        "allowedOnApplicationDevices": {
+          "sooka": [
+            "Mobile",
+            "Web",
+            "SmartTV",
+            "Dongle"
+          ]
+        }
+      }
+    ],
+    "showType": "season",
+    "keywords": [
+      "time machine",
+      "Matt Lanter",
+      "adventure",
+      "time travel",
+      "Malcolm Barrett",
+      "Abigail Spencer",
+      "Action"
+    ],
+    "audioLanguages": {
+      "eng": [
+        "eng"
+      ],
+      "may": [
+        "eng"
+      ],
+      "chi": [
+        "eng"
+      ],
+      "tam": [
+        "eng"
+      ],
+      "ind": [
+        "eng"
+      ],
+      "tha": [
+        "eng"
+      ]
+    },
+    "genre": {
+      "primary": [
+        {
+          "name": {
+            "eng": "TV Show",
+            "may": "TV Show",
+            "chi": "TV Show",
+            "tam": "TV Show",
+            "ind": "TV Show",
+            "tha": "TV Show"
+          },
+          "image": null
+        }
+      ],
+      "secondary": [
+        {
+          "name": {
+            "eng": "Series",
+            "may": "Series",
+            "chi": "Series",
+            "tam": "Series",
+            "ind": "Series",
+            "tha": "Series"
+          },
+          "image": null
+        }
+      ]
+    },
+    "yearOfRelease": 2016,
+    "rating": "13",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+      "eng": [
+        "Abigail Spencer",
+        "Matt Lanter"
+      ],
+      "may": [
+        "Abigail Spencer",
+        "Matt Lanter"
+      ],
+      "chi": [
+        "Abigail Spencer",
+        "Matt Lanter"
+      ],
+      "tam": [
+        "Abigail Spencer",
+        "Matt Lanter"
+      ],
+      "ind": [
+        "Abigail Spencer",
+        "Matt Lanter"
+      ],
+      "tha": [
+        "Abigail Spencer",
+        "Matt Lanter"
+      ],
+      "image": null
+    },
+    "director": {
+      "eng": [],
+      "may": [],
+      "chi": [],
+      "tam": [],
+      "ind": [],
+      "tha": [],
+      "image": null
+    },
+    "producer": {
+      "eng": [],
+      "may": [],
+      "chi": [],
+      "tam": [],
+      "ind": [],
+      "tha": [],
+      "image": null
+    },
+    "seriesId": "AggregatedSeries_47652aa0-a2db-436d-866c-856d75e8cdda",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+      "short": {
+        "eng": "Timeless",
+        "may": "Timeless",
+        "chi": "Timeless",
+        "tam": "Timeless",
+        "ind": "Timeless",
+        "tha": "Timeless"
+      },
+      "long": {
+        "eng": "Timeless",
+        "may": "Timeless",
+        "chi": "Timeless",
+        "tam": "Timeless",
+        "ind": "Timeless",
+        "tha": "Timeless"
+      }
+    },
+    "description": {
+      "short": {
+        "eng": "An unlikely trio travel through time in order to battle unknown criminals and protect history as we know it",
+        "may": "An unlikely trio travel through time in order to battle unknown criminals and protect history as we know it",
+        "chi": "An unlikely trio travel through time in order to battle unknown criminals and protect history as we know it",
+        "tam": "An unlikely trio travel through time in order to battle unknown criminals and protect history as we know it",
+        "ind": "An unlikely trio travel through time in order to battle unknown criminals and protect history as we know it",
+        "tha": "An unlikely trio travel through time in order to battle unknown criminals and protect history as we know it"
+      },
+      "long": {
+        "eng": "Timeless tells the story of a mysterious criminal who steals a secret state-of-the-art time machine, intent on destroying America as we know it by changing the past. The only hope is an unexpected team: a scientist, a soldier and a history professor, who must use the machine's prototype to travel back in time to critical events.",
+        "may": "Timeless tells the story of a mysterious criminal who steals a secret state-of-the-art time machine, intent on destroying America as we know it by changing the past. The only hope is an unexpected team: a scientist, a soldier and a history professor, who must use the machine's prototype to travel back in time to critical events.",
+        "chi": "Timeless tells the story of a mysterious criminal who steals a secret state-of-the-art time machine, intent on destroying America as we know it by changing the past. The only hope is an unexpected team: a scientist, a soldier and a history professor, who must use the machine's prototype to travel back in time to critical events.",
+        "tam": "Timeless tells the story of a mysterious criminal who steals a secret state-of-the-art time machine, intent on destroying America as we know it by changing the past. The only hope is an unexpected team: a scientist, a soldier and a history professor, who must use the machine's prototype to travel back in time to critical events.",
+        "ind": "Timeless tells the story of a mysterious criminal who steals a secret state-of-the-art time machine, intent on destroying America as we know it by changing the past. The only hope is an unexpected team: a scientist, a soldier and a history professor, who must use the machine's prototype to travel back in time to critical events.",
+        "tha": "Timeless tells the story of a mysterious criminal who steals a secret state-of-the-art time machine, intent on destroying America as we know it by changing the past. The only hope is an unexpected team: a scientist, a soldier and a history professor, who must use the machine's prototype to travel back in time to critical events."
+      }
+    },
+    "images": [
+      {
+        "type": "boxcover",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/ams-astro-tvp-nonprod/staging/images/KHNLT_series.jpg"
+      },
+      {
+        "type": "poster",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/ams-astro-tvp-nonprod/staging/images/KHNLT_series.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/ams-astro-tvp-nonprod/staging/images/KHNLT_series.jpg"
+      }
+    ],
+    "isEnabled": true
+  }

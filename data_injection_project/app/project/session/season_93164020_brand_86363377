@@ -1,0 +1,299 @@
+{
+    "externalId": "AggregatedSeason_47567d90-4723-5d81-92b2-01940cd08ceb",
+    "clientContentId": "PACK0000000008550959",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "chi": " Horror",
+                    "tam": " Horror",
+                    "ind": " Horror",
+                    "tha": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Emily Beecham",
+            " Aneurin Barnard",
+            " Andreas Pietschmann",
+            " Miguel Bernardeau",
+            " Jos\u00e9 Piment\u00e3o",
+            " Isabella Wei",
+            " Gabby Wong",
+            " Yann Gael",
+            " Mathilde Ollivier",
+            " Jonas Bloquet"
+        ],
+        "may": [
+            "Emily Beecham",
+            " Aneurin Barnard",
+            " Andreas Pietschmann",
+            " Miguel Bernardeau",
+            " Jos\u00e9 Piment\u00e3o",
+            " Isabella Wei",
+            " Gabby Wong",
+            " Yann Gael",
+            " Mathilde Ollivier",
+            " Jonas Bloquet"
+        ],
+        "chi": [
+            "Emily Beecham",
+            " Aneurin Barnard",
+            " Andreas Pietschmann",
+            " Miguel Bernardeau",
+            " Jos\u00e9 Piment\u00e3o",
+            " Isabella Wei",
+            " Gabby Wong",
+            " Yann Gael",
+            " Mathilde Ollivier",
+            " Jonas Bloquet"
+        ],
+        "tam": [
+            "Emily Beecham",
+            " Aneurin Barnard",
+            " Andreas Pietschmann",
+            " Miguel Bernardeau",
+            " Jos\u00e9 Piment\u00e3o",
+            " Isabella Wei",
+            " Gabby Wong",
+            " Yann Gael",
+            " Mathilde Ollivier",
+            " Jonas Bloquet"
+        ],
+        "ind": [
+            "Emily Beecham",
+            " Aneurin Barnard",
+            " Andreas Pietschmann",
+            " Miguel Bernardeau",
+            " Jos\u00e9 Piment\u00e3o",
+            " Isabella Wei",
+            " Gabby Wong",
+            " Yann Gael",
+            " Mathilde Ollivier",
+            " Jonas Bloquet"
+        ],
+        "tha": [
+            "Emily Beecham",
+            " Aneurin Barnard",
+            " Andreas Pietschmann",
+            " Miguel Bernardeau",
+            " Jos\u00e9 Piment\u00e3o",
+            " Isabella Wei",
+            " Gabby Wong",
+            " Yann Gael",
+            " Mathilde Ollivier",
+            " Jonas Bloquet"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Baran bo Odar"
+        ],
+        "may": [
+            "Baran bo Odar"
+        ],
+        "chi": [
+            "Baran bo Odar"
+        ],
+        "tam": [
+            "Baran bo Odar"
+        ],
+        "ind": [
+            "Baran bo Odar"
+        ],
+        "tha": [
+            "Baran bo Odar"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Baran bo Odar",
+            " Benedikt Bothe",
+            " Jantje Friese",
+            " Philipp Klausing",
+            " Nora E. Markwald",
+            " Pat Tookey-Dickson"
+        ],
+        "may": [
+            "Baran bo Odar",
+            " Benedikt Bothe",
+            " Jantje Friese",
+            " Philipp Klausing",
+            " Nora E. Markwald",
+            " Pat Tookey-Dickson"
+        ],
+        "chi": [
+            "Baran bo Odar",
+            " Benedikt Bothe",
+            " Jantje Friese",
+            " Philipp Klausing",
+            " Nora E. Markwald",
+            " Pat Tookey-Dickson"
+        ],
+        "tam": [
+            "Baran bo Odar",
+            " Benedikt Bothe",
+            " Jantje Friese",
+            " Philipp Klausing",
+            " Nora E. Markwald",
+            " Pat Tookey-Dickson"
+        ],
+        "ind": [
+            "Baran bo Odar",
+            " Benedikt Bothe",
+            " Jantje Friese",
+            " Philipp Klausing",
+            " Nora E. Markwald",
+            " Pat Tookey-Dickson"
+        ],
+        "tha": [
+            "Baran bo Odar",
+            " Benedikt Bothe",
+            " Jantje Friese",
+            " Philipp Klausing",
+            " Nora E. Markwald",
+            " Pat Tookey-Dickson"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_51c70f9d-d316-5992-af8f-b673df00b2bf",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "1899 Season 1",
+            "may": "1899 Season 1",
+            "chi": "1899 Season 1",
+            "tam": "1899 Season 1",
+            "ind": "1899 Season 1",
+            "tha": "1899 Season 1"
+        },
+        "long": {
+            "eng": "1899 Season 1",
+            "may": "1899 Season 1",
+            "chi": "1899 Season 1",
+            "tam": "1899 Season 1",
+            "ind": "1899 Season 1",
+            "tha": "1899 Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Multinational immigrants traveling from the old continent to the new encounter a nightmarish riddle aboard a second ship adrift on the open sea.",
+            "may": "Multinational immigrants traveling from the old continent to the new encounter a nightmarish riddle aboard a second ship adrift on the open sea.",
+            "chi": "Multinational immigrants traveling from the old continent to the new encounter a nightmarish riddle aboard a second ship adrift on the open sea.",
+            "tam": "Multinational immigrants traveling from the old continent to the new encounter a nightmarish riddle aboard a second ship adrift on the open sea.",
+            "ind": "Multinational immigrants traveling from the old continent to the new encounter a nightmarish riddle aboard a second ship adrift on the open sea.",
+            "tha": "Multinational immigrants traveling from the old continent to the new encounter a nightmarish riddle aboard a second ship adrift on the open sea."
+        },
+        "long": {
+            "eng": "Multinational immigrants traveling from the old continent to the new encounter a nightmarish riddle aboard a second ship adrift on the open sea.",
+            "may": "Multinational immigrants traveling from the old continent to the new encounter a nightmarish riddle aboard a second ship adrift on the open sea.",
+            "chi": "Multinational immigrants traveling from the old continent to the new encounter a nightmarish riddle aboard a second ship adrift on the open sea.",
+            "tam": "Multinational immigrants traveling from the old continent to the new encounter a nightmarish riddle aboard a second ship adrift on the open sea.",
+            "ind": "Multinational immigrants traveling from the old continent to the new encounter a nightmarish riddle aboard a second ship adrift on the open sea.",
+            "tha": "Multinational immigrants traveling from the old continent to the new encounter a nightmarish riddle aboard a second ship adrift on the open sea."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/1899Season1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/1899Season1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/1899Season1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

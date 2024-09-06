@@ -1,0 +1,247 @@
+{
+    "externalId": "AggregatedTvShow_a24ca69c-6708-59ac-b019-1707a8353e43",
+    "clientContentId": "PACK0000000006464992",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Hiccups and Hookups S1 E1",
+            "may": "Hiccups and Hookups S1 E1",
+            "tam": "Hiccups and Hookups S1 E1",
+            "chi": "Hiccups and Hookups S1 E1",
+            "tha": "Hiccups and Hookups S1 E1",
+            "ind": "Hiccups and Hookups S1 E1"
+        },
+        "long": {
+            "eng": "Hiccups and Hookups S1 E1",
+            "may": "Hiccups and Hookups S1 E1",
+            "tam": "Hiccups and Hookups S1 E1",
+            "chi": "Hiccups and Hookups S1 E1",
+            "tha": "Hiccups and Hookups S1 E1",
+            "ind": "Hiccups and Hookups S1 E1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "may": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "tam": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "chi": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "tha": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "ind": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life."
+        },
+        "long": {
+            "eng": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "may": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "tam": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "chi": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "tha": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "ind": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Lara Dutta",
+            " Prateik Babbar",
+            " Shinnova"
+        ],
+        "may": [
+            "Lara Dutta",
+            " Prateik Babbar",
+            " Shinnova"
+        ],
+        "tam": [
+            "Lara Dutta",
+            " Prateik Babbar",
+            " Shinnova"
+        ],
+        "chi": [
+            "Lara Dutta",
+            " Prateik Babbar",
+            " Shinnova"
+        ],
+        "tha": [
+            "Lara Dutta",
+            " Prateik Babbar",
+            " Shinnova"
+        ],
+        "ind": [
+            "Lara Dutta",
+            " Prateik Babbar",
+            " Shinnova"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Kunal Kohli"
+        ],
+        "may": [
+            "Kunal Kohli"
+        ],
+        "tam": [
+            "Kunal Kohli"
+        ],
+        "chi": [
+            "Kunal Kohli"
+        ],
+        "tha": [
+            "Kunal Kohli"
+        ],
+        "ind": [
+            "Kunal Kohli"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Kunal Kohli"
+        ],
+        "may": [
+            "Kunal Kohli"
+        ],
+        "tam": [
+            "Kunal Kohli"
+        ],
+        "chi": [
+            "Kunal Kohli"
+        ],
+        "tha": [
+            "Kunal Kohli"
+        ],
+        "ind": [
+            "Kunal Kohli"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/Hiccups&Hookups_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/Hiccups&Hookups_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/Hiccups&Hookups_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_6790512f-c407-5122-a850-82baab8be30a",
+    "seasonId": "AggregatedSeason_319ed464-23c9-5934-9f2d-54c7a4e2d5ed",
+    "boxsetIds": [],
+    "episodeNumber": "2.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2021,
+    "rating": "8.2",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

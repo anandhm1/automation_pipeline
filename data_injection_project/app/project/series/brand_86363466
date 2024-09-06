@@ -1,0 +1,367 @@
+{
+    "externalId": "AggregatedSeries_b163c9bc-8975-5e53-a5d2-18d09b15e0d5",
+    "clientContentId": "PACK0000000003477537",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Purge",
+            "may": "The Purge",
+            "tam": "The Purge",
+            "chi": "The Purge",
+            "tha": "The Purge",
+            "ind": "The Purge"
+        },
+        "long": {
+            "eng": "The Purge",
+            "may": "The Purge",
+            "tam": "The Purge",
+            "chi": "The Purge",
+            "tha": "The Purge",
+            "ind": "The Purge"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Set in an altered United States, several unrelated people discover how far they will go to survive a night where all crime is legal for 12 hours.",
+            "may": "Set in an altered United States, several unrelated people discover how far they will go to survive a night where all crime is legal for 12 hours.",
+            "tam": "Set in an altered United States, several unrelated people discover how far they will go to survive a night where all crime is legal for 12 hours.",
+            "chi": "Set in an altered United States, several unrelated people discover how far they will go to survive a night where all crime is legal for 12 hours.",
+            "tha": "Set in an altered United States, several unrelated people discover how far they will go to survive a night where all crime is legal for 12 hours.",
+            "ind": "Set in an altered United States, several unrelated people discover how far they will go to survive a night where all crime is legal for 12 hours."
+        },
+        "long": {
+            "eng": "Set in an altered United States, several unrelated people discover how far they will go to survive a night where all crime is legal for 12 hours.",
+            "may": "Set in an altered United States, several unrelated people discover how far they will go to survive a night where all crime is legal for 12 hours.",
+            "tam": "Set in an altered United States, several unrelated people discover how far they will go to survive a night where all crime is legal for 12 hours.",
+            "chi": "Set in an altered United States, several unrelated people discover how far they will go to survive a night where all crime is legal for 12 hours.",
+            "tha": "Set in an altered United States, several unrelated people discover how far they will go to survive a night where all crime is legal for 12 hours.",
+            "ind": "Set in an altered United States, several unrelated people discover how far they will go to survive a night where all crime is legal for 12 hours."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Gabriel Chavarria",
+            " Derek Luke",
+            " Hannah Emily Anderson",
+            " Max Martini",
+            " Jessica Garza",
+            " Paola N\u00fa\u00f1ez",
+            " Joel Allen",
+            " Rochelle Aytes",
+            " Colin Woodell",
+            " Connor Trinneer"
+        ],
+        "may": [
+            "Gabriel Chavarria",
+            " Derek Luke",
+            " Hannah Emily Anderson",
+            " Max Martini",
+            " Jessica Garza",
+            " Paola N\u00fa\u00f1ez",
+            " Joel Allen",
+            " Rochelle Aytes",
+            " Colin Woodell",
+            " Connor Trinneer"
+        ],
+        "tam": [
+            "Gabriel Chavarria",
+            " Derek Luke",
+            " Hannah Emily Anderson",
+            " Max Martini",
+            " Jessica Garza",
+            " Paola N\u00fa\u00f1ez",
+            " Joel Allen",
+            " Rochelle Aytes",
+            " Colin Woodell",
+            " Connor Trinneer"
+        ],
+        "chi": [
+            "Gabriel Chavarria",
+            " Derek Luke",
+            " Hannah Emily Anderson",
+            " Max Martini",
+            " Jessica Garza",
+            " Paola N\u00fa\u00f1ez",
+            " Joel Allen",
+            " Rochelle Aytes",
+            " Colin Woodell",
+            " Connor Trinneer"
+        ],
+        "tha": [
+            "Gabriel Chavarria",
+            " Derek Luke",
+            " Hannah Emily Anderson",
+            " Max Martini",
+            " Jessica Garza",
+            " Paola N\u00fa\u00f1ez",
+            " Joel Allen",
+            " Rochelle Aytes",
+            " Colin Woodell",
+            " Connor Trinneer"
+        ],
+        "ind": [
+            "Gabriel Chavarria",
+            " Derek Luke",
+            " Hannah Emily Anderson",
+            " Max Martini",
+            " Jessica Garza",
+            " Paola N\u00fa\u00f1ez",
+            " Joel Allen",
+            " Rochelle Aytes",
+            " Colin Woodell",
+            " Connor Trinneer"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Tara Nicole Weyr",
+            " Ernest R. Dickerson",
+            " Anthony Hemingway",
+            " Tim Andrew",
+            " Clark Johnson",
+            " Nina Lopez-Corrado",
+            " Michael Nankin",
+            " Julius Ramsay",
+            " David Von Ancken",
+            " Darren Grant"
+        ],
+        "may": [
+            "Tara Nicole Weyr",
+            " Ernest R. Dickerson",
+            " Anthony Hemingway",
+            " Tim Andrew",
+            " Clark Johnson",
+            " Nina Lopez-Corrado",
+            " Michael Nankin",
+            " Julius Ramsay",
+            " David Von Ancken",
+            " Darren Grant"
+        ],
+        "tam": [
+            "Tara Nicole Weyr",
+            " Ernest R. Dickerson",
+            " Anthony Hemingway",
+            " Tim Andrew",
+            " Clark Johnson",
+            " Nina Lopez-Corrado",
+            " Michael Nankin",
+            " Julius Ramsay",
+            " David Von Ancken",
+            " Darren Grant"
+        ],
+        "chi": [
+            "Tara Nicole Weyr",
+            " Ernest R. Dickerson",
+            " Anthony Hemingway",
+            " Tim Andrew",
+            " Clark Johnson",
+            " Nina Lopez-Corrado",
+            " Michael Nankin",
+            " Julius Ramsay",
+            " David Von Ancken",
+            " Darren Grant"
+        ],
+        "tha": [
+            "Tara Nicole Weyr",
+            " Ernest R. Dickerson",
+            " Anthony Hemingway",
+            " Tim Andrew",
+            " Clark Johnson",
+            " Nina Lopez-Corrado",
+            " Michael Nankin",
+            " Julius Ramsay",
+            " David Von Ancken",
+            " Darren Grant"
+        ],
+        "ind": [
+            "Tara Nicole Weyr",
+            " Ernest R. Dickerson",
+            " Anthony Hemingway",
+            " Tim Andrew",
+            " Clark Johnson",
+            " Nina Lopez-Corrado",
+            " Michael Nankin",
+            " Julius Ramsay",
+            " David Von Ancken",
+            " Darren Grant"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Michael Bay",
+            " Andrew Form",
+            " Brad Fuller",
+            " Alissa M. Kantrow",
+            " Thomas Kelly",
+            " Krystal Houghton Ziv",
+            " James DeMonaco",
+            " Jason Blum",
+            " S\u00e9bastien K. Lemercier",
+            " Mick Betancourt"
+        ],
+        "may": [
+            "Michael Bay",
+            " Andrew Form",
+            " Brad Fuller",
+            " Alissa M. Kantrow",
+            " Thomas Kelly",
+            " Krystal Houghton Ziv",
+            " James DeMonaco",
+            " Jason Blum",
+            " S\u00e9bastien K. Lemercier",
+            " Mick Betancourt"
+        ],
+        "tam": [
+            "Michael Bay",
+            " Andrew Form",
+            " Brad Fuller",
+            " Alissa M. Kantrow",
+            " Thomas Kelly",
+            " Krystal Houghton Ziv",
+            " James DeMonaco",
+            " Jason Blum",
+            " S\u00e9bastien K. Lemercier",
+            " Mick Betancourt"
+        ],
+        "chi": [
+            "Michael Bay",
+            " Andrew Form",
+            " Brad Fuller",
+            " Alissa M. Kantrow",
+            " Thomas Kelly",
+            " Krystal Houghton Ziv",
+            " James DeMonaco",
+            " Jason Blum",
+            " S\u00e9bastien K. Lemercier",
+            " Mick Betancourt"
+        ],
+        "tha": [
+            "Michael Bay",
+            " Andrew Form",
+            " Brad Fuller",
+            " Alissa M. Kantrow",
+            " Thomas Kelly",
+            " Krystal Houghton Ziv",
+            " James DeMonaco",
+            " Jason Blum",
+            " S\u00e9bastien K. Lemercier",
+            " Mick Betancourt"
+        ],
+        "ind": [
+            "Michael Bay",
+            " Andrew Form",
+            " Brad Fuller",
+            " Alissa M. Kantrow",
+            " Thomas Kelly",
+            " Krystal Houghton Ziv",
+            " James DeMonaco",
+            " Jason Blum",
+            " S\u00e9bastien K. Lemercier",
+            " Mick Betancourt"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePurgeSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePurgeSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePurgeSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "8",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2018,
+    "maxConcurrentStreams": 0
+}

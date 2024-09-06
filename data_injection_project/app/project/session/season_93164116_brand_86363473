@@ -1,0 +1,305 @@
+{
+    "externalId": "AggregatedSeason_1598ae08-6de6-5f1d-ae80-06e4c8f4b503",
+    "clientContentId": "PACK0000000006193876",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "chi": " Horror",
+                    "tam": " Horror",
+                    "ind": " Horror",
+                    "tha": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2021,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Norman Reedus",
+            " Melissa McBride",
+            " Lauren Cohan",
+            " Christian Serratos",
+            " Josh McDermitt",
+            " Danai GuriraSeth GilliamAndrew LincolnRoss MarquandChandler Riggs"
+        ],
+        "may": [
+            "Norman Reedus",
+            " Melissa McBride",
+            " Lauren Cohan",
+            " Christian Serratos",
+            " Josh McDermitt",
+            " Danai GuriraSeth GilliamAndrew LincolnRoss MarquandChandler Riggs"
+        ],
+        "chi": [
+            "Norman Reedus",
+            " Melissa McBride",
+            " Lauren Cohan",
+            " Christian Serratos",
+            " Josh McDermitt",
+            " Danai GuriraSeth GilliamAndrew LincolnRoss MarquandChandler Riggs"
+        ],
+        "tam": [
+            "Norman Reedus",
+            " Melissa McBride",
+            " Lauren Cohan",
+            " Christian Serratos",
+            " Josh McDermitt",
+            " Danai GuriraSeth GilliamAndrew LincolnRoss MarquandChandler Riggs"
+        ],
+        "ind": [
+            "Norman Reedus",
+            " Melissa McBride",
+            " Lauren Cohan",
+            " Christian Serratos",
+            " Josh McDermitt",
+            " Danai GuriraSeth GilliamAndrew LincolnRoss MarquandChandler Riggs"
+        ],
+        "tha": [
+            "Norman Reedus",
+            " Melissa McBride",
+            " Lauren Cohan",
+            " Christian Serratos",
+            " Josh McDermitt",
+            " Danai GuriraSeth GilliamAndrew LincolnRoss MarquandChandler Riggs"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Greg Nicotero",
+            " Michael E. Satrazemis",
+            " David Boyd",
+            " Ernest R. Dickerson",
+            " Guy Ferland",
+            " Billy GierhartLaura BelseyJeffrey F. JanuaryMichael CudlitzSharat Raju"
+        ],
+        "may": [
+            "Greg Nicotero",
+            " Michael E. Satrazemis",
+            " David Boyd",
+            " Ernest R. Dickerson",
+            " Guy Ferland",
+            " Billy GierhartLaura BelseyJeffrey F. JanuaryMichael CudlitzSharat Raju"
+        ],
+        "chi": [
+            "Greg Nicotero",
+            " Michael E. Satrazemis",
+            " David Boyd",
+            " Ernest R. Dickerson",
+            " Guy Ferland",
+            " Billy GierhartLaura BelseyJeffrey F. JanuaryMichael CudlitzSharat Raju"
+        ],
+        "tam": [
+            "Greg Nicotero",
+            " Michael E. Satrazemis",
+            " David Boyd",
+            " Ernest R. Dickerson",
+            " Guy Ferland",
+            " Billy GierhartLaura BelseyJeffrey F. JanuaryMichael CudlitzSharat Raju"
+        ],
+        "ind": [
+            "Greg Nicotero",
+            " Michael E. Satrazemis",
+            " David Boyd",
+            " Ernest R. Dickerson",
+            " Guy Ferland",
+            " Billy GierhartLaura BelseyJeffrey F. JanuaryMichael CudlitzSharat Raju"
+        ],
+        "tha": [
+            "Greg Nicotero",
+            " Michael E. Satrazemis",
+            " David Boyd",
+            " Ernest R. Dickerson",
+            " Guy Ferland",
+            " Billy GierhartLaura BelseyJeffrey F. JanuaryMichael CudlitzSharat Raju"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "David Alpert",
+            " Gale Anne Hurd",
+            " Denise M. Huth",
+            " Robert Kirkman",
+            " Greg Nicotero",
+            " Scott M. GimpleAngela KangCaleb WombleTom LuseCorey Reed"
+        ],
+        "may": [
+            "David Alpert",
+            " Gale Anne Hurd",
+            " Denise M. Huth",
+            " Robert Kirkman",
+            " Greg Nicotero",
+            " Scott M. GimpleAngela KangCaleb WombleTom LuseCorey Reed"
+        ],
+        "chi": [
+            "David Alpert",
+            " Gale Anne Hurd",
+            " Denise M. Huth",
+            " Robert Kirkman",
+            " Greg Nicotero",
+            " Scott M. GimpleAngela KangCaleb WombleTom LuseCorey Reed"
+        ],
+        "tam": [
+            "David Alpert",
+            " Gale Anne Hurd",
+            " Denise M. Huth",
+            " Robert Kirkman",
+            " Greg Nicotero",
+            " Scott M. GimpleAngela KangCaleb WombleTom LuseCorey Reed"
+        ],
+        "ind": [
+            "David Alpert",
+            " Gale Anne Hurd",
+            " Denise M. Huth",
+            " Robert Kirkman",
+            " Greg Nicotero",
+            " Scott M. GimpleAngela KangCaleb WombleTom LuseCorey Reed"
+        ],
+        "tha": [
+            "David Alpert",
+            " Gale Anne Hurd",
+            " Denise M. Huth",
+            " Robert Kirkman",
+            " Greg Nicotero",
+            " Scott M. GimpleAngela KangCaleb WombleTom LuseCorey Reed"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_bbb33e91-f3ac-5f16-bb34-74ed3db8c093",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Walking Dead S11 E01",
+            "may": "The Walking Dead S11 E01",
+            "chi": "The Walking Dead S11 E01",
+            "tam": "The Walking Dead S11 E01",
+            "ind": "The Walking Dead S11 E01",
+            "tha": "The Walking Dead S11 E01"
+        },
+        "long": {
+            "eng": "The Walking Dead S11 E01",
+            "may": "The Walking Dead S11 E01",
+            "chi": "The Walking Dead S11 E01",
+            "tam": "The Walking Dead S11 E01",
+            "ind": "The Walking Dead S11 E01",
+            "tha": "The Walking Dead S11 E01"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "may": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "chi": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "tam": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "ind": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "tha": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police."
+        },
+        "long": {
+            "eng": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "may": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "chi": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "tam": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "ind": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police.",
+            "tha": "Daryl leads a team to scavenge the military base he discovered; Maggie tells her story, prompting a new mission for survival that only Negan can lead; Eugene and his group go through assessment by the Commonwealth's paramilitary police."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheWalkingDeadS11E01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheWalkingDeadS11E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheWalkingDeadS11E01_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

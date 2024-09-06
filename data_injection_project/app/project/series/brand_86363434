@@ -1,0 +1,331 @@
+{
+    "externalId": "AggregatedSeries_991a38be-0d1d-5402-8002-395e7d0b72d9",
+    "clientContentId": "PACK0000000007965516",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Resident Evil",
+            "may": "Resident Evil",
+            "tam": "Resident Evil",
+            "chi": "Resident Evil",
+            "tha": "Resident Evil",
+            "ind": "Resident Evil"
+        },
+        "long": {
+            "eng": "Resident Evil",
+            "may": "Resident Evil",
+            "tam": "Resident Evil",
+            "chi": "Resident Evil",
+            "tha": "Resident Evil",
+            "ind": "Resident Evil"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Nearly three decades after the discovery of the T-virus, an outbreak reveals the Umbrella Corporation's dark secrets.",
+            "may": "Nearly three decades after the discovery of the T-virus, an outbreak reveals the Umbrella Corporation's dark secrets.",
+            "tam": "Nearly three decades after the discovery of the T-virus, an outbreak reveals the Umbrella Corporation's dark secrets.",
+            "chi": "Nearly three decades after the discovery of the T-virus, an outbreak reveals the Umbrella Corporation's dark secrets.",
+            "tha": "Nearly three decades after the discovery of the T-virus, an outbreak reveals the Umbrella Corporation's dark secrets.",
+            "ind": "Nearly three decades after the discovery of the T-virus, an outbreak reveals the Umbrella Corporation's dark secrets."
+        },
+        "long": {
+            "eng": "Nearly three decades after the discovery of the T-virus, an outbreak reveals the Umbrella Corporation's dark secrets.",
+            "may": "Nearly three decades after the discovery of the T-virus, an outbreak reveals the Umbrella Corporation's dark secrets.",
+            "tam": "Nearly three decades after the discovery of the T-virus, an outbreak reveals the Umbrella Corporation's dark secrets.",
+            "chi": "Nearly three decades after the discovery of the T-virus, an outbreak reveals the Umbrella Corporation's dark secrets.",
+            "tha": "Nearly three decades after the discovery of the T-virus, an outbreak reveals the Umbrella Corporation's dark secrets.",
+            "ind": "Nearly three decades after the discovery of the T-virus, an outbreak reveals the Umbrella Corporation's dark secrets."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Ella Balinska",
+            " Tamara Smart",
+            " Siena Agudong",
+            " Adeline Rudolph",
+            " Paola N\u00fa\u00f1ez",
+            " Lance Reddick",
+            " Connor Gosatti",
+            " Anthony Oseyemi",
+            " Ahad Raza Mir",
+            " Pedro De Tavira"
+        ],
+        "may": [
+            "Ella Balinska",
+            " Tamara Smart",
+            " Siena Agudong",
+            " Adeline Rudolph",
+            " Paola N\u00fa\u00f1ez",
+            " Lance Reddick",
+            " Connor Gosatti",
+            " Anthony Oseyemi",
+            " Ahad Raza Mir",
+            " Pedro De Tavira"
+        ],
+        "tam": [
+            "Ella Balinska",
+            " Tamara Smart",
+            " Siena Agudong",
+            " Adeline Rudolph",
+            " Paola N\u00fa\u00f1ez",
+            " Lance Reddick",
+            " Connor Gosatti",
+            " Anthony Oseyemi",
+            " Ahad Raza Mir",
+            " Pedro De Tavira"
+        ],
+        "chi": [
+            "Ella Balinska",
+            " Tamara Smart",
+            " Siena Agudong",
+            " Adeline Rudolph",
+            " Paola N\u00fa\u00f1ez",
+            " Lance Reddick",
+            " Connor Gosatti",
+            " Anthony Oseyemi",
+            " Ahad Raza Mir",
+            " Pedro De Tavira"
+        ],
+        "tha": [
+            "Ella Balinska",
+            " Tamara Smart",
+            " Siena Agudong",
+            " Adeline Rudolph",
+            " Paola N\u00fa\u00f1ez",
+            " Lance Reddick",
+            " Connor Gosatti",
+            " Anthony Oseyemi",
+            " Ahad Raza Mir",
+            " Pedro De Tavira"
+        ],
+        "ind": [
+            "Ella Balinska",
+            " Tamara Smart",
+            " Siena Agudong",
+            " Adeline Rudolph",
+            " Paola N\u00fa\u00f1ez",
+            " Lance Reddick",
+            " Connor Gosatti",
+            " Anthony Oseyemi",
+            " Ahad Raza Mir",
+            " Pedro De Tavira"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Rachel Goldberg",
+            " Bronwen Hughes",
+            " Rob Seidenglanz",
+            " Batan Silva"
+        ],
+        "may": [
+            "Rachel Goldberg",
+            " Bronwen Hughes",
+            " Rob Seidenglanz",
+            " Batan Silva"
+        ],
+        "tam": [
+            "Rachel Goldberg",
+            " Bronwen Hughes",
+            " Rob Seidenglanz",
+            " Batan Silva"
+        ],
+        "chi": [
+            "Rachel Goldberg",
+            " Bronwen Hughes",
+            " Rob Seidenglanz",
+            " Batan Silva"
+        ],
+        "tha": [
+            "Rachel Goldberg",
+            " Bronwen Hughes",
+            " Rob Seidenglanz",
+            " Batan Silva"
+        ],
+        "ind": [
+            "Rachel Goldberg",
+            " Bronwen Hughes",
+            " Rob Seidenglanz",
+            " Batan Silva"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Oliver Berben",
+            " Andrew Dabb",
+            " Bronwen Hughes",
+            " Robert Kulzer",
+            " Martin Moszkowicz",
+            " Colin Scully",
+            " Mary Leah Sutton",
+            " Pablito Tancinco",
+            " Dylan Tarason",
+            " Alexander Hamilton Westmore"
+        ],
+        "may": [
+            "Oliver Berben",
+            " Andrew Dabb",
+            " Bronwen Hughes",
+            " Robert Kulzer",
+            " Martin Moszkowicz",
+            " Colin Scully",
+            " Mary Leah Sutton",
+            " Pablito Tancinco",
+            " Dylan Tarason",
+            " Alexander Hamilton Westmore"
+        ],
+        "tam": [
+            "Oliver Berben",
+            " Andrew Dabb",
+            " Bronwen Hughes",
+            " Robert Kulzer",
+            " Martin Moszkowicz",
+            " Colin Scully",
+            " Mary Leah Sutton",
+            " Pablito Tancinco",
+            " Dylan Tarason",
+            " Alexander Hamilton Westmore"
+        ],
+        "chi": [
+            "Oliver Berben",
+            " Andrew Dabb",
+            " Bronwen Hughes",
+            " Robert Kulzer",
+            " Martin Moszkowicz",
+            " Colin Scully",
+            " Mary Leah Sutton",
+            " Pablito Tancinco",
+            " Dylan Tarason",
+            " Alexander Hamilton Westmore"
+        ],
+        "tha": [
+            "Oliver Berben",
+            " Andrew Dabb",
+            " Bronwen Hughes",
+            " Robert Kulzer",
+            " Martin Moszkowicz",
+            " Colin Scully",
+            " Mary Leah Sutton",
+            " Pablito Tancinco",
+            " Dylan Tarason",
+            " Alexander Hamilton Westmore"
+        ],
+        "ind": [
+            "Oliver Berben",
+            " Andrew Dabb",
+            " Bronwen Hughes",
+            " Robert Kulzer",
+            " Martin Moszkowicz",
+            " Colin Scully",
+            " Mary Leah Sutton",
+            " Pablito Tancinco",
+            " Dylan Tarason",
+            " Alexander Hamilton Westmore"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "tam": " Horror",
+                    "chi": " Horror",
+                    "tha": " Horror",
+                    "ind": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ResidentEvilS01E01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ResidentEvilS01E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ResidentEvilS01E01_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "6",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2022,
+    "maxConcurrentStreams": 0
+}

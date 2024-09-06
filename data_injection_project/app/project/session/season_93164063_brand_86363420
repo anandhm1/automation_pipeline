@@ -1,0 +1,359 @@
+{
+    "externalId": "AggregatedSeason_f4805126-40f1-58c0-b70f-31d8c4bc904d",
+    "clientContentId": "PACK0000000001858760",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "chi": "Action",
+                    "tam": "Action",
+                    "ind": "Action",
+                    "tha": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "chi": " Crime",
+                    "tam": " Crime",
+                    "ind": " Crime",
+                    "tha": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2021,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "\u00darsula Corber\u00f3",
+            " \u00c1lvaro Morte",
+            " Itziar Itu\u00f1o",
+            " Pedro Alonso",
+            " Miguel Herr\u00e1n",
+            " Jaime Lorente",
+            " Esther Acebo",
+            " Darko Peric",
+            " Enrique Arce",
+            " Alba Flores"
+        ],
+        "may": [
+            "\u00darsula Corber\u00f3",
+            " \u00c1lvaro Morte",
+            " Itziar Itu\u00f1o",
+            " Pedro Alonso",
+            " Miguel Herr\u00e1n",
+            " Jaime Lorente",
+            " Esther Acebo",
+            " Darko Peric",
+            " Enrique Arce",
+            " Alba Flores"
+        ],
+        "chi": [
+            "\u00darsula Corber\u00f3",
+            " \u00c1lvaro Morte",
+            " Itziar Itu\u00f1o",
+            " Pedro Alonso",
+            " Miguel Herr\u00e1n",
+            " Jaime Lorente",
+            " Esther Acebo",
+            " Darko Peric",
+            " Enrique Arce",
+            " Alba Flores"
+        ],
+        "tam": [
+            "\u00darsula Corber\u00f3",
+            " \u00c1lvaro Morte",
+            " Itziar Itu\u00f1o",
+            " Pedro Alonso",
+            " Miguel Herr\u00e1n",
+            " Jaime Lorente",
+            " Esther Acebo",
+            " Darko Peric",
+            " Enrique Arce",
+            " Alba Flores"
+        ],
+        "ind": [
+            "\u00darsula Corber\u00f3",
+            " \u00c1lvaro Morte",
+            " Itziar Itu\u00f1o",
+            " Pedro Alonso",
+            " Miguel Herr\u00e1n",
+            " Jaime Lorente",
+            " Esther Acebo",
+            " Darko Peric",
+            " Enrique Arce",
+            " Alba Flores"
+        ],
+        "tha": [
+            "\u00darsula Corber\u00f3",
+            " \u00c1lvaro Morte",
+            " Itziar Itu\u00f1o",
+            " Pedro Alonso",
+            " Miguel Herr\u00e1n",
+            " Jaime Lorente",
+            " Esther Acebo",
+            " Darko Peric",
+            " Enrique Arce",
+            " Alba Flores"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jes\u00fas Colmenar",
+            " Alex Rodrigo",
+            " Koldo Serra",
+            " Alejandro Bazzano",
+            " Javier Quintas",
+            " Miguel \u00c1ngel Vivas",
+            " Albert Pint\u00f3"
+        ],
+        "may": [
+            "Jes\u00fas Colmenar",
+            " Alex Rodrigo",
+            " Koldo Serra",
+            " Alejandro Bazzano",
+            " Javier Quintas",
+            " Miguel \u00c1ngel Vivas",
+            " Albert Pint\u00f3"
+        ],
+        "chi": [
+            "Jes\u00fas Colmenar",
+            " Alex Rodrigo",
+            " Koldo Serra",
+            " Alejandro Bazzano",
+            " Javier Quintas",
+            " Miguel \u00c1ngel Vivas",
+            " Albert Pint\u00f3"
+        ],
+        "tam": [
+            "Jes\u00fas Colmenar",
+            " Alex Rodrigo",
+            " Koldo Serra",
+            " Alejandro Bazzano",
+            " Javier Quintas",
+            " Miguel \u00c1ngel Vivas",
+            " Albert Pint\u00f3"
+        ],
+        "ind": [
+            "Jes\u00fas Colmenar",
+            " Alex Rodrigo",
+            " Koldo Serra",
+            " Alejandro Bazzano",
+            " Javier Quintas",
+            " Miguel \u00c1ngel Vivas",
+            " Albert Pint\u00f3"
+        ],
+        "tha": [
+            "Jes\u00fas Colmenar",
+            " Alex Rodrigo",
+            " Koldo Serra",
+            " Alejandro Bazzano",
+            " Javier Quintas",
+            " Miguel \u00c1ngel Vivas",
+            " Albert Pint\u00f3"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "\u00c1lex Pina",
+            " Jes\u00fas Colmenar",
+            " Esther Mart\u00ednez Lobato",
+            " Pedro Garc\u00eda Caja",
+            " Nacho Manubens",
+            " Sonia Mart\u00ednez",
+            " Cristina L\u00f3pez Ferraz",
+            " Laia Coll",
+            " Migue Amoedo",
+            " Javier G\u00f3mez Santander"
+        ],
+        "may": [
+            "\u00c1lex Pina",
+            " Jes\u00fas Colmenar",
+            " Esther Mart\u00ednez Lobato",
+            " Pedro Garc\u00eda Caja",
+            " Nacho Manubens",
+            " Sonia Mart\u00ednez",
+            " Cristina L\u00f3pez Ferraz",
+            " Laia Coll",
+            " Migue Amoedo",
+            " Javier G\u00f3mez Santander"
+        ],
+        "chi": [
+            "\u00c1lex Pina",
+            " Jes\u00fas Colmenar",
+            " Esther Mart\u00ednez Lobato",
+            " Pedro Garc\u00eda Caja",
+            " Nacho Manubens",
+            " Sonia Mart\u00ednez",
+            " Cristina L\u00f3pez Ferraz",
+            " Laia Coll",
+            " Migue Amoedo",
+            " Javier G\u00f3mez Santander"
+        ],
+        "tam": [
+            "\u00c1lex Pina",
+            " Jes\u00fas Colmenar",
+            " Esther Mart\u00ednez Lobato",
+            " Pedro Garc\u00eda Caja",
+            " Nacho Manubens",
+            " Sonia Mart\u00ednez",
+            " Cristina L\u00f3pez Ferraz",
+            " Laia Coll",
+            " Migue Amoedo",
+            " Javier G\u00f3mez Santander"
+        ],
+        "ind": [
+            "\u00c1lex Pina",
+            " Jes\u00fas Colmenar",
+            " Esther Mart\u00ednez Lobato",
+            " Pedro Garc\u00eda Caja",
+            " Nacho Manubens",
+            " Sonia Mart\u00ednez",
+            " Cristina L\u00f3pez Ferraz",
+            " Laia Coll",
+            " Migue Amoedo",
+            " Javier G\u00f3mez Santander"
+        ],
+        "tha": [
+            "\u00c1lex Pina",
+            " Jes\u00fas Colmenar",
+            " Esther Mart\u00ednez Lobato",
+            " Pedro Garc\u00eda Caja",
+            " Nacho Manubens",
+            " Sonia Mart\u00ednez",
+            " Cristina L\u00f3pez Ferraz",
+            " Laia Coll",
+            " Migue Amoedo",
+            " Javier G\u00f3mez Santander"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_eee0aae5-b2fb-59cd-ba53-ce2f6dfa5aa6",
+    "seasonNumber": "5",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Money Heist Season 5",
+            "may": "Money Heist Season 5",
+            "chi": "Money Heist Season 5",
+            "tam": "Money Heist Season 5",
+            "ind": "Money Heist Season 5",
+            "tha": "Money Heist Season 5"
+        },
+        "long": {
+            "eng": "Money Heist Season 5",
+            "may": "Money Heist Season 5",
+            "chi": "Money Heist Season 5",
+            "tam": "Money Heist Season 5",
+            "ind": "Money Heist Season 5",
+            "tha": "Money Heist Season 5"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+            "may": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+            "chi": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+            "tam": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+            "ind": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+            "tha": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain."
+        },
+        "long": {
+            "eng": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+            "may": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+            "chi": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+            "tam": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+            "ind": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+            "tha": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MoneyHeistSeason5_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MoneyHeistSeason5_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MoneyHeistSeason5_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedMovie_140ff21f-bc2f-552b-8c3a-5c65dcab9281",
+    "clientContentId": "PACK0000000003607492",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Bandit",
+            "may": "Bandit",
+            "tam": "Bandit",
+            "chi": "Bandit",
+            "tha": "Bandit",
+            "ind": "Bandit"
+        },
+        "long": {
+            "eng": "Bandit",
+            "may": "Bandit",
+            "tam": "Bandit",
+            "chi": "Bandit",
+            "tha": "Bandit",
+            "ind": "Bandit"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "After escaping a Michigan prison, a charming career criminal assumes a new identity in Canada and goes on to rob a record 59 banks and jewellery stores while being hunted by a police task force. Based on the story of The Flying Bandit.",
+            "may": "After escaping a Michigan prison, a charming career criminal assumes a new identity in Canada and goes on to rob a record 59 banks and jewellery stores while being hunted by a police task force. Based on the story of The Flying Bandit.",
+            "tam": "After escaping a Michigan prison, a charming career criminal assumes a new identity in Canada and goes on to rob a record 59 banks and jewellery stores while being hunted by a police task force. Based on the story of The Flying Bandit.",
+            "chi": "After escaping a Michigan prison, a charming career criminal assumes a new identity in Canada and goes on to rob a record 59 banks and jewellery stores while being hunted by a police task force. Based on the story of The Flying Bandit.",
+            "tha": "After escaping a Michigan prison, a charming career criminal assumes a new identity in Canada and goes on to rob a record 59 banks and jewellery stores while being hunted by a police task force. Based on the story of The Flying Bandit.",
+            "ind": "After escaping a Michigan prison, a charming career criminal assumes a new identity in Canada and goes on to rob a record 59 banks and jewellery stores while being hunted by a police task force. Based on the story of The Flying Bandit."
+        },
+        "long": {
+            "eng": "After escaping a Michigan prison, a charming career criminal assumes a new identity in Canada and goes on to rob a record 59 banks and jewellery stores while being hunted by a police task force. Based on the story of The Flying Bandit.",
+            "may": "After escaping a Michigan prison, a charming career criminal assumes a new identity in Canada and goes on to rob a record 59 banks and jewellery stores while being hunted by a police task force. Based on the story of The Flying Bandit.",
+            "tam": "After escaping a Michigan prison, a charming career criminal assumes a new identity in Canada and goes on to rob a record 59 banks and jewellery stores while being hunted by a police task force. Based on the story of The Flying Bandit.",
+            "chi": "After escaping a Michigan prison, a charming career criminal assumes a new identity in Canada and goes on to rob a record 59 banks and jewellery stores while being hunted by a police task force. Based on the story of The Flying Bandit.",
+            "tha": "After escaping a Michigan prison, a charming career criminal assumes a new identity in Canada and goes on to rob a record 59 banks and jewellery stores while being hunted by a police task force. Based on the story of The Flying Bandit.",
+            "ind": "After escaping a Michigan prison, a charming career criminal assumes a new identity in Canada and goes on to rob a record 59 banks and jewellery stores while being hunted by a police task force. Based on the story of The Flying Bandit."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Josh Duhamel",
+            " Mel Gibson",
+            " Elisha Cuthbert",
+            " Nestor Carbonell",
+            " Swen Temmel",
+            " Keith Arthur BoldenDylan FlashnerOlivia d'AboMichael H. ColeClaire Bronson"
+        ],
+        "may": [
+            "Josh Duhamel",
+            " Mel Gibson",
+            " Elisha Cuthbert",
+            " Nestor Carbonell",
+            " Swen Temmel",
+            " Keith Arthur BoldenDylan FlashnerOlivia d'AboMichael H. ColeClaire Bronson"
+        ],
+        "tam": [
+            "Josh Duhamel",
+            " Mel Gibson",
+            " Elisha Cuthbert",
+            " Nestor Carbonell",
+            " Swen Temmel",
+            " Keith Arthur BoldenDylan FlashnerOlivia d'AboMichael H. ColeClaire Bronson"
+        ],
+        "chi": [
+            "Josh Duhamel",
+            " Mel Gibson",
+            " Elisha Cuthbert",
+            " Nestor Carbonell",
+            " Swen Temmel",
+            " Keith Arthur BoldenDylan FlashnerOlivia d'AboMichael H. ColeClaire Bronson"
+        ],
+        "tha": [
+            "Josh Duhamel",
+            " Mel Gibson",
+            " Elisha Cuthbert",
+            " Nestor Carbonell",
+            " Swen Temmel",
+            " Keith Arthur BoldenDylan FlashnerOlivia d'AboMichael H. ColeClaire Bronson"
+        ],
+        "ind": [
+            "Josh Duhamel",
+            " Mel Gibson",
+            " Elisha Cuthbert",
+            " Nestor Carbonell",
+            " Swen Temmel",
+            " Keith Arthur BoldenDylan FlashnerOlivia d'AboMichael H. ColeClaire Bronson"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Allan Ungar"
+        ],
+        "may": [
+            "Allan Ungar"
+        ],
+        "tam": [
+            "Allan Ungar"
+        ],
+        "chi": [
+            "Allan Ungar"
+        ],
+        "tha": [
+            "Allan Ungar"
+        ],
+        "ind": [
+            "Allan Ungar"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Brandt Andersen",
+            " Peter Anske",
+            " Jordan Beckerman",
+            " Kc Brandenstein",
+            " Lee Broda",
+            " Brittany BrooksJonathan BrooksAllen CheneyColby CoteFrancis D'Ambrosio"
+        ],
+        "may": [
+            "Brandt Andersen",
+            " Peter Anske",
+            " Jordan Beckerman",
+            " Kc Brandenstein",
+            " Lee Broda",
+            " Brittany BrooksJonathan BrooksAllen CheneyColby CoteFrancis D'Ambrosio"
+        ],
+        "tam": [
+            "Brandt Andersen",
+            " Peter Anske",
+            " Jordan Beckerman",
+            " Kc Brandenstein",
+            " Lee Broda",
+            " Brittany BrooksJonathan BrooksAllen CheneyColby CoteFrancis D'Ambrosio"
+        ],
+        "chi": [
+            "Brandt Andersen",
+            " Peter Anske",
+            " Jordan Beckerman",
+            " Kc Brandenstein",
+            " Lee Broda",
+            " Brittany BrooksJonathan BrooksAllen CheneyColby CoteFrancis D'Ambrosio"
+        ],
+        "tha": [
+            "Brandt Andersen",
+            " Peter Anske",
+            " Jordan Beckerman",
+            " Kc Brandenstein",
+            " Lee Broda",
+            " Brittany BrooksJonathan BrooksAllen CheneyColby CoteFrancis D'Ambrosio"
+        ],
+        "ind": [
+            "Brandt Andersen",
+            " Peter Anske",
+            " Jordan Beckerman",
+            " Kc Brandenstein",
+            " Lee Broda",
+            " Brittany BrooksJonathan BrooksAllen CheneyColby CoteFrancis D'Ambrosio"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Bandit_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Bandit_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Bandit_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "6.4",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

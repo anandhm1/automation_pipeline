@@ -1,0 +1,377 @@
+{
+    "externalId": "AggregatedSeason_fe1753d4-4e28-5f9d-a07a-2c7f02118d36",
+    "clientContentId": "PACK0000000006212453",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Adventure",
+                    "may": "Adventure",
+                    "chi": "Adventure",
+                    "tam": "Adventure",
+                    "ind": "Adventure",
+                    "tha": "Adventure"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2021,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Katee Sackhoff",
+            " Samuel Anderson",
+            " A.J. Rivera",
+            " JayR Tinaco",
+            " Justin Chatwin",
+            " Elizabeth Faith Ludlow",
+            " Helen King",
+            " Alexander Eling",
+            " Lina Renna",
+            " Blu Hunt",
+            " "
+        ],
+        "may": [
+            "Katee Sackhoff",
+            " Samuel Anderson",
+            " A.J. Rivera",
+            " JayR Tinaco",
+            " Justin Chatwin",
+            " Elizabeth Faith Ludlow",
+            " Helen King",
+            " Alexander Eling",
+            " Lina Renna",
+            " Blu Hunt",
+            " "
+        ],
+        "chi": [
+            "Katee Sackhoff",
+            " Samuel Anderson",
+            " A.J. Rivera",
+            " JayR Tinaco",
+            " Justin Chatwin",
+            " Elizabeth Faith Ludlow",
+            " Helen King",
+            " Alexander Eling",
+            " Lina Renna",
+            " Blu Hunt",
+            " "
+        ],
+        "tam": [
+            "Katee Sackhoff",
+            " Samuel Anderson",
+            " A.J. Rivera",
+            " JayR Tinaco",
+            " Justin Chatwin",
+            " Elizabeth Faith Ludlow",
+            " Helen King",
+            " Alexander Eling",
+            " Lina Renna",
+            " Blu Hunt",
+            " "
+        ],
+        "ind": [
+            "Katee Sackhoff",
+            " Samuel Anderson",
+            " A.J. Rivera",
+            " JayR Tinaco",
+            " Justin Chatwin",
+            " Elizabeth Faith Ludlow",
+            " Helen King",
+            " Alexander Eling",
+            " Lina Renna",
+            " Blu Hunt",
+            " "
+        ],
+        "tha": [
+            "Katee Sackhoff",
+            " Samuel Anderson",
+            " A.J. Rivera",
+            " JayR Tinaco",
+            " Justin Chatwin",
+            " Elizabeth Faith Ludlow",
+            " Helen King",
+            " Alexander Eling",
+            " Lina Renna",
+            " Blu Hunt",
+            " "
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Metin H\u00fcseyin",
+            " Mairzee Almas",
+            " Allan Arkush",
+            " Sheree Folkson",
+            " Omar Madha",
+            " Kellie Cyrus",
+            " Kevin Dowling",
+            " Shannon Kohli",
+            " Avi Youabian"
+        ],
+        "may": [
+            "Metin H\u00fcseyin",
+            " Mairzee Almas",
+            " Allan Arkush",
+            " Sheree Folkson",
+            " Omar Madha",
+            " Kellie Cyrus",
+            " Kevin Dowling",
+            " Shannon Kohli",
+            " Avi Youabian"
+        ],
+        "chi": [
+            "Metin H\u00fcseyin",
+            " Mairzee Almas",
+            " Allan Arkush",
+            " Sheree Folkson",
+            " Omar Madha",
+            " Kellie Cyrus",
+            " Kevin Dowling",
+            " Shannon Kohli",
+            " Avi Youabian"
+        ],
+        "tam": [
+            "Metin H\u00fcseyin",
+            " Mairzee Almas",
+            " Allan Arkush",
+            " Sheree Folkson",
+            " Omar Madha",
+            " Kellie Cyrus",
+            " Kevin Dowling",
+            " Shannon Kohli",
+            " Avi Youabian"
+        ],
+        "ind": [
+            "Metin H\u00fcseyin",
+            " Mairzee Almas",
+            " Allan Arkush",
+            " Sheree Folkson",
+            " Omar Madha",
+            " Kellie Cyrus",
+            " Kevin Dowling",
+            " Shannon Kohli",
+            " Avi Youabian"
+        ],
+        "tha": [
+            "Metin H\u00fcseyin",
+            " Mairzee Almas",
+            " Allan Arkush",
+            " Sheree Folkson",
+            " Omar Madha",
+            " Kellie Cyrus",
+            " Kevin Dowling",
+            " Shannon Kohli",
+            " Avi Youabian"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Justis Greene",
+            " Aaron Martin",
+            " Katee Sackhoff",
+            " Stephanie Fontana",
+            " Noreen Halpern",
+            " Lucie Pag\u00e9",
+            " Jadene Stojak Babcock",
+            " Omar Madha",
+            " Jackie May",
+            " Alex Levine"
+        ],
+        "may": [
+            "Justis Greene",
+            " Aaron Martin",
+            " Katee Sackhoff",
+            " Stephanie Fontana",
+            " Noreen Halpern",
+            " Lucie Pag\u00e9",
+            " Jadene Stojak Babcock",
+            " Omar Madha",
+            " Jackie May",
+            " Alex Levine"
+        ],
+        "chi": [
+            "Justis Greene",
+            " Aaron Martin",
+            " Katee Sackhoff",
+            " Stephanie Fontana",
+            " Noreen Halpern",
+            " Lucie Pag\u00e9",
+            " Jadene Stojak Babcock",
+            " Omar Madha",
+            " Jackie May",
+            " Alex Levine"
+        ],
+        "tam": [
+            "Justis Greene",
+            " Aaron Martin",
+            " Katee Sackhoff",
+            " Stephanie Fontana",
+            " Noreen Halpern",
+            " Lucie Pag\u00e9",
+            " Jadene Stojak Babcock",
+            " Omar Madha",
+            " Jackie May",
+            " Alex Levine"
+        ],
+        "ind": [
+            "Justis Greene",
+            " Aaron Martin",
+            " Katee Sackhoff",
+            " Stephanie Fontana",
+            " Noreen Halpern",
+            " Lucie Pag\u00e9",
+            " Jadene Stojak Babcock",
+            " Omar Madha",
+            " Jackie May",
+            " Alex Levine"
+        ],
+        "tha": [
+            "Justis Greene",
+            " Aaron Martin",
+            " Katee Sackhoff",
+            " Stephanie Fontana",
+            " Noreen Halpern",
+            " Lucie Pag\u00e9",
+            " Jadene Stojak Babcock",
+            " Omar Madha",
+            " Jackie May",
+            " Alex Levine"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_11eeec13-0b56-5f18-b9e4-53a7d6c561c4",
+    "seasonNumber": "2",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Another Life Season 2",
+            "may": "Another Life Season 2",
+            "chi": "Another Life Season 2",
+            "tam": "Another Life Season 2",
+            "ind": "Another Life Season 2",
+            "tha": "Another Life Season 2"
+        },
+        "long": {
+            "eng": "Another Life Season 2",
+            "may": "Another Life Season 2",
+            "chi": "Another Life Season 2",
+            "tam": "Another Life Season 2",
+            "ind": "Another Life Season 2",
+            "tha": "Another Life Season 2"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Astronaut Niko Breckenridge and her young crew face unimaginable danger as they go on a high-risk mission to explore the genesis of an alien artifact.",
+            "may": "Astronaut Niko Breckenridge and her young crew face unimaginable danger as they go on a high-risk mission to explore the genesis of an alien artifact.",
+            "chi": "Astronaut Niko Breckenridge and her young crew face unimaginable danger as they go on a high-risk mission to explore the genesis of an alien artifact.",
+            "tam": "Astronaut Niko Breckenridge and her young crew face unimaginable danger as they go on a high-risk mission to explore the genesis of an alien artifact.",
+            "ind": "Astronaut Niko Breckenridge and her young crew face unimaginable danger as they go on a high-risk mission to explore the genesis of an alien artifact.",
+            "tha": "Astronaut Niko Breckenridge and her young crew face unimaginable danger as they go on a high-risk mission to explore the genesis of an alien artifact."
+        },
+        "long": {
+            "eng": "Astronaut Niko Breckenridge and her young crew face unimaginable danger as they go on a high-risk mission to explore the genesis of an alien artifact.",
+            "may": "Astronaut Niko Breckenridge and her young crew face unimaginable danger as they go on a high-risk mission to explore the genesis of an alien artifact.",
+            "chi": "Astronaut Niko Breckenridge and her young crew face unimaginable danger as they go on a high-risk mission to explore the genesis of an alien artifact.",
+            "tam": "Astronaut Niko Breckenridge and her young crew face unimaginable danger as they go on a high-risk mission to explore the genesis of an alien artifact.",
+            "ind": "Astronaut Niko Breckenridge and her young crew face unimaginable danger as they go on a high-risk mission to explore the genesis of an alien artifact.",
+            "tha": "Astronaut Niko Breckenridge and her young crew face unimaginable danger as they go on a high-risk mission to explore the genesis of an alien artifact."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/AnotherLifeSeason2_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/AnotherLifeSeason2_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/AnotherLifeSeason2_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

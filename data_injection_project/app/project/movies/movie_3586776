@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_c9a79163-3d96-5f8e-8f46-1dcca4400f91",
+    "clientContentId": "PACK0000000001351082",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "SPIDER-MAN NO WAY HOME",
+            "may": "SPIDER-MAN NO WAY HOME",
+            "tam": "SPIDER-MAN NO WAY HOME",
+            "chi": "SPIDER-MAN NO WAY HOME",
+            "tha": "SPIDER-MAN NO WAY HOME",
+            "ind": "SPIDER-MAN NO WAY HOME"
+        },
+        "long": {
+            "eng": "SPIDER-MAN NO WAY HOME",
+            "may": "SPIDER-MAN NO WAY HOME",
+            "tam": "SPIDER-MAN NO WAY HOME",
+            "chi": "SPIDER-MAN NO WAY HOME",
+            "tha": "SPIDER-MAN NO WAY HOME",
+            "ind": "SPIDER-MAN NO WAY HOME"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+            "may": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+            "tam": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+            "chi": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+            "tha": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+            "ind": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man."
+        },
+        "long": {
+            "eng": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+            "may": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+            "tam": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+            "chi": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+            "tha": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+            "ind": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Tom Holland",
+            " Zendaya",
+            " Benedict Cumberbatch",
+            " Jacob Batalon",
+            " Jon Favreau",
+            " Jamie Foxx",
+            " Willem Dafoe",
+            " Alfred Molina",
+            " Benedict Wong",
+            " Tony Revolori"
+        ],
+        "may": [
+            "Tom Holland",
+            " Zendaya",
+            " Benedict Cumberbatch",
+            " Jacob Batalon",
+            " Jon Favreau",
+            " Jamie Foxx",
+            " Willem Dafoe",
+            " Alfred Molina",
+            " Benedict Wong",
+            " Tony Revolori"
+        ],
+        "tam": [
+            "Tom Holland",
+            " Zendaya",
+            " Benedict Cumberbatch",
+            " Jacob Batalon",
+            " Jon Favreau",
+            " Jamie Foxx",
+            " Willem Dafoe",
+            " Alfred Molina",
+            " Benedict Wong",
+            " Tony Revolori"
+        ],
+        "chi": [
+            "Tom Holland",
+            " Zendaya",
+            " Benedict Cumberbatch",
+            " Jacob Batalon",
+            " Jon Favreau",
+            " Jamie Foxx",
+            " Willem Dafoe",
+            " Alfred Molina",
+            " Benedict Wong",
+            " Tony Revolori"
+        ],
+        "tha": [
+            "Tom Holland",
+            " Zendaya",
+            " Benedict Cumberbatch",
+            " Jacob Batalon",
+            " Jon Favreau",
+            " Jamie Foxx",
+            " Willem Dafoe",
+            " Alfred Molina",
+            " Benedict Wong",
+            " Tony Revolori"
+        ],
+        "ind": [
+            "Tom Holland",
+            " Zendaya",
+            " Benedict Cumberbatch",
+            " Jacob Batalon",
+            " Jon Favreau",
+            " Jamie Foxx",
+            " Willem Dafoe",
+            " Alfred Molina",
+            " Benedict Wong",
+            " Tony Revolori"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jon Watts"
+        ],
+        "may": [
+            "Jon Watts"
+        ],
+        "tam": [
+            "Jon Watts"
+        ],
+        "chi": [
+            "Jon Watts"
+        ],
+        "tha": [
+            "Jon Watts"
+        ],
+        "ind": [
+            "Jon Watts"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Victoria Alonso",
+            " Avi Arad",
+            " Mitchell Bell",
+            " Chris Buongiorno",
+            " Louis D'Esposito",
+            " Kevin Feige",
+            " Emily Fong",
+            " Rachel O'Connor",
+            " Amy Pascal",
+            " JoAnn Perritano"
+        ],
+        "may": [
+            "Victoria Alonso",
+            " Avi Arad",
+            " Mitchell Bell",
+            " Chris Buongiorno",
+            " Louis D'Esposito",
+            " Kevin Feige",
+            " Emily Fong",
+            " Rachel O'Connor",
+            " Amy Pascal",
+            " JoAnn Perritano"
+        ],
+        "tam": [
+            "Victoria Alonso",
+            " Avi Arad",
+            " Mitchell Bell",
+            " Chris Buongiorno",
+            " Louis D'Esposito",
+            " Kevin Feige",
+            " Emily Fong",
+            " Rachel O'Connor",
+            " Amy Pascal",
+            " JoAnn Perritano"
+        ],
+        "chi": [
+            "Victoria Alonso",
+            " Avi Arad",
+            " Mitchell Bell",
+            " Chris Buongiorno",
+            " Louis D'Esposito",
+            " Kevin Feige",
+            " Emily Fong",
+            " Rachel O'Connor",
+            " Amy Pascal",
+            " JoAnn Perritano"
+        ],
+        "tha": [
+            "Victoria Alonso",
+            " Avi Arad",
+            " Mitchell Bell",
+            " Chris Buongiorno",
+            " Louis D'Esposito",
+            " Kevin Feige",
+            " Emily Fong",
+            " Rachel O'Connor",
+            " Amy Pascal",
+            " JoAnn Perritano"
+        ],
+        "ind": [
+            "Victoria Alonso",
+            " Avi Arad",
+            " Mitchell Bell",
+            " Chris Buongiorno",
+            " Louis D'Esposito",
+            " Kevin Feige",
+            " Emily Fong",
+            " Rachel O'Connor",
+            " Amy Pascal",
+            " JoAnn Perritano"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/SPIDER-MANNOWAYHOME_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/SPIDER-MANNOWAYHOME_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/SPIDER-MANNOWAYHOME_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2021,
+    "rating": "8.2",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

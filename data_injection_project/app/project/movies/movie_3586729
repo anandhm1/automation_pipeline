@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedMovie_e46b797a-95fb-575a-964a-004dc77dc5e7",
+    "clientContentId": "PACK0000000006161187",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Christmas Bloody Christmas Exclusive",
+            "may": "Christmas Bloody Christmas Exclusive",
+            "tam": "Christmas Bloody Christmas Exclusive",
+            "chi": "Christmas Bloody Christmas Exclusive",
+            "tha": "Christmas Bloody Christmas Exclusive",
+            "ind": "Christmas Bloody Christmas Exclusive"
+        },
+        "long": {
+            "eng": "Christmas Bloody Christmas Exclusive",
+            "may": "Christmas Bloody Christmas Exclusive",
+            "tam": "Christmas Bloody Christmas Exclusive",
+            "chi": "Christmas Bloody Christmas Exclusive",
+            "tha": "Christmas Bloody Christmas Exclusive",
+            "ind": "Christmas Bloody Christmas Exclusive"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "It's Christmas Eve and Tori just wants to get drunk and party, but when a robotic Santa Claus at a nearby toy store goes haywire and begins a rampant killing spree through her small town, she's forced into a battle for survival.",
+            "may": "It's Christmas Eve and Tori just wants to get drunk and party, but when a robotic Santa Claus at a nearby toy store goes haywire and begins a rampant killing spree through her small town, she's forced into a battle for survival.",
+            "tam": "It's Christmas Eve and Tori just wants to get drunk and party, but when a robotic Santa Claus at a nearby toy store goes haywire and begins a rampant killing spree through her small town, she's forced into a battle for survival.",
+            "chi": "It's Christmas Eve and Tori just wants to get drunk and party, but when a robotic Santa Claus at a nearby toy store goes haywire and begins a rampant killing spree through her small town, she's forced into a battle for survival.",
+            "tha": "It's Christmas Eve and Tori just wants to get drunk and party, but when a robotic Santa Claus at a nearby toy store goes haywire and begins a rampant killing spree through her small town, she's forced into a battle for survival.",
+            "ind": "It's Christmas Eve and Tori just wants to get drunk and party, but when a robotic Santa Claus at a nearby toy store goes haywire and begins a rampant killing spree through her small town, she's forced into a battle for survival."
+        },
+        "long": {
+            "eng": "It's Christmas Eve and Tori just wants to get drunk and party, but when a robotic Santa Claus at a nearby toy store goes haywire and begins a rampant killing spree through her small town, she's forced into a battle for survival.",
+            "may": "It's Christmas Eve and Tori just wants to get drunk and party, but when a robotic Santa Claus at a nearby toy store goes haywire and begins a rampant killing spree through her small town, she's forced into a battle for survival.",
+            "tam": "It's Christmas Eve and Tori just wants to get drunk and party, but when a robotic Santa Claus at a nearby toy store goes haywire and begins a rampant killing spree through her small town, she's forced into a battle for survival.",
+            "chi": "It's Christmas Eve and Tori just wants to get drunk and party, but when a robotic Santa Claus at a nearby toy store goes haywire and begins a rampant killing spree through her small town, she's forced into a battle for survival.",
+            "tha": "It's Christmas Eve and Tori just wants to get drunk and party, but when a robotic Santa Claus at a nearby toy store goes haywire and begins a rampant killing spree through her small town, she's forced into a battle for survival.",
+            "ind": "It's Christmas Eve and Tori just wants to get drunk and party, but when a robotic Santa Claus at a nearby toy store goes haywire and begins a rampant killing spree through her small town, she's forced into a battle for survival."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Riley Dandy",
+            " Sam Delich",
+            " Jonah Ray",
+            " Dora Madison",
+            " Jeff Daniel Phillips",
+            " Abraham BenrubiJeremy GardnerGraham SkipperKansas BowlingJoe Begos"
+        ],
+        "may": [
+            "Riley Dandy",
+            " Sam Delich",
+            " Jonah Ray",
+            " Dora Madison",
+            " Jeff Daniel Phillips",
+            " Abraham BenrubiJeremy GardnerGraham SkipperKansas BowlingJoe Begos"
+        ],
+        "tam": [
+            "Riley Dandy",
+            " Sam Delich",
+            " Jonah Ray",
+            " Dora Madison",
+            " Jeff Daniel Phillips",
+            " Abraham BenrubiJeremy GardnerGraham SkipperKansas BowlingJoe Begos"
+        ],
+        "chi": [
+            "Riley Dandy",
+            " Sam Delich",
+            " Jonah Ray",
+            " Dora Madison",
+            " Jeff Daniel Phillips",
+            " Abraham BenrubiJeremy GardnerGraham SkipperKansas BowlingJoe Begos"
+        ],
+        "tha": [
+            "Riley Dandy",
+            " Sam Delich",
+            " Jonah Ray",
+            " Dora Madison",
+            " Jeff Daniel Phillips",
+            " Abraham BenrubiJeremy GardnerGraham SkipperKansas BowlingJoe Begos"
+        ],
+        "ind": [
+            "Riley Dandy",
+            " Sam Delich",
+            " Jonah Ray",
+            " Dora Madison",
+            " Jeff Daniel Phillips",
+            " Abraham BenrubiJeremy GardnerGraham SkipperKansas BowlingJoe Begos"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Joe Begos"
+        ],
+        "may": [
+            "Joe Begos"
+        ],
+        "tam": [
+            "Joe Begos"
+        ],
+        "chi": [
+            "Joe Begos"
+        ],
+        "tha": [
+            "Joe Begos"
+        ],
+        "ind": [
+            "Joe Begos"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Joe Begos",
+            " Brian E. Dutton",
+            " Josh Ethier",
+            " Emily Gotto",
+            " Mark Ward",
+            " Samuel Zimmerman"
+        ],
+        "may": [
+            "Joe Begos",
+            " Brian E. Dutton",
+            " Josh Ethier",
+            " Emily Gotto",
+            " Mark Ward",
+            " Samuel Zimmerman"
+        ],
+        "tam": [
+            "Joe Begos",
+            " Brian E. Dutton",
+            " Josh Ethier",
+            " Emily Gotto",
+            " Mark Ward",
+            " Samuel Zimmerman"
+        ],
+        "chi": [
+            "Joe Begos",
+            " Brian E. Dutton",
+            " Josh Ethier",
+            " Emily Gotto",
+            " Mark Ward",
+            " Samuel Zimmerman"
+        ],
+        "tha": [
+            "Joe Begos",
+            " Brian E. Dutton",
+            " Josh Ethier",
+            " Emily Gotto",
+            " Mark Ward",
+            " Samuel Zimmerman"
+        ],
+        "ind": [
+            "Joe Begos",
+            " Brian E. Dutton",
+            " Josh Ethier",
+            " Emily Gotto",
+            " Mark Ward",
+            " Samuel Zimmerman"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Horror",
+                    "may": "Horror",
+                    "tam": "Horror",
+                    "chi": "Horror",
+                    "tha": "Horror",
+                    "ind": "Horror"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Horror",
+                    "may": "Horror",
+                    "tam": "Horror",
+                    "chi": "Horror",
+                    "tha": "Horror",
+                    "ind": "Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ChristmasBloodyChristmasExclusive_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ChristmasBloodyChristmasExclusive_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ChristmasBloodyChristmasExclusive_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "5.1",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,319 @@
+{
+    "externalId": "AggregatedMovie_76839f76-51cb-527f-9a17-bad2fea55cc8",
+    "clientContentId": "PACK0000000009424841",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "WOMEN TALKING",
+            "may": "WOMEN TALKING",
+            "tam": "WOMEN TALKING",
+            "chi": "WOMEN TALKING",
+            "tha": "WOMEN TALKING",
+            "ind": "WOMEN TALKING"
+        },
+        "long": {
+            "eng": "WOMEN TALKING",
+            "may": "WOMEN TALKING",
+            "tam": "WOMEN TALKING",
+            "chi": "WOMEN TALKING",
+            "tha": "WOMEN TALKING",
+            "ind": "WOMEN TALKING"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Do nothing, stay and fight, or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith.",
+            "may": "Do nothing, stay and fight, or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith.",
+            "tam": "Do nothing, stay and fight, or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith.",
+            "chi": "Do nothing, stay and fight, or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith.",
+            "tha": "Do nothing, stay and fight, or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith.",
+            "ind": "Do nothing, stay and fight, or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith."
+        },
+        "long": {
+            "eng": "Do nothing, stay and fight, or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith.",
+            "may": "Do nothing, stay and fight, or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith.",
+            "tam": "Do nothing, stay and fight, or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith.",
+            "chi": "Do nothing, stay and fight, or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith.",
+            "tha": "Do nothing, stay and fight, or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith.",
+            "ind": "Do nothing, stay and fight, or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Rooney Mara",
+            " Judith Ivey",
+            " Emily Mitchell",
+            " Kate Hallett",
+            " Liv McNeil",
+            " Claire Foy",
+            " Sheila McCarthy",
+            " Jessie Buckley",
+            " Michelle McLeod",
+            " Kira Guloien"
+        ],
+        "may": [
+            "Rooney Mara",
+            " Judith Ivey",
+            " Emily Mitchell",
+            " Kate Hallett",
+            " Liv McNeil",
+            " Claire Foy",
+            " Sheila McCarthy",
+            " Jessie Buckley",
+            " Michelle McLeod",
+            " Kira Guloien"
+        ],
+        "tam": [
+            "Rooney Mara",
+            " Judith Ivey",
+            " Emily Mitchell",
+            " Kate Hallett",
+            " Liv McNeil",
+            " Claire Foy",
+            " Sheila McCarthy",
+            " Jessie Buckley",
+            " Michelle McLeod",
+            " Kira Guloien"
+        ],
+        "chi": [
+            "Rooney Mara",
+            " Judith Ivey",
+            " Emily Mitchell",
+            " Kate Hallett",
+            " Liv McNeil",
+            " Claire Foy",
+            " Sheila McCarthy",
+            " Jessie Buckley",
+            " Michelle McLeod",
+            " Kira Guloien"
+        ],
+        "tha": [
+            "Rooney Mara",
+            " Judith Ivey",
+            " Emily Mitchell",
+            " Kate Hallett",
+            " Liv McNeil",
+            " Claire Foy",
+            " Sheila McCarthy",
+            " Jessie Buckley",
+            " Michelle McLeod",
+            " Kira Guloien"
+        ],
+        "ind": [
+            "Rooney Mara",
+            " Judith Ivey",
+            " Emily Mitchell",
+            " Kate Hallett",
+            " Liv McNeil",
+            " Claire Foy",
+            " Sheila McCarthy",
+            " Jessie Buckley",
+            " Michelle McLeod",
+            " Kira Guloien"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Sarah Polley"
+        ],
+        "may": [
+            "Sarah Polley"
+        ],
+        "tam": [
+            "Sarah Polley"
+        ],
+        "chi": [
+            "Sarah Polley"
+        ],
+        "tha": [
+            "Sarah Polley"
+        ],
+        "ind": [
+            "Sarah Polley"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Emily Jade Foley",
+            " Dede Gardner",
+            " Jeremy Kleiner",
+            " Lyn Lucibello",
+            " Frances McDormand",
+            " Brad Pitt"
+        ],
+        "may": [
+            "Emily Jade Foley",
+            " Dede Gardner",
+            " Jeremy Kleiner",
+            " Lyn Lucibello",
+            " Frances McDormand",
+            " Brad Pitt"
+        ],
+        "tam": [
+            "Emily Jade Foley",
+            " Dede Gardner",
+            " Jeremy Kleiner",
+            " Lyn Lucibello",
+            " Frances McDormand",
+            " Brad Pitt"
+        ],
+        "chi": [
+            "Emily Jade Foley",
+            " Dede Gardner",
+            " Jeremy Kleiner",
+            " Lyn Lucibello",
+            " Frances McDormand",
+            " Brad Pitt"
+        ],
+        "tha": [
+            "Emily Jade Foley",
+            " Dede Gardner",
+            " Jeremy Kleiner",
+            " Lyn Lucibello",
+            " Frances McDormand",
+            " Brad Pitt"
+        ],
+        "ind": [
+            "Emily Jade Foley",
+            " Dede Gardner",
+            " Jeremy Kleiner",
+            " Lyn Lucibello",
+            " Frances McDormand",
+            " Brad Pitt"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/WOMENTALKING_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/WOMENTALKING_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/WOMENTALKING_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "7.0",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

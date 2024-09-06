@@ -1,0 +1,373 @@
+{
+    "externalId": "AggregatedTvShow_91b39834-b834-51a4-a121-46097a278df4",
+    "clientContentId": "PACK0000000001903409",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Pilot",
+            "may": "Pilot",
+            "tam": "Pilot",
+            "chi": "Pilot",
+            "tha": "Pilot",
+            "ind": "Pilot"
+        },
+        "long": {
+            "eng": "Pilot",
+            "may": "Pilot",
+            "tam": "Pilot",
+            "chi": "Pilot",
+            "tha": "Pilot",
+            "ind": "Pilot"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "may": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "tam": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "chi": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "tha": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "ind": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder."
+        },
+        "long": {
+            "eng": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "may": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "tam": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "chi": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "tha": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder.",
+            "ind": "Everything about Beacon Heights seems perfect, until the high-stakes of the college environment pushes a resident to the point of murder."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Sasha Pieterse",
+            " Janel Parrish",
+            " Sofia Carson",
+            " Sydney Park",
+            " Eli Brown",
+            " Hayley Erin",
+            " Graeme Thomas King",
+            " Kelly Rutherford",
+            " Kassidy Matthews",
+            " Noah Gray-Cabey"
+        ],
+        "may": [
+            "Sasha Pieterse",
+            " Janel Parrish",
+            " Sofia Carson",
+            " Sydney Park",
+            " Eli Brown",
+            " Hayley Erin",
+            " Graeme Thomas King",
+            " Kelly Rutherford",
+            " Kassidy Matthews",
+            " Noah Gray-Cabey"
+        ],
+        "tam": [
+            "Sasha Pieterse",
+            " Janel Parrish",
+            " Sofia Carson",
+            " Sydney Park",
+            " Eli Brown",
+            " Hayley Erin",
+            " Graeme Thomas King",
+            " Kelly Rutherford",
+            " Kassidy Matthews",
+            " Noah Gray-Cabey"
+        ],
+        "chi": [
+            "Sasha Pieterse",
+            " Janel Parrish",
+            " Sofia Carson",
+            " Sydney Park",
+            " Eli Brown",
+            " Hayley Erin",
+            " Graeme Thomas King",
+            " Kelly Rutherford",
+            " Kassidy Matthews",
+            " Noah Gray-Cabey"
+        ],
+        "tha": [
+            "Sasha Pieterse",
+            " Janel Parrish",
+            " Sofia Carson",
+            " Sydney Park",
+            " Eli Brown",
+            " Hayley Erin",
+            " Graeme Thomas King",
+            " Kelly Rutherford",
+            " Kassidy Matthews",
+            " Noah Gray-Cabey"
+        ],
+        "ind": [
+            "Sasha Pieterse",
+            " Janel Parrish",
+            " Sofia Carson",
+            " Sydney Park",
+            " Eli Brown",
+            " Hayley Erin",
+            " Graeme Thomas King",
+            " Kelly Rutherford",
+            " Kassidy Matthews",
+            " Noah Gray-Cabey"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Norman Buckley",
+            " Roger Kumble",
+            " Elizabeth Allen Rosenbaum",
+            " Arlene Sanford",
+            " Shiri Appleby",
+            " Geary McLeod"
+        ],
+        "may": [
+            "Norman Buckley",
+            " Roger Kumble",
+            " Elizabeth Allen Rosenbaum",
+            " Arlene Sanford",
+            " Shiri Appleby",
+            " Geary McLeod"
+        ],
+        "tam": [
+            "Norman Buckley",
+            " Roger Kumble",
+            " Elizabeth Allen Rosenbaum",
+            " Arlene Sanford",
+            " Shiri Appleby",
+            " Geary McLeod"
+        ],
+        "chi": [
+            "Norman Buckley",
+            " Roger Kumble",
+            " Elizabeth Allen Rosenbaum",
+            " Arlene Sanford",
+            " Shiri Appleby",
+            " Geary McLeod"
+        ],
+        "tha": [
+            "Norman Buckley",
+            " Roger Kumble",
+            " Elizabeth Allen Rosenbaum",
+            " Arlene Sanford",
+            " Shiri Appleby",
+            " Geary McLeod"
+        ],
+        "ind": [
+            "Norman Buckley",
+            " Roger Kumble",
+            " Elizabeth Allen Rosenbaum",
+            " Arlene Sanford",
+            " Shiri Appleby",
+            " Geary McLeod"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Bruce Carter",
+            " Charles Grant Craig",
+            " Joseph Dougherty",
+            " I. Marlene King",
+            " Norman Buckley",
+            " Nelson Soler",
+            " Paula Yoo",
+            " Lisa Cochran-Neilan",
+            " Elizabeth Allen Rosenbaum",
+            " "
+        ],
+        "may": [
+            "Bruce Carter",
+            " Charles Grant Craig",
+            " Joseph Dougherty",
+            " I. Marlene King",
+            " Norman Buckley",
+            " Nelson Soler",
+            " Paula Yoo",
+            " Lisa Cochran-Neilan",
+            " Elizabeth Allen Rosenbaum",
+            " "
+        ],
+        "tam": [
+            "Bruce Carter",
+            " Charles Grant Craig",
+            " Joseph Dougherty",
+            " I. Marlene King",
+            " Norman Buckley",
+            " Nelson Soler",
+            " Paula Yoo",
+            " Lisa Cochran-Neilan",
+            " Elizabeth Allen Rosenbaum",
+            " "
+        ],
+        "chi": [
+            "Bruce Carter",
+            " Charles Grant Craig",
+            " Joseph Dougherty",
+            " I. Marlene King",
+            " Norman Buckley",
+            " Nelson Soler",
+            " Paula Yoo",
+            " Lisa Cochran-Neilan",
+            " Elizabeth Allen Rosenbaum",
+            " "
+        ],
+        "tha": [
+            "Bruce Carter",
+            " Charles Grant Craig",
+            " Joseph Dougherty",
+            " I. Marlene King",
+            " Norman Buckley",
+            " Nelson Soler",
+            " Paula Yoo",
+            " Lisa Cochran-Neilan",
+            " Elizabeth Allen Rosenbaum",
+            " "
+        ],
+        "ind": [
+            "Bruce Carter",
+            " Charles Grant Craig",
+            " Joseph Dougherty",
+            " I. Marlene King",
+            " Norman Buckley",
+            " Nelson Soler",
+            " Paula Yoo",
+            " Lisa Cochran-Neilan",
+            " Elizabeth Allen Rosenbaum",
+            " "
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PrettyLittleLiarsThePerfectionistsS01E01_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PrettyLittleLiarsThePerfectionistsS01E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PrettyLittleLiarsThePerfectionistsS01E01_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_810927bd-ebcd-5bc8-a607-4899254a675b",
+    "seasonId": "AggregatedSeason_440a2295-7467-5bea-8a54-04fe4760cd4f",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2019,
+    "rating": "TV-14",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

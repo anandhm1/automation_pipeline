@@ -1,0 +1,319 @@
+{
+    "externalId": "AggregatedSeries_22ea5a20-6263-59a4-8257-a85cf8eca1fb",
+    "clientContentId": "PACK0000000006400871",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Peripheral",
+            "may": "The Peripheral",
+            "tam": "The Peripheral",
+            "chi": "The Peripheral",
+            "tha": "The Peripheral",
+            "ind": "The Peripheral"
+        },
+        "long": {
+            "eng": "The Peripheral",
+            "may": "The Peripheral",
+            "tam": "The Peripheral",
+            "chi": "The Peripheral",
+            "tha": "The Peripheral",
+            "ind": "The Peripheral"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Set in the future when technology has subtly altered society, a woman discovers a secret connection to an alternate reality as well as a dark future of her own.",
+            "may": "Set in the future when technology has subtly altered society, a woman discovers a secret connection to an alternate reality as well as a dark future of her own.",
+            "tam": "Set in the future when technology has subtly altered society, a woman discovers a secret connection to an alternate reality as well as a dark future of her own.",
+            "chi": "Set in the future when technology has subtly altered society, a woman discovers a secret connection to an alternate reality as well as a dark future of her own.",
+            "tha": "Set in the future when technology has subtly altered society, a woman discovers a secret connection to an alternate reality as well as a dark future of her own.",
+            "ind": "Set in the future when technology has subtly altered society, a woman discovers a secret connection to an alternate reality as well as a dark future of her own."
+        },
+        "long": {
+            "eng": "Set in the future when technology has subtly altered society, a woman discovers a secret connection to an alternate reality as well as a dark future of her own.",
+            "may": "Set in the future when technology has subtly altered society, a woman discovers a secret connection to an alternate reality as well as a dark future of her own.",
+            "tam": "Set in the future when technology has subtly altered society, a woman discovers a secret connection to an alternate reality as well as a dark future of her own.",
+            "chi": "Set in the future when technology has subtly altered society, a woman discovers a secret connection to an alternate reality as well as a dark future of her own.",
+            "tha": "Set in the future when technology has subtly altered society, a woman discovers a secret connection to an alternate reality as well as a dark future of her own.",
+            "ind": "Set in the future when technology has subtly altered society, a woman discovers a secret connection to an alternate reality as well as a dark future of her own."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Chlo\u00eb Grace Moretz",
+            " Gary Carr",
+            " Jack Reynor",
+            " JJ Feild",
+            " T'Nia Miller",
+            " Louis Herthum",
+            " Katie Leung",
+            " Melinda Page Hamilton",
+            " Chris Coy",
+            " Alex Hernandez"
+        ],
+        "may": [
+            "Chlo\u00eb Grace Moretz",
+            " Gary Carr",
+            " Jack Reynor",
+            " JJ Feild",
+            " T'Nia Miller",
+            " Louis Herthum",
+            " Katie Leung",
+            " Melinda Page Hamilton",
+            " Chris Coy",
+            " Alex Hernandez"
+        ],
+        "tam": [
+            "Chlo\u00eb Grace Moretz",
+            " Gary Carr",
+            " Jack Reynor",
+            " JJ Feild",
+            " T'Nia Miller",
+            " Louis Herthum",
+            " Katie Leung",
+            " Melinda Page Hamilton",
+            " Chris Coy",
+            " Alex Hernandez"
+        ],
+        "chi": [
+            "Chlo\u00eb Grace Moretz",
+            " Gary Carr",
+            " Jack Reynor",
+            " JJ Feild",
+            " T'Nia Miller",
+            " Louis Herthum",
+            " Katie Leung",
+            " Melinda Page Hamilton",
+            " Chris Coy",
+            " Alex Hernandez"
+        ],
+        "tha": [
+            "Chlo\u00eb Grace Moretz",
+            " Gary Carr",
+            " Jack Reynor",
+            " JJ Feild",
+            " T'Nia Miller",
+            " Louis Herthum",
+            " Katie Leung",
+            " Melinda Page Hamilton",
+            " Chris Coy",
+            " Alex Hernandez"
+        ],
+        "ind": [
+            "Chlo\u00eb Grace Moretz",
+            " Gary Carr",
+            " Jack Reynor",
+            " JJ Feild",
+            " T'Nia Miller",
+            " Louis Herthum",
+            " Katie Leung",
+            " Melinda Page Hamilton",
+            " Chris Coy",
+            " Alex Hernandez"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Vincenzo Natali",
+            " Alrick Riley"
+        ],
+        "may": [
+            "Vincenzo Natali",
+            " Alrick Riley"
+        ],
+        "tam": [
+            "Vincenzo Natali",
+            " Alrick Riley"
+        ],
+        "chi": [
+            "Vincenzo Natali",
+            " Alrick Riley"
+        ],
+        "tha": [
+            "Vincenzo Natali",
+            " Alrick Riley"
+        ],
+        "ind": [
+            "Vincenzo Natali",
+            " Alrick Riley"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jamie Chan",
+            " Sara Desmond",
+            " Steven Hoban",
+            " Vincenzo Natali",
+            " Jonathan Nolan",
+            " Noreen O'Toole",
+            " Halle Phillips",
+            " Greg Plageman",
+            " Alrick Riley",
+            " James W. Skotchdopole"
+        ],
+        "may": [
+            "Jamie Chan",
+            " Sara Desmond",
+            " Steven Hoban",
+            " Vincenzo Natali",
+            " Jonathan Nolan",
+            " Noreen O'Toole",
+            " Halle Phillips",
+            " Greg Plageman",
+            " Alrick Riley",
+            " James W. Skotchdopole"
+        ],
+        "tam": [
+            "Jamie Chan",
+            " Sara Desmond",
+            " Steven Hoban",
+            " Vincenzo Natali",
+            " Jonathan Nolan",
+            " Noreen O'Toole",
+            " Halle Phillips",
+            " Greg Plageman",
+            " Alrick Riley",
+            " James W. Skotchdopole"
+        ],
+        "chi": [
+            "Jamie Chan",
+            " Sara Desmond",
+            " Steven Hoban",
+            " Vincenzo Natali",
+            " Jonathan Nolan",
+            " Noreen O'Toole",
+            " Halle Phillips",
+            " Greg Plageman",
+            " Alrick Riley",
+            " James W. Skotchdopole"
+        ],
+        "tha": [
+            "Jamie Chan",
+            " Sara Desmond",
+            " Steven Hoban",
+            " Vincenzo Natali",
+            " Jonathan Nolan",
+            " Noreen O'Toole",
+            " Halle Phillips",
+            " Greg Plageman",
+            " Alrick Riley",
+            " James W. Skotchdopole"
+        ],
+        "ind": [
+            "Jamie Chan",
+            " Sara Desmond",
+            " Steven Hoban",
+            " Vincenzo Natali",
+            " Jonathan Nolan",
+            " Noreen O'Toole",
+            " Halle Phillips",
+            " Greg Plageman",
+            " Alrick Riley",
+            " James W. Skotchdopole"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Mystery",
+                    "may": " Mystery",
+                    "tam": " Mystery",
+                    "chi": " Mystery",
+                    "tha": " Mystery",
+                    "ind": " Mystery"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePeripheralSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePeripheralSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePeripheralSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "7",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2022,
+    "maxConcurrentStreams": 0
+}

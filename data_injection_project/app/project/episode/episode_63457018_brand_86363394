@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedTvShow_d9b43dcc-2f86-5a2c-b119-cd23df4ae47b",
+    "clientContentId": "PACK0000000005052152",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Eat The Rich The Gamestop Saga - Trailer",
+            "may": "Eat The Rich The Gamestop Saga - Trailer",
+            "tam": "Eat The Rich The Gamestop Saga - Trailer",
+            "chi": "Eat The Rich The Gamestop Saga - Trailer",
+            "tha": "Eat The Rich The Gamestop Saga - Trailer",
+            "ind": "Eat The Rich The Gamestop Saga - Trailer"
+        },
+        "long": {
+            "eng": "Eat The Rich The Gamestop Saga - Trailer",
+            "may": "Eat The Rich The Gamestop Saga - Trailer",
+            "tam": "Eat The Rich The Gamestop Saga - Trailer",
+            "chi": "Eat The Rich The Gamestop Saga - Trailer",
+            "tha": "Eat The Rich The Gamestop Saga - Trailer",
+            "ind": "Eat The Rich The Gamestop Saga - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "may": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "tam": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "chi": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "tha": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "ind": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading."
+        },
+        "long": {
+            "eng": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "may": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "tam": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "chi": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "tha": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "ind": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Daniel Wilson",
+            " Diana Wilson",
+            " Peter Sasaki",
+            " Bob Sloan",
+            " Mikey Guggenheim",
+            " Vicki Bogan",
+            " Rachael Sassara",
+            " Erik Hess",
+            " Gunjan Banerji",
+            " Matt Kohrs"
+        ],
+        "may": [
+            "Daniel Wilson",
+            " Diana Wilson",
+            " Peter Sasaki",
+            " Bob Sloan",
+            " Mikey Guggenheim",
+            " Vicki Bogan",
+            " Rachael Sassara",
+            " Erik Hess",
+            " Gunjan Banerji",
+            " Matt Kohrs"
+        ],
+        "tam": [
+            "Daniel Wilson",
+            " Diana Wilson",
+            " Peter Sasaki",
+            " Bob Sloan",
+            " Mikey Guggenheim",
+            " Vicki Bogan",
+            " Rachael Sassara",
+            " Erik Hess",
+            " Gunjan Banerji",
+            " Matt Kohrs"
+        ],
+        "chi": [
+            "Daniel Wilson",
+            " Diana Wilson",
+            " Peter Sasaki",
+            " Bob Sloan",
+            " Mikey Guggenheim",
+            " Vicki Bogan",
+            " Rachael Sassara",
+            " Erik Hess",
+            " Gunjan Banerji",
+            " Matt Kohrs"
+        ],
+        "tha": [
+            "Daniel Wilson",
+            " Diana Wilson",
+            " Peter Sasaki",
+            " Bob Sloan",
+            " Mikey Guggenheim",
+            " Vicki Bogan",
+            " Rachael Sassara",
+            " Erik Hess",
+            " Gunjan Banerji",
+            " Matt Kohrs"
+        ],
+        "ind": [
+            "Daniel Wilson",
+            " Diana Wilson",
+            " Peter Sasaki",
+            " Bob Sloan",
+            " Mikey Guggenheim",
+            " Vicki Bogan",
+            " Rachael Sassara",
+            " Erik Hess",
+            " Gunjan Banerji",
+            " Matt Kohrs"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Theo Love"
+        ],
+        "may": [
+            "Theo Love"
+        ],
+        "tam": [
+            "Theo Love"
+        ],
+        "chi": [
+            "Theo Love"
+        ],
+        "tha": [
+            "Theo Love"
+        ],
+        "ind": [
+            "Theo Love"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Cali Bagby",
+            " Jon Bardin",
+            " Dan Cogan",
+            " Julie Gaither",
+            " Liz Garbus",
+            " Leah-Lani Griffin",
+            " Amy Hobby",
+            " Lily Platt",
+            " Jack Youngelson",
+            " Anthony Galloway"
+        ],
+        "may": [
+            "Cali Bagby",
+            " Jon Bardin",
+            " Dan Cogan",
+            " Julie Gaither",
+            " Liz Garbus",
+            " Leah-Lani Griffin",
+            " Amy Hobby",
+            " Lily Platt",
+            " Jack Youngelson",
+            " Anthony Galloway"
+        ],
+        "tam": [
+            "Cali Bagby",
+            " Jon Bardin",
+            " Dan Cogan",
+            " Julie Gaither",
+            " Liz Garbus",
+            " Leah-Lani Griffin",
+            " Amy Hobby",
+            " Lily Platt",
+            " Jack Youngelson",
+            " Anthony Galloway"
+        ],
+        "chi": [
+            "Cali Bagby",
+            " Jon Bardin",
+            " Dan Cogan",
+            " Julie Gaither",
+            " Liz Garbus",
+            " Leah-Lani Griffin",
+            " Amy Hobby",
+            " Lily Platt",
+            " Jack Youngelson",
+            " Anthony Galloway"
+        ],
+        "tha": [
+            "Cali Bagby",
+            " Jon Bardin",
+            " Dan Cogan",
+            " Julie Gaither",
+            " Liz Garbus",
+            " Leah-Lani Griffin",
+            " Amy Hobby",
+            " Lily Platt",
+            " Jack Youngelson",
+            " Anthony Galloway"
+        ],
+        "ind": [
+            "Cali Bagby",
+            " Jon Bardin",
+            " Dan Cogan",
+            " Julie Gaither",
+            " Liz Garbus",
+            " Leah-Lani Griffin",
+            " Amy Hobby",
+            " Lily Platt",
+            " Jack Youngelson",
+            " Anthony Galloway"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "tam": "Documentary",
+                    "chi": "Documentary",
+                    "tha": "Documentary",
+                    "ind": "Documentary"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "tam": "Documentary",
+                    "chi": "Documentary",
+                    "tha": "Documentary",
+                    "ind": "Documentary"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/EattheRichTheGameStopSagaSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/EattheRichTheGameStopSagaSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/EattheRichTheGameStopSagaSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_daf9836c-91af-5e9e-b918-8a9b1ee773fd",
+    "seasonId": "AggregatedSeason_e1295747-7500-5b09-8cfb-6ebd5dcb247c",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

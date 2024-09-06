@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_b6cc00ee-15ea-5972-9cea-c92d99f69dde",
+    "clientContentId": "PACK0000000003122243",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Last Witch Hunter",
+            "may": "The Last Witch Hunter",
+            "tam": "The Last Witch Hunter",
+            "chi": "The Last Witch Hunter",
+            "tha": "The Last Witch Hunter",
+            "ind": "The Last Witch Hunter"
+        },
+        "long": {
+            "eng": "The Last Witch Hunter",
+            "may": "The Last Witch Hunter",
+            "tam": "The Last Witch Hunter",
+            "chi": "The Last Witch Hunter",
+            "tha": "The Last Witch Hunter",
+            "ind": "The Last Witch Hunter"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The last witch hunter is all that stands between humanity and the combined forces of the most horrifying witches in history.",
+            "may": "The last witch hunter is all that stands between humanity and the combined forces of the most horrifying witches in history.",
+            "tam": "The last witch hunter is all that stands between humanity and the combined forces of the most horrifying witches in history.",
+            "chi": "The last witch hunter is all that stands between humanity and the combined forces of the most horrifying witches in history.",
+            "tha": "The last witch hunter is all that stands between humanity and the combined forces of the most horrifying witches in history.",
+            "ind": "The last witch hunter is all that stands between humanity and the combined forces of the most horrifying witches in history."
+        },
+        "long": {
+            "eng": "The last witch hunter is all that stands between humanity and the combined forces of the most horrifying witches in history.",
+            "may": "The last witch hunter is all that stands between humanity and the combined forces of the most horrifying witches in history.",
+            "tam": "The last witch hunter is all that stands between humanity and the combined forces of the most horrifying witches in history.",
+            "chi": "The last witch hunter is all that stands between humanity and the combined forces of the most horrifying witches in history.",
+            "tha": "The last witch hunter is all that stands between humanity and the combined forces of the most horrifying witches in history.",
+            "ind": "The last witch hunter is all that stands between humanity and the combined forces of the most horrifying witches in history."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Vin Diesel",
+            " Rose Leslie",
+            " Elijah Wood",
+            " \u00d3lafur Darri \u00d3lafsson",
+            " Rena Owen",
+            " Julie Engelbrecht",
+            " Michael Caine",
+            " Joe Gilgun",
+            " Isaach De Bankol\u00e9",
+            " Michael Halsey"
+        ],
+        "may": [
+            "Vin Diesel",
+            " Rose Leslie",
+            " Elijah Wood",
+            " \u00d3lafur Darri \u00d3lafsson",
+            " Rena Owen",
+            " Julie Engelbrecht",
+            " Michael Caine",
+            " Joe Gilgun",
+            " Isaach De Bankol\u00e9",
+            " Michael Halsey"
+        ],
+        "tam": [
+            "Vin Diesel",
+            " Rose Leslie",
+            " Elijah Wood",
+            " \u00d3lafur Darri \u00d3lafsson",
+            " Rena Owen",
+            " Julie Engelbrecht",
+            " Michael Caine",
+            " Joe Gilgun",
+            " Isaach De Bankol\u00e9",
+            " Michael Halsey"
+        ],
+        "chi": [
+            "Vin Diesel",
+            " Rose Leslie",
+            " Elijah Wood",
+            " \u00d3lafur Darri \u00d3lafsson",
+            " Rena Owen",
+            " Julie Engelbrecht",
+            " Michael Caine",
+            " Joe Gilgun",
+            " Isaach De Bankol\u00e9",
+            " Michael Halsey"
+        ],
+        "tha": [
+            "Vin Diesel",
+            " Rose Leslie",
+            " Elijah Wood",
+            " \u00d3lafur Darri \u00d3lafsson",
+            " Rena Owen",
+            " Julie Engelbrecht",
+            " Michael Caine",
+            " Joe Gilgun",
+            " Isaach De Bankol\u00e9",
+            " Michael Halsey"
+        ],
+        "ind": [
+            "Vin Diesel",
+            " Rose Leslie",
+            " Elijah Wood",
+            " \u00d3lafur Darri \u00d3lafsson",
+            " Rena Owen",
+            " Julie Engelbrecht",
+            " Michael Caine",
+            " Joe Gilgun",
+            " Isaach De Bankol\u00e9",
+            " Michael Halsey"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Breck Eisner"
+        ],
+        "may": [
+            "Breck Eisner"
+        ],
+        "tam": [
+            "Breck Eisner"
+        ],
+        "chi": [
+            "Breck Eisner"
+        ],
+        "tha": [
+            "Breck Eisner"
+        ],
+        "ind": [
+            "Breck Eisner"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Mark Canton",
+            " Vin Diesel",
+            " Bernie Goldmann",
+            " Adam Goldworm",
+            " Erich Hoeber",
+            " Jon Hoeber",
+            " Ric Kidney",
+            " Qiuyun Long",
+            " F. Valentino Morales",
+            " Marilyn Napaul"
+        ],
+        "may": [
+            "Mark Canton",
+            " Vin Diesel",
+            " Bernie Goldmann",
+            " Adam Goldworm",
+            " Erich Hoeber",
+            " Jon Hoeber",
+            " Ric Kidney",
+            " Qiuyun Long",
+            " F. Valentino Morales",
+            " Marilyn Napaul"
+        ],
+        "tam": [
+            "Mark Canton",
+            " Vin Diesel",
+            " Bernie Goldmann",
+            " Adam Goldworm",
+            " Erich Hoeber",
+            " Jon Hoeber",
+            " Ric Kidney",
+            " Qiuyun Long",
+            " F. Valentino Morales",
+            " Marilyn Napaul"
+        ],
+        "chi": [
+            "Mark Canton",
+            " Vin Diesel",
+            " Bernie Goldmann",
+            " Adam Goldworm",
+            " Erich Hoeber",
+            " Jon Hoeber",
+            " Ric Kidney",
+            " Qiuyun Long",
+            " F. Valentino Morales",
+            " Marilyn Napaul"
+        ],
+        "tha": [
+            "Mark Canton",
+            " Vin Diesel",
+            " Bernie Goldmann",
+            " Adam Goldworm",
+            " Erich Hoeber",
+            " Jon Hoeber",
+            " Ric Kidney",
+            " Qiuyun Long",
+            " F. Valentino Morales",
+            " Marilyn Napaul"
+        ],
+        "ind": [
+            "Mark Canton",
+            " Vin Diesel",
+            " Bernie Goldmann",
+            " Adam Goldworm",
+            " Erich Hoeber",
+            " Jon Hoeber",
+            " Ric Kidney",
+            " Qiuyun Long",
+            " F. Valentino Morales",
+            " Marilyn Napaul"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheLastWitchHunter_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheLastWitchHunter_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheLastWitchHunter_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2015,
+    "rating": "5.9",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

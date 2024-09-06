@@ -1,0 +1,361 @@
+{
+    "externalId": "AggregatedTvShow_e9ceded3-e564-594b-9017-e6993dbbf48f",
+    "clientContentId": "PACK0000000003658045",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Pact - Trailer",
+            "may": "The Pact - Trailer",
+            "tam": "The Pact - Trailer",
+            "chi": "The Pact - Trailer",
+            "tha": "The Pact - Trailer",
+            "ind": "The Pact - Trailer"
+        },
+        "long": {
+            "eng": "The Pact - Trailer",
+            "may": "The Pact - Trailer",
+            "tam": "The Pact - Trailer",
+            "chi": "The Pact - Trailer",
+            "tha": "The Pact - Trailer",
+            "ind": "The Pact - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "may": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "tam": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "chi": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "tha": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "ind": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love."
+        },
+        "long": {
+            "eng": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "may": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "tam": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "chi": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "tha": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "ind": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Rakie Ayola",
+            " Laura Fraser",
+            " Julie Hesmondhalgh",
+            " Eiry Thomas",
+            " Heledd Gwynn",
+            " Aneurin Barnard",
+            " Jason Hughes",
+            " Abbie Hern",
+            " Gabrielle Creevy",
+            " Aled ap Steffan"
+        ],
+        "may": [
+            "Rakie Ayola",
+            " Laura Fraser",
+            " Julie Hesmondhalgh",
+            " Eiry Thomas",
+            " Heledd Gwynn",
+            " Aneurin Barnard",
+            " Jason Hughes",
+            " Abbie Hern",
+            " Gabrielle Creevy",
+            " Aled ap Steffan"
+        ],
+        "tam": [
+            "Rakie Ayola",
+            " Laura Fraser",
+            " Julie Hesmondhalgh",
+            " Eiry Thomas",
+            " Heledd Gwynn",
+            " Aneurin Barnard",
+            " Jason Hughes",
+            " Abbie Hern",
+            " Gabrielle Creevy",
+            " Aled ap Steffan"
+        ],
+        "chi": [
+            "Rakie Ayola",
+            " Laura Fraser",
+            " Julie Hesmondhalgh",
+            " Eiry Thomas",
+            " Heledd Gwynn",
+            " Aneurin Barnard",
+            " Jason Hughes",
+            " Abbie Hern",
+            " Gabrielle Creevy",
+            " Aled ap Steffan"
+        ],
+        "tha": [
+            "Rakie Ayola",
+            " Laura Fraser",
+            " Julie Hesmondhalgh",
+            " Eiry Thomas",
+            " Heledd Gwynn",
+            " Aneurin Barnard",
+            " Jason Hughes",
+            " Abbie Hern",
+            " Gabrielle Creevy",
+            " Aled ap Steffan"
+        ],
+        "ind": [
+            "Rakie Ayola",
+            " Laura Fraser",
+            " Julie Hesmondhalgh",
+            " Eiry Thomas",
+            " Heledd Gwynn",
+            " Aneurin Barnard",
+            " Jason Hughes",
+            " Abbie Hern",
+            " Gabrielle Creevy",
+            " Aled ap Steffan"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Rebecca Johnson",
+            " Eric Styles",
+            " Christiana Ebohon-Green",
+            " Nicole Volavka"
+        ],
+        "may": [
+            "Rebecca Johnson",
+            " Eric Styles",
+            " Christiana Ebohon-Green",
+            " Nicole Volavka"
+        ],
+        "tam": [
+            "Rebecca Johnson",
+            " Eric Styles",
+            " Christiana Ebohon-Green",
+            " Nicole Volavka"
+        ],
+        "chi": [
+            "Rebecca Johnson",
+            " Eric Styles",
+            " Christiana Ebohon-Green",
+            " Nicole Volavka"
+        ],
+        "tha": [
+            "Rebecca Johnson",
+            " Eric Styles",
+            " Christiana Ebohon-Green",
+            " Nicole Volavka"
+        ],
+        "ind": [
+            "Rebecca Johnson",
+            " Eric Styles",
+            " Christiana Ebohon-Green",
+            " Nicole Volavka"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Marc B. Lorber",
+            " Nancy Bray",
+            " Catrin Lewis Defis",
+            " Hayley Manning",
+            " Pete McTighe",
+            " Elwen Rowlands",
+            " Florian Cassel-Delavois",
+            " Adam Knopf",
+            " Helen Perry",
+            " Ynyr Williams"
+        ],
+        "may": [
+            "Marc B. Lorber",
+            " Nancy Bray",
+            " Catrin Lewis Defis",
+            " Hayley Manning",
+            " Pete McTighe",
+            " Elwen Rowlands",
+            " Florian Cassel-Delavois",
+            " Adam Knopf",
+            " Helen Perry",
+            " Ynyr Williams"
+        ],
+        "tam": [
+            "Marc B. Lorber",
+            " Nancy Bray",
+            " Catrin Lewis Defis",
+            " Hayley Manning",
+            " Pete McTighe",
+            " Elwen Rowlands",
+            " Florian Cassel-Delavois",
+            " Adam Knopf",
+            " Helen Perry",
+            " Ynyr Williams"
+        ],
+        "chi": [
+            "Marc B. Lorber",
+            " Nancy Bray",
+            " Catrin Lewis Defis",
+            " Hayley Manning",
+            " Pete McTighe",
+            " Elwen Rowlands",
+            " Florian Cassel-Delavois",
+            " Adam Knopf",
+            " Helen Perry",
+            " Ynyr Williams"
+        ],
+        "tha": [
+            "Marc B. Lorber",
+            " Nancy Bray",
+            " Catrin Lewis Defis",
+            " Hayley Manning",
+            " Pete McTighe",
+            " Elwen Rowlands",
+            " Florian Cassel-Delavois",
+            " Adam Knopf",
+            " Helen Perry",
+            " Ynyr Williams"
+        ],
+        "ind": [
+            "Marc B. Lorber",
+            " Nancy Bray",
+            " Catrin Lewis Defis",
+            " Hayley Manning",
+            " Pete McTighe",
+            " Elwen Rowlands",
+            " Florian Cassel-Delavois",
+            " Adam Knopf",
+            " Helen Perry",
+            " Ynyr Williams"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Mystery",
+                    "may": " Mystery",
+                    "tam": " Mystery",
+                    "chi": " Mystery",
+                    "tha": " Mystery",
+                    "ind": " Mystery"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePactSeason2_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePactSeason2_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePactSeason2_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_2374c587-e7f9-5bbc-9872-7dcd1232b5ca",
+    "seasonId": "AggregatedSeason_fbf2283b-8da2-5b5d-8553-04092911df2d",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "2",
+    "yearOfRelease": 2021,
+    "rating": "15",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

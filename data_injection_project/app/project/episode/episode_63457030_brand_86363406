@@ -1,0 +1,307 @@
+{
+    "externalId": "AggregatedTvShow_53227df6-34a5-5969-9978-83dbbe3a82c5",
+    "clientContentId": "PACK0000000007677420",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Inside Man - Trailer",
+            "may": "Inside Man - Trailer",
+            "tam": "Inside Man - Trailer",
+            "chi": "Inside Man - Trailer",
+            "tha": "Inside Man - Trailer",
+            "ind": "Inside Man - Trailer"
+        },
+        "long": {
+            "eng": "Inside Man - Trailer",
+            "may": "Inside Man - Trailer",
+            "tam": "Inside Man - Trailer",
+            "chi": "Inside Man - Trailer",
+            "tha": "Inside Man - Trailer",
+            "ind": "Inside Man - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "may": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "tam": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "chi": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "tha": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "ind": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way."
+        },
+        "long": {
+            "eng": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "may": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "tam": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "chi": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "tha": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "ind": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "David Tennant",
+            " Stanley Tucci",
+            " Dolly Wells",
+            " Lydia West",
+            " Lyndsey Marshal",
+            " Louis Oliver",
+            " Atkins Estimond",
+            " Dylan Baker",
+            " Eke Chukwu",
+            " Kate Dickie"
+        ],
+        "may": [
+            "David Tennant",
+            " Stanley Tucci",
+            " Dolly Wells",
+            " Lydia West",
+            " Lyndsey Marshal",
+            " Louis Oliver",
+            " Atkins Estimond",
+            " Dylan Baker",
+            " Eke Chukwu",
+            " Kate Dickie"
+        ],
+        "tam": [
+            "David Tennant",
+            " Stanley Tucci",
+            " Dolly Wells",
+            " Lydia West",
+            " Lyndsey Marshal",
+            " Louis Oliver",
+            " Atkins Estimond",
+            " Dylan Baker",
+            " Eke Chukwu",
+            " Kate Dickie"
+        ],
+        "chi": [
+            "David Tennant",
+            " Stanley Tucci",
+            " Dolly Wells",
+            " Lydia West",
+            " Lyndsey Marshal",
+            " Louis Oliver",
+            " Atkins Estimond",
+            " Dylan Baker",
+            " Eke Chukwu",
+            " Kate Dickie"
+        ],
+        "tha": [
+            "David Tennant",
+            " Stanley Tucci",
+            " Dolly Wells",
+            " Lydia West",
+            " Lyndsey Marshal",
+            " Louis Oliver",
+            " Atkins Estimond",
+            " Dylan Baker",
+            " Eke Chukwu",
+            " Kate Dickie"
+        ],
+        "ind": [
+            "David Tennant",
+            " Stanley Tucci",
+            " Dolly Wells",
+            " Lydia West",
+            " Lyndsey Marshal",
+            " Louis Oliver",
+            " Atkins Estimond",
+            " Dylan Baker",
+            " Eke Chukwu",
+            " Kate Dickie"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Paul McGuigan"
+        ],
+        "may": [
+            "Paul McGuigan"
+        ],
+        "tam": [
+            "Paul McGuigan"
+        ],
+        "chi": [
+            "Paul McGuigan"
+        ],
+        "tha": [
+            "Paul McGuigan"
+        ],
+        "ind": [
+            "Paul McGuigan"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ben Irving",
+            " Paul McGuigan",
+            " Alex Mercer",
+            " Sue Vertue"
+        ],
+        "may": [
+            "Ben Irving",
+            " Paul McGuigan",
+            " Alex Mercer",
+            " Sue Vertue"
+        ],
+        "tam": [
+            "Ben Irving",
+            " Paul McGuigan",
+            " Alex Mercer",
+            " Sue Vertue"
+        ],
+        "chi": [
+            "Ben Irving",
+            " Paul McGuigan",
+            " Alex Mercer",
+            " Sue Vertue"
+        ],
+        "tha": [
+            "Ben Irving",
+            " Paul McGuigan",
+            " Alex Mercer",
+            " Sue Vertue"
+        ],
+        "ind": [
+            "Ben Irving",
+            " Paul McGuigan",
+            " Alex Mercer",
+            " Sue Vertue"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/InsideManSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/InsideManSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/InsideManSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_ecd3fc34-aaff-5ec4-94ef-615123c3370e",
+    "seasonId": "AggregatedSeason_02f45e6f-d560-5e9a-9497-864231ebc795",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "15",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

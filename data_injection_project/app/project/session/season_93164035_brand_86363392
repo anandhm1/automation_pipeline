@@ -1,0 +1,305 @@
+{
+    "externalId": "AggregatedSeason_f622a8af-bf95-5348-8204-03a0d37c20e5",
+    "clientContentId": "PACK0000000005413990",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "chi": " Horror",
+                    "tam": " Horror",
+                    "ind": " Horror",
+                    "tha": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Emily Deschanel",
+            " Sam Jaeger",
+            " Gerardo Celasco",
+            " Madeleine Arthur",
+            " Xaria Dotson",
+            " Alisha NewtonNaomi TanJason SakakiEvan EllisonTahmoh Penikett"
+        ],
+        "may": [
+            "Emily Deschanel",
+            " Sam Jaeger",
+            " Gerardo Celasco",
+            " Madeleine Arthur",
+            " Xaria Dotson",
+            " Alisha NewtonNaomi TanJason SakakiEvan EllisonTahmoh Penikett"
+        ],
+        "chi": [
+            "Emily Deschanel",
+            " Sam Jaeger",
+            " Gerardo Celasco",
+            " Madeleine Arthur",
+            " Xaria Dotson",
+            " Alisha NewtonNaomi TanJason SakakiEvan EllisonTahmoh Penikett"
+        ],
+        "tam": [
+            "Emily Deschanel",
+            " Sam Jaeger",
+            " Gerardo Celasco",
+            " Madeleine Arthur",
+            " Xaria Dotson",
+            " Alisha NewtonNaomi TanJason SakakiEvan EllisonTahmoh Penikett"
+        ],
+        "ind": [
+            "Emily Deschanel",
+            " Sam Jaeger",
+            " Gerardo Celasco",
+            " Madeleine Arthur",
+            " Xaria Dotson",
+            " Alisha NewtonNaomi TanJason SakakiEvan EllisonTahmoh Penikett"
+        ],
+        "tha": [
+            "Emily Deschanel",
+            " Sam Jaeger",
+            " Gerardo Celasco",
+            " Madeleine Arthur",
+            " Xaria Dotson",
+            " Alisha NewtonNaomi TanJason SakakiEvan EllisonTahmoh Penikett"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Steven A. Adelson",
+            " Brad Anderson",
+            " John Fawcett",
+            " Leslie Hope",
+            " ",
+            " "
+        ],
+        "may": [
+            "Steven A. Adelson",
+            " Brad Anderson",
+            " John Fawcett",
+            " Leslie Hope",
+            " ",
+            " "
+        ],
+        "chi": [
+            "Steven A. Adelson",
+            " Brad Anderson",
+            " John Fawcett",
+            " Leslie Hope",
+            " ",
+            " "
+        ],
+        "tam": [
+            "Steven A. Adelson",
+            " Brad Anderson",
+            " John Fawcett",
+            " Leslie Hope",
+            " ",
+            " "
+        ],
+        "ind": [
+            "Steven A. Adelson",
+            " Brad Anderson",
+            " John Fawcett",
+            " Leslie Hope",
+            " ",
+            " "
+        ],
+        "tha": [
+            "Steven A. Adelson",
+            " Brad Anderson",
+            " John Fawcett",
+            " Leslie Hope",
+            " ",
+            " "
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jadene Stojak Babcock",
+            " Ian Hay",
+            " Daria Polatin",
+            " Rachel Miller",
+            " Andrew Wilder",
+            " "
+        ],
+        "may": [
+            "Jadene Stojak Babcock",
+            " Ian Hay",
+            " Daria Polatin",
+            " Rachel Miller",
+            " Andrew Wilder",
+            " "
+        ],
+        "chi": [
+            "Jadene Stojak Babcock",
+            " Ian Hay",
+            " Daria Polatin",
+            " Rachel Miller",
+            " Andrew Wilder",
+            " "
+        ],
+        "tam": [
+            "Jadene Stojak Babcock",
+            " Ian Hay",
+            " Daria Polatin",
+            " Rachel Miller",
+            " Andrew Wilder",
+            " "
+        ],
+        "ind": [
+            "Jadene Stojak Babcock",
+            " Ian Hay",
+            " Daria Polatin",
+            " Rachel Miller",
+            " Andrew Wilder",
+            " "
+        ],
+        "tha": [
+            "Jadene Stojak Babcock",
+            " Ian Hay",
+            " Daria Polatin",
+            " Rachel Miller",
+            " Andrew Wilder",
+            " "
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_c637f80e-10e6-52fe-a40d-4cc106433387",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Devil In Ohio Season 1",
+            "may": "Devil In Ohio Season 1",
+            "chi": "Devil In Ohio Season 1",
+            "tam": "Devil In Ohio Season 1",
+            "ind": "Devil In Ohio Season 1",
+            "tha": "Devil In Ohio Season 1"
+        },
+        "long": {
+            "eng": "Devil In Ohio Season 1",
+            "may": "Devil In Ohio Season 1",
+            "chi": "Devil In Ohio Season 1",
+            "tam": "Devil In Ohio Season 1",
+            "ind": "Devil In Ohio Season 1",
+            "tha": "Devil In Ohio Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "may": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "chi": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "tam": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "ind": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "tha": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart."
+        },
+        "long": {
+            "eng": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "may": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "chi": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "tam": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "ind": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart.",
+            "tha": "When a psychiatrist shelters a mysterious cult escapee, her world is turned upside down as the girl's arrival threatens to tear her own family apart."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DevilInOhioSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DevilInOhioSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DevilInOhioSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

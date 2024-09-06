@@ -1,0 +1,305 @@
+{
+    "externalId": "AggregatedSeason_dc074bcd-c14b-5d00-bb65-017de11c6607",
+    "clientContentId": "PACK0000000004574462",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Fantasy",
+                    "may": " Fantasy",
+                    "chi": " Fantasy",
+                    "tam": " Fantasy",
+                    "ind": " Fantasy",
+                    "tha": " Fantasy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "18",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Tom Sturridge",
+            " Boyd Holbrook",
+            " Patton Oswalt",
+            " Vivienne Acheampong",
+            " Vanesu Samunyai",
+            " Mason Alexander ParkRazane JammalSandra James-YoungDavid ThewlisEddie Karanja"
+        ],
+        "may": [
+            "Tom Sturridge",
+            " Boyd Holbrook",
+            " Patton Oswalt",
+            " Vivienne Acheampong",
+            " Vanesu Samunyai",
+            " Mason Alexander ParkRazane JammalSandra James-YoungDavid ThewlisEddie Karanja"
+        ],
+        "chi": [
+            "Tom Sturridge",
+            " Boyd Holbrook",
+            " Patton Oswalt",
+            " Vivienne Acheampong",
+            " Vanesu Samunyai",
+            " Mason Alexander ParkRazane JammalSandra James-YoungDavid ThewlisEddie Karanja"
+        ],
+        "tam": [
+            "Tom Sturridge",
+            " Boyd Holbrook",
+            " Patton Oswalt",
+            " Vivienne Acheampong",
+            " Vanesu Samunyai",
+            " Mason Alexander ParkRazane JammalSandra James-YoungDavid ThewlisEddie Karanja"
+        ],
+        "ind": [
+            "Tom Sturridge",
+            " Boyd Holbrook",
+            " Patton Oswalt",
+            " Vivienne Acheampong",
+            " Vanesu Samunyai",
+            " Mason Alexander ParkRazane JammalSandra James-YoungDavid ThewlisEddie Karanja"
+        ],
+        "tha": [
+            "Tom Sturridge",
+            " Boyd Holbrook",
+            " Patton Oswalt",
+            " Vivienne Acheampong",
+            " Vanesu Samunyai",
+            " Mason Alexander ParkRazane JammalSandra James-YoungDavid ThewlisEddie Karanja"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jamie Childs",
+            " Andr\u00e9s Baiz",
+            " Louise Hooper",
+            " Mairzee Almas",
+            " Mike Barker",
+            " Coralie FargeatHisko Hulsing"
+        ],
+        "may": [
+            "Jamie Childs",
+            " Andr\u00e9s Baiz",
+            " Louise Hooper",
+            " Mairzee Almas",
+            " Mike Barker",
+            " Coralie FargeatHisko Hulsing"
+        ],
+        "chi": [
+            "Jamie Childs",
+            " Andr\u00e9s Baiz",
+            " Louise Hooper",
+            " Mairzee Almas",
+            " Mike Barker",
+            " Coralie FargeatHisko Hulsing"
+        ],
+        "tam": [
+            "Jamie Childs",
+            " Andr\u00e9s Baiz",
+            " Louise Hooper",
+            " Mairzee Almas",
+            " Mike Barker",
+            " Coralie FargeatHisko Hulsing"
+        ],
+        "ind": [
+            "Jamie Childs",
+            " Andr\u00e9s Baiz",
+            " Louise Hooper",
+            " Mairzee Almas",
+            " Mike Barker",
+            " Coralie FargeatHisko Hulsing"
+        ],
+        "tha": [
+            "Jamie Childs",
+            " Andr\u00e9s Baiz",
+            " Louise Hooper",
+            " Mairzee Almas",
+            " Mike Barker",
+            " Coralie FargeatHisko Hulsing"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Vanya Asher",
+            " Heather Bellson",
+            " Jim Campolongo",
+            " Andrew Cholerton",
+            " Anya Dubble Olson",
+            " Neil GaimanDavid S. GoyerAustin GuzmanAllan HeinbergSamson Mucke"
+        ],
+        "may": [
+            "Vanya Asher",
+            " Heather Bellson",
+            " Jim Campolongo",
+            " Andrew Cholerton",
+            " Anya Dubble Olson",
+            " Neil GaimanDavid S. GoyerAustin GuzmanAllan HeinbergSamson Mucke"
+        ],
+        "chi": [
+            "Vanya Asher",
+            " Heather Bellson",
+            " Jim Campolongo",
+            " Andrew Cholerton",
+            " Anya Dubble Olson",
+            " Neil GaimanDavid S. GoyerAustin GuzmanAllan HeinbergSamson Mucke"
+        ],
+        "tam": [
+            "Vanya Asher",
+            " Heather Bellson",
+            " Jim Campolongo",
+            " Andrew Cholerton",
+            " Anya Dubble Olson",
+            " Neil GaimanDavid S. GoyerAustin GuzmanAllan HeinbergSamson Mucke"
+        ],
+        "ind": [
+            "Vanya Asher",
+            " Heather Bellson",
+            " Jim Campolongo",
+            " Andrew Cholerton",
+            " Anya Dubble Olson",
+            " Neil GaimanDavid S. GoyerAustin GuzmanAllan HeinbergSamson Mucke"
+        ],
+        "tha": [
+            "Vanya Asher",
+            " Heather Bellson",
+            " Jim Campolongo",
+            " Andrew Cholerton",
+            " Anya Dubble Olson",
+            " Neil GaimanDavid S. GoyerAustin GuzmanAllan HeinbergSamson Mucke"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_fdd26fe9-5a6d-5d3e-ab7f-592e65b55492",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Sandman Season 1",
+            "may": "The Sandman Season 1",
+            "chi": "The Sandman Season 1",
+            "tam": "The Sandman Season 1",
+            "ind": "The Sandman Season 1",
+            "tha": "The Sandman Season 1"
+        },
+        "long": {
+            "eng": "The Sandman Season 1",
+            "may": "The Sandman Season 1",
+            "chi": "The Sandman Season 1",
+            "tam": "The Sandman Season 1",
+            "ind": "The Sandman Season 1",
+            "tha": "The Sandman Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "may": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "chi": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "tam": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "ind": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "tha": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment."
+        },
+        "long": {
+            "eng": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "may": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "chi": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "tam": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "ind": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "tha": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheSandmanSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheSandmanSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheSandmanSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

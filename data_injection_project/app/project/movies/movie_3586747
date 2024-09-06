@@ -1,0 +1,331 @@
+{
+    "externalId": "AggregatedMovie_802394ee-7c4c-5e9a-aefc-5081ff97dcd9",
+    "clientContentId": "PACK0000000007815109",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Harry Potter and the Deathly Hallows - Part 2",
+            "may": "Harry Potter and the Deathly Hallows - Part 2",
+            "tam": "Harry Potter and the Deathly Hallows - Part 2",
+            "chi": "Harry Potter and the Deathly Hallows - Part 2",
+            "tha": "Harry Potter and the Deathly Hallows - Part 2",
+            "ind": "Harry Potter and the Deathly Hallows - Part 2"
+        },
+        "long": {
+            "eng": "Harry Potter and the Deathly Hallows - Part 2",
+            "may": "Harry Potter and the Deathly Hallows - Part 2",
+            "tam": "Harry Potter and the Deathly Hallows - Part 2",
+            "chi": "Harry Potter and the Deathly Hallows - Part 2",
+            "tha": "Harry Potter and the Deathly Hallows - Part 2",
+            "ind": "Harry Potter and the Deathly Hallows - Part 2"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+            "may": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+            "tam": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+            "chi": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+            "tha": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+            "ind": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts."
+        },
+        "long": {
+            "eng": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+            "may": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+            "tam": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+            "chi": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+            "tha": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+            "ind": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Ralph Fiennes",
+            " Michael Gambon",
+            " Alan Rickman",
+            " Daniel Radcliffe",
+            " Rupert Grint",
+            " Emma Watson",
+            " Evanna Lynch",
+            " Domhnall Gleeson",
+            " Cl\u00e9mence Po\u00e9sy",
+            " Warwick Davis"
+        ],
+        "may": [
+            "Ralph Fiennes",
+            " Michael Gambon",
+            " Alan Rickman",
+            " Daniel Radcliffe",
+            " Rupert Grint",
+            " Emma Watson",
+            " Evanna Lynch",
+            " Domhnall Gleeson",
+            " Cl\u00e9mence Po\u00e9sy",
+            " Warwick Davis"
+        ],
+        "tam": [
+            "Ralph Fiennes",
+            " Michael Gambon",
+            " Alan Rickman",
+            " Daniel Radcliffe",
+            " Rupert Grint",
+            " Emma Watson",
+            " Evanna Lynch",
+            " Domhnall Gleeson",
+            " Cl\u00e9mence Po\u00e9sy",
+            " Warwick Davis"
+        ],
+        "chi": [
+            "Ralph Fiennes",
+            " Michael Gambon",
+            " Alan Rickman",
+            " Daniel Radcliffe",
+            " Rupert Grint",
+            " Emma Watson",
+            " Evanna Lynch",
+            " Domhnall Gleeson",
+            " Cl\u00e9mence Po\u00e9sy",
+            " Warwick Davis"
+        ],
+        "tha": [
+            "Ralph Fiennes",
+            " Michael Gambon",
+            " Alan Rickman",
+            " Daniel Radcliffe",
+            " Rupert Grint",
+            " Emma Watson",
+            " Evanna Lynch",
+            " Domhnall Gleeson",
+            " Cl\u00e9mence Po\u00e9sy",
+            " Warwick Davis"
+        ],
+        "ind": [
+            "Ralph Fiennes",
+            " Michael Gambon",
+            " Alan Rickman",
+            " Daniel Radcliffe",
+            " Rupert Grint",
+            " Emma Watson",
+            " Evanna Lynch",
+            " Domhnall Gleeson",
+            " Cl\u00e9mence Po\u00e9sy",
+            " Warwick Davis"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "David Yates"
+        ],
+        "may": [
+            "David Yates"
+        ],
+        "tam": [
+            "David Yates"
+        ],
+        "chi": [
+            "David Yates"
+        ],
+        "tha": [
+            "David Yates"
+        ],
+        "ind": [
+            "David Yates"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "David Barron",
+            " Debbi Bossi",
+            " Roy Button",
+            " David Heyman",
+            " Tim Lewis",
+            " J.K. Rowling",
+            " John Trehy",
+            " Lionel Wigram"
+        ],
+        "may": [
+            "David Barron",
+            " Debbi Bossi",
+            " Roy Button",
+            " David Heyman",
+            " Tim Lewis",
+            " J.K. Rowling",
+            " John Trehy",
+            " Lionel Wigram"
+        ],
+        "tam": [
+            "David Barron",
+            " Debbi Bossi",
+            " Roy Button",
+            " David Heyman",
+            " Tim Lewis",
+            " J.K. Rowling",
+            " John Trehy",
+            " Lionel Wigram"
+        ],
+        "chi": [
+            "David Barron",
+            " Debbi Bossi",
+            " Roy Button",
+            " David Heyman",
+            " Tim Lewis",
+            " J.K. Rowling",
+            " John Trehy",
+            " Lionel Wigram"
+        ],
+        "tha": [
+            "David Barron",
+            " Debbi Bossi",
+            " Roy Button",
+            " David Heyman",
+            " Tim Lewis",
+            " J.K. Rowling",
+            " John Trehy",
+            " Lionel Wigram"
+        ],
+        "ind": [
+            "David Barron",
+            " Debbi Bossi",
+            " Roy Button",
+            " David Heyman",
+            " Tim Lewis",
+            " J.K. Rowling",
+            " John Trehy",
+            " Lionel Wigram"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Adventure",
+                    "may": "Adventure",
+                    "tam": "Adventure",
+                    "chi": "Adventure",
+                    "tha": "Adventure",
+                    "ind": "Adventure"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Family",
+                    "may": " Family",
+                    "tam": " Family",
+                    "chi": " Family",
+                    "tha": " Family",
+                    "ind": " Family"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/HarryPotterandtheDeathlyHallows-Part2_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/HarryPotterandtheDeathlyHallows-Part2_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/HarryPotterandtheDeathlyHallows-Part2_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2011,
+    "rating": "8.1",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

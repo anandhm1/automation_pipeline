@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedSeries_79d1d4cf-c176-5f56-ab2f-b318a6df2e02",
+    "clientContentId": "PACK0000000008753459",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Tulsa King",
+            "may": "Tulsa King",
+            "tam": "Tulsa King",
+            "chi": "Tulsa King",
+            "tha": "Tulsa King",
+            "ind": "Tulsa King"
+        },
+        "long": {
+            "eng": "Tulsa King",
+            "may": "Tulsa King",
+            "tam": "Tulsa King",
+            "chi": "Tulsa King",
+            "tha": "Tulsa King",
+            "ind": "Tulsa King"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Following his release from prison, Mafia capo Dwight The General Manfredi is exiled to Tulsa, Oklahoma, where he builds a new criminal empire with a group of unlikely characters.",
+            "may": "Following his release from prison, Mafia capo Dwight The General Manfredi is exiled to Tulsa, Oklahoma, where he builds a new criminal empire with a group of unlikely characters.",
+            "tam": "Following his release from prison, Mafia capo Dwight The General Manfredi is exiled to Tulsa, Oklahoma, where he builds a new criminal empire with a group of unlikely characters.",
+            "chi": "Following his release from prison, Mafia capo Dwight The General Manfredi is exiled to Tulsa, Oklahoma, where he builds a new criminal empire with a group of unlikely characters.",
+            "tha": "Following his release from prison, Mafia capo Dwight The General Manfredi is exiled to Tulsa, Oklahoma, where he builds a new criminal empire with a group of unlikely characters.",
+            "ind": "Following his release from prison, Mafia capo Dwight The General Manfredi is exiled to Tulsa, Oklahoma, where he builds a new criminal empire with a group of unlikely characters."
+        },
+        "long": {
+            "eng": "Following his release from prison, Mafia capo Dwight The General Manfredi is exiled to Tulsa, Oklahoma, where he builds a new criminal empire with a group of unlikely characters.",
+            "may": "Following his release from prison, Mafia capo Dwight The General Manfredi is exiled to Tulsa, Oklahoma, where he builds a new criminal empire with a group of unlikely characters.",
+            "tam": "Following his release from prison, Mafia capo Dwight The General Manfredi is exiled to Tulsa, Oklahoma, where he builds a new criminal empire with a group of unlikely characters.",
+            "chi": "Following his release from prison, Mafia capo Dwight The General Manfredi is exiled to Tulsa, Oklahoma, where he builds a new criminal empire with a group of unlikely characters.",
+            "tha": "Following his release from prison, Mafia capo Dwight The General Manfredi is exiled to Tulsa, Oklahoma, where he builds a new criminal empire with a group of unlikely characters.",
+            "ind": "Following his release from prison, Mafia capo Dwight The General Manfredi is exiled to Tulsa, Oklahoma, where he builds a new criminal empire with a group of unlikely characters."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Sylvester Stallone",
+            " Andrea Savage",
+            " Martin Starr",
+            " Jay Will",
+            " Max Casella",
+            " Domenick LombardozziVincent PiazzaA.C. PetersonGarrett HedlundDana Delany"
+        ],
+        "may": [
+            "Sylvester Stallone",
+            " Andrea Savage",
+            " Martin Starr",
+            " Jay Will",
+            " Max Casella",
+            " Domenick LombardozziVincent PiazzaA.C. PetersonGarrett HedlundDana Delany"
+        ],
+        "tam": [
+            "Sylvester Stallone",
+            " Andrea Savage",
+            " Martin Starr",
+            " Jay Will",
+            " Max Casella",
+            " Domenick LombardozziVincent PiazzaA.C. PetersonGarrett HedlundDana Delany"
+        ],
+        "chi": [
+            "Sylvester Stallone",
+            " Andrea Savage",
+            " Martin Starr",
+            " Jay Will",
+            " Max Casella",
+            " Domenick LombardozziVincent PiazzaA.C. PetersonGarrett HedlundDana Delany"
+        ],
+        "tha": [
+            "Sylvester Stallone",
+            " Andrea Savage",
+            " Martin Starr",
+            " Jay Will",
+            " Max Casella",
+            " Domenick LombardozziVincent PiazzaA.C. PetersonGarrett HedlundDana Delany"
+        ],
+        "ind": [
+            "Sylvester Stallone",
+            " Andrea Savage",
+            " Martin Starr",
+            " Jay Will",
+            " Max Casella",
+            " Domenick LombardozziVincent PiazzaA.C. PetersonGarrett HedlundDana Delany"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Allen Coulter",
+            " Guy Ferland",
+            " Ben Semanoff",
+            " Lodge Kerrigan",
+            " Ben Richardson",
+            " "
+        ],
+        "may": [
+            "Allen Coulter",
+            " Guy Ferland",
+            " Ben Semanoff",
+            " Lodge Kerrigan",
+            " Ben Richardson",
+            " "
+        ],
+        "tam": [
+            "Allen Coulter",
+            " Guy Ferland",
+            " Ben Semanoff",
+            " Lodge Kerrigan",
+            " Ben Richardson",
+            " "
+        ],
+        "chi": [
+            "Allen Coulter",
+            " Guy Ferland",
+            " Ben Semanoff",
+            " Lodge Kerrigan",
+            " Ben Richardson",
+            " "
+        ],
+        "tha": [
+            "Allen Coulter",
+            " Guy Ferland",
+            " Ben Semanoff",
+            " Lodge Kerrigan",
+            " Ben Richardson",
+            " "
+        ],
+        "ind": [
+            "Allen Coulter",
+            " Guy Ferland",
+            " Ben Semanoff",
+            " Lodge Kerrigan",
+            " Ben Richardson",
+            " "
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Braden Aftergood",
+            " Olivia Blum",
+            " Ron Burkle",
+            " Cristine Chambers",
+            " Regina Corrado",
+            " David FlebotteMichael FriedmanDavid GlasserDavid HutkinJoe Incaprera"
+        ],
+        "may": [
+            "Braden Aftergood",
+            " Olivia Blum",
+            " Ron Burkle",
+            " Cristine Chambers",
+            " Regina Corrado",
+            " David FlebotteMichael FriedmanDavid GlasserDavid HutkinJoe Incaprera"
+        ],
+        "tam": [
+            "Braden Aftergood",
+            " Olivia Blum",
+            " Ron Burkle",
+            " Cristine Chambers",
+            " Regina Corrado",
+            " David FlebotteMichael FriedmanDavid GlasserDavid HutkinJoe Incaprera"
+        ],
+        "chi": [
+            "Braden Aftergood",
+            " Olivia Blum",
+            " Ron Burkle",
+            " Cristine Chambers",
+            " Regina Corrado",
+            " David FlebotteMichael FriedmanDavid GlasserDavid HutkinJoe Incaprera"
+        ],
+        "tha": [
+            "Braden Aftergood",
+            " Olivia Blum",
+            " Ron Burkle",
+            " Cristine Chambers",
+            " Regina Corrado",
+            " David FlebotteMichael FriedmanDavid GlasserDavid HutkinJoe Incaprera"
+        ],
+        "ind": [
+            "Braden Aftergood",
+            " Olivia Blum",
+            " Ron Burkle",
+            " Cristine Chambers",
+            " Regina Corrado",
+            " David FlebotteMichael FriedmanDavid GlasserDavid HutkinJoe Incaprera"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TulsaKingSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TulsaKingSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TulsaKingSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "7",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2022,
+    "maxConcurrentStreams": 0
+}

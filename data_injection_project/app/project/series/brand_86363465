@@ -1,0 +1,319 @@
+{
+    "externalId": "AggregatedSeries_7995ddff-87e0-5a4e-9e6f-cad5a140dcdc",
+    "clientContentId": "PACK0000000008525792",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Pimp No Fing Fairytale",
+            "may": "The Pimp No Fing Fairytale",
+            "tam": "The Pimp No Fing Fairytale",
+            "chi": "The Pimp No Fing Fairytale",
+            "tha": "The Pimp No Fing Fairytale",
+            "ind": "The Pimp No Fing Fairytale"
+        },
+        "long": {
+            "eng": "The Pimp No Fing Fairytale",
+            "may": "The Pimp No Fing Fairytale",
+            "tam": "The Pimp No Fing Fairytale",
+            "chi": "The Pimp No Fing Fairytale",
+            "tha": "The Pimp No Fing Fairytale",
+            "ind": "The Pimp No Fing Fairytale"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The rise of Sonny Boy Klaus Barkowsky, who is made into a pimp by the tough prostitute Jutta and founds the 'Nutella' gang, which soon engages in a battle for power with the established 'GMBH.",
+            "may": "The rise of Sonny Boy Klaus Barkowsky, who is made into a pimp by the tough prostitute Jutta and founds the 'Nutella' gang, which soon engages in a battle for power with the established 'GMBH.",
+            "tam": "The rise of Sonny Boy Klaus Barkowsky, who is made into a pimp by the tough prostitute Jutta and founds the 'Nutella' gang, which soon engages in a battle for power with the established 'GMBH.",
+            "chi": "The rise of Sonny Boy Klaus Barkowsky, who is made into a pimp by the tough prostitute Jutta and founds the 'Nutella' gang, which soon engages in a battle for power with the established 'GMBH.",
+            "tha": "The rise of Sonny Boy Klaus Barkowsky, who is made into a pimp by the tough prostitute Jutta and founds the 'Nutella' gang, which soon engages in a battle for power with the established 'GMBH.",
+            "ind": "The rise of Sonny Boy Klaus Barkowsky, who is made into a pimp by the tough prostitute Jutta and founds the 'Nutella' gang, which soon engages in a battle for power with the established 'GMBH."
+        },
+        "long": {
+            "eng": "The rise of Sonny Boy Klaus Barkowsky, who is made into a pimp by the tough prostitute Jutta and founds the 'Nutella' gang, which soon engages in a battle for power with the established 'GMBH.",
+            "may": "The rise of Sonny Boy Klaus Barkowsky, who is made into a pimp by the tough prostitute Jutta and founds the 'Nutella' gang, which soon engages in a battle for power with the established 'GMBH.",
+            "tam": "The rise of Sonny Boy Klaus Barkowsky, who is made into a pimp by the tough prostitute Jutta and founds the 'Nutella' gang, which soon engages in a battle for power with the established 'GMBH.",
+            "chi": "The rise of Sonny Boy Klaus Barkowsky, who is made into a pimp by the tough prostitute Jutta and founds the 'Nutella' gang, which soon engages in a battle for power with the established 'GMBH.",
+            "tha": "The rise of Sonny Boy Klaus Barkowsky, who is made into a pimp by the tough prostitute Jutta and founds the 'Nutella' gang, which soon engages in a battle for power with the established 'GMBH.",
+            "ind": "The rise of Sonny Boy Klaus Barkowsky, who is made into a pimp by the tough prostitute Jutta and founds the 'Nutella' gang, which soon engages in a battle for power with the established 'GMBH."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Aaron Hilmer",
+            " Jeanette Hain",
+            " Henning Fl\u00fcsloh",
+            " Lena Urzendowsky",
+            " Karsten Antonio Mielke",
+            " Stefan Konarske",
+            " Stephan Kampwirth",
+            " Ada Philine Stappenbeck",
+            " Nicki von Tempelhoff",
+            " Tim Wilde"
+        ],
+        "may": [
+            "Aaron Hilmer",
+            " Jeanette Hain",
+            " Henning Fl\u00fcsloh",
+            " Lena Urzendowsky",
+            " Karsten Antonio Mielke",
+            " Stefan Konarske",
+            " Stephan Kampwirth",
+            " Ada Philine Stappenbeck",
+            " Nicki von Tempelhoff",
+            " Tim Wilde"
+        ],
+        "tam": [
+            "Aaron Hilmer",
+            " Jeanette Hain",
+            " Henning Fl\u00fcsloh",
+            " Lena Urzendowsky",
+            " Karsten Antonio Mielke",
+            " Stefan Konarske",
+            " Stephan Kampwirth",
+            " Ada Philine Stappenbeck",
+            " Nicki von Tempelhoff",
+            " Tim Wilde"
+        ],
+        "chi": [
+            "Aaron Hilmer",
+            " Jeanette Hain",
+            " Henning Fl\u00fcsloh",
+            " Lena Urzendowsky",
+            " Karsten Antonio Mielke",
+            " Stefan Konarske",
+            " Stephan Kampwirth",
+            " Ada Philine Stappenbeck",
+            " Nicki von Tempelhoff",
+            " Tim Wilde"
+        ],
+        "tha": [
+            "Aaron Hilmer",
+            " Jeanette Hain",
+            " Henning Fl\u00fcsloh",
+            " Lena Urzendowsky",
+            " Karsten Antonio Mielke",
+            " Stefan Konarske",
+            " Stephan Kampwirth",
+            " Ada Philine Stappenbeck",
+            " Nicki von Tempelhoff",
+            " Tim Wilde"
+        ],
+        "ind": [
+            "Aaron Hilmer",
+            " Jeanette Hain",
+            " Henning Fl\u00fcsloh",
+            " Lena Urzendowsky",
+            " Karsten Antonio Mielke",
+            " Stefan Konarske",
+            " Stephan Kampwirth",
+            " Ada Philine Stappenbeck",
+            " Nicki von Tempelhoff",
+            " Tim Wilde"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Laura Lackmann",
+            " Stefan A. Lukacs"
+        ],
+        "may": [
+            "Laura Lackmann",
+            " Stefan A. Lukacs"
+        ],
+        "tam": [
+            "Laura Lackmann",
+            " Stefan A. Lukacs"
+        ],
+        "chi": [
+            "Laura Lackmann",
+            " Stefan A. Lukacs"
+        ],
+        "tha": [
+            "Laura Lackmann",
+            " Stefan A. Lukacs"
+        ],
+        "ind": [
+            "Laura Lackmann",
+            " Stefan A. Lukacs"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Simon Amberger",
+            " Angelina Auer",
+            " Korbinian Dufter",
+            " Julia Nisslein",
+            " Rafael Parente",
+            " Dorian Roth",
+            " Nina Rothermund",
+            " Marius Ehlayil",
+            " Patrick Wosien",
+            " "
+        ],
+        "may": [
+            "Simon Amberger",
+            " Angelina Auer",
+            " Korbinian Dufter",
+            " Julia Nisslein",
+            " Rafael Parente",
+            " Dorian Roth",
+            " Nina Rothermund",
+            " Marius Ehlayil",
+            " Patrick Wosien",
+            " "
+        ],
+        "tam": [
+            "Simon Amberger",
+            " Angelina Auer",
+            " Korbinian Dufter",
+            " Julia Nisslein",
+            " Rafael Parente",
+            " Dorian Roth",
+            " Nina Rothermund",
+            " Marius Ehlayil",
+            " Patrick Wosien",
+            " "
+        ],
+        "chi": [
+            "Simon Amberger",
+            " Angelina Auer",
+            " Korbinian Dufter",
+            " Julia Nisslein",
+            " Rafael Parente",
+            " Dorian Roth",
+            " Nina Rothermund",
+            " Marius Ehlayil",
+            " Patrick Wosien",
+            " "
+        ],
+        "tha": [
+            "Simon Amberger",
+            " Angelina Auer",
+            " Korbinian Dufter",
+            " Julia Nisslein",
+            " Rafael Parente",
+            " Dorian Roth",
+            " Nina Rothermund",
+            " Marius Ehlayil",
+            " Patrick Wosien",
+            " "
+        ],
+        "ind": [
+            "Simon Amberger",
+            " Angelina Auer",
+            " Korbinian Dufter",
+            " Julia Nisslein",
+            " Rafael Parente",
+            " Dorian Roth",
+            " Nina Rothermund",
+            " Marius Ehlayil",
+            " Patrick Wosien",
+            " "
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePimpNoFingFairytaleS01E01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePimpNoFingFairytaleS01E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePimpNoFingFairytaleS01E01_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "7",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2023,
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_4973fe57-ce57-5f7e-9d1f-0de4a73d8535",
+    "clientContentId": "PACK0000000007958728",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Mile 22",
+            "may": "Mile 22",
+            "tam": "Mile 22",
+            "chi": "Mile 22",
+            "tha": "Mile 22",
+            "ind": "Mile 22"
+        },
+        "long": {
+            "eng": "Mile 22",
+            "may": "Mile 22",
+            "tam": "Mile 22",
+            "chi": "Mile 22",
+            "tha": "Mile 22",
+            "ind": "Mile 22"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A small team of elite American intelligence officers, part of a top-secret tactical command unit, try to smuggle a mysterious police officer with sensitive information out of Indonesia.",
+            "may": "A small team of elite American intelligence officers, part of a top-secret tactical command unit, try to smuggle a mysterious police officer with sensitive information out of Indonesia.",
+            "tam": "A small team of elite American intelligence officers, part of a top-secret tactical command unit, try to smuggle a mysterious police officer with sensitive information out of Indonesia.",
+            "chi": "A small team of elite American intelligence officers, part of a top-secret tactical command unit, try to smuggle a mysterious police officer with sensitive information out of Indonesia.",
+            "tha": "A small team of elite American intelligence officers, part of a top-secret tactical command unit, try to smuggle a mysterious police officer with sensitive information out of Indonesia.",
+            "ind": "A small team of elite American intelligence officers, part of a top-secret tactical command unit, try to smuggle a mysterious police officer with sensitive information out of Indonesia."
+        },
+        "long": {
+            "eng": "A small team of elite American intelligence officers, part of a top-secret tactical command unit, try to smuggle a mysterious police officer with sensitive information out of Indonesia.",
+            "may": "A small team of elite American intelligence officers, part of a top-secret tactical command unit, try to smuggle a mysterious police officer with sensitive information out of Indonesia.",
+            "tam": "A small team of elite American intelligence officers, part of a top-secret tactical command unit, try to smuggle a mysterious police officer with sensitive information out of Indonesia.",
+            "chi": "A small team of elite American intelligence officers, part of a top-secret tactical command unit, try to smuggle a mysterious police officer with sensitive information out of Indonesia.",
+            "tha": "A small team of elite American intelligence officers, part of a top-secret tactical command unit, try to smuggle a mysterious police officer with sensitive information out of Indonesia.",
+            "ind": "A small team of elite American intelligence officers, part of a top-secret tactical command unit, try to smuggle a mysterious police officer with sensitive information out of Indonesia."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Mark Wahlberg",
+            " Lauren Cohan",
+            " Iko Uwais",
+            " John Malkovich",
+            " Ronda Rousey",
+            " Carlo Alban",
+            " Natasha Goubskaya",
+            " Chae-rin Lee",
+            " Sam Medina",
+            " Keith Arthur Bolden"
+        ],
+        "may": [
+            "Mark Wahlberg",
+            " Lauren Cohan",
+            " Iko Uwais",
+            " John Malkovich",
+            " Ronda Rousey",
+            " Carlo Alban",
+            " Natasha Goubskaya",
+            " Chae-rin Lee",
+            " Sam Medina",
+            " Keith Arthur Bolden"
+        ],
+        "tam": [
+            "Mark Wahlberg",
+            " Lauren Cohan",
+            " Iko Uwais",
+            " John Malkovich",
+            " Ronda Rousey",
+            " Carlo Alban",
+            " Natasha Goubskaya",
+            " Chae-rin Lee",
+            " Sam Medina",
+            " Keith Arthur Bolden"
+        ],
+        "chi": [
+            "Mark Wahlberg",
+            " Lauren Cohan",
+            " Iko Uwais",
+            " John Malkovich",
+            " Ronda Rousey",
+            " Carlo Alban",
+            " Natasha Goubskaya",
+            " Chae-rin Lee",
+            " Sam Medina",
+            " Keith Arthur Bolden"
+        ],
+        "tha": [
+            "Mark Wahlberg",
+            " Lauren Cohan",
+            " Iko Uwais",
+            " John Malkovich",
+            " Ronda Rousey",
+            " Carlo Alban",
+            " Natasha Goubskaya",
+            " Chae-rin Lee",
+            " Sam Medina",
+            " Keith Arthur Bolden"
+        ],
+        "ind": [
+            "Mark Wahlberg",
+            " Lauren Cohan",
+            " Iko Uwais",
+            " John Malkovich",
+            " Ronda Rousey",
+            " Carlo Alban",
+            " Natasha Goubskaya",
+            " Chae-rin Lee",
+            " Sam Medina",
+            " Keith Arthur Bolden"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Peter Berg"
+        ],
+        "may": [
+            "Peter Berg"
+        ],
+        "tam": [
+            "Peter Berg"
+        ],
+        "chi": [
+            "Peter Berg"
+        ],
+        "tha": [
+            "Peter Berg"
+        ],
+        "ind": [
+            "Peter Berg"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Felice Bee",
+            " Peter Berg",
+            " David Bernon",
+            " Stuart M. Besser",
+            " Andr\u00e9s Calder\u00f3n",
+            " Scott Carmel",
+            " Derek Collison",
+            " Randall Emmett",
+            " Adam Fogelson",
+            " Jonathan Gray"
+        ],
+        "may": [
+            "Felice Bee",
+            " Peter Berg",
+            " David Bernon",
+            " Stuart M. Besser",
+            " Andr\u00e9s Calder\u00f3n",
+            " Scott Carmel",
+            " Derek Collison",
+            " Randall Emmett",
+            " Adam Fogelson",
+            " Jonathan Gray"
+        ],
+        "tam": [
+            "Felice Bee",
+            " Peter Berg",
+            " David Bernon",
+            " Stuart M. Besser",
+            " Andr\u00e9s Calder\u00f3n",
+            " Scott Carmel",
+            " Derek Collison",
+            " Randall Emmett",
+            " Adam Fogelson",
+            " Jonathan Gray"
+        ],
+        "chi": [
+            "Felice Bee",
+            " Peter Berg",
+            " David Bernon",
+            " Stuart M. Besser",
+            " Andr\u00e9s Calder\u00f3n",
+            " Scott Carmel",
+            " Derek Collison",
+            " Randall Emmett",
+            " Adam Fogelson",
+            " Jonathan Gray"
+        ],
+        "tha": [
+            "Felice Bee",
+            " Peter Berg",
+            " David Bernon",
+            " Stuart M. Besser",
+            " Andr\u00e9s Calder\u00f3n",
+            " Scott Carmel",
+            " Derek Collison",
+            " Randall Emmett",
+            " Adam Fogelson",
+            " Jonathan Gray"
+        ],
+        "ind": [
+            "Felice Bee",
+            " Peter Berg",
+            " David Bernon",
+            " Stuart M. Besser",
+            " Andr\u00e9s Calder\u00f3n",
+            " Scott Carmel",
+            " Derek Collison",
+            " Randall Emmett",
+            " Adam Fogelson",
+            " Jonathan Gray"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Thriller",
+                    "may": " Thriller",
+                    "tam": " Thriller",
+                    "chi": " Thriller",
+                    "tha": " Thriller",
+                    "ind": " Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Mile22_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Mile22_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Mile22_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2018,
+    "rating": "6.1",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

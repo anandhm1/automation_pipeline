@@ -1,0 +1,367 @@
+{
+    "externalId": "AggregatedSeries_27a0cd58-877d-5890-be32-05076bcfde19",
+    "clientContentId": "PACK0000000003875222",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Terror",
+            "may": "The Terror",
+            "tam": "The Terror",
+            "chi": "The Terror",
+            "tha": "The Terror",
+            "ind": "The Terror"
+        },
+        "long": {
+            "eng": "The Terror",
+            "may": "The Terror",
+            "tam": "The Terror",
+            "chi": "The Terror",
+            "tha": "The Terror",
+            "ind": "The Terror"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Supernatural, semihistorical, horror anthology series, where each season is inspired by a different infamous or mysterious real life historical tragedy.",
+            "may": "Supernatural, semihistorical, horror anthology series, where each season is inspired by a different infamous or mysterious real life historical tragedy.",
+            "tam": "Supernatural, semihistorical, horror anthology series, where each season is inspired by a different infamous or mysterious real life historical tragedy.",
+            "chi": "Supernatural, semihistorical, horror anthology series, where each season is inspired by a different infamous or mysterious real life historical tragedy.",
+            "tha": "Supernatural, semihistorical, horror anthology series, where each season is inspired by a different infamous or mysterious real life historical tragedy.",
+            "ind": "Supernatural, semihistorical, horror anthology series, where each season is inspired by a different infamous or mysterious real life historical tragedy."
+        },
+        "long": {
+            "eng": "Supernatural, semihistorical, horror anthology series, where each season is inspired by a different infamous or mysterious real life historical tragedy.",
+            "may": "Supernatural, semihistorical, horror anthology series, where each season is inspired by a different infamous or mysterious real life historical tragedy.",
+            "tam": "Supernatural, semihistorical, horror anthology series, where each season is inspired by a different infamous or mysterious real life historical tragedy.",
+            "chi": "Supernatural, semihistorical, horror anthology series, where each season is inspired by a different infamous or mysterious real life historical tragedy.",
+            "tha": "Supernatural, semihistorical, horror anthology series, where each season is inspired by a different infamous or mysterious real life historical tragedy.",
+            "ind": "Supernatural, semihistorical, horror anthology series, where each season is inspired by a different infamous or mysterious real life historical tragedy."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Jared Harris",
+            " Derek Mio",
+            " Tobias Menzies",
+            " Kiki Sukezane",
+            " Paul Ready",
+            " Cristina Rodlo",
+            " Adam Nagaitis",
+            " Shingo Usami",
+            " Ian Hart",
+            " Naoko Mori"
+        ],
+        "may": [
+            "Jared Harris",
+            " Derek Mio",
+            " Tobias Menzies",
+            " Kiki Sukezane",
+            " Paul Ready",
+            " Cristina Rodlo",
+            " Adam Nagaitis",
+            " Shingo Usami",
+            " Ian Hart",
+            " Naoko Mori"
+        ],
+        "tam": [
+            "Jared Harris",
+            " Derek Mio",
+            " Tobias Menzies",
+            " Kiki Sukezane",
+            " Paul Ready",
+            " Cristina Rodlo",
+            " Adam Nagaitis",
+            " Shingo Usami",
+            " Ian Hart",
+            " Naoko Mori"
+        ],
+        "chi": [
+            "Jared Harris",
+            " Derek Mio",
+            " Tobias Menzies",
+            " Kiki Sukezane",
+            " Paul Ready",
+            " Cristina Rodlo",
+            " Adam Nagaitis",
+            " Shingo Usami",
+            " Ian Hart",
+            " Naoko Mori"
+        ],
+        "tha": [
+            "Jared Harris",
+            " Derek Mio",
+            " Tobias Menzies",
+            " Kiki Sukezane",
+            " Paul Ready",
+            " Cristina Rodlo",
+            " Adam Nagaitis",
+            " Shingo Usami",
+            " Ian Hart",
+            " Naoko Mori"
+        ],
+        "ind": [
+            "Jared Harris",
+            " Derek Mio",
+            " Tobias Menzies",
+            " Kiki Sukezane",
+            " Paul Ready",
+            " Cristina Rodlo",
+            " Adam Nagaitis",
+            " Shingo Usami",
+            " Ian Hart",
+            " Naoko Mori"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Tim Mielants",
+            " Edward Berger",
+            " Sergio Mimica-Gezzan",
+            " Michael Lehmann",
+            " Frederick E.O. Toye",
+            " Josef Kubota Wladyka",
+            " Toa Fraser",
+            " Everardo Gout",
+            " Lily Mariye",
+            " Meera Menon"
+        ],
+        "may": [
+            "Tim Mielants",
+            " Edward Berger",
+            " Sergio Mimica-Gezzan",
+            " Michael Lehmann",
+            " Frederick E.O. Toye",
+            " Josef Kubota Wladyka",
+            " Toa Fraser",
+            " Everardo Gout",
+            " Lily Mariye",
+            " Meera Menon"
+        ],
+        "tam": [
+            "Tim Mielants",
+            " Edward Berger",
+            " Sergio Mimica-Gezzan",
+            " Michael Lehmann",
+            " Frederick E.O. Toye",
+            " Josef Kubota Wladyka",
+            " Toa Fraser",
+            " Everardo Gout",
+            " Lily Mariye",
+            " Meera Menon"
+        ],
+        "chi": [
+            "Tim Mielants",
+            " Edward Berger",
+            " Sergio Mimica-Gezzan",
+            " Michael Lehmann",
+            " Frederick E.O. Toye",
+            " Josef Kubota Wladyka",
+            " Toa Fraser",
+            " Everardo Gout",
+            " Lily Mariye",
+            " Meera Menon"
+        ],
+        "tha": [
+            "Tim Mielants",
+            " Edward Berger",
+            " Sergio Mimica-Gezzan",
+            " Michael Lehmann",
+            " Frederick E.O. Toye",
+            " Josef Kubota Wladyka",
+            " Toa Fraser",
+            " Everardo Gout",
+            " Lily Mariye",
+            " Meera Menon"
+        ],
+        "ind": [
+            "Tim Mielants",
+            " Edward Berger",
+            " Sergio Mimica-Gezzan",
+            " Michael Lehmann",
+            " Frederick E.O. Toye",
+            " Josef Kubota Wladyka",
+            " Toa Fraser",
+            " Everardo Gout",
+            " Lily Mariye",
+            " Meera Menon"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Guymon Casady",
+            " David Kajganich",
+            " Scott Lambert",
+            " Alexandra Milchan",
+            " Martin Salgo",
+            " Ridley Scott",
+            " Jordan Sheehan",
+            " David W. Zucker",
+            " Howard Ellis",
+            " Robyn-Alain Feldman"
+        ],
+        "may": [
+            "Guymon Casady",
+            " David Kajganich",
+            " Scott Lambert",
+            " Alexandra Milchan",
+            " Martin Salgo",
+            " Ridley Scott",
+            " Jordan Sheehan",
+            " David W. Zucker",
+            " Howard Ellis",
+            " Robyn-Alain Feldman"
+        ],
+        "tam": [
+            "Guymon Casady",
+            " David Kajganich",
+            " Scott Lambert",
+            " Alexandra Milchan",
+            " Martin Salgo",
+            " Ridley Scott",
+            " Jordan Sheehan",
+            " David W. Zucker",
+            " Howard Ellis",
+            " Robyn-Alain Feldman"
+        ],
+        "chi": [
+            "Guymon Casady",
+            " David Kajganich",
+            " Scott Lambert",
+            " Alexandra Milchan",
+            " Martin Salgo",
+            " Ridley Scott",
+            " Jordan Sheehan",
+            " David W. Zucker",
+            " Howard Ellis",
+            " Robyn-Alain Feldman"
+        ],
+        "tha": [
+            "Guymon Casady",
+            " David Kajganich",
+            " Scott Lambert",
+            " Alexandra Milchan",
+            " Martin Salgo",
+            " Ridley Scott",
+            " Jordan Sheehan",
+            " David W. Zucker",
+            " Howard Ellis",
+            " Robyn-Alain Feldman"
+        ],
+        "ind": [
+            "Guymon Casady",
+            " David Kajganich",
+            " Scott Lambert",
+            " Alexandra Milchan",
+            " Martin Salgo",
+            " Ridley Scott",
+            " Jordan Sheehan",
+            " David W. Zucker",
+            " Howard Ellis",
+            " Robyn-Alain Feldman"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Adventure",
+                    "may": "Adventure",
+                    "tam": "Adventure",
+                    "chi": "Adventure",
+                    "tha": "Adventure",
+                    "ind": "Adventure"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheTerrorSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheTerrorSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheTerrorSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "9",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2018,
+    "maxConcurrentStreams": 0
+}

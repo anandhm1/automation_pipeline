@@ -1,0 +1,331 @@
+{
+    "externalId": "AggregatedMovie_4bf8e5f4-cc39-53e6-a3d4-a687cb033bba",
+    "clientContentId": "PACK0000000002061950",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Avengers",
+            "may": "The Avengers",
+            "tam": "The Avengers",
+            "chi": "The Avengers",
+            "tha": "The Avengers",
+            "ind": "The Avengers"
+        },
+        "long": {
+            "eng": "The Avengers",
+            "may": "The Avengers",
+            "tam": "The Avengers",
+            "chi": "The Avengers",
+            "tha": "The Avengers",
+            "ind": "The Avengers"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+            "may": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+            "tam": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+            "chi": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+            "tha": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+            "ind": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity."
+        },
+        "long": {
+            "eng": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+            "may": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+            "tam": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+            "chi": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+            "tha": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+            "ind": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Robert Downey Jr.",
+            " Chris Evans",
+            " Mark Ruffalo",
+            " Chris Hemsworth",
+            " Scarlett Johansson",
+            " Jeremy Renner",
+            " Tom Hiddleston",
+            " Clark Gregg",
+            " Cobie Smulders",
+            " Stellan Skarsg\u00e5rd"
+        ],
+        "may": [
+            "Robert Downey Jr.",
+            " Chris Evans",
+            " Mark Ruffalo",
+            " Chris Hemsworth",
+            " Scarlett Johansson",
+            " Jeremy Renner",
+            " Tom Hiddleston",
+            " Clark Gregg",
+            " Cobie Smulders",
+            " Stellan Skarsg\u00e5rd"
+        ],
+        "tam": [
+            "Robert Downey Jr.",
+            " Chris Evans",
+            " Mark Ruffalo",
+            " Chris Hemsworth",
+            " Scarlett Johansson",
+            " Jeremy Renner",
+            " Tom Hiddleston",
+            " Clark Gregg",
+            " Cobie Smulders",
+            " Stellan Skarsg\u00e5rd"
+        ],
+        "chi": [
+            "Robert Downey Jr.",
+            " Chris Evans",
+            " Mark Ruffalo",
+            " Chris Hemsworth",
+            " Scarlett Johansson",
+            " Jeremy Renner",
+            " Tom Hiddleston",
+            " Clark Gregg",
+            " Cobie Smulders",
+            " Stellan Skarsg\u00e5rd"
+        ],
+        "tha": [
+            "Robert Downey Jr.",
+            " Chris Evans",
+            " Mark Ruffalo",
+            " Chris Hemsworth",
+            " Scarlett Johansson",
+            " Jeremy Renner",
+            " Tom Hiddleston",
+            " Clark Gregg",
+            " Cobie Smulders",
+            " Stellan Skarsg\u00e5rd"
+        ],
+        "ind": [
+            "Robert Downey Jr.",
+            " Chris Evans",
+            " Mark Ruffalo",
+            " Chris Hemsworth",
+            " Scarlett Johansson",
+            " Jeremy Renner",
+            " Tom Hiddleston",
+            " Clark Gregg",
+            " Cobie Smulders",
+            " Stellan Skarsg\u00e5rd"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Joss Whedon"
+        ],
+        "may": [
+            "Joss Whedon"
+        ],
+        "tam": [
+            "Joss Whedon"
+        ],
+        "chi": [
+            "Joss Whedon"
+        ],
+        "tha": [
+            "Joss Whedon"
+        ],
+        "ind": [
+            "Joss Whedon"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Victoria Alonso",
+            " Louis D'Esposito",
+            " Jon Favreau",
+            " Kevin Feige",
+            " Alan Fine",
+            " Jeremy Latcham",
+            " Stan Lee",
+            " Patricia Whitcher"
+        ],
+        "may": [
+            "Victoria Alonso",
+            " Louis D'Esposito",
+            " Jon Favreau",
+            " Kevin Feige",
+            " Alan Fine",
+            " Jeremy Latcham",
+            " Stan Lee",
+            " Patricia Whitcher"
+        ],
+        "tam": [
+            "Victoria Alonso",
+            " Louis D'Esposito",
+            " Jon Favreau",
+            " Kevin Feige",
+            " Alan Fine",
+            " Jeremy Latcham",
+            " Stan Lee",
+            " Patricia Whitcher"
+        ],
+        "chi": [
+            "Victoria Alonso",
+            " Louis D'Esposito",
+            " Jon Favreau",
+            " Kevin Feige",
+            " Alan Fine",
+            " Jeremy Latcham",
+            " Stan Lee",
+            " Patricia Whitcher"
+        ],
+        "tha": [
+            "Victoria Alonso",
+            " Louis D'Esposito",
+            " Jon Favreau",
+            " Kevin Feige",
+            " Alan Fine",
+            " Jeremy Latcham",
+            " Stan Lee",
+            " Patricia Whitcher"
+        ],
+        "ind": [
+            "Victoria Alonso",
+            " Louis D'Esposito",
+            " Jon Favreau",
+            " Kevin Feige",
+            " Alan Fine",
+            " Jeremy Latcham",
+            " Stan Lee",
+            " Patricia Whitcher"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Sci-Fi",
+                    "may": " Sci-Fi",
+                    "tam": " Sci-Fi",
+                    "chi": " Sci-Fi",
+                    "tha": " Sci-Fi",
+                    "ind": " Sci-Fi"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheAvengers_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheAvengers_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheAvengers_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2012,
+    "rating": "8.0",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

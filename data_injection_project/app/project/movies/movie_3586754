@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_031f7870-a3a6-5146-a97a-95972b3bed9e",
+    "clientContentId": "PACK0000000003091686",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Jungle Cruise",
+            "may": "Jungle Cruise",
+            "tam": "Jungle Cruise",
+            "chi": "Jungle Cruise",
+            "tha": "Jungle Cruise",
+            "ind": "Jungle Cruise"
+        },
+        "long": {
+            "eng": "Jungle Cruise",
+            "may": "Jungle Cruise",
+            "tam": "Jungle Cruise",
+            "chi": "Jungle Cruise",
+            "tha": "Jungle Cruise",
+            "ind": "Jungle Cruise"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+            "may": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+            "tam": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+            "chi": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+            "tha": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+            "ind": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element."
+        },
+        "long": {
+            "eng": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+            "may": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+            "tam": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+            "chi": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+            "tha": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+            "ind": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Dwayne Johnson",
+            " Emily Blunt",
+            " Edgar Ram\u00edrez",
+            " Jack Whitehall",
+            " Jesse Plemons",
+            " Paul Giamatti",
+            " Veronica Falc\u00f3n",
+            " Dani Rovira",
+            " Quim Guti\u00e9rrez",
+            " Dan Dargan Carter"
+        ],
+        "may": [
+            "Dwayne Johnson",
+            " Emily Blunt",
+            " Edgar Ram\u00edrez",
+            " Jack Whitehall",
+            " Jesse Plemons",
+            " Paul Giamatti",
+            " Veronica Falc\u00f3n",
+            " Dani Rovira",
+            " Quim Guti\u00e9rrez",
+            " Dan Dargan Carter"
+        ],
+        "tam": [
+            "Dwayne Johnson",
+            " Emily Blunt",
+            " Edgar Ram\u00edrez",
+            " Jack Whitehall",
+            " Jesse Plemons",
+            " Paul Giamatti",
+            " Veronica Falc\u00f3n",
+            " Dani Rovira",
+            " Quim Guti\u00e9rrez",
+            " Dan Dargan Carter"
+        ],
+        "chi": [
+            "Dwayne Johnson",
+            " Emily Blunt",
+            " Edgar Ram\u00edrez",
+            " Jack Whitehall",
+            " Jesse Plemons",
+            " Paul Giamatti",
+            " Veronica Falc\u00f3n",
+            " Dani Rovira",
+            " Quim Guti\u00e9rrez",
+            " Dan Dargan Carter"
+        ],
+        "tha": [
+            "Dwayne Johnson",
+            " Emily Blunt",
+            " Edgar Ram\u00edrez",
+            " Jack Whitehall",
+            " Jesse Plemons",
+            " Paul Giamatti",
+            " Veronica Falc\u00f3n",
+            " Dani Rovira",
+            " Quim Guti\u00e9rrez",
+            " Dan Dargan Carter"
+        ],
+        "ind": [
+            "Dwayne Johnson",
+            " Emily Blunt",
+            " Edgar Ram\u00edrez",
+            " Jack Whitehall",
+            " Jesse Plemons",
+            " Paul Giamatti",
+            " Veronica Falc\u00f3n",
+            " Dani Rovira",
+            " Quim Guti\u00e9rrez",
+            " Dan Dargan Carter"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jaume Collet-Serra"
+        ],
+        "may": [
+            "Jaume Collet-Serra"
+        ],
+        "tam": [
+            "Jaume Collet-Serra"
+        ],
+        "chi": [
+            "Jaume Collet-Serra"
+        ],
+        "tha": [
+            "Jaume Collet-Serra"
+        ],
+        "ind": [
+            "Jaume Collet-Serra"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "John Davis",
+            " Beau Flynn",
+            " John Fox",
+            " Larry Franco",
+            " Dany Garcia",
+            " Hiram Garcia",
+            " Petra Holtorf",
+            " Dwayne Johnson",
+            " Douglas C. Merrifield",
+            " Lacey Darlene Paulson"
+        ],
+        "may": [
+            "John Davis",
+            " Beau Flynn",
+            " John Fox",
+            " Larry Franco",
+            " Dany Garcia",
+            " Hiram Garcia",
+            " Petra Holtorf",
+            " Dwayne Johnson",
+            " Douglas C. Merrifield",
+            " Lacey Darlene Paulson"
+        ],
+        "tam": [
+            "John Davis",
+            " Beau Flynn",
+            " John Fox",
+            " Larry Franco",
+            " Dany Garcia",
+            " Hiram Garcia",
+            " Petra Holtorf",
+            " Dwayne Johnson",
+            " Douglas C. Merrifield",
+            " Lacey Darlene Paulson"
+        ],
+        "chi": [
+            "John Davis",
+            " Beau Flynn",
+            " John Fox",
+            " Larry Franco",
+            " Dany Garcia",
+            " Hiram Garcia",
+            " Petra Holtorf",
+            " Dwayne Johnson",
+            " Douglas C. Merrifield",
+            " Lacey Darlene Paulson"
+        ],
+        "tha": [
+            "John Davis",
+            " Beau Flynn",
+            " John Fox",
+            " Larry Franco",
+            " Dany Garcia",
+            " Hiram Garcia",
+            " Petra Holtorf",
+            " Dwayne Johnson",
+            " Douglas C. Merrifield",
+            " Lacey Darlene Paulson"
+        ],
+        "ind": [
+            "John Davis",
+            " Beau Flynn",
+            " John Fox",
+            " Larry Franco",
+            " Dany Garcia",
+            " Hiram Garcia",
+            " Petra Holtorf",
+            " Dwayne Johnson",
+            " Douglas C. Merrifield",
+            " Lacey Darlene Paulson"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/JungleCruise_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/JungleCruise_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/JungleCruise_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2021,
+    "rating": "6.6",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

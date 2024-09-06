@@ -1,0 +1,263 @@
+{
+    "externalId": "AggregatedSeason_17c3f7bb-1068-57f2-9aef-a01bac2b0777",
+    "clientContentId": "PACK0000000003122049",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "7.1",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "\u00c1lvaro Morte",
+            " Ver\u00f3nica S\u00e1nchez",
+            " Irene Arcos"
+        ],
+        "may": [
+            "\u00c1lvaro Morte",
+            " Ver\u00f3nica S\u00e1nchez",
+            " Irene Arcos"
+        ],
+        "chi": [
+            "\u00c1lvaro Morte",
+            " Ver\u00f3nica S\u00e1nchez",
+            " Irene Arcos"
+        ],
+        "tam": [
+            "\u00c1lvaro Morte",
+            " Ver\u00f3nica S\u00e1nchez",
+            " Irene Arcos"
+        ],
+        "ind": [
+            "\u00c1lvaro Morte",
+            " Ver\u00f3nica S\u00e1nchez",
+            " Irene Arcos"
+        ],
+        "tha": [
+            "\u00c1lvaro Morte",
+            " Ver\u00f3nica S\u00e1nchez",
+            " Irene Arcos"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "may": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "chi": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "tam": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "ind": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "tha": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "may": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "chi": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "tam": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "ind": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "tha": [
+            "Jes\u00fas Colmenar",
+            " \u00c1lex Rodrigo",
+            " Jorge Dorado",
+            " Eduardo Chapero-Jackson"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_d412c77b-2e73-541f-8134-822c801c555a",
+    "seasonNumber": "2",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Pier S01 EP02",
+            "may": "The Pier S01 EP02",
+            "chi": "The Pier S01 EP02",
+            "tam": "The Pier S01 EP02",
+            "ind": "The Pier S01 EP02",
+            "tha": "The Pier S01 EP02"
+        },
+        "long": {
+            "eng": "The Pier S01 EP02",
+            "may": "The Pier S01 EP02",
+            "chi": "The Pier S01 EP02",
+            "tam": "The Pier S01 EP02",
+            "ind": "The Pier S01 EP02",
+            "tha": "The Pier S01 EP02"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "may": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "chi": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "tam": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "ind": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "tha": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death."
+        },
+        "long": {
+            "eng": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "may": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "chi": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "tam": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "ind": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death.",
+            "tha": "Alejandra is a high-profile architect who is shattered by her husband's suicide. After discovering that he led a double life with another woman for years, Alejandra tries to appease the pain by approaching her under another identity to discover why her husband lived a lie and what really happened on the fateful night of his death."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/THEPIER_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/THEPIER_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/THEPIER_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

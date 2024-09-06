@@ -1,0 +1,367 @@
+{
+    "externalId": "AggregatedSeries_f5f09d67-f223-587e-a8b4-505c96defdca",
+    "clientContentId": "PACK0000000006145398",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Mandalorian",
+            "may": "The Mandalorian",
+            "tam": "The Mandalorian",
+            "chi": "The Mandalorian",
+            "tha": "The Mandalorian",
+            "ind": "The Mandalorian"
+        },
+        "long": {
+            "eng": "The Mandalorian",
+            "may": "The Mandalorian",
+            "tam": "The Mandalorian",
+            "chi": "The Mandalorian",
+            "tha": "The Mandalorian",
+            "ind": "The Mandalorian"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "may": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "tam": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "chi": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "tha": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "ind": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic."
+        },
+        "long": {
+            "eng": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "may": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "tam": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "chi": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "tha": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "ind": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Pedro Pascal",
+            " Carl Weathers",
+            " Chris Bartlett",
+            " Leilani Shiu",
+            " Ariel Shiu",
+            " Gina Carano",
+            " Giancarlo Esposito",
+            " Barry Lowin",
+            " Misty Rosas",
+            " Katee Sackhoff"
+        ],
+        "may": [
+            "Pedro Pascal",
+            " Carl Weathers",
+            " Chris Bartlett",
+            " Leilani Shiu",
+            " Ariel Shiu",
+            " Gina Carano",
+            " Giancarlo Esposito",
+            " Barry Lowin",
+            " Misty Rosas",
+            " Katee Sackhoff"
+        ],
+        "tam": [
+            "Pedro Pascal",
+            " Carl Weathers",
+            " Chris Bartlett",
+            " Leilani Shiu",
+            " Ariel Shiu",
+            " Gina Carano",
+            " Giancarlo Esposito",
+            " Barry Lowin",
+            " Misty Rosas",
+            " Katee Sackhoff"
+        ],
+        "chi": [
+            "Pedro Pascal",
+            " Carl Weathers",
+            " Chris Bartlett",
+            " Leilani Shiu",
+            " Ariel Shiu",
+            " Gina Carano",
+            " Giancarlo Esposito",
+            " Barry Lowin",
+            " Misty Rosas",
+            " Katee Sackhoff"
+        ],
+        "tha": [
+            "Pedro Pascal",
+            " Carl Weathers",
+            " Chris Bartlett",
+            " Leilani Shiu",
+            " Ariel Shiu",
+            " Gina Carano",
+            " Giancarlo Esposito",
+            " Barry Lowin",
+            " Misty Rosas",
+            " Katee Sackhoff"
+        ],
+        "ind": [
+            "Pedro Pascal",
+            " Carl Weathers",
+            " Chris Bartlett",
+            " Leilani Shiu",
+            " Ariel Shiu",
+            " Gina Carano",
+            " Giancarlo Esposito",
+            " Barry Lowin",
+            " Misty Rosas",
+            " Katee Sackhoff"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Rick Famuyiwa",
+            " Bryce Dallas Howard",
+            " Dave Filoni",
+            " Deborah Chow",
+            " Carl Weathers",
+            " Peyton Reed",
+            " Taika Waititi",
+            " Jon Favreau",
+            " Robert Rodriguez",
+            " Lee Isaac Chung"
+        ],
+        "may": [
+            "Rick Famuyiwa",
+            " Bryce Dallas Howard",
+            " Dave Filoni",
+            " Deborah Chow",
+            " Carl Weathers",
+            " Peyton Reed",
+            " Taika Waititi",
+            " Jon Favreau",
+            " Robert Rodriguez",
+            " Lee Isaac Chung"
+        ],
+        "tam": [
+            "Rick Famuyiwa",
+            " Bryce Dallas Howard",
+            " Dave Filoni",
+            " Deborah Chow",
+            " Carl Weathers",
+            " Peyton Reed",
+            " Taika Waititi",
+            " Jon Favreau",
+            " Robert Rodriguez",
+            " Lee Isaac Chung"
+        ],
+        "chi": [
+            "Rick Famuyiwa",
+            " Bryce Dallas Howard",
+            " Dave Filoni",
+            " Deborah Chow",
+            " Carl Weathers",
+            " Peyton Reed",
+            " Taika Waititi",
+            " Jon Favreau",
+            " Robert Rodriguez",
+            " Lee Isaac Chung"
+        ],
+        "tha": [
+            "Rick Famuyiwa",
+            " Bryce Dallas Howard",
+            " Dave Filoni",
+            " Deborah Chow",
+            " Carl Weathers",
+            " Peyton Reed",
+            " Taika Waititi",
+            " Jon Favreau",
+            " Robert Rodriguez",
+            " Lee Isaac Chung"
+        ],
+        "ind": [
+            "Rick Famuyiwa",
+            " Bryce Dallas Howard",
+            " Dave Filoni",
+            " Deborah Chow",
+            " Carl Weathers",
+            " Peyton Reed",
+            " Taika Waititi",
+            " Jon Favreau",
+            " Robert Rodriguez",
+            " Lee Isaac Chung"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jon Favreau",
+            " John Bartnicki",
+            " Carrie Beck",
+            " Dave Filoni",
+            " Karen Gilchrist",
+            " Kathleen Kennedy",
+            " Colin Wilson",
+            " Janet Lewin",
+            " Jason McGatlin",
+            " Kristen Schreck"
+        ],
+        "may": [
+            "Jon Favreau",
+            " John Bartnicki",
+            " Carrie Beck",
+            " Dave Filoni",
+            " Karen Gilchrist",
+            " Kathleen Kennedy",
+            " Colin Wilson",
+            " Janet Lewin",
+            " Jason McGatlin",
+            " Kristen Schreck"
+        ],
+        "tam": [
+            "Jon Favreau",
+            " John Bartnicki",
+            " Carrie Beck",
+            " Dave Filoni",
+            " Karen Gilchrist",
+            " Kathleen Kennedy",
+            " Colin Wilson",
+            " Janet Lewin",
+            " Jason McGatlin",
+            " Kristen Schreck"
+        ],
+        "chi": [
+            "Jon Favreau",
+            " John Bartnicki",
+            " Carrie Beck",
+            " Dave Filoni",
+            " Karen Gilchrist",
+            " Kathleen Kennedy",
+            " Colin Wilson",
+            " Janet Lewin",
+            " Jason McGatlin",
+            " Kristen Schreck"
+        ],
+        "tha": [
+            "Jon Favreau",
+            " John Bartnicki",
+            " Carrie Beck",
+            " Dave Filoni",
+            " Karen Gilchrist",
+            " Kathleen Kennedy",
+            " Colin Wilson",
+            " Janet Lewin",
+            " Jason McGatlin",
+            " Kristen Schreck"
+        ],
+        "ind": [
+            "Jon Favreau",
+            " John Bartnicki",
+            " Carrie Beck",
+            " Dave Filoni",
+            " Karen Gilchrist",
+            " Kathleen Kennedy",
+            " Colin Wilson",
+            " Janet Lewin",
+            " Jason McGatlin",
+            " Kristen Schreck"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheMandalorianSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheMandalorianSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheMandalorianSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "8",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2020,
+    "maxConcurrentStreams": 0
+}

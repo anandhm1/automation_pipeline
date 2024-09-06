@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_7fe2442a-a1b4-5fbe-abbb-b926b3a68307",
+    "clientContentId": "PACK0000000004198547",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "La La Land",
+            "may": "La La Land",
+            "tam": "La La Land",
+            "chi": "La La Land",
+            "tha": "La La Land",
+            "ind": "La La Land"
+        },
+        "long": {
+            "eng": "La La Land",
+            "may": "La La Land",
+            "tam": "La La Land",
+            "chi": "La La Land",
+            "tha": "La La Land",
+            "ind": "La La Land"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+            "may": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+            "tam": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+            "chi": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+            "tha": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+            "ind": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future."
+        },
+        "long": {
+            "eng": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+            "may": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+            "tam": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+            "chi": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+            "tha": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+            "ind": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Ryan Gosling",
+            " Emma Stone",
+            " Amiee Conn",
+            " Terry Walters",
+            " Thom Shelton",
+            " Cinda Adams",
+            " Callie Hernandez",
+            " Jessica Rothe",
+            " Sonoya Mizuno",
+            " Rosemarie DeWitt"
+        ],
+        "may": [
+            "Ryan Gosling",
+            " Emma Stone",
+            " Amiee Conn",
+            " Terry Walters",
+            " Thom Shelton",
+            " Cinda Adams",
+            " Callie Hernandez",
+            " Jessica Rothe",
+            " Sonoya Mizuno",
+            " Rosemarie DeWitt"
+        ],
+        "tam": [
+            "Ryan Gosling",
+            " Emma Stone",
+            " Amiee Conn",
+            " Terry Walters",
+            " Thom Shelton",
+            " Cinda Adams",
+            " Callie Hernandez",
+            " Jessica Rothe",
+            " Sonoya Mizuno",
+            " Rosemarie DeWitt"
+        ],
+        "chi": [
+            "Ryan Gosling",
+            " Emma Stone",
+            " Amiee Conn",
+            " Terry Walters",
+            " Thom Shelton",
+            " Cinda Adams",
+            " Callie Hernandez",
+            " Jessica Rothe",
+            " Sonoya Mizuno",
+            " Rosemarie DeWitt"
+        ],
+        "tha": [
+            "Ryan Gosling",
+            " Emma Stone",
+            " Amiee Conn",
+            " Terry Walters",
+            " Thom Shelton",
+            " Cinda Adams",
+            " Callie Hernandez",
+            " Jessica Rothe",
+            " Sonoya Mizuno",
+            " Rosemarie DeWitt"
+        ],
+        "ind": [
+            "Ryan Gosling",
+            " Emma Stone",
+            " Amiee Conn",
+            " Terry Walters",
+            " Thom Shelton",
+            " Cinda Adams",
+            " Callie Hernandez",
+            " Jessica Rothe",
+            " Sonoya Mizuno",
+            " Rosemarie DeWitt"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Damien Chazelle"
+        ],
+        "may": [
+            "Damien Chazelle"
+        ],
+        "tam": [
+            "Damien Chazelle"
+        ],
+        "chi": [
+            "Damien Chazelle"
+        ],
+        "tha": [
+            "Damien Chazelle"
+        ],
+        "ind": [
+            "Damien Chazelle"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Fred Berger",
+            " Michael Beugg",
+            " Gary Gilbert",
+            " Jeffrey Harlacker",
+            " Jordan Horowitz",
+            " Mike Jackson",
+            " John Legend",
+            " Qiuyun Long",
+            " Thad Luckinbill",
+            " Trent Luckinbill"
+        ],
+        "may": [
+            "Fred Berger",
+            " Michael Beugg",
+            " Gary Gilbert",
+            " Jeffrey Harlacker",
+            " Jordan Horowitz",
+            " Mike Jackson",
+            " John Legend",
+            " Qiuyun Long",
+            " Thad Luckinbill",
+            " Trent Luckinbill"
+        ],
+        "tam": [
+            "Fred Berger",
+            " Michael Beugg",
+            " Gary Gilbert",
+            " Jeffrey Harlacker",
+            " Jordan Horowitz",
+            " Mike Jackson",
+            " John Legend",
+            " Qiuyun Long",
+            " Thad Luckinbill",
+            " Trent Luckinbill"
+        ],
+        "chi": [
+            "Fred Berger",
+            " Michael Beugg",
+            " Gary Gilbert",
+            " Jeffrey Harlacker",
+            " Jordan Horowitz",
+            " Mike Jackson",
+            " John Legend",
+            " Qiuyun Long",
+            " Thad Luckinbill",
+            " Trent Luckinbill"
+        ],
+        "tha": [
+            "Fred Berger",
+            " Michael Beugg",
+            " Gary Gilbert",
+            " Jeffrey Harlacker",
+            " Jordan Horowitz",
+            " Mike Jackson",
+            " John Legend",
+            " Qiuyun Long",
+            " Thad Luckinbill",
+            " Trent Luckinbill"
+        ],
+        "ind": [
+            "Fred Berger",
+            " Michael Beugg",
+            " Gary Gilbert",
+            " Jeffrey Harlacker",
+            " Jordan Horowitz",
+            " Mike Jackson",
+            " John Legend",
+            " Qiuyun Long",
+            " Thad Luckinbill",
+            " Trent Luckinbill"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/LaLaLand_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/LaLaLand_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/LaLaLand_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2016,
+    "rating": "8.0",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

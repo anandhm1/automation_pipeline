@@ -1,0 +1,239 @@
+{
+    "externalId": "AggregatedSeason_451090a9-4b8e-53d9-b4ca-2c6f6f514230",
+    "clientContentId": "PACK0000000002134128",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "chi": "Documentary",
+                    "tam": "Documentary",
+                    "ind": "Documentary",
+                    "tha": "Documentary"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "chi": "Documentary",
+                    "tam": "Documentary",
+                    "ind": "Documentary",
+                    "tha": "Documentary"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-PG",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Morgan Freeman"
+        ],
+        "may": [
+            "Morgan Freeman"
+        ],
+        "chi": [
+            "Morgan Freeman"
+        ],
+        "tam": [
+            "Morgan Freeman"
+        ],
+        "ind": [
+            "Morgan Freeman"
+        ],
+        "tha": [
+            "Morgan Freeman"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Naomi Austin",
+            " Stephen Cooter",
+            " Alice Jones"
+        ],
+        "may": [
+            "Naomi Austin",
+            " Stephen Cooter",
+            " Alice Jones"
+        ],
+        "chi": [
+            "Naomi Austin",
+            " Stephen Cooter",
+            " Alice Jones"
+        ],
+        "tam": [
+            "Naomi Austin",
+            " Stephen Cooter",
+            " Alice Jones"
+        ],
+        "ind": [
+            "Naomi Austin",
+            " Stephen Cooter",
+            " Alice Jones"
+        ],
+        "tha": [
+            "Naomi Austin",
+            " Stephen Cooter",
+            " Alice Jones"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Michael Davis",
+            " Hugh Wilson",
+            " Andrew Cohen"
+        ],
+        "may": [
+            "Michael Davis",
+            " Hugh Wilson",
+            " Andrew Cohen"
+        ],
+        "chi": [
+            "Michael Davis",
+            " Hugh Wilson",
+            " Andrew Cohen"
+        ],
+        "tam": [
+            "Michael Davis",
+            " Hugh Wilson",
+            " Andrew Cohen"
+        ],
+        "ind": [
+            "Michael Davis",
+            " Hugh Wilson",
+            " Andrew Cohen"
+        ],
+        "tha": [
+            "Michael Davis",
+            " Hugh Wilson",
+            " Andrew Cohen"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_b5c0574a-6402-52e4-bbe5-8727df0de98c",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Our Universe  Season 1",
+            "may": "Our Universe  Season 1",
+            "chi": "Our Universe  Season 1",
+            "tam": "Our Universe  Season 1",
+            "ind": "Our Universe  Season 1",
+            "tha": "Our Universe  Season 1"
+        },
+        "long": {
+            "eng": "Our Universe  Season 1",
+            "may": "Our Universe  Season 1",
+            "chi": "Our Universe  Season 1",
+            "tam": "Our Universe  Season 1",
+            "ind": "Our Universe  Season 1",
+            "tha": "Our Universe  Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "may": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "chi": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "tam": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "ind": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "tha": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman"
+        },
+        "long": {
+            "eng": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "may": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "chi": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "tam": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "ind": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman",
+            "tha": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman"
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/OurUniverseSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/OurUniverseSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/OurUniverseSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

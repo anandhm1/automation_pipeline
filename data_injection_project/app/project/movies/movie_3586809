@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_02c5437f-6d29-52ce-a11b-c272fdbd2132",
+    "clientContentId": "PACK0000000001876683",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Escape Plan",
+            "may": "Escape Plan",
+            "tam": "Escape Plan",
+            "chi": "Escape Plan",
+            "tha": "Escape Plan",
+            "ind": "Escape Plan"
+        },
+        "long": {
+            "eng": "Escape Plan",
+            "may": "Escape Plan",
+            "tam": "Escape Plan",
+            "chi": "Escape Plan",
+            "tha": "Escape Plan",
+            "ind": "Escape Plan"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "When a structural-security authority finds himself set up and incarcerated in the world's most secret and secure prison, he has to use his skills to escape with help from the inside.",
+            "may": "When a structural-security authority finds himself set up and incarcerated in the world's most secret and secure prison, he has to use his skills to escape with help from the inside.",
+            "tam": "When a structural-security authority finds himself set up and incarcerated in the world's most secret and secure prison, he has to use his skills to escape with help from the inside.",
+            "chi": "When a structural-security authority finds himself set up and incarcerated in the world's most secret and secure prison, he has to use his skills to escape with help from the inside.",
+            "tha": "When a structural-security authority finds himself set up and incarcerated in the world's most secret and secure prison, he has to use his skills to escape with help from the inside.",
+            "ind": "When a structural-security authority finds himself set up and incarcerated in the world's most secret and secure prison, he has to use his skills to escape with help from the inside."
+        },
+        "long": {
+            "eng": "When a structural-security authority finds himself set up and incarcerated in the world's most secret and secure prison, he has to use his skills to escape with help from the inside.",
+            "may": "When a structural-security authority finds himself set up and incarcerated in the world's most secret and secure prison, he has to use his skills to escape with help from the inside.",
+            "tam": "When a structural-security authority finds himself set up and incarcerated in the world's most secret and secure prison, he has to use his skills to escape with help from the inside.",
+            "chi": "When a structural-security authority finds himself set up and incarcerated in the world's most secret and secure prison, he has to use his skills to escape with help from the inside.",
+            "tha": "When a structural-security authority finds himself set up and incarcerated in the world's most secret and secure prison, he has to use his skills to escape with help from the inside.",
+            "ind": "When a structural-security authority finds himself set up and incarcerated in the world's most secret and secure prison, he has to use his skills to escape with help from the inside."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Sylvester Stallone",
+            " Arnold Schwarzenegger",
+            " Jim Caviezel",
+            " Faran Tahir",
+            " Amy Ryan",
+            " Sam Neill",
+            " Vincent D'Onofrio",
+            " Vinnie Jones",
+            " Matt Gerald",
+            " 50 Cent"
+        ],
+        "may": [
+            "Sylvester Stallone",
+            " Arnold Schwarzenegger",
+            " Jim Caviezel",
+            " Faran Tahir",
+            " Amy Ryan",
+            " Sam Neill",
+            " Vincent D'Onofrio",
+            " Vinnie Jones",
+            " Matt Gerald",
+            " 50 Cent"
+        ],
+        "tam": [
+            "Sylvester Stallone",
+            " Arnold Schwarzenegger",
+            " Jim Caviezel",
+            " Faran Tahir",
+            " Amy Ryan",
+            " Sam Neill",
+            " Vincent D'Onofrio",
+            " Vinnie Jones",
+            " Matt Gerald",
+            " 50 Cent"
+        ],
+        "chi": [
+            "Sylvester Stallone",
+            " Arnold Schwarzenegger",
+            " Jim Caviezel",
+            " Faran Tahir",
+            " Amy Ryan",
+            " Sam Neill",
+            " Vincent D'Onofrio",
+            " Vinnie Jones",
+            " Matt Gerald",
+            " 50 Cent"
+        ],
+        "tha": [
+            "Sylvester Stallone",
+            " Arnold Schwarzenegger",
+            " Jim Caviezel",
+            " Faran Tahir",
+            " Amy Ryan",
+            " Sam Neill",
+            " Vincent D'Onofrio",
+            " Vinnie Jones",
+            " Matt Gerald",
+            " 50 Cent"
+        ],
+        "ind": [
+            "Sylvester Stallone",
+            " Arnold Schwarzenegger",
+            " Jim Caviezel",
+            " Faran Tahir",
+            " Amy Ryan",
+            " Sam Neill",
+            " Vincent D'Onofrio",
+            " Vinnie Jones",
+            " Matt Gerald",
+            " 50 Cent"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Mikael H\u00e5fstr\u00f6m"
+        ],
+        "may": [
+            "Mikael H\u00e5fstr\u00f6m"
+        ],
+        "tam": [
+            "Mikael H\u00e5fstr\u00f6m"
+        ],
+        "chi": [
+            "Mikael H\u00e5fstr\u00f6m"
+        ],
+        "tha": [
+            "Mikael H\u00e5fstr\u00f6m"
+        ],
+        "ind": [
+            "Mikael H\u00e5fstr\u00f6m"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jonathan Abrams",
+            " Brandt Andersen",
+            " Jeremy Bell",
+            " Alexander Boies",
+            " Robbie Brenner",
+            " Mark Canton",
+            " Remington Chase",
+            " Kelly Dennis",
+            " Randall Emmett",
+            " Erik Feig"
+        ],
+        "may": [
+            "Jonathan Abrams",
+            " Brandt Andersen",
+            " Jeremy Bell",
+            " Alexander Boies",
+            " Robbie Brenner",
+            " Mark Canton",
+            " Remington Chase",
+            " Kelly Dennis",
+            " Randall Emmett",
+            " Erik Feig"
+        ],
+        "tam": [
+            "Jonathan Abrams",
+            " Brandt Andersen",
+            " Jeremy Bell",
+            " Alexander Boies",
+            " Robbie Brenner",
+            " Mark Canton",
+            " Remington Chase",
+            " Kelly Dennis",
+            " Randall Emmett",
+            " Erik Feig"
+        ],
+        "chi": [
+            "Jonathan Abrams",
+            " Brandt Andersen",
+            " Jeremy Bell",
+            " Alexander Boies",
+            " Robbie Brenner",
+            " Mark Canton",
+            " Remington Chase",
+            " Kelly Dennis",
+            " Randall Emmett",
+            " Erik Feig"
+        ],
+        "tha": [
+            "Jonathan Abrams",
+            " Brandt Andersen",
+            " Jeremy Bell",
+            " Alexander Boies",
+            " Robbie Brenner",
+            " Mark Canton",
+            " Remington Chase",
+            " Kelly Dennis",
+            " Randall Emmett",
+            " Erik Feig"
+        ],
+        "ind": [
+            "Jonathan Abrams",
+            " Brandt Andersen",
+            " Jeremy Bell",
+            " Alexander Boies",
+            " Robbie Brenner",
+            " Mark Canton",
+            " Remington Chase",
+            " Kelly Dennis",
+            " Randall Emmett",
+            " Erik Feig"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Thriller",
+                    "may": " Thriller",
+                    "tam": " Thriller",
+                    "chi": " Thriller",
+                    "tha": " Thriller",
+                    "ind": " Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/EscapePlan_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/EscapePlan_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/EscapePlan_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2013,
+    "rating": "6.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

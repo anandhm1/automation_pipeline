@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_882e7301-f14e-511a-a6fa-7d118d0ef609",
+    "clientContentId": "PACK0000000005133577",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Dark Phoenix",
+            "may": "Dark Phoenix",
+            "tam": "Dark Phoenix",
+            "chi": "Dark Phoenix",
+            "tha": "Dark Phoenix",
+            "ind": "Dark Phoenix"
+        },
+        "long": {
+            "eng": "Dark Phoenix",
+            "may": "Dark Phoenix",
+            "tam": "Dark Phoenix",
+            "chi": "Dark Phoenix",
+            "tha": "Dark Phoenix",
+            "ind": "Dark Phoenix"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of humanity.",
+            "may": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of humanity.",
+            "tam": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of humanity.",
+            "chi": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of humanity.",
+            "tha": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of humanity.",
+            "ind": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of humanity."
+        },
+        "long": {
+            "eng": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of humanity.",
+            "may": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of humanity.",
+            "tam": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of humanity.",
+            "chi": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of humanity.",
+            "tha": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of humanity.",
+            "ind": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of humanity."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "James McAvoy",
+            " Michael Fassbender",
+            " Jennifer Lawrence",
+            " Nicholas Hoult",
+            " Sophie Turner",
+            " Tye Sheridan",
+            " Alexandra Shipp",
+            " Evan Peters",
+            " Kodi Smit-McPhee",
+            " Jessica Chastain"
+        ],
+        "may": [
+            "James McAvoy",
+            " Michael Fassbender",
+            " Jennifer Lawrence",
+            " Nicholas Hoult",
+            " Sophie Turner",
+            " Tye Sheridan",
+            " Alexandra Shipp",
+            " Evan Peters",
+            " Kodi Smit-McPhee",
+            " Jessica Chastain"
+        ],
+        "tam": [
+            "James McAvoy",
+            " Michael Fassbender",
+            " Jennifer Lawrence",
+            " Nicholas Hoult",
+            " Sophie Turner",
+            " Tye Sheridan",
+            " Alexandra Shipp",
+            " Evan Peters",
+            " Kodi Smit-McPhee",
+            " Jessica Chastain"
+        ],
+        "chi": [
+            "James McAvoy",
+            " Michael Fassbender",
+            " Jennifer Lawrence",
+            " Nicholas Hoult",
+            " Sophie Turner",
+            " Tye Sheridan",
+            " Alexandra Shipp",
+            " Evan Peters",
+            " Kodi Smit-McPhee",
+            " Jessica Chastain"
+        ],
+        "tha": [
+            "James McAvoy",
+            " Michael Fassbender",
+            " Jennifer Lawrence",
+            " Nicholas Hoult",
+            " Sophie Turner",
+            " Tye Sheridan",
+            " Alexandra Shipp",
+            " Evan Peters",
+            " Kodi Smit-McPhee",
+            " Jessica Chastain"
+        ],
+        "ind": [
+            "James McAvoy",
+            " Michael Fassbender",
+            " Jennifer Lawrence",
+            " Nicholas Hoult",
+            " Sophie Turner",
+            " Tye Sheridan",
+            " Alexandra Shipp",
+            " Evan Peters",
+            " Kodi Smit-McPhee",
+            " Jessica Chastain"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Simon Kinberg"
+        ],
+        "may": [
+            "Simon Kinberg"
+        ],
+        "tam": [
+            "Simon Kinberg"
+        ],
+        "chi": [
+            "Simon Kinberg"
+        ],
+        "tha": [
+            "Simon Kinberg"
+        ],
+        "ind": [
+            "Simon Kinberg"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Daniel Auclair",
+            " Samantha Ellison",
+            " Todd Hallowell",
+            " Justin Haut",
+            " Simon Kinberg",
+            " Stan Lee",
+            " Kathleen McGill",
+            " Josh McLaglen",
+            " Hutch Parker",
+            " Lauren Shuler Donner"
+        ],
+        "may": [
+            "Daniel Auclair",
+            " Samantha Ellison",
+            " Todd Hallowell",
+            " Justin Haut",
+            " Simon Kinberg",
+            " Stan Lee",
+            " Kathleen McGill",
+            " Josh McLaglen",
+            " Hutch Parker",
+            " Lauren Shuler Donner"
+        ],
+        "tam": [
+            "Daniel Auclair",
+            " Samantha Ellison",
+            " Todd Hallowell",
+            " Justin Haut",
+            " Simon Kinberg",
+            " Stan Lee",
+            " Kathleen McGill",
+            " Josh McLaglen",
+            " Hutch Parker",
+            " Lauren Shuler Donner"
+        ],
+        "chi": [
+            "Daniel Auclair",
+            " Samantha Ellison",
+            " Todd Hallowell",
+            " Justin Haut",
+            " Simon Kinberg",
+            " Stan Lee",
+            " Kathleen McGill",
+            " Josh McLaglen",
+            " Hutch Parker",
+            " Lauren Shuler Donner"
+        ],
+        "tha": [
+            "Daniel Auclair",
+            " Samantha Ellison",
+            " Todd Hallowell",
+            " Justin Haut",
+            " Simon Kinberg",
+            " Stan Lee",
+            " Kathleen McGill",
+            " Josh McLaglen",
+            " Hutch Parker",
+            " Lauren Shuler Donner"
+        ],
+        "ind": [
+            "Daniel Auclair",
+            " Samantha Ellison",
+            " Todd Hallowell",
+            " Justin Haut",
+            " Simon Kinberg",
+            " Stan Lee",
+            " Kathleen McGill",
+            " Josh McLaglen",
+            " Hutch Parker",
+            " Lauren Shuler Donner"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/DarkPhoenix_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/DarkPhoenix_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/DarkPhoenix_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2019,
+    "rating": "5.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

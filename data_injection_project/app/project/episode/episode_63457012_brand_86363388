@@ -1,0 +1,319 @@
+{
+    "externalId": "AggregatedTvShow_e222c8f4-254a-526a-8811-bd94f064a144",
+    "clientContentId": "PACK0000000001775375",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Criminal - Trailer",
+            "may": "Criminal - Trailer",
+            "tam": "Criminal - Trailer",
+            "chi": "Criminal - Trailer",
+            "tha": "Criminal - Trailer",
+            "ind": "Criminal - Trailer"
+        },
+        "long": {
+            "eng": "Criminal - Trailer",
+            "may": "Criminal - Trailer",
+            "tam": "Criminal - Trailer",
+            "chi": "Criminal - Trailer",
+            "tha": "Criminal - Trailer",
+            "ind": "Criminal - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A cat-and-mouse drama, which focuses on the intense mental conflict between detectives and suspects. The stories take place within the confines of a police interview suite.",
+            "may": "A cat-and-mouse drama, which focuses on the intense mental conflict between detectives and suspects. The stories take place within the confines of a police interview suite.",
+            "tam": "A cat-and-mouse drama, which focuses on the intense mental conflict between detectives and suspects. The stories take place within the confines of a police interview suite.",
+            "chi": "A cat-and-mouse drama, which focuses on the intense mental conflict between detectives and suspects. The stories take place within the confines of a police interview suite.",
+            "tha": "A cat-and-mouse drama, which focuses on the intense mental conflict between detectives and suspects. The stories take place within the confines of a police interview suite.",
+            "ind": "A cat-and-mouse drama, which focuses on the intense mental conflict between detectives and suspects. The stories take place within the confines of a police interview suite."
+        },
+        "long": {
+            "eng": "A cat-and-mouse drama, which focuses on the intense mental conflict between detectives and suspects. The stories take place within the confines of a police interview suite.",
+            "may": "A cat-and-mouse drama, which focuses on the intense mental conflict between detectives and suspects. The stories take place within the confines of a police interview suite.",
+            "tam": "A cat-and-mouse drama, which focuses on the intense mental conflict between detectives and suspects. The stories take place within the confines of a police interview suite.",
+            "chi": "A cat-and-mouse drama, which focuses on the intense mental conflict between detectives and suspects. The stories take place within the confines of a police interview suite.",
+            "tha": "A cat-and-mouse drama, which focuses on the intense mental conflict between detectives and suspects. The stories take place within the confines of a police interview suite.",
+            "ind": "A cat-and-mouse drama, which focuses on the intense mental conflict between detectives and suspects. The stories take place within the confines of a police interview suite."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Katherine Kelly",
+            " Lee Ingleby",
+            " Rochenda Sandall",
+            " Shubham Saraf",
+            " Mark Stanley",
+            " Nicholas Pinnock",
+            " Aymen Hamdouchi",
+            " Amanda Drew",
+            " Jyuddah Jaymes",
+            " Lolita Chakrabarti"
+        ],
+        "may": [
+            "Katherine Kelly",
+            " Lee Ingleby",
+            " Rochenda Sandall",
+            " Shubham Saraf",
+            " Mark Stanley",
+            " Nicholas Pinnock",
+            " Aymen Hamdouchi",
+            " Amanda Drew",
+            " Jyuddah Jaymes",
+            " Lolita Chakrabarti"
+        ],
+        "tam": [
+            "Katherine Kelly",
+            " Lee Ingleby",
+            " Rochenda Sandall",
+            " Shubham Saraf",
+            " Mark Stanley",
+            " Nicholas Pinnock",
+            " Aymen Hamdouchi",
+            " Amanda Drew",
+            " Jyuddah Jaymes",
+            " Lolita Chakrabarti"
+        ],
+        "chi": [
+            "Katherine Kelly",
+            " Lee Ingleby",
+            " Rochenda Sandall",
+            " Shubham Saraf",
+            " Mark Stanley",
+            " Nicholas Pinnock",
+            " Aymen Hamdouchi",
+            " Amanda Drew",
+            " Jyuddah Jaymes",
+            " Lolita Chakrabarti"
+        ],
+        "tha": [
+            "Katherine Kelly",
+            " Lee Ingleby",
+            " Rochenda Sandall",
+            " Shubham Saraf",
+            " Mark Stanley",
+            " Nicholas Pinnock",
+            " Aymen Hamdouchi",
+            " Amanda Drew",
+            " Jyuddah Jaymes",
+            " Lolita Chakrabarti"
+        ],
+        "ind": [
+            "Katherine Kelly",
+            " Lee Ingleby",
+            " Rochenda Sandall",
+            " Shubham Saraf",
+            " Mark Stanley",
+            " Nicholas Pinnock",
+            " Aymen Hamdouchi",
+            " Amanda Drew",
+            " Jyuddah Jaymes",
+            " Lolita Chakrabarti"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jim Field Smith"
+        ],
+        "may": [
+            "Jim Field Smith"
+        ],
+        "tam": [
+            "Jim Field Smith"
+        ],
+        "chi": [
+            "Jim Field Smith"
+        ],
+        "tha": [
+            "Jim Field Smith"
+        ],
+        "ind": [
+            "Jim Field Smith"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jim Field Smith",
+            " Georgie Fallon",
+            " Jos\u00e9 Luis Escolar",
+            " George Kay",
+            " Frances Mable",
+            " Carlos Ruiz Boceta"
+        ],
+        "may": [
+            "Jim Field Smith",
+            " Georgie Fallon",
+            " Jos\u00e9 Luis Escolar",
+            " George Kay",
+            " Frances Mable",
+            " Carlos Ruiz Boceta"
+        ],
+        "tam": [
+            "Jim Field Smith",
+            " Georgie Fallon",
+            " Jos\u00e9 Luis Escolar",
+            " George Kay",
+            " Frances Mable",
+            " Carlos Ruiz Boceta"
+        ],
+        "chi": [
+            "Jim Field Smith",
+            " Georgie Fallon",
+            " Jos\u00e9 Luis Escolar",
+            " George Kay",
+            " Frances Mable",
+            " Carlos Ruiz Boceta"
+        ],
+        "tha": [
+            "Jim Field Smith",
+            " Georgie Fallon",
+            " Jos\u00e9 Luis Escolar",
+            " George Kay",
+            " Frances Mable",
+            " Carlos Ruiz Boceta"
+        ],
+        "ind": [
+            "Jim Field Smith",
+            " Georgie Fallon",
+            " Jos\u00e9 Luis Escolar",
+            " George Kay",
+            " Frances Mable",
+            " Carlos Ruiz Boceta"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/CriminalSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/CriminalSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/CriminalSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_e8dd9cd1-03a2-5c60-837f-866bf17463ee",
+    "seasonId": "AggregatedSeason_83874a84-a15e-5455-bcf1-16c613d45a3e",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2019,
+    "rating": "15",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

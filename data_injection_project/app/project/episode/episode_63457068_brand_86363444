@@ -1,0 +1,379 @@
+{
+    "externalId": "AggregatedTvShow_e140efc9-1f45-58dc-a602-0559e138b6be",
+    "clientContentId": "PACK0000000004255082",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Stranger Things - Trailer",
+            "may": "Stranger Things - Trailer",
+            "tam": "Stranger Things - Trailer",
+            "chi": "Stranger Things - Trailer",
+            "tha": "Stranger Things - Trailer",
+            "ind": "Stranger Things - Trailer"
+        },
+        "long": {
+            "eng": "Stranger Things - Trailer",
+            "may": "Stranger Things - Trailer",
+            "tam": "Stranger Things - Trailer",
+            "chi": "Stranger Things - Trailer",
+            "tha": "Stranger Things - Trailer",
+            "ind": "Stranger Things - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "may": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "tam": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "chi": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "tha": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "ind": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back."
+        },
+        "long": {
+            "eng": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "may": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "tam": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "chi": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "tha": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "ind": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Winona Ryder",
+            " David Harbour",
+            " Finn Wolfhard",
+            " Gaten Matarazzo",
+            " Caleb McLaughlin",
+            " Natalia Dyer",
+            " Charlie Heaton",
+            " Joe Keery",
+            " Millie Bobby Brown",
+            " Noah Schnapp"
+        ],
+        "may": [
+            "Winona Ryder",
+            " David Harbour",
+            " Finn Wolfhard",
+            " Gaten Matarazzo",
+            " Caleb McLaughlin",
+            " Natalia Dyer",
+            " Charlie Heaton",
+            " Joe Keery",
+            " Millie Bobby Brown",
+            " Noah Schnapp"
+        ],
+        "tam": [
+            "Winona Ryder",
+            " David Harbour",
+            " Finn Wolfhard",
+            " Gaten Matarazzo",
+            " Caleb McLaughlin",
+            " Natalia Dyer",
+            " Charlie Heaton",
+            " Joe Keery",
+            " Millie Bobby Brown",
+            " Noah Schnapp"
+        ],
+        "chi": [
+            "Winona Ryder",
+            " David Harbour",
+            " Finn Wolfhard",
+            " Gaten Matarazzo",
+            " Caleb McLaughlin",
+            " Natalia Dyer",
+            " Charlie Heaton",
+            " Joe Keery",
+            " Millie Bobby Brown",
+            " Noah Schnapp"
+        ],
+        "tha": [
+            "Winona Ryder",
+            " David Harbour",
+            " Finn Wolfhard",
+            " Gaten Matarazzo",
+            " Caleb McLaughlin",
+            " Natalia Dyer",
+            " Charlie Heaton",
+            " Joe Keery",
+            " Millie Bobby Brown",
+            " Noah Schnapp"
+        ],
+        "ind": [
+            "Winona Ryder",
+            " David Harbour",
+            " Finn Wolfhard",
+            " Gaten Matarazzo",
+            " Caleb McLaughlin",
+            " Natalia Dyer",
+            " Charlie Heaton",
+            " Joe Keery",
+            " Millie Bobby Brown",
+            " Noah Schnapp"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Andrew Stanton",
+            " Uta Briesewitz",
+            " Nimr\u00f3d Antal",
+            " Rebecca Thomas"
+        ],
+        "may": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Andrew Stanton",
+            " Uta Briesewitz",
+            " Nimr\u00f3d Antal",
+            " Rebecca Thomas"
+        ],
+        "tam": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Andrew Stanton",
+            " Uta Briesewitz",
+            " Nimr\u00f3d Antal",
+            " Rebecca Thomas"
+        ],
+        "chi": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Andrew Stanton",
+            " Uta Briesewitz",
+            " Nimr\u00f3d Antal",
+            " Rebecca Thomas"
+        ],
+        "tha": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Andrew Stanton",
+            " Uta Briesewitz",
+            " Nimr\u00f3d Antal",
+            " Rebecca Thomas"
+        ],
+        "ind": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Andrew Stanton",
+            " Uta Briesewitz",
+            " Nimr\u00f3d Antal",
+            " Rebecca Thomas"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Dan Cohen",
+            " Rand Geiger",
+            " Emily Morris",
+            " Iain Paterson",
+            " Justin Doble",
+            " Curtis Gwinn",
+            " Paula Kramer"
+        ],
+        "may": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Dan Cohen",
+            " Rand Geiger",
+            " Emily Morris",
+            " Iain Paterson",
+            " Justin Doble",
+            " Curtis Gwinn",
+            " Paula Kramer"
+        ],
+        "tam": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Dan Cohen",
+            " Rand Geiger",
+            " Emily Morris",
+            " Iain Paterson",
+            " Justin Doble",
+            " Curtis Gwinn",
+            " Paula Kramer"
+        ],
+        "chi": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Dan Cohen",
+            " Rand Geiger",
+            " Emily Morris",
+            " Iain Paterson",
+            " Justin Doble",
+            " Curtis Gwinn",
+            " Paula Kramer"
+        ],
+        "tha": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Dan Cohen",
+            " Rand Geiger",
+            " Emily Morris",
+            " Iain Paterson",
+            " Justin Doble",
+            " Curtis Gwinn",
+            " Paula Kramer"
+        ],
+        "ind": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Dan Cohen",
+            " Rand Geiger",
+            " Emily Morris",
+            " Iain Paterson",
+            " Justin Doble",
+            " Curtis Gwinn",
+            " Paula Kramer"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Fantasy",
+                    "may": " Fantasy",
+                    "tam": " Fantasy",
+                    "chi": " Fantasy",
+                    "tha": " Fantasy",
+                    "ind": " Fantasy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StrangerThingsSeason3_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StrangerThingsSeason3_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StrangerThingsSeason3_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_ea31acb3-18b9-57f6-a78b-1aa049a15122",
+    "seasonId": "AggregatedSeason_8b6165fa-6d21-532c-b6fd-63e18f051e4b",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "3",
+    "yearOfRelease": 2016,
+    "rating": "TV-14",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,373 @@
+{
+    "externalId": "AggregatedTvShow_406569cd-3d48-5b5a-931e-d49876297ff3",
+    "clientContentId": "PACK0000000001903026",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "V Wars - Trailer",
+            "may": "V Wars - Trailer",
+            "tam": "V Wars - Trailer",
+            "chi": "V Wars - Trailer",
+            "tha": "V Wars - Trailer",
+            "ind": "V Wars - Trailer"
+        },
+        "long": {
+            "eng": "V Wars - Trailer",
+            "may": "V Wars - Trailer",
+            "tam": "V Wars - Trailer",
+            "chi": "V Wars - Trailer",
+            "tha": "V Wars - Trailer",
+            "ind": "V Wars - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "may": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "tam": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "chi": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "tha": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "ind": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change."
+        },
+        "long": {
+            "eng": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "may": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "tam": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "chi": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "tha": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change.",
+            "ind": "Dr. Luther Swann enters a world of horror when a virus is released from ice melting due to climate change."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Ian Somerhalder",
+            " Adrian Holmes",
+            " Jacky Lai",
+            " Kyle Breitkopf",
+            " Kimberly-Sue Murray",
+            " Peter Outerbridge",
+            " Michael Greyeyes",
+            " Sydney Ozerov-Meyer",
+            " Laura Vandervoort",
+            " Samantha Cole"
+        ],
+        "may": [
+            "Ian Somerhalder",
+            " Adrian Holmes",
+            " Jacky Lai",
+            " Kyle Breitkopf",
+            " Kimberly-Sue Murray",
+            " Peter Outerbridge",
+            " Michael Greyeyes",
+            " Sydney Ozerov-Meyer",
+            " Laura Vandervoort",
+            " Samantha Cole"
+        ],
+        "tam": [
+            "Ian Somerhalder",
+            " Adrian Holmes",
+            " Jacky Lai",
+            " Kyle Breitkopf",
+            " Kimberly-Sue Murray",
+            " Peter Outerbridge",
+            " Michael Greyeyes",
+            " Sydney Ozerov-Meyer",
+            " Laura Vandervoort",
+            " Samantha Cole"
+        ],
+        "chi": [
+            "Ian Somerhalder",
+            " Adrian Holmes",
+            " Jacky Lai",
+            " Kyle Breitkopf",
+            " Kimberly-Sue Murray",
+            " Peter Outerbridge",
+            " Michael Greyeyes",
+            " Sydney Ozerov-Meyer",
+            " Laura Vandervoort",
+            " Samantha Cole"
+        ],
+        "tha": [
+            "Ian Somerhalder",
+            " Adrian Holmes",
+            " Jacky Lai",
+            " Kyle Breitkopf",
+            " Kimberly-Sue Murray",
+            " Peter Outerbridge",
+            " Michael Greyeyes",
+            " Sydney Ozerov-Meyer",
+            " Laura Vandervoort",
+            " Samantha Cole"
+        ],
+        "ind": [
+            "Ian Somerhalder",
+            " Adrian Holmes",
+            " Jacky Lai",
+            " Kyle Breitkopf",
+            " Kimberly-Sue Murray",
+            " Peter Outerbridge",
+            " Michael Greyeyes",
+            " Sydney Ozerov-Meyer",
+            " Laura Vandervoort",
+            " Samantha Cole"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Brad Turner",
+            " T.J. Scott",
+            " Kaare Andrews",
+            " Marita Grabiak",
+            " Bobby Roth",
+            " Ian Somerhalder"
+        ],
+        "may": [
+            "Brad Turner",
+            " T.J. Scott",
+            " Kaare Andrews",
+            " Marita Grabiak",
+            " Bobby Roth",
+            " Ian Somerhalder"
+        ],
+        "tam": [
+            "Brad Turner",
+            " T.J. Scott",
+            " Kaare Andrews",
+            " Marita Grabiak",
+            " Bobby Roth",
+            " Ian Somerhalder"
+        ],
+        "chi": [
+            "Brad Turner",
+            " T.J. Scott",
+            " Kaare Andrews",
+            " Marita Grabiak",
+            " Bobby Roth",
+            " Ian Somerhalder"
+        ],
+        "tha": [
+            "Brad Turner",
+            " T.J. Scott",
+            " Kaare Andrews",
+            " Marita Grabiak",
+            " Bobby Roth",
+            " Ian Somerhalder"
+        ],
+        "ind": [
+            "Brad Turner",
+            " T.J. Scott",
+            " Kaare Andrews",
+            " Marita Grabiak",
+            " Bobby Roth",
+            " Ian Somerhalder"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ted Adams",
+            " David Anselmo",
+            " Lydia Antonini",
+            " Philip Bedard",
+            " Eric Birnberg",
+            " Glenn Davis",
+            " James Gibb",
+            " David Hackl",
+            " Paul Harb",
+            " Larry Lalonde"
+        ],
+        "may": [
+            "Ted Adams",
+            " David Anselmo",
+            " Lydia Antonini",
+            " Philip Bedard",
+            " Eric Birnberg",
+            " Glenn Davis",
+            " James Gibb",
+            " David Hackl",
+            " Paul Harb",
+            " Larry Lalonde"
+        ],
+        "tam": [
+            "Ted Adams",
+            " David Anselmo",
+            " Lydia Antonini",
+            " Philip Bedard",
+            " Eric Birnberg",
+            " Glenn Davis",
+            " James Gibb",
+            " David Hackl",
+            " Paul Harb",
+            " Larry Lalonde"
+        ],
+        "chi": [
+            "Ted Adams",
+            " David Anselmo",
+            " Lydia Antonini",
+            " Philip Bedard",
+            " Eric Birnberg",
+            " Glenn Davis",
+            " James Gibb",
+            " David Hackl",
+            " Paul Harb",
+            " Larry Lalonde"
+        ],
+        "tha": [
+            "Ted Adams",
+            " David Anselmo",
+            " Lydia Antonini",
+            " Philip Bedard",
+            " Eric Birnberg",
+            " Glenn Davis",
+            " James Gibb",
+            " David Hackl",
+            " Paul Harb",
+            " Larry Lalonde"
+        ],
+        "ind": [
+            "Ted Adams",
+            " David Anselmo",
+            " Lydia Antonini",
+            " Philip Bedard",
+            " Eric Birnberg",
+            " Glenn Davis",
+            " James Gibb",
+            " David Hackl",
+            " Paul Harb",
+            " Larry Lalonde"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "tam": " Horror",
+                    "chi": " Horror",
+                    "tha": " Horror",
+                    "ind": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VirginRiverSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VirginRiverSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VirginRiverSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_2aa9d73b-6c29-53c8-8466-a38d103b26ab",
+    "seasonId": "AggregatedSeason_e0127fc2-2be7-51b2-b3d0-a040fb1503ef",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2019,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

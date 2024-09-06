@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_1135bc83-8e2a-5368-bd33-cb4cc12b3345",
+    "clientContentId": "PACK0000000005447501",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "IT CHAPTER TWO",
+            "may": "IT CHAPTER TWO",
+            "tam": "IT CHAPTER TWO",
+            "chi": "IT CHAPTER TWO",
+            "tha": "IT CHAPTER TWO",
+            "ind": "IT CHAPTER TWO"
+        },
+        "long": {
+            "eng": "IT CHAPTER TWO",
+            "may": "IT CHAPTER TWO",
+            "tam": "IT CHAPTER TWO",
+            "chi": "IT CHAPTER TWO",
+            "tha": "IT CHAPTER TWO",
+            "ind": "IT CHAPTER TWO"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+            "may": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+            "tam": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+            "chi": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+            "tha": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+            "ind": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back."
+        },
+        "long": {
+            "eng": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+            "may": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+            "tam": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+            "chi": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+            "tha": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+            "ind": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jessica Chastain",
+            " James McAvoy",
+            " Bill Hader",
+            " Isaiah Mustafa",
+            " Jay Ryan",
+            " James Ransone",
+            " Andy Bean",
+            " Bill Skarsg\u00e5rd",
+            " Jaeden Martell",
+            " Wyatt Oleff"
+        ],
+        "may": [
+            "Jessica Chastain",
+            " James McAvoy",
+            " Bill Hader",
+            " Isaiah Mustafa",
+            " Jay Ryan",
+            " James Ransone",
+            " Andy Bean",
+            " Bill Skarsg\u00e5rd",
+            " Jaeden Martell",
+            " Wyatt Oleff"
+        ],
+        "tam": [
+            "Jessica Chastain",
+            " James McAvoy",
+            " Bill Hader",
+            " Isaiah Mustafa",
+            " Jay Ryan",
+            " James Ransone",
+            " Andy Bean",
+            " Bill Skarsg\u00e5rd",
+            " Jaeden Martell",
+            " Wyatt Oleff"
+        ],
+        "chi": [
+            "Jessica Chastain",
+            " James McAvoy",
+            " Bill Hader",
+            " Isaiah Mustafa",
+            " Jay Ryan",
+            " James Ransone",
+            " Andy Bean",
+            " Bill Skarsg\u00e5rd",
+            " Jaeden Martell",
+            " Wyatt Oleff"
+        ],
+        "tha": [
+            "Jessica Chastain",
+            " James McAvoy",
+            " Bill Hader",
+            " Isaiah Mustafa",
+            " Jay Ryan",
+            " James Ransone",
+            " Andy Bean",
+            " Bill Skarsg\u00e5rd",
+            " Jaeden Martell",
+            " Wyatt Oleff"
+        ],
+        "ind": [
+            "Jessica Chastain",
+            " James McAvoy",
+            " Bill Hader",
+            " Isaiah Mustafa",
+            " Jay Ryan",
+            " James Ransone",
+            " Andy Bean",
+            " Bill Skarsg\u00e5rd",
+            " Jaeden Martell",
+            " Wyatt Oleff"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Andy Muschietti"
+        ],
+        "may": [
+            "Andy Muschietti"
+        ],
+        "tam": [
+            "Andy Muschietti"
+        ],
+        "chi": [
+            "Andy Muschietti"
+        ],
+        "tha": [
+            "Andy Muschietti"
+        ],
+        "ind": [
+            "Andy Muschietti"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Richard Brener",
+            " Gary Dauberman",
+            " Marty P. Ewing",
+            " Jason Fuchs",
+            " Seth Grahame-Smith",
+            " David Katzenberg",
+            " Roy Lee",
+            " Dan Lin",
+            " Barbara Muschietti",
+            " Dave Neustadter"
+        ],
+        "may": [
+            "Richard Brener",
+            " Gary Dauberman",
+            " Marty P. Ewing",
+            " Jason Fuchs",
+            " Seth Grahame-Smith",
+            " David Katzenberg",
+            " Roy Lee",
+            " Dan Lin",
+            " Barbara Muschietti",
+            " Dave Neustadter"
+        ],
+        "tam": [
+            "Richard Brener",
+            " Gary Dauberman",
+            " Marty P. Ewing",
+            " Jason Fuchs",
+            " Seth Grahame-Smith",
+            " David Katzenberg",
+            " Roy Lee",
+            " Dan Lin",
+            " Barbara Muschietti",
+            " Dave Neustadter"
+        ],
+        "chi": [
+            "Richard Brener",
+            " Gary Dauberman",
+            " Marty P. Ewing",
+            " Jason Fuchs",
+            " Seth Grahame-Smith",
+            " David Katzenberg",
+            " Roy Lee",
+            " Dan Lin",
+            " Barbara Muschietti",
+            " Dave Neustadter"
+        ],
+        "tha": [
+            "Richard Brener",
+            " Gary Dauberman",
+            " Marty P. Ewing",
+            " Jason Fuchs",
+            " Seth Grahame-Smith",
+            " David Katzenberg",
+            " Roy Lee",
+            " Dan Lin",
+            " Barbara Muschietti",
+            " Dave Neustadter"
+        ],
+        "ind": [
+            "Richard Brener",
+            " Gary Dauberman",
+            " Marty P. Ewing",
+            " Jason Fuchs",
+            " Seth Grahame-Smith",
+            " David Katzenberg",
+            " Roy Lee",
+            " Dan Lin",
+            " Barbara Muschietti",
+            " Dave Neustadter"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Fantasy",
+                    "may": " Fantasy",
+                    "tam": " Fantasy",
+                    "chi": " Fantasy",
+                    "tha": " Fantasy",
+                    "ind": " Fantasy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ITCHAPTERTWO_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ITCHAPTERTWO_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ITCHAPTERTWO_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2019,
+    "rating": "6.5",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

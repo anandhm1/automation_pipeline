@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedSeries_810927bd-ebcd-5bc8-a607-4899254a675b",
+    "clientContentId": "PACK0000000008674480",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Pretty Little Liars The Perfectionists",
+            "may": "Pretty Little Liars The Perfectionists",
+            "tam": "Pretty Little Liars The Perfectionists",
+            "chi": "Pretty Little Liars The Perfectionists",
+            "tha": "Pretty Little Liars The Perfectionists",
+            "ind": "Pretty Little Liars The Perfectionists"
+        },
+        "long": {
+            "eng": "Pretty Little Liars The Perfectionists",
+            "may": "Pretty Little Liars The Perfectionists",
+            "tam": "Pretty Little Liars The Perfectionists",
+            "chi": "Pretty Little Liars The Perfectionists",
+            "tha": "Pretty Little Liars The Perfectionists",
+            "ind": "Pretty Little Liars The Perfectionists"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Everything about the town of Beacon Heights seems perfect, but in the aftermath of the town's first murder, behind every Perfectionist hides secrets, lies and much needed alibies.",
+            "may": "Everything about the town of Beacon Heights seems perfect, but in the aftermath of the town's first murder, behind every Perfectionist hides secrets, lies and much needed alibies.",
+            "tam": "Everything about the town of Beacon Heights seems perfect, but in the aftermath of the town's first murder, behind every Perfectionist hides secrets, lies and much needed alibies.",
+            "chi": "Everything about the town of Beacon Heights seems perfect, but in the aftermath of the town's first murder, behind every Perfectionist hides secrets, lies and much needed alibies.",
+            "tha": "Everything about the town of Beacon Heights seems perfect, but in the aftermath of the town's first murder, behind every Perfectionist hides secrets, lies and much needed alibies.",
+            "ind": "Everything about the town of Beacon Heights seems perfect, but in the aftermath of the town's first murder, behind every Perfectionist hides secrets, lies and much needed alibies."
+        },
+        "long": {
+            "eng": "Everything about the town of Beacon Heights seems perfect, but in the aftermath of the town's first murder, behind every Perfectionist hides secrets, lies and much needed alibies.",
+            "may": "Everything about the town of Beacon Heights seems perfect, but in the aftermath of the town's first murder, behind every Perfectionist hides secrets, lies and much needed alibies.",
+            "tam": "Everything about the town of Beacon Heights seems perfect, but in the aftermath of the town's first murder, behind every Perfectionist hides secrets, lies and much needed alibies.",
+            "chi": "Everything about the town of Beacon Heights seems perfect, but in the aftermath of the town's first murder, behind every Perfectionist hides secrets, lies and much needed alibies.",
+            "tha": "Everything about the town of Beacon Heights seems perfect, but in the aftermath of the town's first murder, behind every Perfectionist hides secrets, lies and much needed alibies.",
+            "ind": "Everything about the town of Beacon Heights seems perfect, but in the aftermath of the town's first murder, behind every Perfectionist hides secrets, lies and much needed alibies."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Sasha Pieterse",
+            " Janel Parrish",
+            " Sofia Carson",
+            " Sydney Park",
+            " Eli Brown",
+            " Hayley Erin",
+            " Graeme Thomas King",
+            " Kelly Rutherford",
+            " Kassidy Matthews",
+            " Noah Gray-Cabey"
+        ],
+        "may": [
+            "Sasha Pieterse",
+            " Janel Parrish",
+            " Sofia Carson",
+            " Sydney Park",
+            " Eli Brown",
+            " Hayley Erin",
+            " Graeme Thomas King",
+            " Kelly Rutherford",
+            " Kassidy Matthews",
+            " Noah Gray-Cabey"
+        ],
+        "tam": [
+            "Sasha Pieterse",
+            " Janel Parrish",
+            " Sofia Carson",
+            " Sydney Park",
+            " Eli Brown",
+            " Hayley Erin",
+            " Graeme Thomas King",
+            " Kelly Rutherford",
+            " Kassidy Matthews",
+            " Noah Gray-Cabey"
+        ],
+        "chi": [
+            "Sasha Pieterse",
+            " Janel Parrish",
+            " Sofia Carson",
+            " Sydney Park",
+            " Eli Brown",
+            " Hayley Erin",
+            " Graeme Thomas King",
+            " Kelly Rutherford",
+            " Kassidy Matthews",
+            " Noah Gray-Cabey"
+        ],
+        "tha": [
+            "Sasha Pieterse",
+            " Janel Parrish",
+            " Sofia Carson",
+            " Sydney Park",
+            " Eli Brown",
+            " Hayley Erin",
+            " Graeme Thomas King",
+            " Kelly Rutherford",
+            " Kassidy Matthews",
+            " Noah Gray-Cabey"
+        ],
+        "ind": [
+            "Sasha Pieterse",
+            " Janel Parrish",
+            " Sofia Carson",
+            " Sydney Park",
+            " Eli Brown",
+            " Hayley Erin",
+            " Graeme Thomas King",
+            " Kelly Rutherford",
+            " Kassidy Matthews",
+            " Noah Gray-Cabey"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Norman Buckley",
+            " Roger Kumble",
+            " Elizabeth Allen Rosenbaum",
+            " Arlene Sanford",
+            " Shiri Appleby",
+            " Geary McLeod"
+        ],
+        "may": [
+            "Norman Buckley",
+            " Roger Kumble",
+            " Elizabeth Allen Rosenbaum",
+            " Arlene Sanford",
+            " Shiri Appleby",
+            " Geary McLeod"
+        ],
+        "tam": [
+            "Norman Buckley",
+            " Roger Kumble",
+            " Elizabeth Allen Rosenbaum",
+            " Arlene Sanford",
+            " Shiri Appleby",
+            " Geary McLeod"
+        ],
+        "chi": [
+            "Norman Buckley",
+            " Roger Kumble",
+            " Elizabeth Allen Rosenbaum",
+            " Arlene Sanford",
+            " Shiri Appleby",
+            " Geary McLeod"
+        ],
+        "tha": [
+            "Norman Buckley",
+            " Roger Kumble",
+            " Elizabeth Allen Rosenbaum",
+            " Arlene Sanford",
+            " Shiri Appleby",
+            " Geary McLeod"
+        ],
+        "ind": [
+            "Norman Buckley",
+            " Roger Kumble",
+            " Elizabeth Allen Rosenbaum",
+            " Arlene Sanford",
+            " Shiri Appleby",
+            " Geary McLeod"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Bruce Carter",
+            " Charles Grant Craig",
+            " Joseph Dougherty",
+            " I. Marlene King",
+            " Norman Buckley",
+            " Nelson Soler",
+            " Paula Yoo",
+            " Lisa Cochran-Neilan",
+            " Elizabeth Allen Rosenbaum",
+            " "
+        ],
+        "may": [
+            "Bruce Carter",
+            " Charles Grant Craig",
+            " Joseph Dougherty",
+            " I. Marlene King",
+            " Norman Buckley",
+            " Nelson Soler",
+            " Paula Yoo",
+            " Lisa Cochran-Neilan",
+            " Elizabeth Allen Rosenbaum",
+            " "
+        ],
+        "tam": [
+            "Bruce Carter",
+            " Charles Grant Craig",
+            " Joseph Dougherty",
+            " I. Marlene King",
+            " Norman Buckley",
+            " Nelson Soler",
+            " Paula Yoo",
+            " Lisa Cochran-Neilan",
+            " Elizabeth Allen Rosenbaum",
+            " "
+        ],
+        "chi": [
+            "Bruce Carter",
+            " Charles Grant Craig",
+            " Joseph Dougherty",
+            " I. Marlene King",
+            " Norman Buckley",
+            " Nelson Soler",
+            " Paula Yoo",
+            " Lisa Cochran-Neilan",
+            " Elizabeth Allen Rosenbaum",
+            " "
+        ],
+        "tha": [
+            "Bruce Carter",
+            " Charles Grant Craig",
+            " Joseph Dougherty",
+            " I. Marlene King",
+            " Norman Buckley",
+            " Nelson Soler",
+            " Paula Yoo",
+            " Lisa Cochran-Neilan",
+            " Elizabeth Allen Rosenbaum",
+            " "
+        ],
+        "ind": [
+            "Bruce Carter",
+            " Charles Grant Craig",
+            " Joseph Dougherty",
+            " I. Marlene King",
+            " Norman Buckley",
+            " Nelson Soler",
+            " Paula Yoo",
+            " Lisa Cochran-Neilan",
+            " Elizabeth Allen Rosenbaum",
+            " "
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PrettyLittleLiarsThePerfectionistsS01E01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PrettyLittleLiarsThePerfectionistsS01E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PrettyLittleLiarsThePerfectionistsS01E01_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "7",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2019,
+    "maxConcurrentStreams": 0
+}

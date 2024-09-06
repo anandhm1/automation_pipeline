@@ -1,0 +1,373 @@
+{
+    "externalId": "AggregatedTvShow_678a518e-96bb-574d-897d-8cd30f7dffbc",
+    "clientContentId": "PACK0000000009837716",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Pilot",
+            "may": "Pilot",
+            "tam": "Pilot",
+            "chi": "Pilot",
+            "tha": "Pilot",
+            "ind": "Pilot"
+        },
+        "long": {
+            "eng": "Pilot",
+            "may": "Pilot",
+            "tam": "Pilot",
+            "chi": "Pilot",
+            "tha": "Pilot",
+            "ind": "Pilot"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "may": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "tam": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "chi": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "tha": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "ind": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally."
+        },
+        "long": {
+            "eng": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "may": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "tam": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "chi": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "tha": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "ind": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Milo Ventimiglia",
+            " Catherine Haena Kim",
+            " Sarah Wayne Callies",
+            " Polly Draper",
+            " Tim Chiou",
+            " James Saito",
+            " Freda Foh Shen",
+            " Felisha Terrell",
+            " William Fichtner",
+            " Efka Kvaraciejus"
+        ],
+        "may": [
+            "Milo Ventimiglia",
+            " Catherine Haena Kim",
+            " Sarah Wayne Callies",
+            " Polly Draper",
+            " Tim Chiou",
+            " James Saito",
+            " Freda Foh Shen",
+            " Felisha Terrell",
+            " William Fichtner",
+            " Efka Kvaraciejus"
+        ],
+        "tam": [
+            "Milo Ventimiglia",
+            " Catherine Haena Kim",
+            " Sarah Wayne Callies",
+            " Polly Draper",
+            " Tim Chiou",
+            " James Saito",
+            " Freda Foh Shen",
+            " Felisha Terrell",
+            " William Fichtner",
+            " Efka Kvaraciejus"
+        ],
+        "chi": [
+            "Milo Ventimiglia",
+            " Catherine Haena Kim",
+            " Sarah Wayne Callies",
+            " Polly Draper",
+            " Tim Chiou",
+            " James Saito",
+            " Freda Foh Shen",
+            " Felisha Terrell",
+            " William Fichtner",
+            " Efka Kvaraciejus"
+        ],
+        "tha": [
+            "Milo Ventimiglia",
+            " Catherine Haena Kim",
+            " Sarah Wayne Callies",
+            " Polly Draper",
+            " Tim Chiou",
+            " James Saito",
+            " Freda Foh Shen",
+            " Felisha Terrell",
+            " William Fichtner",
+            " Efka Kvaraciejus"
+        ],
+        "ind": [
+            "Milo Ventimiglia",
+            " Catherine Haena Kim",
+            " Sarah Wayne Callies",
+            " Polly Draper",
+            " Tim Chiou",
+            " James Saito",
+            " Freda Foh Shen",
+            " Felisha Terrell",
+            " William Fichtner",
+            " Efka Kvaraciejus"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Chi Yoon Chung",
+            " Jon Huertas",
+            " Anna Mastro",
+            " Kevin Mock",
+            " David Straiton",
+            " Ben Younger"
+        ],
+        "may": [
+            "Chi Yoon Chung",
+            " Jon Huertas",
+            " Anna Mastro",
+            " Kevin Mock",
+            " David Straiton",
+            " Ben Younger"
+        ],
+        "tam": [
+            "Chi Yoon Chung",
+            " Jon Huertas",
+            " Anna Mastro",
+            " Kevin Mock",
+            " David Straiton",
+            " Ben Younger"
+        ],
+        "chi": [
+            "Chi Yoon Chung",
+            " Jon Huertas",
+            " Anna Mastro",
+            " Kevin Mock",
+            " David Straiton",
+            " Ben Younger"
+        ],
+        "tha": [
+            "Chi Yoon Chung",
+            " Jon Huertas",
+            " Anna Mastro",
+            " Kevin Mock",
+            " David Straiton",
+            " Ben Younger"
+        ],
+        "ind": [
+            "Chi Yoon Chung",
+            " Jon Huertas",
+            " Anna Mastro",
+            " Kevin Mock",
+            " David Straiton",
+            " Ben Younger"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Julia Cohen",
+            " Phil Klemmer",
+            " Jon M. Chu",
+            " Russ Cundiff",
+            " Caitlin Foito",
+            " Lindsay Goffman",
+            " Mike Gray",
+            " Deanna Harris",
+            " Todd Harthan",
+            " Han-Sang Jo"
+        ],
+        "may": [
+            "Julia Cohen",
+            " Phil Klemmer",
+            " Jon M. Chu",
+            " Russ Cundiff",
+            " Caitlin Foito",
+            " Lindsay Goffman",
+            " Mike Gray",
+            " Deanna Harris",
+            " Todd Harthan",
+            " Han-Sang Jo"
+        ],
+        "tam": [
+            "Julia Cohen",
+            " Phil Klemmer",
+            " Jon M. Chu",
+            " Russ Cundiff",
+            " Caitlin Foito",
+            " Lindsay Goffman",
+            " Mike Gray",
+            " Deanna Harris",
+            " Todd Harthan",
+            " Han-Sang Jo"
+        ],
+        "chi": [
+            "Julia Cohen",
+            " Phil Klemmer",
+            " Jon M. Chu",
+            " Russ Cundiff",
+            " Caitlin Foito",
+            " Lindsay Goffman",
+            " Mike Gray",
+            " Deanna Harris",
+            " Todd Harthan",
+            " Han-Sang Jo"
+        ],
+        "tha": [
+            "Julia Cohen",
+            " Phil Klemmer",
+            " Jon M. Chu",
+            " Russ Cundiff",
+            " Caitlin Foito",
+            " Lindsay Goffman",
+            " Mike Gray",
+            " Deanna Harris",
+            " Todd Harthan",
+            " Han-Sang Jo"
+        ],
+        "ind": [
+            "Julia Cohen",
+            " Phil Klemmer",
+            " Jon M. Chu",
+            " Russ Cundiff",
+            " Caitlin Foito",
+            " Lindsay Goffman",
+            " Mike Gray",
+            " Deanna Harris",
+            " Todd Harthan",
+            " Han-Sang Jo"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheCompanyYouKeepS01E01_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheCompanyYouKeepS01E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheCompanyYouKeepS01E01_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_847e3c06-9eeb-5741-90a2-d3322632c042",
+    "seasonId": "AggregatedSeason_3c839cbf-b8d8-5d93-88c2-3bdd8de226d2",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2023,
+    "rating": "TV-14",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

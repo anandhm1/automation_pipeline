@@ -1,0 +1,319 @@
+{
+    "externalId": "AggregatedMovie_3284ba5d-9e38-5318-bc00-2ec497de7736",
+    "clientContentId": "PACK0000000009741162",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Army of the Dead",
+            "may": "Army of the Dead",
+            "tam": "Army of the Dead",
+            "chi": "Army of the Dead",
+            "tha": "Army of the Dead",
+            "ind": "Army of the Dead"
+        },
+        "long": {
+            "eng": "Army of the Dead",
+            "may": "Army of the Dead",
+            "tam": "Army of the Dead",
+            "chi": "Army of the Dead",
+            "tha": "Army of the Dead",
+            "ind": "Army of the Dead"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+            "may": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+            "tam": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+            "chi": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+            "tha": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+            "ind": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted."
+        },
+        "long": {
+            "eng": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+            "may": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+            "tam": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+            "chi": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+            "tha": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+            "ind": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Dave Bautista",
+            " Ella Purnell",
+            " Omari Hardwick",
+            " Ana de la Reguera",
+            " Theo Rossi",
+            " Matthias Schweigh\u00f6fer",
+            " Nora Arnezeder",
+            " Hiroyuki Sanada",
+            " Garret Dillahunt",
+            " Tig Notaro"
+        ],
+        "may": [
+            "Dave Bautista",
+            " Ella Purnell",
+            " Omari Hardwick",
+            " Ana de la Reguera",
+            " Theo Rossi",
+            " Matthias Schweigh\u00f6fer",
+            " Nora Arnezeder",
+            " Hiroyuki Sanada",
+            " Garret Dillahunt",
+            " Tig Notaro"
+        ],
+        "tam": [
+            "Dave Bautista",
+            " Ella Purnell",
+            " Omari Hardwick",
+            " Ana de la Reguera",
+            " Theo Rossi",
+            " Matthias Schweigh\u00f6fer",
+            " Nora Arnezeder",
+            " Hiroyuki Sanada",
+            " Garret Dillahunt",
+            " Tig Notaro"
+        ],
+        "chi": [
+            "Dave Bautista",
+            " Ella Purnell",
+            " Omari Hardwick",
+            " Ana de la Reguera",
+            " Theo Rossi",
+            " Matthias Schweigh\u00f6fer",
+            " Nora Arnezeder",
+            " Hiroyuki Sanada",
+            " Garret Dillahunt",
+            " Tig Notaro"
+        ],
+        "tha": [
+            "Dave Bautista",
+            " Ella Purnell",
+            " Omari Hardwick",
+            " Ana de la Reguera",
+            " Theo Rossi",
+            " Matthias Schweigh\u00f6fer",
+            " Nora Arnezeder",
+            " Hiroyuki Sanada",
+            " Garret Dillahunt",
+            " Tig Notaro"
+        ],
+        "ind": [
+            "Dave Bautista",
+            " Ella Purnell",
+            " Omari Hardwick",
+            " Ana de la Reguera",
+            " Theo Rossi",
+            " Matthias Schweigh\u00f6fer",
+            " Nora Arnezeder",
+            " Hiroyuki Sanada",
+            " Garret Dillahunt",
+            " Tig Notaro"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Zack Snyder"
+        ],
+        "may": [
+            "Zack Snyder"
+        ],
+        "tam": [
+            "Zack Snyder"
+        ],
+        "chi": [
+            "Zack Snyder"
+        ],
+        "tha": [
+            "Zack Snyder"
+        ],
+        "ind": [
+            "Zack Snyder"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Misha Bukowski",
+            " Wesley Coller",
+            " Deborah Snyder",
+            " Zack Snyder",
+            " Bergen Swanson",
+            " Andrea Wertheim"
+        ],
+        "may": [
+            "Misha Bukowski",
+            " Wesley Coller",
+            " Deborah Snyder",
+            " Zack Snyder",
+            " Bergen Swanson",
+            " Andrea Wertheim"
+        ],
+        "tam": [
+            "Misha Bukowski",
+            " Wesley Coller",
+            " Deborah Snyder",
+            " Zack Snyder",
+            " Bergen Swanson",
+            " Andrea Wertheim"
+        ],
+        "chi": [
+            "Misha Bukowski",
+            " Wesley Coller",
+            " Deborah Snyder",
+            " Zack Snyder",
+            " Bergen Swanson",
+            " Andrea Wertheim"
+        ],
+        "tha": [
+            "Misha Bukowski",
+            " Wesley Coller",
+            " Deborah Snyder",
+            " Zack Snyder",
+            " Bergen Swanson",
+            " Andrea Wertheim"
+        ],
+        "ind": [
+            "Misha Bukowski",
+            " Wesley Coller",
+            " Deborah Snyder",
+            " Zack Snyder",
+            " Bergen Swanson",
+            " Andrea Wertheim"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ArmyoftheDead_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ArmyoftheDead_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ArmyoftheDead_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2021,
+    "rating": "5.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

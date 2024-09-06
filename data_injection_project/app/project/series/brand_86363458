@@ -1,0 +1,349 @@
+{
+    "externalId": "AggregatedSeries_37b8543a-9a9d-547c-bbbe-b1f893f781b5",
+    "clientContentId": "PACK0000000002051863",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Last Of Us",
+            "may": "The Last Of Us",
+            "tam": "The Last Of Us",
+            "chi": "The Last Of Us",
+            "tha": "The Last Of Us",
+            "ind": "The Last Of Us"
+        },
+        "long": {
+            "eng": "The Last Of Us",
+            "may": "The Last Of Us",
+            "tam": "The Last Of Us",
+            "chi": "The Last Of Us",
+            "tha": "The Last Of Us",
+            "ind": "The Last Of Us"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "may": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "tam": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "chi": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "tha": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "ind": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope."
+        },
+        "long": {
+            "eng": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "may": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "tam": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "chi": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "tha": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "ind": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Pedro Pascal",
+            " Bella Ramsey",
+            " Anna Torv",
+            " Lamar Johnson",
+            " Melanie Lynskey",
+            " Merle Dandridge",
+            " Nico Parker",
+            " Keivonn Woodard",
+            " Jeffrey Pierce",
+            " John Getz"
+        ],
+        "may": [
+            "Pedro Pascal",
+            " Bella Ramsey",
+            " Anna Torv",
+            " Lamar Johnson",
+            " Melanie Lynskey",
+            " Merle Dandridge",
+            " Nico Parker",
+            " Keivonn Woodard",
+            " Jeffrey Pierce",
+            " John Getz"
+        ],
+        "tam": [
+            "Pedro Pascal",
+            " Bella Ramsey",
+            " Anna Torv",
+            " Lamar Johnson",
+            " Melanie Lynskey",
+            " Merle Dandridge",
+            " Nico Parker",
+            " Keivonn Woodard",
+            " Jeffrey Pierce",
+            " John Getz"
+        ],
+        "chi": [
+            "Pedro Pascal",
+            " Bella Ramsey",
+            " Anna Torv",
+            " Lamar Johnson",
+            " Melanie Lynskey",
+            " Merle Dandridge",
+            " Nico Parker",
+            " Keivonn Woodard",
+            " Jeffrey Pierce",
+            " John Getz"
+        ],
+        "tha": [
+            "Pedro Pascal",
+            " Bella Ramsey",
+            " Anna Torv",
+            " Lamar Johnson",
+            " Melanie Lynskey",
+            " Merle Dandridge",
+            " Nico Parker",
+            " Keivonn Woodard",
+            " Jeffrey Pierce",
+            " John Getz"
+        ],
+        "ind": [
+            "Pedro Pascal",
+            " Bella Ramsey",
+            " Anna Torv",
+            " Lamar Johnson",
+            " Melanie Lynskey",
+            " Merle Dandridge",
+            " Nico Parker",
+            " Keivonn Woodard",
+            " Jeffrey Pierce",
+            " John Getz"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Ali Abbasi",
+            " Jeremy Webb",
+            " Neil Druckmann",
+            " Peter Hoar",
+            " Liza Johnson",
+            " Craig Mazin",
+            " Jasmila Zbanic"
+        ],
+        "may": [
+            "Ali Abbasi",
+            " Jeremy Webb",
+            " Neil Druckmann",
+            " Peter Hoar",
+            " Liza Johnson",
+            " Craig Mazin",
+            " Jasmila Zbanic"
+        ],
+        "tam": [
+            "Ali Abbasi",
+            " Jeremy Webb",
+            " Neil Druckmann",
+            " Peter Hoar",
+            " Liza Johnson",
+            " Craig Mazin",
+            " Jasmila Zbanic"
+        ],
+        "chi": [
+            "Ali Abbasi",
+            " Jeremy Webb",
+            " Neil Druckmann",
+            " Peter Hoar",
+            " Liza Johnson",
+            " Craig Mazin",
+            " Jasmila Zbanic"
+        ],
+        "tha": [
+            "Ali Abbasi",
+            " Jeremy Webb",
+            " Neil Druckmann",
+            " Peter Hoar",
+            " Liza Johnson",
+            " Craig Mazin",
+            " Jasmila Zbanic"
+        ],
+        "ind": [
+            "Ali Abbasi",
+            " Jeremy Webb",
+            " Neil Druckmann",
+            " Peter Hoar",
+            " Liza Johnson",
+            " Craig Mazin",
+            " Jasmila Zbanic"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Neil Druckmann",
+            " Rose Lam",
+            " Jacqueline Lesko",
+            " Craig Mazin",
+            " Cecil O'Connor",
+            " Asad Qizilbash",
+            " Greg Spence",
+            " Carolyn Strauss",
+            " Carter Swan",
+            " Evan Wells"
+        ],
+        "may": [
+            "Neil Druckmann",
+            " Rose Lam",
+            " Jacqueline Lesko",
+            " Craig Mazin",
+            " Cecil O'Connor",
+            " Asad Qizilbash",
+            " Greg Spence",
+            " Carolyn Strauss",
+            " Carter Swan",
+            " Evan Wells"
+        ],
+        "tam": [
+            "Neil Druckmann",
+            " Rose Lam",
+            " Jacqueline Lesko",
+            " Craig Mazin",
+            " Cecil O'Connor",
+            " Asad Qizilbash",
+            " Greg Spence",
+            " Carolyn Strauss",
+            " Carter Swan",
+            " Evan Wells"
+        ],
+        "chi": [
+            "Neil Druckmann",
+            " Rose Lam",
+            " Jacqueline Lesko",
+            " Craig Mazin",
+            " Cecil O'Connor",
+            " Asad Qizilbash",
+            " Greg Spence",
+            " Carolyn Strauss",
+            " Carter Swan",
+            " Evan Wells"
+        ],
+        "tha": [
+            "Neil Druckmann",
+            " Rose Lam",
+            " Jacqueline Lesko",
+            " Craig Mazin",
+            " Cecil O'Connor",
+            " Asad Qizilbash",
+            " Greg Spence",
+            " Carolyn Strauss",
+            " Carter Swan",
+            " Evan Wells"
+        ],
+        "ind": [
+            "Neil Druckmann",
+            " Rose Lam",
+            " Jacqueline Lesko",
+            " Craig Mazin",
+            " Cecil O'Connor",
+            " Asad Qizilbash",
+            " Greg Spence",
+            " Carolyn Strauss",
+            " Carter Swan",
+            " Evan Wells"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheLastofUsSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheLastofUsSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheLastofUsSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "7",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2023,
+    "maxConcurrentStreams": 0
+}

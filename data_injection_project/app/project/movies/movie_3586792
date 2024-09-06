@@ -1,0 +1,325 @@
+{
+    "externalId": "AggregatedMovie_d35f29df-4e71-5ccf-942e-acfd2faab977",
+    "clientContentId": "PACK0000000005213363",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "White Noise",
+            "may": "White Noise",
+            "tam": "White Noise",
+            "chi": "White Noise",
+            "tha": "White Noise",
+            "ind": "White Noise"
+        },
+        "long": {
+            "eng": "White Noise",
+            "may": "White Noise",
+            "tam": "White Noise",
+            "chi": "White Noise",
+            "tha": "White Noise",
+            "ind": "White Noise"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Dramatizes a contemporary American family's attempts to deal with the mundane conflicts of everyday life while grappling with the universal mysteries of love, death, and the possibility of happiness in an uncertain world.",
+            "may": "Dramatizes a contemporary American family's attempts to deal with the mundane conflicts of everyday life while grappling with the universal mysteries of love, death, and the possibility of happiness in an uncertain world.",
+            "tam": "Dramatizes a contemporary American family's attempts to deal with the mundane conflicts of everyday life while grappling with the universal mysteries of love, death, and the possibility of happiness in an uncertain world.",
+            "chi": "Dramatizes a contemporary American family's attempts to deal with the mundane conflicts of everyday life while grappling with the universal mysteries of love, death, and the possibility of happiness in an uncertain world.",
+            "tha": "Dramatizes a contemporary American family's attempts to deal with the mundane conflicts of everyday life while grappling with the universal mysteries of love, death, and the possibility of happiness in an uncertain world.",
+            "ind": "Dramatizes a contemporary American family's attempts to deal with the mundane conflicts of everyday life while grappling with the universal mysteries of love, death, and the possibility of happiness in an uncertain world."
+        },
+        "long": {
+            "eng": "Dramatizes a contemporary American family's attempts to deal with the mundane conflicts of everyday life while grappling with the universal mysteries of love, death, and the possibility of happiness in an uncertain world.",
+            "may": "Dramatizes a contemporary American family's attempts to deal with the mundane conflicts of everyday life while grappling with the universal mysteries of love, death, and the possibility of happiness in an uncertain world.",
+            "tam": "Dramatizes a contemporary American family's attempts to deal with the mundane conflicts of everyday life while grappling with the universal mysteries of love, death, and the possibility of happiness in an uncertain world.",
+            "chi": "Dramatizes a contemporary American family's attempts to deal with the mundane conflicts of everyday life while grappling with the universal mysteries of love, death, and the possibility of happiness in an uncertain world.",
+            "tha": "Dramatizes a contemporary American family's attempts to deal with the mundane conflicts of everyday life while grappling with the universal mysteries of love, death, and the possibility of happiness in an uncertain world.",
+            "ind": "Dramatizes a contemporary American family's attempts to deal with the mundane conflicts of everyday life while grappling with the universal mysteries of love, death, and the possibility of happiness in an uncertain world."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Don Cheadle",
+            " Madison Gaughan",
+            " Douglas Brodax",
+            " Carly Brodax",
+            " Jill Brodax",
+            " Wickham Bermingham",
+            " Michael William Chopra",
+            " Santu Chopra",
+            " Danielle Williams",
+            " Mathew Williams"
+        ],
+        "may": [
+            "Don Cheadle",
+            " Madison Gaughan",
+            " Douglas Brodax",
+            " Carly Brodax",
+            " Jill Brodax",
+            " Wickham Bermingham",
+            " Michael William Chopra",
+            " Santu Chopra",
+            " Danielle Williams",
+            " Mathew Williams"
+        ],
+        "tam": [
+            "Don Cheadle",
+            " Madison Gaughan",
+            " Douglas Brodax",
+            " Carly Brodax",
+            " Jill Brodax",
+            " Wickham Bermingham",
+            " Michael William Chopra",
+            " Santu Chopra",
+            " Danielle Williams",
+            " Mathew Williams"
+        ],
+        "chi": [
+            "Don Cheadle",
+            " Madison Gaughan",
+            " Douglas Brodax",
+            " Carly Brodax",
+            " Jill Brodax",
+            " Wickham Bermingham",
+            " Michael William Chopra",
+            " Santu Chopra",
+            " Danielle Williams",
+            " Mathew Williams"
+        ],
+        "tha": [
+            "Don Cheadle",
+            " Madison Gaughan",
+            " Douglas Brodax",
+            " Carly Brodax",
+            " Jill Brodax",
+            " Wickham Bermingham",
+            " Michael William Chopra",
+            " Santu Chopra",
+            " Danielle Williams",
+            " Mathew Williams"
+        ],
+        "ind": [
+            "Don Cheadle",
+            " Madison Gaughan",
+            " Douglas Brodax",
+            " Carly Brodax",
+            " Jill Brodax",
+            " Wickham Bermingham",
+            " Michael William Chopra",
+            " Santu Chopra",
+            " Danielle Williams",
+            " Mathew Williams"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Noah Baumbach"
+        ],
+        "may": [
+            "Noah Baumbach"
+        ],
+        "tam": [
+            "Noah Baumbach"
+        ],
+        "chi": [
+            "Noah Baumbach"
+        ],
+        "tha": [
+            "Noah Baumbach"
+        ],
+        "ind": [
+            "Noah Baumbach"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Noah Baumbach",
+            " Brian Bell",
+            " Leslie Converse",
+            " Theresa Corrao",
+            " David Heyman",
+            " Uri Singer",
+            " Jonas Spaccarotelli"
+        ],
+        "may": [
+            "Noah Baumbach",
+            " Brian Bell",
+            " Leslie Converse",
+            " Theresa Corrao",
+            " David Heyman",
+            " Uri Singer",
+            " Jonas Spaccarotelli"
+        ],
+        "tam": [
+            "Noah Baumbach",
+            " Brian Bell",
+            " Leslie Converse",
+            " Theresa Corrao",
+            " David Heyman",
+            " Uri Singer",
+            " Jonas Spaccarotelli"
+        ],
+        "chi": [
+            "Noah Baumbach",
+            " Brian Bell",
+            " Leslie Converse",
+            " Theresa Corrao",
+            " David Heyman",
+            " Uri Singer",
+            " Jonas Spaccarotelli"
+        ],
+        "tha": [
+            "Noah Baumbach",
+            " Brian Bell",
+            " Leslie Converse",
+            " Theresa Corrao",
+            " David Heyman",
+            " Uri Singer",
+            " Jonas Spaccarotelli"
+        ],
+        "ind": [
+            "Noah Baumbach",
+            " Brian Bell",
+            " Leslie Converse",
+            " Theresa Corrao",
+            " David Heyman",
+            " Uri Singer",
+            " Jonas Spaccarotelli"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/WhiteNoise_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/WhiteNoise_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/WhiteNoise_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "5.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

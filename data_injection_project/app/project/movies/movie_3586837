@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_d7532da9-ef32-5582-8fb8-224586891928",
+    "clientContentId": "PACK0000000006952193",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Black Widow",
+            "may": "Black Widow",
+            "tam": "Black Widow",
+            "chi": "Black Widow",
+            "tha": "Black Widow",
+            "ind": "Black Widow"
+        },
+        "long": {
+            "eng": "Black Widow",
+            "may": "Black Widow",
+            "tam": "Black Widow",
+            "chi": "Black Widow",
+            "tha": "Black Widow",
+            "ind": "Black Widow"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+            "may": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+            "tam": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+            "chi": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+            "tha": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+            "ind": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises."
+        },
+        "long": {
+            "eng": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+            "may": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+            "tam": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+            "chi": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+            "tha": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+            "ind": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Scarlett Johansson",
+            " Florence Pugh",
+            " Rachel Weisz",
+            " David Harbour",
+            " Ray Winstone",
+            " Ever Anderson",
+            " Violet McGraw",
+            " O-T Fagbenle",
+            " William Hurt",
+            " Olga Kurylenko"
+        ],
+        "may": [
+            "Scarlett Johansson",
+            " Florence Pugh",
+            " Rachel Weisz",
+            " David Harbour",
+            " Ray Winstone",
+            " Ever Anderson",
+            " Violet McGraw",
+            " O-T Fagbenle",
+            " William Hurt",
+            " Olga Kurylenko"
+        ],
+        "tam": [
+            "Scarlett Johansson",
+            " Florence Pugh",
+            " Rachel Weisz",
+            " David Harbour",
+            " Ray Winstone",
+            " Ever Anderson",
+            " Violet McGraw",
+            " O-T Fagbenle",
+            " William Hurt",
+            " Olga Kurylenko"
+        ],
+        "chi": [
+            "Scarlett Johansson",
+            " Florence Pugh",
+            " Rachel Weisz",
+            " David Harbour",
+            " Ray Winstone",
+            " Ever Anderson",
+            " Violet McGraw",
+            " O-T Fagbenle",
+            " William Hurt",
+            " Olga Kurylenko"
+        ],
+        "tha": [
+            "Scarlett Johansson",
+            " Florence Pugh",
+            " Rachel Weisz",
+            " David Harbour",
+            " Ray Winstone",
+            " Ever Anderson",
+            " Violet McGraw",
+            " O-T Fagbenle",
+            " William Hurt",
+            " Olga Kurylenko"
+        ],
+        "ind": [
+            "Scarlett Johansson",
+            " Florence Pugh",
+            " Rachel Weisz",
+            " David Harbour",
+            " Ray Winstone",
+            " Ever Anderson",
+            " Violet McGraw",
+            " O-T Fagbenle",
+            " William Hurt",
+            " Olga Kurylenko"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Cate Shortland"
+        ],
+        "may": [
+            "Cate Shortland"
+        ],
+        "tam": [
+            "Cate Shortland"
+        ],
+        "chi": [
+            "Cate Shortland"
+        ],
+        "tha": [
+            "Cate Shortland"
+        ],
+        "ind": [
+            "Cate Shortland"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Zakaria Alaoui",
+            " Victoria Alonso",
+            " Mitchell Bell",
+            " Per Henry Borch",
+            " Brian Chapek",
+            " Jamie Christopher",
+            " Louis D'Esposito",
+            " Leifur B. Dagfinnsson",
+            " Howard Ellis",
+            " Kevin Feige"
+        ],
+        "may": [
+            "Zakaria Alaoui",
+            " Victoria Alonso",
+            " Mitchell Bell",
+            " Per Henry Borch",
+            " Brian Chapek",
+            " Jamie Christopher",
+            " Louis D'Esposito",
+            " Leifur B. Dagfinnsson",
+            " Howard Ellis",
+            " Kevin Feige"
+        ],
+        "tam": [
+            "Zakaria Alaoui",
+            " Victoria Alonso",
+            " Mitchell Bell",
+            " Per Henry Borch",
+            " Brian Chapek",
+            " Jamie Christopher",
+            " Louis D'Esposito",
+            " Leifur B. Dagfinnsson",
+            " Howard Ellis",
+            " Kevin Feige"
+        ],
+        "chi": [
+            "Zakaria Alaoui",
+            " Victoria Alonso",
+            " Mitchell Bell",
+            " Per Henry Borch",
+            " Brian Chapek",
+            " Jamie Christopher",
+            " Louis D'Esposito",
+            " Leifur B. Dagfinnsson",
+            " Howard Ellis",
+            " Kevin Feige"
+        ],
+        "tha": [
+            "Zakaria Alaoui",
+            " Victoria Alonso",
+            " Mitchell Bell",
+            " Per Henry Borch",
+            " Brian Chapek",
+            " Jamie Christopher",
+            " Louis D'Esposito",
+            " Leifur B. Dagfinnsson",
+            " Howard Ellis",
+            " Kevin Feige"
+        ],
+        "ind": [
+            "Zakaria Alaoui",
+            " Victoria Alonso",
+            " Mitchell Bell",
+            " Per Henry Borch",
+            " Brian Chapek",
+            " Jamie Christopher",
+            " Louis D'Esposito",
+            " Leifur B. Dagfinnsson",
+            " Howard Ellis",
+            " Kevin Feige"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/BlackWidow_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/BlackWidow_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/BlackWidow_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2021,
+    "rating": "6.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

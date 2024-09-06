@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_0f996b63-ebd1-57ff-b4ed-c037059acb40",
+    "clientContentId": "PACK0000000005180808",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Old Way (2023)",
+            "may": "The Old Way (2023)",
+            "tam": "The Old Way (2023)",
+            "chi": "The Old Way (2023)",
+            "tha": "The Old Way (2023)",
+            "ind": "The Old Way (2023)"
+        },
+        "long": {
+            "eng": "The Old Way (2023)",
+            "may": "The Old Way (2023)",
+            "tam": "The Old Way (2023)",
+            "chi": "The Old Way (2023)",
+            "tha": "The Old Way (2023)",
+            "ind": "The Old Way (2023)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "An old gunslinger and his daughter must face the consequences of his past, when the son of a man he murdered years ago arrives to take his revenge.",
+            "may": "An old gunslinger and his daughter must face the consequences of his past, when the son of a man he murdered years ago arrives to take his revenge.",
+            "tam": "An old gunslinger and his daughter must face the consequences of his past, when the son of a man he murdered years ago arrives to take his revenge.",
+            "chi": "An old gunslinger and his daughter must face the consequences of his past, when the son of a man he murdered years ago arrives to take his revenge.",
+            "tha": "An old gunslinger and his daughter must face the consequences of his past, when the son of a man he murdered years ago arrives to take his revenge.",
+            "ind": "An old gunslinger and his daughter must face the consequences of his past, when the son of a man he murdered years ago arrives to take his revenge."
+        },
+        "long": {
+            "eng": "An old gunslinger and his daughter must face the consequences of his past, when the son of a man he murdered years ago arrives to take his revenge.",
+            "may": "An old gunslinger and his daughter must face the consequences of his past, when the son of a man he murdered years ago arrives to take his revenge.",
+            "tam": "An old gunslinger and his daughter must face the consequences of his past, when the son of a man he murdered years ago arrives to take his revenge.",
+            "chi": "An old gunslinger and his daughter must face the consequences of his past, when the son of a man he murdered years ago arrives to take his revenge.",
+            "tha": "An old gunslinger and his daughter must face the consequences of his past, when the son of a man he murdered years ago arrives to take his revenge.",
+            "ind": "An old gunslinger and his daughter must face the consequences of his past, when the son of a man he murdered years ago arrives to take his revenge."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Nicolas Cage",
+            " Dean Armstrong",
+            " Ryan Kiera Armstrong",
+            " Noah Le Gros",
+            " Katelyn Bauer",
+            " Nick Searcy",
+            " Abraham Benrubi",
+            " Clint Howard",
+            " Everett Blunck",
+            " Kerry Knuppe"
+        ],
+        "may": [
+            "Nicolas Cage",
+            " Dean Armstrong",
+            " Ryan Kiera Armstrong",
+            " Noah Le Gros",
+            " Katelyn Bauer",
+            " Nick Searcy",
+            " Abraham Benrubi",
+            " Clint Howard",
+            " Everett Blunck",
+            " Kerry Knuppe"
+        ],
+        "tam": [
+            "Nicolas Cage",
+            " Dean Armstrong",
+            " Ryan Kiera Armstrong",
+            " Noah Le Gros",
+            " Katelyn Bauer",
+            " Nick Searcy",
+            " Abraham Benrubi",
+            " Clint Howard",
+            " Everett Blunck",
+            " Kerry Knuppe"
+        ],
+        "chi": [
+            "Nicolas Cage",
+            " Dean Armstrong",
+            " Ryan Kiera Armstrong",
+            " Noah Le Gros",
+            " Katelyn Bauer",
+            " Nick Searcy",
+            " Abraham Benrubi",
+            " Clint Howard",
+            " Everett Blunck",
+            " Kerry Knuppe"
+        ],
+        "tha": [
+            "Nicolas Cage",
+            " Dean Armstrong",
+            " Ryan Kiera Armstrong",
+            " Noah Le Gros",
+            " Katelyn Bauer",
+            " Nick Searcy",
+            " Abraham Benrubi",
+            " Clint Howard",
+            " Everett Blunck",
+            " Kerry Knuppe"
+        ],
+        "ind": [
+            "Nicolas Cage",
+            " Dean Armstrong",
+            " Ryan Kiera Armstrong",
+            " Noah Le Gros",
+            " Katelyn Bauer",
+            " Nick Searcy",
+            " Abraham Benrubi",
+            " Clint Howard",
+            " Everett Blunck",
+            " Kerry Knuppe"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Brett Donowho"
+        ],
+        "may": [
+            "Brett Donowho"
+        ],
+        "tam": [
+            "Brett Donowho"
+        ],
+        "chi": [
+            "Brett Donowho"
+        ],
+        "tha": [
+            "Brett Donowho"
+        ],
+        "ind": [
+            "Brett Donowho"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Shanan Becker",
+            " Bill Bromiley",
+            " Joshua Bunting",
+            " Brett Donowho",
+            " Colin Floom",
+            " Micah Haley",
+            " David Haring",
+            " Carl W. Lucas",
+            " Christian Mercuri",
+            " Mehrdad Moayedi"
+        ],
+        "may": [
+            "Shanan Becker",
+            " Bill Bromiley",
+            " Joshua Bunting",
+            " Brett Donowho",
+            " Colin Floom",
+            " Micah Haley",
+            " David Haring",
+            " Carl W. Lucas",
+            " Christian Mercuri",
+            " Mehrdad Moayedi"
+        ],
+        "tam": [
+            "Shanan Becker",
+            " Bill Bromiley",
+            " Joshua Bunting",
+            " Brett Donowho",
+            " Colin Floom",
+            " Micah Haley",
+            " David Haring",
+            " Carl W. Lucas",
+            " Christian Mercuri",
+            " Mehrdad Moayedi"
+        ],
+        "chi": [
+            "Shanan Becker",
+            " Bill Bromiley",
+            " Joshua Bunting",
+            " Brett Donowho",
+            " Colin Floom",
+            " Micah Haley",
+            " David Haring",
+            " Carl W. Lucas",
+            " Christian Mercuri",
+            " Mehrdad Moayedi"
+        ],
+        "tha": [
+            "Shanan Becker",
+            " Bill Bromiley",
+            " Joshua Bunting",
+            " Brett Donowho",
+            " Colin Floom",
+            " Micah Haley",
+            " David Haring",
+            " Carl W. Lucas",
+            " Christian Mercuri",
+            " Mehrdad Moayedi"
+        ],
+        "ind": [
+            "Shanan Becker",
+            " Bill Bromiley",
+            " Joshua Bunting",
+            " Brett Donowho",
+            " Colin Floom",
+            " Micah Haley",
+            " David Haring",
+            " Carl W. Lucas",
+            " Christian Mercuri",
+            " Mehrdad Moayedi"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Western",
+                    "may": " Western",
+                    "tam": " Western",
+                    "chi": " Western",
+                    "tha": " Western",
+                    "ind": " Western"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheOldWay_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheOldWay_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheOldWay_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2023,
+    "rating": "5.4",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

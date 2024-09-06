@@ -1,0 +1,301 @@
+{
+    "externalId": "AggregatedMovie_c756f325-7389-5be7-837b-1825ce668726",
+    "clientContentId": "PACK0000000001263552",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "A Jazzmans Blues 2022",
+            "may": "A Jazzmans Blues 2022",
+            "tam": "A Jazzmans Blues 2022",
+            "chi": "A Jazzmans Blues 2022",
+            "tha": "A Jazzmans Blues 2022",
+            "ind": "A Jazzmans Blues 2022"
+        },
+        "long": {
+            "eng": "A Jazzmans Blues 2022",
+            "may": "A Jazzmans Blues 2022",
+            "tam": "A Jazzmans Blues 2022",
+            "chi": "A Jazzmans Blues 2022",
+            "tha": "A Jazzmans Blues 2022",
+            "ind": "A Jazzmans Blues 2022"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Follows an investigation into an unsolved murder unveiling a story full of forbidden love, deceit and a secret.",
+            "may": "Follows an investigation into an unsolved murder unveiling a story full of forbidden love, deceit and a secret.",
+            "tam": "Follows an investigation into an unsolved murder unveiling a story full of forbidden love, deceit and a secret.",
+            "chi": "Follows an investigation into an unsolved murder unveiling a story full of forbidden love, deceit and a secret.",
+            "tha": "Follows an investigation into an unsolved murder unveiling a story full of forbidden love, deceit and a secret.",
+            "ind": "Follows an investigation into an unsolved murder unveiling a story full of forbidden love, deceit and a secret."
+        },
+        "long": {
+            "eng": "Follows an investigation into an unsolved murder unveiling a story full of forbidden love, deceit and a secret.",
+            "may": "Follows an investigation into an unsolved murder unveiling a story full of forbidden love, deceit and a secret.",
+            "tam": "Follows an investigation into an unsolved murder unveiling a story full of forbidden love, deceit and a secret.",
+            "chi": "Follows an investigation into an unsolved murder unveiling a story full of forbidden love, deceit and a secret.",
+            "tha": "Follows an investigation into an unsolved murder unveiling a story full of forbidden love, deceit and a secret.",
+            "ind": "Follows an investigation into an unsolved murder unveiling a story full of forbidden love, deceit and a secret."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Joshua Boone",
+            " Amirah Vann",
+            " Solea Pfeiffer",
+            " Austin Scott",
+            " Ryan Eggold",
+            " Milauna Jackson",
+            " Brent Antonello",
+            " Brad Benedict",
+            " Kario Marcel",
+            " Lana Young"
+        ],
+        "may": [
+            "Joshua Boone",
+            " Amirah Vann",
+            " Solea Pfeiffer",
+            " Austin Scott",
+            " Ryan Eggold",
+            " Milauna Jackson",
+            " Brent Antonello",
+            " Brad Benedict",
+            " Kario Marcel",
+            " Lana Young"
+        ],
+        "tam": [
+            "Joshua Boone",
+            " Amirah Vann",
+            " Solea Pfeiffer",
+            " Austin Scott",
+            " Ryan Eggold",
+            " Milauna Jackson",
+            " Brent Antonello",
+            " Brad Benedict",
+            " Kario Marcel",
+            " Lana Young"
+        ],
+        "chi": [
+            "Joshua Boone",
+            " Amirah Vann",
+            " Solea Pfeiffer",
+            " Austin Scott",
+            " Ryan Eggold",
+            " Milauna Jackson",
+            " Brent Antonello",
+            " Brad Benedict",
+            " Kario Marcel",
+            " Lana Young"
+        ],
+        "tha": [
+            "Joshua Boone",
+            " Amirah Vann",
+            " Solea Pfeiffer",
+            " Austin Scott",
+            " Ryan Eggold",
+            " Milauna Jackson",
+            " Brent Antonello",
+            " Brad Benedict",
+            " Kario Marcel",
+            " Lana Young"
+        ],
+        "ind": [
+            "Joshua Boone",
+            " Amirah Vann",
+            " Solea Pfeiffer",
+            " Austin Scott",
+            " Ryan Eggold",
+            " Milauna Jackson",
+            " Brent Antonello",
+            " Brad Benedict",
+            " Kario Marcel",
+            " Lana Young"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Tyler Perry"
+        ],
+        "may": [
+            "Tyler Perry"
+        ],
+        "tam": [
+            "Tyler Perry"
+        ],
+        "chi": [
+            "Tyler Perry"
+        ],
+        "tha": [
+            "Tyler Perry"
+        ],
+        "ind": [
+            "Tyler Perry"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Tsedy Gebeyehu",
+            " Andy Norman",
+            " Tyler Perry"
+        ],
+        "may": [
+            "Tsedy Gebeyehu",
+            " Andy Norman",
+            " Tyler Perry"
+        ],
+        "tam": [
+            "Tsedy Gebeyehu",
+            " Andy Norman",
+            " Tyler Perry"
+        ],
+        "chi": [
+            "Tsedy Gebeyehu",
+            " Andy Norman",
+            " Tyler Perry"
+        ],
+        "tha": [
+            "Tsedy Gebeyehu",
+            " Andy Norman",
+            " Tyler Perry"
+        ],
+        "ind": [
+            "Tsedy Gebeyehu",
+            " Andy Norman",
+            " Tyler Perry"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AJazzmansBlues_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AJazzmansBlues_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AJazzmansBlues_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "6.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

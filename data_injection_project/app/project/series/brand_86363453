@@ -1,0 +1,331 @@
+{
+    "externalId": "AggregatedSeries_0ea9e03e-2cdc-5d37-aad7-e710949e6a70",
+    "clientContentId": "PACK0000000003478971",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The End of the F--ing World",
+            "may": "The End of the F--ing World",
+            "tam": "The End of the F--ing World",
+            "chi": "The End of the F--ing World",
+            "tha": "The End of the F--ing World",
+            "ind": "The End of the F--ing World"
+        },
+        "long": {
+            "eng": "The End of the F--ing World",
+            "may": "The End of the F--ing World",
+            "tam": "The End of the F--ing World",
+            "chi": "The End of the F--ing World",
+            "tha": "The End of the F--ing World",
+            "ind": "The End of the F--ing World"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father.",
+            "may": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father.",
+            "tam": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father.",
+            "chi": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father.",
+            "tha": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father.",
+            "ind": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father."
+        },
+        "long": {
+            "eng": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father.",
+            "may": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father.",
+            "tam": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father.",
+            "chi": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father.",
+            "tha": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father.",
+            "ind": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Jessica Barden",
+            " Alex Lawther",
+            " Steve Oram",
+            " Christine Bottomley",
+            " Naomi Ackie",
+            " Jonathan Aris",
+            " Wunmi Mosaku",
+            " Gemma Whelan",
+            " Josh Dylan",
+            " Navin Chowdhry"
+        ],
+        "may": [
+            "Jessica Barden",
+            " Alex Lawther",
+            " Steve Oram",
+            " Christine Bottomley",
+            " Naomi Ackie",
+            " Jonathan Aris",
+            " Wunmi Mosaku",
+            " Gemma Whelan",
+            " Josh Dylan",
+            " Navin Chowdhry"
+        ],
+        "tam": [
+            "Jessica Barden",
+            " Alex Lawther",
+            " Steve Oram",
+            " Christine Bottomley",
+            " Naomi Ackie",
+            " Jonathan Aris",
+            " Wunmi Mosaku",
+            " Gemma Whelan",
+            " Josh Dylan",
+            " Navin Chowdhry"
+        ],
+        "chi": [
+            "Jessica Barden",
+            " Alex Lawther",
+            " Steve Oram",
+            " Christine Bottomley",
+            " Naomi Ackie",
+            " Jonathan Aris",
+            " Wunmi Mosaku",
+            " Gemma Whelan",
+            " Josh Dylan",
+            " Navin Chowdhry"
+        ],
+        "tha": [
+            "Jessica Barden",
+            " Alex Lawther",
+            " Steve Oram",
+            " Christine Bottomley",
+            " Naomi Ackie",
+            " Jonathan Aris",
+            " Wunmi Mosaku",
+            " Gemma Whelan",
+            " Josh Dylan",
+            " Navin Chowdhry"
+        ],
+        "ind": [
+            "Jessica Barden",
+            " Alex Lawther",
+            " Steve Oram",
+            " Christine Bottomley",
+            " Naomi Ackie",
+            " Jonathan Aris",
+            " Wunmi Mosaku",
+            " Gemma Whelan",
+            " Josh Dylan",
+            " Navin Chowdhry"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jonathan Entwistle",
+            " Lucy Tcherniak",
+            " Destiny Ekaragha",
+            " Lucy Forbes"
+        ],
+        "may": [
+            "Jonathan Entwistle",
+            " Lucy Tcherniak",
+            " Destiny Ekaragha",
+            " Lucy Forbes"
+        ],
+        "tam": [
+            "Jonathan Entwistle",
+            " Lucy Tcherniak",
+            " Destiny Ekaragha",
+            " Lucy Forbes"
+        ],
+        "chi": [
+            "Jonathan Entwistle",
+            " Lucy Tcherniak",
+            " Destiny Ekaragha",
+            " Lucy Forbes"
+        ],
+        "tha": [
+            "Jonathan Entwistle",
+            " Lucy Tcherniak",
+            " Destiny Ekaragha",
+            " Lucy Forbes"
+        ],
+        "ind": [
+            "Jonathan Entwistle",
+            " Lucy Tcherniak",
+            " Destiny Ekaragha",
+            " Lucy Forbes"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Andy Baker",
+            " Dominic Buchanan",
+            " Charlie Covell",
+            " Jonathan Entwistle",
+            " Murray Ferguson",
+            " Ed Macdonald",
+            " Petra Fried",
+            " Rhian Griffiths",
+            " Liz Lewin",
+            " Kate Ogborn"
+        ],
+        "may": [
+            "Andy Baker",
+            " Dominic Buchanan",
+            " Charlie Covell",
+            " Jonathan Entwistle",
+            " Murray Ferguson",
+            " Ed Macdonald",
+            " Petra Fried",
+            " Rhian Griffiths",
+            " Liz Lewin",
+            " Kate Ogborn"
+        ],
+        "tam": [
+            "Andy Baker",
+            " Dominic Buchanan",
+            " Charlie Covell",
+            " Jonathan Entwistle",
+            " Murray Ferguson",
+            " Ed Macdonald",
+            " Petra Fried",
+            " Rhian Griffiths",
+            " Liz Lewin",
+            " Kate Ogborn"
+        ],
+        "chi": [
+            "Andy Baker",
+            " Dominic Buchanan",
+            " Charlie Covell",
+            " Jonathan Entwistle",
+            " Murray Ferguson",
+            " Ed Macdonald",
+            " Petra Fried",
+            " Rhian Griffiths",
+            " Liz Lewin",
+            " Kate Ogborn"
+        ],
+        "tha": [
+            "Andy Baker",
+            " Dominic Buchanan",
+            " Charlie Covell",
+            " Jonathan Entwistle",
+            " Murray Ferguson",
+            " Ed Macdonald",
+            " Petra Fried",
+            " Rhian Griffiths",
+            " Liz Lewin",
+            " Kate Ogborn"
+        ],
+        "ind": [
+            "Andy Baker",
+            " Dominic Buchanan",
+            " Charlie Covell",
+            " Jonathan Entwistle",
+            " Murray Ferguson",
+            " Ed Macdonald",
+            " Petra Fried",
+            " Rhian Griffiths",
+            " Liz Lewin",
+            " Kate Ogborn"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Comedy",
+                    "may": " Comedy",
+                    "tam": " Comedy",
+                    "chi": " Comedy",
+                    "tha": " Comedy",
+                    "ind": " Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheEndoftheF--ingWorldSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheEndoftheF--ingWorldSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheEndoftheF--ingWorldSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "6",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2017,
+    "maxConcurrentStreams": 0
+}

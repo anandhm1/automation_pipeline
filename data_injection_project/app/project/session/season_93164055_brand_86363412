@@ -1,0 +1,317 @@
+{
+    "externalId": "AggregatedSeason_1ada88ab-7a7c-5b45-bc1e-20f2199515fb",
+    "clientContentId": "PACK0000000002201835",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Romance",
+                    "may": " Romance",
+                    "chi": " Romance",
+                    "tam": " Romance",
+                    "ind": " Romance",
+                    "tha": " Romance"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2020,
+    "rating": "18",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Juno Temple",
+            " Yumna Marwan",
+            " Hugh Skinner",
+            " Raphael Acloque",
+            " Jean-Marc Barr",
+            " Nina Sosanya",
+            " Kamel Labroudi",
+            " Barbara Fernandes Sabate",
+            " Lara V\u00e9liz",
+            " Matt Lauria"
+        ],
+        "may": [
+            "Juno Temple",
+            " Yumna Marwan",
+            " Hugh Skinner",
+            " Raphael Acloque",
+            " Jean-Marc Barr",
+            " Nina Sosanya",
+            " Kamel Labroudi",
+            " Barbara Fernandes Sabate",
+            " Lara V\u00e9liz",
+            " Matt Lauria"
+        ],
+        "chi": [
+            "Juno Temple",
+            " Yumna Marwan",
+            " Hugh Skinner",
+            " Raphael Acloque",
+            " Jean-Marc Barr",
+            " Nina Sosanya",
+            " Kamel Labroudi",
+            " Barbara Fernandes Sabate",
+            " Lara V\u00e9liz",
+            " Matt Lauria"
+        ],
+        "tam": [
+            "Juno Temple",
+            " Yumna Marwan",
+            " Hugh Skinner",
+            " Raphael Acloque",
+            " Jean-Marc Barr",
+            " Nina Sosanya",
+            " Kamel Labroudi",
+            " Barbara Fernandes Sabate",
+            " Lara V\u00e9liz",
+            " Matt Lauria"
+        ],
+        "ind": [
+            "Juno Temple",
+            " Yumna Marwan",
+            " Hugh Skinner",
+            " Raphael Acloque",
+            " Jean-Marc Barr",
+            " Nina Sosanya",
+            " Kamel Labroudi",
+            " Barbara Fernandes Sabate",
+            " Lara V\u00e9liz",
+            " Matt Lauria"
+        ],
+        "tha": [
+            "Juno Temple",
+            " Yumna Marwan",
+            " Hugh Skinner",
+            " Raphael Acloque",
+            " Jean-Marc Barr",
+            " Nina Sosanya",
+            " Kamel Labroudi",
+            " Barbara Fernandes Sabate",
+            " Lara V\u00e9liz",
+            " Matt Lauria"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Stacie Passon"
+        ],
+        "may": [
+            "Stacie Passon"
+        ],
+        "chi": [
+            "Stacie Passon"
+        ],
+        "tam": [
+            "Stacie Passon"
+        ],
+        "ind": [
+            "Stacie Passon"
+        ],
+        "tha": [
+            "Stacie Passon"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Peter Carlton",
+            " Jos\u00e9 Mar\u00eda Gonz\u00e1lez Sinde",
+            " Mark Herbert",
+            " Karl Liegis",
+            " Kara Manley",
+            " Ruth McCance",
+            " Stacie Passon",
+            " Peter Welter Soler",
+            " Carmen Torres"
+        ],
+        "may": [
+            "Peter Carlton",
+            " Jos\u00e9 Mar\u00eda Gonz\u00e1lez Sinde",
+            " Mark Herbert",
+            " Karl Liegis",
+            " Kara Manley",
+            " Ruth McCance",
+            " Stacie Passon",
+            " Peter Welter Soler",
+            " Carmen Torres"
+        ],
+        "chi": [
+            "Peter Carlton",
+            " Jos\u00e9 Mar\u00eda Gonz\u00e1lez Sinde",
+            " Mark Herbert",
+            " Karl Liegis",
+            " Kara Manley",
+            " Ruth McCance",
+            " Stacie Passon",
+            " Peter Welter Soler",
+            " Carmen Torres"
+        ],
+        "tam": [
+            "Peter Carlton",
+            " Jos\u00e9 Mar\u00eda Gonz\u00e1lez Sinde",
+            " Mark Herbert",
+            " Karl Liegis",
+            " Kara Manley",
+            " Ruth McCance",
+            " Stacie Passon",
+            " Peter Welter Soler",
+            " Carmen Torres"
+        ],
+        "ind": [
+            "Peter Carlton",
+            " Jos\u00e9 Mar\u00eda Gonz\u00e1lez Sinde",
+            " Mark Herbert",
+            " Karl Liegis",
+            " Kara Manley",
+            " Ruth McCance",
+            " Stacie Passon",
+            " Peter Welter Soler",
+            " Carmen Torres"
+        ],
+        "tha": [
+            "Peter Carlton",
+            " Jos\u00e9 Mar\u00eda Gonz\u00e1lez Sinde",
+            " Mark Herbert",
+            " Karl Liegis",
+            " Kara Manley",
+            " Ruth McCance",
+            " Stacie Passon",
+            " Peter Welter Soler",
+            " Carmen Torres"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_d50359e3-88be-54b6-9aaf-512d53748c5f",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Little Birds Season 1",
+            "may": "Little Birds Season 1",
+            "chi": "Little Birds Season 1",
+            "tam": "Little Birds Season 1",
+            "ind": "Little Birds Season 1",
+            "tha": "Little Birds Season 1"
+        },
+        "long": {
+            "eng": "Little Birds Season 1",
+            "may": "Little Birds Season 1",
+            "chi": "Little Birds Season 1",
+            "tam": "Little Birds Season 1",
+            "ind": "Little Birds Season 1",
+            "tha": "Little Birds Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "may": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "chi": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "tam": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "ind": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "tha": "TV adaptation of Anais Nin's infamous collection of erotic short stories."
+        },
+        "long": {
+            "eng": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "may": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "chi": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "tam": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "ind": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "tha": "TV adaptation of Anais Nin's infamous collection of erotic short stories."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LittleBirdsSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LittleBirdsSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LittleBirdsSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

@@ -1,0 +1,379 @@
+{
+    "externalId": "AggregatedTvShow_0d7c8d2f-5122-5eba-a51d-e19cecb60bbb",
+    "clientContentId": "PACK0000000008758268",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Trinkets - Trailer",
+            "may": "Trinkets - Trailer",
+            "tam": "Trinkets - Trailer",
+            "chi": "Trinkets - Trailer",
+            "tha": "Trinkets - Trailer",
+            "ind": "Trinkets - Trailer"
+        },
+        "long": {
+            "eng": "Trinkets - Trailer",
+            "may": "Trinkets - Trailer",
+            "tam": "Trinkets - Trailer",
+            "chi": "Trinkets - Trailer",
+            "tha": "Trinkets - Trailer",
+            "ind": "Trinkets - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "may": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "tam": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "chi": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "tha": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "ind": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous."
+        },
+        "long": {
+            "eng": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "may": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "tam": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "chi": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "tha": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "ind": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Brianna Hildebrand",
+            " Kiana Madeira",
+            " Quintessa Swindell",
+            " Odiseas Georgiadis",
+            " Brandon Butler",
+            " Larry Sullivan",
+            " Jessica Lynn Skinner",
+            " Henrique Zaga",
+            " Haley Tju",
+            " Munther Dajani"
+        ],
+        "may": [
+            "Brianna Hildebrand",
+            " Kiana Madeira",
+            " Quintessa Swindell",
+            " Odiseas Georgiadis",
+            " Brandon Butler",
+            " Larry Sullivan",
+            " Jessica Lynn Skinner",
+            " Henrique Zaga",
+            " Haley Tju",
+            " Munther Dajani"
+        ],
+        "tam": [
+            "Brianna Hildebrand",
+            " Kiana Madeira",
+            " Quintessa Swindell",
+            " Odiseas Georgiadis",
+            " Brandon Butler",
+            " Larry Sullivan",
+            " Jessica Lynn Skinner",
+            " Henrique Zaga",
+            " Haley Tju",
+            " Munther Dajani"
+        ],
+        "chi": [
+            "Brianna Hildebrand",
+            " Kiana Madeira",
+            " Quintessa Swindell",
+            " Odiseas Georgiadis",
+            " Brandon Butler",
+            " Larry Sullivan",
+            " Jessica Lynn Skinner",
+            " Henrique Zaga",
+            " Haley Tju",
+            " Munther Dajani"
+        ],
+        "tha": [
+            "Brianna Hildebrand",
+            " Kiana Madeira",
+            " Quintessa Swindell",
+            " Odiseas Georgiadis",
+            " Brandon Butler",
+            " Larry Sullivan",
+            " Jessica Lynn Skinner",
+            " Henrique Zaga",
+            " Haley Tju",
+            " Munther Dajani"
+        ],
+        "ind": [
+            "Brianna Hildebrand",
+            " Kiana Madeira",
+            " Quintessa Swindell",
+            " Odiseas Georgiadis",
+            " Brandon Butler",
+            " Larry Sullivan",
+            " Jessica Lynn Skinner",
+            " Henrique Zaga",
+            " Haley Tju",
+            " Munther Dajani"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Sara St. Onge",
+            " Sherwin Shilati",
+            " Clare Kilner",
+            " Hannah Macpherson",
+            " Ayoka Chenzira",
+            " John Fortenberry",
+            " Megan Griffiths"
+        ],
+        "may": [
+            "Sara St. Onge",
+            " Sherwin Shilati",
+            " Clare Kilner",
+            " Hannah Macpherson",
+            " Ayoka Chenzira",
+            " John Fortenberry",
+            " Megan Griffiths"
+        ],
+        "tam": [
+            "Sara St. Onge",
+            " Sherwin Shilati",
+            " Clare Kilner",
+            " Hannah Macpherson",
+            " Ayoka Chenzira",
+            " John Fortenberry",
+            " Megan Griffiths"
+        ],
+        "chi": [
+            "Sara St. Onge",
+            " Sherwin Shilati",
+            " Clare Kilner",
+            " Hannah Macpherson",
+            " Ayoka Chenzira",
+            " John Fortenberry",
+            " Megan Griffiths"
+        ],
+        "tha": [
+            "Sara St. Onge",
+            " Sherwin Shilati",
+            " Clare Kilner",
+            " Hannah Macpherson",
+            " Ayoka Chenzira",
+            " John Fortenberry",
+            " Megan Griffiths"
+        ],
+        "ind": [
+            "Sara St. Onge",
+            " Sherwin Shilati",
+            " Clare Kilner",
+            " Hannah Macpherson",
+            " Ayoka Chenzira",
+            " John Fortenberry",
+            " Megan Griffiths"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Amy Andelson",
+            " Don Dunn",
+            " Rebecca Glashow",
+            " Melissa Klein",
+            " Melanie Krauss",
+            " Scott Levine",
+            " Brin Lukens",
+            " Emily Meyer",
+            " Kirsten Smith",
+            " Shelley Zimmerman"
+        ],
+        "may": [
+            "Amy Andelson",
+            " Don Dunn",
+            " Rebecca Glashow",
+            " Melissa Klein",
+            " Melanie Krauss",
+            " Scott Levine",
+            " Brin Lukens",
+            " Emily Meyer",
+            " Kirsten Smith",
+            " Shelley Zimmerman"
+        ],
+        "tam": [
+            "Amy Andelson",
+            " Don Dunn",
+            " Rebecca Glashow",
+            " Melissa Klein",
+            " Melanie Krauss",
+            " Scott Levine",
+            " Brin Lukens",
+            " Emily Meyer",
+            " Kirsten Smith",
+            " Shelley Zimmerman"
+        ],
+        "chi": [
+            "Amy Andelson",
+            " Don Dunn",
+            " Rebecca Glashow",
+            " Melissa Klein",
+            " Melanie Krauss",
+            " Scott Levine",
+            " Brin Lukens",
+            " Emily Meyer",
+            " Kirsten Smith",
+            " Shelley Zimmerman"
+        ],
+        "tha": [
+            "Amy Andelson",
+            " Don Dunn",
+            " Rebecca Glashow",
+            " Melissa Klein",
+            " Melanie Krauss",
+            " Scott Levine",
+            " Brin Lukens",
+            " Emily Meyer",
+            " Kirsten Smith",
+            " Shelley Zimmerman"
+        ],
+        "ind": [
+            "Amy Andelson",
+            " Don Dunn",
+            " Rebecca Glashow",
+            " Melissa Klein",
+            " Melanie Krauss",
+            " Scott Levine",
+            " Brin Lukens",
+            " Emily Meyer",
+            " Kirsten Smith",
+            " Shelley Zimmerman"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TRINKETSSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TRINKETSSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TRINKETSSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_e04527c1-14c8-5f75-a302-61c76edd8927",
+    "seasonId": "AggregatedSeason_544928b7-bc60-5d9f-9596-9c5dc558a2c6",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2019,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

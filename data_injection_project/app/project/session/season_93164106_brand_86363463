@@ -1,0 +1,341 @@
+{
+    "externalId": "AggregatedSeason_fbf2283b-8da2-5b5d-8553-04092911df2d",
+    "clientContentId": "PACK0000000002192374",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Mystery",
+                    "may": " Mystery",
+                    "chi": " Mystery",
+                    "tam": " Mystery",
+                    "ind": " Mystery",
+                    "tha": " Mystery"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "15",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Rakie Ayola",
+            " Laura Fraser",
+            " Julie Hesmondhalgh",
+            " Eiry Thomas",
+            " Heledd Gwynn",
+            " Aneurin Barnard",
+            " Jason Hughes",
+            " Abbie Hern",
+            " Gabrielle Creevy",
+            " Aled ap Steffan"
+        ],
+        "may": [
+            "Rakie Ayola",
+            " Laura Fraser",
+            " Julie Hesmondhalgh",
+            " Eiry Thomas",
+            " Heledd Gwynn",
+            " Aneurin Barnard",
+            " Jason Hughes",
+            " Abbie Hern",
+            " Gabrielle Creevy",
+            " Aled ap Steffan"
+        ],
+        "chi": [
+            "Rakie Ayola",
+            " Laura Fraser",
+            " Julie Hesmondhalgh",
+            " Eiry Thomas",
+            " Heledd Gwynn",
+            " Aneurin Barnard",
+            " Jason Hughes",
+            " Abbie Hern",
+            " Gabrielle Creevy",
+            " Aled ap Steffan"
+        ],
+        "tam": [
+            "Rakie Ayola",
+            " Laura Fraser",
+            " Julie Hesmondhalgh",
+            " Eiry Thomas",
+            " Heledd Gwynn",
+            " Aneurin Barnard",
+            " Jason Hughes",
+            " Abbie Hern",
+            " Gabrielle Creevy",
+            " Aled ap Steffan"
+        ],
+        "ind": [
+            "Rakie Ayola",
+            " Laura Fraser",
+            " Julie Hesmondhalgh",
+            " Eiry Thomas",
+            " Heledd Gwynn",
+            " Aneurin Barnard",
+            " Jason Hughes",
+            " Abbie Hern",
+            " Gabrielle Creevy",
+            " Aled ap Steffan"
+        ],
+        "tha": [
+            "Rakie Ayola",
+            " Laura Fraser",
+            " Julie Hesmondhalgh",
+            " Eiry Thomas",
+            " Heledd Gwynn",
+            " Aneurin Barnard",
+            " Jason Hughes",
+            " Abbie Hern",
+            " Gabrielle Creevy",
+            " Aled ap Steffan"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Rebecca Johnson",
+            " Eric Styles",
+            " Christiana Ebohon-Green",
+            " Nicole Volavka"
+        ],
+        "may": [
+            "Rebecca Johnson",
+            " Eric Styles",
+            " Christiana Ebohon-Green",
+            " Nicole Volavka"
+        ],
+        "chi": [
+            "Rebecca Johnson",
+            " Eric Styles",
+            " Christiana Ebohon-Green",
+            " Nicole Volavka"
+        ],
+        "tam": [
+            "Rebecca Johnson",
+            " Eric Styles",
+            " Christiana Ebohon-Green",
+            " Nicole Volavka"
+        ],
+        "ind": [
+            "Rebecca Johnson",
+            " Eric Styles",
+            " Christiana Ebohon-Green",
+            " Nicole Volavka"
+        ],
+        "tha": [
+            "Rebecca Johnson",
+            " Eric Styles",
+            " Christiana Ebohon-Green",
+            " Nicole Volavka"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Marc B. Lorber",
+            " Nancy Bray",
+            " Catrin Lewis Defis",
+            " Hayley Manning",
+            " Pete McTighe",
+            " Elwen Rowlands",
+            " Florian Cassel-Delavois",
+            " Adam Knopf",
+            " Helen Perry",
+            " Ynyr Williams"
+        ],
+        "may": [
+            "Marc B. Lorber",
+            " Nancy Bray",
+            " Catrin Lewis Defis",
+            " Hayley Manning",
+            " Pete McTighe",
+            " Elwen Rowlands",
+            " Florian Cassel-Delavois",
+            " Adam Knopf",
+            " Helen Perry",
+            " Ynyr Williams"
+        ],
+        "chi": [
+            "Marc B. Lorber",
+            " Nancy Bray",
+            " Catrin Lewis Defis",
+            " Hayley Manning",
+            " Pete McTighe",
+            " Elwen Rowlands",
+            " Florian Cassel-Delavois",
+            " Adam Knopf",
+            " Helen Perry",
+            " Ynyr Williams"
+        ],
+        "tam": [
+            "Marc B. Lorber",
+            " Nancy Bray",
+            " Catrin Lewis Defis",
+            " Hayley Manning",
+            " Pete McTighe",
+            " Elwen Rowlands",
+            " Florian Cassel-Delavois",
+            " Adam Knopf",
+            " Helen Perry",
+            " Ynyr Williams"
+        ],
+        "ind": [
+            "Marc B. Lorber",
+            " Nancy Bray",
+            " Catrin Lewis Defis",
+            " Hayley Manning",
+            " Pete McTighe",
+            " Elwen Rowlands",
+            " Florian Cassel-Delavois",
+            " Adam Knopf",
+            " Helen Perry",
+            " Ynyr Williams"
+        ],
+        "tha": [
+            "Marc B. Lorber",
+            " Nancy Bray",
+            " Catrin Lewis Defis",
+            " Hayley Manning",
+            " Pete McTighe",
+            " Elwen Rowlands",
+            " Florian Cassel-Delavois",
+            " Adam Knopf",
+            " Helen Perry",
+            " Ynyr Williams"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_2374c587-e7f9-5bbc-9872-7dcd1232b5ca",
+    "seasonNumber": "2",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Pact Season 2",
+            "may": "The Pact Season 2",
+            "chi": "The Pact Season 2",
+            "tam": "The Pact Season 2",
+            "ind": "The Pact Season 2",
+            "tha": "The Pact Season 2"
+        },
+        "long": {
+            "eng": "The Pact Season 2",
+            "may": "The Pact Season 2",
+            "chi": "The Pact Season 2",
+            "tam": "The Pact Season 2",
+            "ind": "The Pact Season 2",
+            "tha": "The Pact Season 2"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "may": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "chi": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "tam": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "ind": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "tha": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love."
+        },
+        "long": {
+            "eng": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "may": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "chi": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "tam": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "ind": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love.",
+            "tha": "Drama series telling stories of the secrets people keep and how far someone would go to protect those that they love."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePactSeason2_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePactSeason2_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ThePactSeason2_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

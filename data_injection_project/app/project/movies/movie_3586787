@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_afb9eb8c-1de0-5278-b084-ebf8f0cde016",
+    "clientContentId": "PACK0000000008113310",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "THE VAULT",
+            "may": "THE VAULT",
+            "tam": "THE VAULT",
+            "chi": "THE VAULT",
+            "tha": "THE VAULT",
+            "ind": "THE VAULT"
+        },
+        "long": {
+            "eng": "THE VAULT",
+            "may": "THE VAULT",
+            "tam": "THE VAULT",
+            "chi": "THE VAULT",
+            "tha": "THE VAULT",
+            "ind": "THE VAULT"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Follows a genius engineering graduate who is interested in the Bank of Spain's safe.",
+            "may": "Follows a genius engineering graduate who is interested in the Bank of Spain's safe.",
+            "tam": "Follows a genius engineering graduate who is interested in the Bank of Spain's safe.",
+            "chi": "Follows a genius engineering graduate who is interested in the Bank of Spain's safe.",
+            "tha": "Follows a genius engineering graduate who is interested in the Bank of Spain's safe.",
+            "ind": "Follows a genius engineering graduate who is interested in the Bank of Spain's safe."
+        },
+        "long": {
+            "eng": "Follows a genius engineering graduate who is interested in the Bank of Spain's safe.",
+            "may": "Follows a genius engineering graduate who is interested in the Bank of Spain's safe.",
+            "tam": "Follows a genius engineering graduate who is interested in the Bank of Spain's safe.",
+            "chi": "Follows a genius engineering graduate who is interested in the Bank of Spain's safe.",
+            "tha": "Follows a genius engineering graduate who is interested in the Bank of Spain's safe.",
+            "ind": "Follows a genius engineering graduate who is interested in the Bank of Spain's safe."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Freddie Highmore",
+            " Astrid Berg\u00e8s-Frisbey",
+            " Sam Riley",
+            " Liam Cunningham",
+            " Jose Coronado",
+            " Luis Tosar",
+            " Emilio Guti\u00e9rrez Caba",
+            " Axel Stein",
+            " Daniel Holgu\u00edn",
+            " Famke Janssen"
+        ],
+        "may": [
+            "Freddie Highmore",
+            " Astrid Berg\u00e8s-Frisbey",
+            " Sam Riley",
+            " Liam Cunningham",
+            " Jose Coronado",
+            " Luis Tosar",
+            " Emilio Guti\u00e9rrez Caba",
+            " Axel Stein",
+            " Daniel Holgu\u00edn",
+            " Famke Janssen"
+        ],
+        "tam": [
+            "Freddie Highmore",
+            " Astrid Berg\u00e8s-Frisbey",
+            " Sam Riley",
+            " Liam Cunningham",
+            " Jose Coronado",
+            " Luis Tosar",
+            " Emilio Guti\u00e9rrez Caba",
+            " Axel Stein",
+            " Daniel Holgu\u00edn",
+            " Famke Janssen"
+        ],
+        "chi": [
+            "Freddie Highmore",
+            " Astrid Berg\u00e8s-Frisbey",
+            " Sam Riley",
+            " Liam Cunningham",
+            " Jose Coronado",
+            " Luis Tosar",
+            " Emilio Guti\u00e9rrez Caba",
+            " Axel Stein",
+            " Daniel Holgu\u00edn",
+            " Famke Janssen"
+        ],
+        "tha": [
+            "Freddie Highmore",
+            " Astrid Berg\u00e8s-Frisbey",
+            " Sam Riley",
+            " Liam Cunningham",
+            " Jose Coronado",
+            " Luis Tosar",
+            " Emilio Guti\u00e9rrez Caba",
+            " Axel Stein",
+            " Daniel Holgu\u00edn",
+            " Famke Janssen"
+        ],
+        "ind": [
+            "Freddie Highmore",
+            " Astrid Berg\u00e8s-Frisbey",
+            " Sam Riley",
+            " Liam Cunningham",
+            " Jose Coronado",
+            " Luis Tosar",
+            " Emilio Guti\u00e9rrez Caba",
+            " Axel Stein",
+            " Daniel Holgu\u00edn",
+            " Famke Janssen"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jaume Balaguer\u00f3"
+        ],
+        "may": [
+            "Jaume Balaguer\u00f3"
+        ],
+        "tam": [
+            "Jaume Balaguer\u00f3"
+        ],
+        "chi": [
+            "Jaume Balaguer\u00f3"
+        ],
+        "tha": [
+            "Jaume Balaguer\u00f3"
+        ],
+        "ind": [
+            "Jaume Balaguer\u00f3"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "\u00c1lvaro Augustin",
+            " Ghislain Barrois",
+            " Sandra Hermida",
+            " Freddie Highmore",
+            " Margarita Huguet",
+            " M\u00f3nica Iturriaga",
+            " Eneko Lizarraga",
+            " Paloma Molina",
+            " Francisco S\u00e1nchez Ortiz",
+            " Jorge Tuca"
+        ],
+        "may": [
+            "\u00c1lvaro Augustin",
+            " Ghislain Barrois",
+            " Sandra Hermida",
+            " Freddie Highmore",
+            " Margarita Huguet",
+            " M\u00f3nica Iturriaga",
+            " Eneko Lizarraga",
+            " Paloma Molina",
+            " Francisco S\u00e1nchez Ortiz",
+            " Jorge Tuca"
+        ],
+        "tam": [
+            "\u00c1lvaro Augustin",
+            " Ghislain Barrois",
+            " Sandra Hermida",
+            " Freddie Highmore",
+            " Margarita Huguet",
+            " M\u00f3nica Iturriaga",
+            " Eneko Lizarraga",
+            " Paloma Molina",
+            " Francisco S\u00e1nchez Ortiz",
+            " Jorge Tuca"
+        ],
+        "chi": [
+            "\u00c1lvaro Augustin",
+            " Ghislain Barrois",
+            " Sandra Hermida",
+            " Freddie Highmore",
+            " Margarita Huguet",
+            " M\u00f3nica Iturriaga",
+            " Eneko Lizarraga",
+            " Paloma Molina",
+            " Francisco S\u00e1nchez Ortiz",
+            " Jorge Tuca"
+        ],
+        "tha": [
+            "\u00c1lvaro Augustin",
+            " Ghislain Barrois",
+            " Sandra Hermida",
+            " Freddie Highmore",
+            " Margarita Huguet",
+            " M\u00f3nica Iturriaga",
+            " Eneko Lizarraga",
+            " Paloma Molina",
+            " Francisco S\u00e1nchez Ortiz",
+            " Jorge Tuca"
+        ],
+        "ind": [
+            "\u00c1lvaro Augustin",
+            " Ghislain Barrois",
+            " Sandra Hermida",
+            " Freddie Highmore",
+            " Margarita Huguet",
+            " M\u00f3nica Iturriaga",
+            " Eneko Lizarraga",
+            " Paloma Molina",
+            " Francisco S\u00e1nchez Ortiz",
+            " Jorge Tuca"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/THEVAULT_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/THEVAULT_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/THEVAULT_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2021,
+    "rating": "6.4",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

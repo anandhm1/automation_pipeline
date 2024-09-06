@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_0d0bf763-2a1c-5d5a-973a-094fbe0525d9",
+    "clientContentId": "PACK0000000001994124",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Bezos (2022)",
+            "may": "Bezos (2022)",
+            "tam": "Bezos (2022)",
+            "chi": "Bezos (2022)",
+            "tha": "Bezos (2022)",
+            "ind": "Bezos (2022)"
+        },
+        "long": {
+            "eng": "Bezos (2022)",
+            "may": "Bezos (2022)",
+            "tam": "Bezos (2022)",
+            "chi": "Bezos (2022)",
+            "tha": "Bezos (2022)",
+            "ind": "Bezos (2022)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Bezos chronicles the true-life story of Jeff Bezos-a humble yet awkward entrepreneur on his mission to create Amazon, the world's largest e-commerce company, and turning himself into the richest man in the world.",
+            "may": "Bezos chronicles the true-life story of Jeff Bezos-a humble yet awkward entrepreneur on his mission to create Amazon, the world's largest e-commerce company, and turning himself into the richest man in the world.",
+            "tam": "Bezos chronicles the true-life story of Jeff Bezos-a humble yet awkward entrepreneur on his mission to create Amazon, the world's largest e-commerce company, and turning himself into the richest man in the world.",
+            "chi": "Bezos chronicles the true-life story of Jeff Bezos-a humble yet awkward entrepreneur on his mission to create Amazon, the world's largest e-commerce company, and turning himself into the richest man in the world.",
+            "tha": "Bezos chronicles the true-life story of Jeff Bezos-a humble yet awkward entrepreneur on his mission to create Amazon, the world's largest e-commerce company, and turning himself into the richest man in the world.",
+            "ind": "Bezos chronicles the true-life story of Jeff Bezos-a humble yet awkward entrepreneur on his mission to create Amazon, the world's largest e-commerce company, and turning himself into the richest man in the world."
+        },
+        "long": {
+            "eng": "Bezos chronicles the true-life story of Jeff Bezos-a humble yet awkward entrepreneur on his mission to create Amazon, the world's largest e-commerce company, and turning himself into the richest man in the world.",
+            "may": "Bezos chronicles the true-life story of Jeff Bezos-a humble yet awkward entrepreneur on his mission to create Amazon, the world's largest e-commerce company, and turning himself into the richest man in the world.",
+            "tam": "Bezos chronicles the true-life story of Jeff Bezos-a humble yet awkward entrepreneur on his mission to create Amazon, the world's largest e-commerce company, and turning himself into the richest man in the world.",
+            "chi": "Bezos chronicles the true-life story of Jeff Bezos-a humble yet awkward entrepreneur on his mission to create Amazon, the world's largest e-commerce company, and turning himself into the richest man in the world.",
+            "tha": "Bezos chronicles the true-life story of Jeff Bezos-a humble yet awkward entrepreneur on his mission to create Amazon, the world's largest e-commerce company, and turning himself into the richest man in the world.",
+            "ind": "Bezos chronicles the true-life story of Jeff Bezos-a humble yet awkward entrepreneur on his mission to create Amazon, the world's largest e-commerce company, and turning himself into the richest man in the world."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Armando Gutierrez",
+            " Emilio Estefan Jr.",
+            " Eliana Ghen",
+            " Marcus Lemonis",
+            " Kevin Sorbo",
+            " Rest of cast listed alphabetically:",
+            " Kristen Alverenga",
+            " Sasha Andreev",
+            " Ruth Ballesteros",
+            " Richard Booth"
+        ],
+        "may": [
+            "Armando Gutierrez",
+            " Emilio Estefan Jr.",
+            " Eliana Ghen",
+            " Marcus Lemonis",
+            " Kevin Sorbo",
+            " Rest of cast listed alphabetically:",
+            " Kristen Alverenga",
+            " Sasha Andreev",
+            " Ruth Ballesteros",
+            " Richard Booth"
+        ],
+        "tam": [
+            "Armando Gutierrez",
+            " Emilio Estefan Jr.",
+            " Eliana Ghen",
+            " Marcus Lemonis",
+            " Kevin Sorbo",
+            " Rest of cast listed alphabetically:",
+            " Kristen Alverenga",
+            " Sasha Andreev",
+            " Ruth Ballesteros",
+            " Richard Booth"
+        ],
+        "chi": [
+            "Armando Gutierrez",
+            " Emilio Estefan Jr.",
+            " Eliana Ghen",
+            " Marcus Lemonis",
+            " Kevin Sorbo",
+            " Rest of cast listed alphabetically:",
+            " Kristen Alverenga",
+            " Sasha Andreev",
+            " Ruth Ballesteros",
+            " Richard Booth"
+        ],
+        "tha": [
+            "Armando Gutierrez",
+            " Emilio Estefan Jr.",
+            " Eliana Ghen",
+            " Marcus Lemonis",
+            " Kevin Sorbo",
+            " Rest of cast listed alphabetically:",
+            " Kristen Alverenga",
+            " Sasha Andreev",
+            " Ruth Ballesteros",
+            " Richard Booth"
+        ],
+        "ind": [
+            "Armando Gutierrez",
+            " Emilio Estefan Jr.",
+            " Eliana Ghen",
+            " Marcus Lemonis",
+            " Kevin Sorbo",
+            " Rest of cast listed alphabetically:",
+            " Kristen Alverenga",
+            " Sasha Andreev",
+            " Ruth Ballesteros",
+            " Richard Booth"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Khoa Le"
+        ],
+        "may": [
+            "Khoa Le"
+        ],
+        "tam": [
+            "Khoa Le"
+        ],
+        "chi": [
+            "Khoa Le"
+        ],
+        "tha": [
+            "Khoa Le"
+        ],
+        "ind": [
+            "Khoa Le"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Kory Apton",
+            " Richard Booth",
+            " Alberto De La Cruz",
+            " Trace De La Torre",
+            " Emilio Estefan Jr.",
+            " Nick Friedman",
+            " Armando Gutierrez",
+            " Kristian Juanas",
+            " Peter A. Lees",
+            " Nehir Onay"
+        ],
+        "may": [
+            "Kory Apton",
+            " Richard Booth",
+            " Alberto De La Cruz",
+            " Trace De La Torre",
+            " Emilio Estefan Jr.",
+            " Nick Friedman",
+            " Armando Gutierrez",
+            " Kristian Juanas",
+            " Peter A. Lees",
+            " Nehir Onay"
+        ],
+        "tam": [
+            "Kory Apton",
+            " Richard Booth",
+            " Alberto De La Cruz",
+            " Trace De La Torre",
+            " Emilio Estefan Jr.",
+            " Nick Friedman",
+            " Armando Gutierrez",
+            " Kristian Juanas",
+            " Peter A. Lees",
+            " Nehir Onay"
+        ],
+        "chi": [
+            "Kory Apton",
+            " Richard Booth",
+            " Alberto De La Cruz",
+            " Trace De La Torre",
+            " Emilio Estefan Jr.",
+            " Nick Friedman",
+            " Armando Gutierrez",
+            " Kristian Juanas",
+            " Peter A. Lees",
+            " Nehir Onay"
+        ],
+        "tha": [
+            "Kory Apton",
+            " Richard Booth",
+            " Alberto De La Cruz",
+            " Trace De La Torre",
+            " Emilio Estefan Jr.",
+            " Nick Friedman",
+            " Armando Gutierrez",
+            " Kristian Juanas",
+            " Peter A. Lees",
+            " Nehir Onay"
+        ],
+        "ind": [
+            "Kory Apton",
+            " Richard Booth",
+            " Alberto De La Cruz",
+            " Trace De La Torre",
+            " Emilio Estefan Jr.",
+            " Nick Friedman",
+            " Armando Gutierrez",
+            " Kristian Juanas",
+            " Peter A. Lees",
+            " Nehir Onay"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Biography",
+                    "may": "Biography",
+                    "tam": "Biography",
+                    "chi": "Biography",
+                    "tha": "Biography",
+                    "ind": "Biography"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Bezos_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Bezos_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Bezos_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2023,
+    "rating": "6.0",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

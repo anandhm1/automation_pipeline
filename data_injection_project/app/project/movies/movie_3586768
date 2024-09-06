@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_53ae1575-af02-5c52-aaaa-27898b367403",
+    "clientContentId": "PACK0000000007267453",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "RAMBO LAST BLOOD",
+            "may": "RAMBO LAST BLOOD",
+            "tam": "RAMBO LAST BLOOD",
+            "chi": "RAMBO LAST BLOOD",
+            "tha": "RAMBO LAST BLOOD",
+            "ind": "RAMBO LAST BLOOD"
+        },
+        "long": {
+            "eng": "RAMBO LAST BLOOD",
+            "may": "RAMBO LAST BLOOD",
+            "tam": "RAMBO LAST BLOOD",
+            "chi": "RAMBO LAST BLOOD",
+            "tha": "RAMBO LAST BLOOD",
+            "ind": "RAMBO LAST BLOOD"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission.",
+            "may": "Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission.",
+            "tam": "Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission.",
+            "chi": "Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission.",
+            "tha": "Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission.",
+            "ind": "Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission."
+        },
+        "long": {
+            "eng": "Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission.",
+            "may": "Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission.",
+            "tam": "Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission.",
+            "chi": "Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission.",
+            "tha": "Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission.",
+            "ind": "Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Sylvester Stallone",
+            " Paz Vega",
+            " Sergio Peris-Mencheta",
+            " Adriana Barraza",
+            " Yvette Monreal",
+            " Genie Kim",
+            " Joaqu\u00edn Cosio",
+            " Pascacio L\u00f3pez",
+            " \u00d3scar Jaenada",
+            " Alexander Dimitrov"
+        ],
+        "may": [
+            "Sylvester Stallone",
+            " Paz Vega",
+            " Sergio Peris-Mencheta",
+            " Adriana Barraza",
+            " Yvette Monreal",
+            " Genie Kim",
+            " Joaqu\u00edn Cosio",
+            " Pascacio L\u00f3pez",
+            " \u00d3scar Jaenada",
+            " Alexander Dimitrov"
+        ],
+        "tam": [
+            "Sylvester Stallone",
+            " Paz Vega",
+            " Sergio Peris-Mencheta",
+            " Adriana Barraza",
+            " Yvette Monreal",
+            " Genie Kim",
+            " Joaqu\u00edn Cosio",
+            " Pascacio L\u00f3pez",
+            " \u00d3scar Jaenada",
+            " Alexander Dimitrov"
+        ],
+        "chi": [
+            "Sylvester Stallone",
+            " Paz Vega",
+            " Sergio Peris-Mencheta",
+            " Adriana Barraza",
+            " Yvette Monreal",
+            " Genie Kim",
+            " Joaqu\u00edn Cosio",
+            " Pascacio L\u00f3pez",
+            " \u00d3scar Jaenada",
+            " Alexander Dimitrov"
+        ],
+        "tha": [
+            "Sylvester Stallone",
+            " Paz Vega",
+            " Sergio Peris-Mencheta",
+            " Adriana Barraza",
+            " Yvette Monreal",
+            " Genie Kim",
+            " Joaqu\u00edn Cosio",
+            " Pascacio L\u00f3pez",
+            " \u00d3scar Jaenada",
+            " Alexander Dimitrov"
+        ],
+        "ind": [
+            "Sylvester Stallone",
+            " Paz Vega",
+            " Sergio Peris-Mencheta",
+            " Adriana Barraza",
+            " Yvette Monreal",
+            " Genie Kim",
+            " Joaqu\u00edn Cosio",
+            " Pascacio L\u00f3pez",
+            " \u00d3scar Jaenada",
+            " Alexander Dimitrov"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Adrian Grunberg"
+        ],
+        "may": [
+            "Adrian Grunberg"
+        ],
+        "tam": [
+            "Adrian Grunberg"
+        ],
+        "chi": [
+            "Adrian Grunberg"
+        ],
+        "tha": [
+            "Adrian Grunberg"
+        ],
+        "ind": [
+            "Adrian Grunberg"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Louis Arriola",
+            " Christa Campbell",
+            " Allen Dam",
+            " Boaz Davidson",
+            " Valentin Dimitrov",
+            " Claiton Fernandes",
+            " Vladimir Fernandes",
+            " Andrey Georgiev",
+            " Jeffrey Greenstein",
+            " Lati Grobman"
+        ],
+        "may": [
+            "Louis Arriola",
+            " Christa Campbell",
+            " Allen Dam",
+            " Boaz Davidson",
+            " Valentin Dimitrov",
+            " Claiton Fernandes",
+            " Vladimir Fernandes",
+            " Andrey Georgiev",
+            " Jeffrey Greenstein",
+            " Lati Grobman"
+        ],
+        "tam": [
+            "Louis Arriola",
+            " Christa Campbell",
+            " Allen Dam",
+            " Boaz Davidson",
+            " Valentin Dimitrov",
+            " Claiton Fernandes",
+            " Vladimir Fernandes",
+            " Andrey Georgiev",
+            " Jeffrey Greenstein",
+            " Lati Grobman"
+        ],
+        "chi": [
+            "Louis Arriola",
+            " Christa Campbell",
+            " Allen Dam",
+            " Boaz Davidson",
+            " Valentin Dimitrov",
+            " Claiton Fernandes",
+            " Vladimir Fernandes",
+            " Andrey Georgiev",
+            " Jeffrey Greenstein",
+            " Lati Grobman"
+        ],
+        "tha": [
+            "Louis Arriola",
+            " Christa Campbell",
+            " Allen Dam",
+            " Boaz Davidson",
+            " Valentin Dimitrov",
+            " Claiton Fernandes",
+            " Vladimir Fernandes",
+            " Andrey Georgiev",
+            " Jeffrey Greenstein",
+            " Lati Grobman"
+        ],
+        "ind": [
+            "Louis Arriola",
+            " Christa Campbell",
+            " Allen Dam",
+            " Boaz Davidson",
+            " Valentin Dimitrov",
+            " Claiton Fernandes",
+            " Vladimir Fernandes",
+            " Andrey Georgiev",
+            " Jeffrey Greenstein",
+            " Lati Grobman"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/RamboLastBlood_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/RamboLastBlood_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/RamboLastBlood_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2019,
+    "rating": "6.1",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

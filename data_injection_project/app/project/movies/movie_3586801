@@ -1,0 +1,301 @@
+{
+    "externalId": "AggregatedMovie_77795ab2-440a-56e4-8b56-064511b9a239",
+    "clientContentId": "PACK0000000007212326",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "In From The Side 2022",
+            "may": "In From The Side 2022",
+            "tam": "In From The Side 2022",
+            "chi": "In From The Side 2022",
+            "tha": "In From The Side 2022",
+            "ind": "In From The Side 2022"
+        },
+        "long": {
+            "eng": "In From The Side 2022",
+            "may": "In From The Side 2022",
+            "tam": "In From The Side 2022",
+            "chi": "In From The Side 2022",
+            "tha": "In From The Side 2022",
+            "ind": "In From The Side 2022"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Following a drunken encounter, two equally attached men from a cash strapped and divided gay rugby club unwittingly sleepwalk into an adulterous affair but must conceal their growing feelings or risk destroying the club they love.",
+            "may": "Following a drunken encounter, two equally attached men from a cash strapped and divided gay rugby club unwittingly sleepwalk into an adulterous affair but must conceal their growing feelings or risk destroying the club they love.",
+            "tam": "Following a drunken encounter, two equally attached men from a cash strapped and divided gay rugby club unwittingly sleepwalk into an adulterous affair but must conceal their growing feelings or risk destroying the club they love.",
+            "chi": "Following a drunken encounter, two equally attached men from a cash strapped and divided gay rugby club unwittingly sleepwalk into an adulterous affair but must conceal their growing feelings or risk destroying the club they love.",
+            "tha": "Following a drunken encounter, two equally attached men from a cash strapped and divided gay rugby club unwittingly sleepwalk into an adulterous affair but must conceal their growing feelings or risk destroying the club they love.",
+            "ind": "Following a drunken encounter, two equally attached men from a cash strapped and divided gay rugby club unwittingly sleepwalk into an adulterous affair but must conceal their growing feelings or risk destroying the club they love."
+        },
+        "long": {
+            "eng": "Following a drunken encounter, two equally attached men from a cash strapped and divided gay rugby club unwittingly sleepwalk into an adulterous affair but must conceal their growing feelings or risk destroying the club they love.",
+            "may": "Following a drunken encounter, two equally attached men from a cash strapped and divided gay rugby club unwittingly sleepwalk into an adulterous affair but must conceal their growing feelings or risk destroying the club they love.",
+            "tam": "Following a drunken encounter, two equally attached men from a cash strapped and divided gay rugby club unwittingly sleepwalk into an adulterous affair but must conceal their growing feelings or risk destroying the club they love.",
+            "chi": "Following a drunken encounter, two equally attached men from a cash strapped and divided gay rugby club unwittingly sleepwalk into an adulterous affair but must conceal their growing feelings or risk destroying the club they love.",
+            "tha": "Following a drunken encounter, two equally attached men from a cash strapped and divided gay rugby club unwittingly sleepwalk into an adulterous affair but must conceal their growing feelings or risk destroying the club they love.",
+            "ind": "Following a drunken encounter, two equally attached men from a cash strapped and divided gay rugby club unwittingly sleepwalk into an adulterous affair but must conceal their growing feelings or risk destroying the club they love."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Alexander Lincoln",
+            " Alexander King",
+            " William Hearle",
+            " Alex Hammond",
+            " Pearse Egan",
+            " Christopher Sherwood",
+            " Chris Garner",
+            " Peter McPherson",
+            " Ivan Comisso",
+            " Carl Loughlin"
+        ],
+        "may": [
+            "Alexander Lincoln",
+            " Alexander King",
+            " William Hearle",
+            " Alex Hammond",
+            " Pearse Egan",
+            " Christopher Sherwood",
+            " Chris Garner",
+            " Peter McPherson",
+            " Ivan Comisso",
+            " Carl Loughlin"
+        ],
+        "tam": [
+            "Alexander Lincoln",
+            " Alexander King",
+            " William Hearle",
+            " Alex Hammond",
+            " Pearse Egan",
+            " Christopher Sherwood",
+            " Chris Garner",
+            " Peter McPherson",
+            " Ivan Comisso",
+            " Carl Loughlin"
+        ],
+        "chi": [
+            "Alexander Lincoln",
+            " Alexander King",
+            " William Hearle",
+            " Alex Hammond",
+            " Pearse Egan",
+            " Christopher Sherwood",
+            " Chris Garner",
+            " Peter McPherson",
+            " Ivan Comisso",
+            " Carl Loughlin"
+        ],
+        "tha": [
+            "Alexander Lincoln",
+            " Alexander King",
+            " William Hearle",
+            " Alex Hammond",
+            " Pearse Egan",
+            " Christopher Sherwood",
+            " Chris Garner",
+            " Peter McPherson",
+            " Ivan Comisso",
+            " Carl Loughlin"
+        ],
+        "ind": [
+            "Alexander Lincoln",
+            " Alexander King",
+            " William Hearle",
+            " Alex Hammond",
+            " Pearse Egan",
+            " Christopher Sherwood",
+            " Chris Garner",
+            " Peter McPherson",
+            " Ivan Comisso",
+            " Carl Loughlin"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Matt Carter"
+        ],
+        "may": [
+            "Matt Carter"
+        ],
+        "tam": [
+            "Matt Carter"
+        ],
+        "chi": [
+            "Matt Carter"
+        ],
+        "tha": [
+            "Matt Carter"
+        ],
+        "ind": [
+            "Matt Carter"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Matt Carter",
+            " Andrew Faure",
+            " Adam Silver"
+        ],
+        "may": [
+            "Matt Carter",
+            " Andrew Faure",
+            " Adam Silver"
+        ],
+        "tam": [
+            "Matt Carter",
+            " Andrew Faure",
+            " Adam Silver"
+        ],
+        "chi": [
+            "Matt Carter",
+            " Andrew Faure",
+            " Adam Silver"
+        ],
+        "tha": [
+            "Matt Carter",
+            " Andrew Faure",
+            " Adam Silver"
+        ],
+        "ind": [
+            "Matt Carter",
+            " Andrew Faure",
+            " Adam Silver"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Romance",
+                    "may": " Romance",
+                    "tam": " Romance",
+                    "chi": " Romance",
+                    "tha": " Romance",
+                    "ind": " Romance"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/InFromTheSide_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/InFromTheSide_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/InFromTheSide_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "6.8",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

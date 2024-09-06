@@ -1,0 +1,323 @@
+{
+    "externalId": "AggregatedSeason_e1295747-7500-5b09-8cfb-6ebd5dcb247c",
+    "clientContentId": "PACK0000000004565003",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "chi": "Documentary",
+                    "tam": "Documentary",
+                    "ind": "Documentary",
+                    "tha": "Documentary"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "chi": "Documentary",
+                    "tam": "Documentary",
+                    "ind": "Documentary",
+                    "tha": "Documentary"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Daniel Wilson",
+            " Diana Wilson",
+            " Peter Sasaki",
+            " Bob Sloan",
+            " Mikey Guggenheim",
+            " Vicki Bogan",
+            " Rachael Sassara",
+            " Erik Hess",
+            " Gunjan Banerji",
+            " Matt Kohrs"
+        ],
+        "may": [
+            "Daniel Wilson",
+            " Diana Wilson",
+            " Peter Sasaki",
+            " Bob Sloan",
+            " Mikey Guggenheim",
+            " Vicki Bogan",
+            " Rachael Sassara",
+            " Erik Hess",
+            " Gunjan Banerji",
+            " Matt Kohrs"
+        ],
+        "chi": [
+            "Daniel Wilson",
+            " Diana Wilson",
+            " Peter Sasaki",
+            " Bob Sloan",
+            " Mikey Guggenheim",
+            " Vicki Bogan",
+            " Rachael Sassara",
+            " Erik Hess",
+            " Gunjan Banerji",
+            " Matt Kohrs"
+        ],
+        "tam": [
+            "Daniel Wilson",
+            " Diana Wilson",
+            " Peter Sasaki",
+            " Bob Sloan",
+            " Mikey Guggenheim",
+            " Vicki Bogan",
+            " Rachael Sassara",
+            " Erik Hess",
+            " Gunjan Banerji",
+            " Matt Kohrs"
+        ],
+        "ind": [
+            "Daniel Wilson",
+            " Diana Wilson",
+            " Peter Sasaki",
+            " Bob Sloan",
+            " Mikey Guggenheim",
+            " Vicki Bogan",
+            " Rachael Sassara",
+            " Erik Hess",
+            " Gunjan Banerji",
+            " Matt Kohrs"
+        ],
+        "tha": [
+            "Daniel Wilson",
+            " Diana Wilson",
+            " Peter Sasaki",
+            " Bob Sloan",
+            " Mikey Guggenheim",
+            " Vicki Bogan",
+            " Rachael Sassara",
+            " Erik Hess",
+            " Gunjan Banerji",
+            " Matt Kohrs"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Theo Love"
+        ],
+        "may": [
+            "Theo Love"
+        ],
+        "chi": [
+            "Theo Love"
+        ],
+        "tam": [
+            "Theo Love"
+        ],
+        "ind": [
+            "Theo Love"
+        ],
+        "tha": [
+            "Theo Love"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Cali Bagby",
+            " Jon Bardin",
+            " Dan Cogan",
+            " Julie Gaither",
+            " Liz Garbus",
+            " Leah-Lani Griffin",
+            " Amy Hobby",
+            " Lily Platt",
+            " Jack Youngelson",
+            " Anthony Galloway"
+        ],
+        "may": [
+            "Cali Bagby",
+            " Jon Bardin",
+            " Dan Cogan",
+            " Julie Gaither",
+            " Liz Garbus",
+            " Leah-Lani Griffin",
+            " Amy Hobby",
+            " Lily Platt",
+            " Jack Youngelson",
+            " Anthony Galloway"
+        ],
+        "chi": [
+            "Cali Bagby",
+            " Jon Bardin",
+            " Dan Cogan",
+            " Julie Gaither",
+            " Liz Garbus",
+            " Leah-Lani Griffin",
+            " Amy Hobby",
+            " Lily Platt",
+            " Jack Youngelson",
+            " Anthony Galloway"
+        ],
+        "tam": [
+            "Cali Bagby",
+            " Jon Bardin",
+            " Dan Cogan",
+            " Julie Gaither",
+            " Liz Garbus",
+            " Leah-Lani Griffin",
+            " Amy Hobby",
+            " Lily Platt",
+            " Jack Youngelson",
+            " Anthony Galloway"
+        ],
+        "ind": [
+            "Cali Bagby",
+            " Jon Bardin",
+            " Dan Cogan",
+            " Julie Gaither",
+            " Liz Garbus",
+            " Leah-Lani Griffin",
+            " Amy Hobby",
+            " Lily Platt",
+            " Jack Youngelson",
+            " Anthony Galloway"
+        ],
+        "tha": [
+            "Cali Bagby",
+            " Jon Bardin",
+            " Dan Cogan",
+            " Julie Gaither",
+            " Liz Garbus",
+            " Leah-Lani Griffin",
+            " Amy Hobby",
+            " Lily Platt",
+            " Jack Youngelson",
+            " Anthony Galloway"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_daf9836c-91af-5e9e-b918-8a9b1ee773fd",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Eat the Rich The GameStop Saga Season 1",
+            "may": "Eat the Rich The GameStop Saga Season 1",
+            "chi": "Eat the Rich The GameStop Saga Season 1",
+            "tam": "Eat the Rich The GameStop Saga Season 1",
+            "ind": "Eat the Rich The GameStop Saga Season 1",
+            "tha": "Eat the Rich The GameStop Saga Season 1"
+        },
+        "long": {
+            "eng": "Eat the Rich The GameStop Saga Season 1",
+            "may": "Eat the Rich The GameStop Saga Season 1",
+            "chi": "Eat the Rich The GameStop Saga Season 1",
+            "tam": "Eat the Rich The GameStop Saga Season 1",
+            "ind": "Eat the Rich The GameStop Saga Season 1",
+            "tha": "Eat the Rich The GameStop Saga Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "may": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "chi": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "tam": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "ind": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "tha": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading."
+        },
+        "long": {
+            "eng": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "may": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "chi": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "tam": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "ind": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading.",
+            "tha": "A look at the layers of intrigue, from the supercharged power of digital communities to the gamification of trading."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/EattheRichTheGameStopSagaSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/EattheRichTheGameStopSagaSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/EattheRichTheGameStopSagaSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

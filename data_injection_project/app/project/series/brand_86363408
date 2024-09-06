@@ -1,0 +1,289 @@
+{
+    "externalId": "AggregatedSeries_247da424-7a34-5169-b04b-5f2cd6f24f13",
+    "clientContentId": "PACK0000000008830765",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "It's A Sin",
+            "may": "It's A Sin",
+            "tam": "It's A Sin",
+            "chi": "It's A Sin",
+            "tha": "It's A Sin",
+            "ind": "It's A Sin"
+        },
+        "long": {
+            "eng": "It's A Sin",
+            "may": "It's A Sin",
+            "tam": "It's A Sin",
+            "chi": "It's A Sin",
+            "tha": "It's A Sin",
+            "ind": "It's A Sin"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "may": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "tam": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "chi": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "tha": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "ind": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS."
+        },
+        "long": {
+            "eng": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "may": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "tam": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "chi": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "tha": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS.",
+            "ind": "A chronicle of four friends during a decade in which everything changed, including the rise of AIDS."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Olly Alexander",
+            " Nathaniel Curtis",
+            " Shaun Dooley",
+            " Omari Douglas",
+            " Lydia West",
+            " Keeley Hawes",
+            " Neil Ashton",
+            " Callum Scott Howells",
+            " Toto Bruin",
+            " David Carlyle"
+        ],
+        "may": [
+            "Olly Alexander",
+            " Nathaniel Curtis",
+            " Shaun Dooley",
+            " Omari Douglas",
+            " Lydia West",
+            " Keeley Hawes",
+            " Neil Ashton",
+            " Callum Scott Howells",
+            " Toto Bruin",
+            " David Carlyle"
+        ],
+        "tam": [
+            "Olly Alexander",
+            " Nathaniel Curtis",
+            " Shaun Dooley",
+            " Omari Douglas",
+            " Lydia West",
+            " Keeley Hawes",
+            " Neil Ashton",
+            " Callum Scott Howells",
+            " Toto Bruin",
+            " David Carlyle"
+        ],
+        "chi": [
+            "Olly Alexander",
+            " Nathaniel Curtis",
+            " Shaun Dooley",
+            " Omari Douglas",
+            " Lydia West",
+            " Keeley Hawes",
+            " Neil Ashton",
+            " Callum Scott Howells",
+            " Toto Bruin",
+            " David Carlyle"
+        ],
+        "tha": [
+            "Olly Alexander",
+            " Nathaniel Curtis",
+            " Shaun Dooley",
+            " Omari Douglas",
+            " Lydia West",
+            " Keeley Hawes",
+            " Neil Ashton",
+            " Callum Scott Howells",
+            " Toto Bruin",
+            " David Carlyle"
+        ],
+        "ind": [
+            "Olly Alexander",
+            " Nathaniel Curtis",
+            " Shaun Dooley",
+            " Omari Douglas",
+            " Lydia West",
+            " Keeley Hawes",
+            " Neil Ashton",
+            " Callum Scott Howells",
+            " Toto Bruin",
+            " David Carlyle"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Peter Hoar"
+        ],
+        "may": [
+            "Peter Hoar"
+        ],
+        "tam": [
+            "Peter Hoar"
+        ],
+        "chi": [
+            "Peter Hoar"
+        ],
+        "tha": [
+            "Peter Hoar"
+        ],
+        "ind": [
+            "Peter Hoar"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Phil Collinson",
+            " Russell T. Davies",
+            " Michaela Fereday",
+            " Peter Hoar",
+            " Nicola Shindler",
+            " Des Hughes"
+        ],
+        "may": [
+            "Phil Collinson",
+            " Russell T. Davies",
+            " Michaela Fereday",
+            " Peter Hoar",
+            " Nicola Shindler",
+            " Des Hughes"
+        ],
+        "tam": [
+            "Phil Collinson",
+            " Russell T. Davies",
+            " Michaela Fereday",
+            " Peter Hoar",
+            " Nicola Shindler",
+            " Des Hughes"
+        ],
+        "chi": [
+            "Phil Collinson",
+            " Russell T. Davies",
+            " Michaela Fereday",
+            " Peter Hoar",
+            " Nicola Shindler",
+            " Des Hughes"
+        ],
+        "tha": [
+            "Phil Collinson",
+            " Russell T. Davies",
+            " Michaela Fereday",
+            " Peter Hoar",
+            " Nicola Shindler",
+            " Des Hughes"
+        ],
+        "ind": [
+            "Phil Collinson",
+            " Russell T. Davies",
+            " Michaela Fereday",
+            " Peter Hoar",
+            " Nicola Shindler",
+            " Des Hughes"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/It'sASinSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/It'sASinSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/It'sASinSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "8",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2021,
+    "maxConcurrentStreams": 0
+}

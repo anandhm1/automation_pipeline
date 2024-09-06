@@ -1,0 +1,313 @@
+{
+    "externalId": "AggregatedSeries_d6834075-2344-5ed0-ae58-1a996e6cce11",
+    "clientContentId": "PACK0000000009198186",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Hyperdrive",
+            "may": "Hyperdrive",
+            "tam": "Hyperdrive",
+            "chi": "Hyperdrive",
+            "tha": "Hyperdrive",
+            "ind": "Hyperdrive"
+        },
+        "long": {
+            "eng": "Hyperdrive",
+            "may": "Hyperdrive",
+            "tam": "Hyperdrive",
+            "chi": "Hyperdrive",
+            "tha": "Hyperdrive",
+            "ind": "Hyperdrive"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "may": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "tam": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "chi": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "tha": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "ind": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made."
+        },
+        "long": {
+            "eng": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "may": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "tam": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "chi": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "tha": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "ind": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Stacey-Lee May",
+            " Michael Bisping",
+            " Lindsay Czarniak",
+            " Rutledge Wood",
+            " Mike Hill",
+            " Faruk Kugay",
+            " Fielding Shredder",
+            " Diego Higa",
+            " Sara Haro",
+            " Jo\u00e3o Barion"
+        ],
+        "may": [
+            "Stacey-Lee May",
+            " Michael Bisping",
+            " Lindsay Czarniak",
+            " Rutledge Wood",
+            " Mike Hill",
+            " Faruk Kugay",
+            " Fielding Shredder",
+            " Diego Higa",
+            " Sara Haro",
+            " Jo\u00e3o Barion"
+        ],
+        "tam": [
+            "Stacey-Lee May",
+            " Michael Bisping",
+            " Lindsay Czarniak",
+            " Rutledge Wood",
+            " Mike Hill",
+            " Faruk Kugay",
+            " Fielding Shredder",
+            " Diego Higa",
+            " Sara Haro",
+            " Jo\u00e3o Barion"
+        ],
+        "chi": [
+            "Stacey-Lee May",
+            " Michael Bisping",
+            " Lindsay Czarniak",
+            " Rutledge Wood",
+            " Mike Hill",
+            " Faruk Kugay",
+            " Fielding Shredder",
+            " Diego Higa",
+            " Sara Haro",
+            " Jo\u00e3o Barion"
+        ],
+        "tha": [
+            "Stacey-Lee May",
+            " Michael Bisping",
+            " Lindsay Czarniak",
+            " Rutledge Wood",
+            " Mike Hill",
+            " Faruk Kugay",
+            " Fielding Shredder",
+            " Diego Higa",
+            " Sara Haro",
+            " Jo\u00e3o Barion"
+        ],
+        "ind": [
+            "Stacey-Lee May",
+            " Michael Bisping",
+            " Lindsay Czarniak",
+            " Rutledge Wood",
+            " Mike Hill",
+            " Faruk Kugay",
+            " Fielding Shredder",
+            " Diego Higa",
+            " Sara Haro",
+            " Jo\u00e3o Barion"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Patrick McManus"
+        ],
+        "may": [
+            "Patrick McManus"
+        ],
+        "tam": [
+            "Patrick McManus"
+        ],
+        "chi": [
+            "Patrick McManus"
+        ],
+        "tha": [
+            "Patrick McManus"
+        ],
+        "ind": [
+            "Patrick McManus"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jonathan Bourne",
+            " Sam Bullard",
+            " Daniel Calin",
+            " Robert Callow",
+            " Andrew Calver",
+            " Aaron Catling",
+            " Andrew Comrie-Picard",
+            " Joel Dobzewitz",
+            " Karinil Figueroa",
+            " Evan Gatica"
+        ],
+        "may": [
+            "Jonathan Bourne",
+            " Sam Bullard",
+            " Daniel Calin",
+            " Robert Callow",
+            " Andrew Calver",
+            " Aaron Catling",
+            " Andrew Comrie-Picard",
+            " Joel Dobzewitz",
+            " Karinil Figueroa",
+            " Evan Gatica"
+        ],
+        "tam": [
+            "Jonathan Bourne",
+            " Sam Bullard",
+            " Daniel Calin",
+            " Robert Callow",
+            " Andrew Calver",
+            " Aaron Catling",
+            " Andrew Comrie-Picard",
+            " Joel Dobzewitz",
+            " Karinil Figueroa",
+            " Evan Gatica"
+        ],
+        "chi": [
+            "Jonathan Bourne",
+            " Sam Bullard",
+            " Daniel Calin",
+            " Robert Callow",
+            " Andrew Calver",
+            " Aaron Catling",
+            " Andrew Comrie-Picard",
+            " Joel Dobzewitz",
+            " Karinil Figueroa",
+            " Evan Gatica"
+        ],
+        "tha": [
+            "Jonathan Bourne",
+            " Sam Bullard",
+            " Daniel Calin",
+            " Robert Callow",
+            " Andrew Calver",
+            " Aaron Catling",
+            " Andrew Comrie-Picard",
+            " Joel Dobzewitz",
+            " Karinil Figueroa",
+            " Evan Gatica"
+        ],
+        "ind": [
+            "Jonathan Bourne",
+            " Sam Bullard",
+            " Daniel Calin",
+            " Robert Callow",
+            " Andrew Calver",
+            " Aaron Catling",
+            " Andrew Comrie-Picard",
+            " Joel Dobzewitz",
+            " Karinil Figueroa",
+            " Evan Gatica"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Reality-TV",
+                    "may": "Reality-TV",
+                    "tam": "Reality-TV",
+                    "chi": "Reality-TV",
+                    "tha": "Reality-TV",
+                    "ind": "Reality-TV"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Reality-TV",
+                    "may": "Reality-TV",
+                    "tam": "Reality-TV",
+                    "chi": "Reality-TV",
+                    "tha": "Reality-TV",
+                    "ind": "Reality-TV"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HyperdriveSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HyperdriveSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HyperdriveSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "8",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2019,
+    "maxConcurrentStreams": 0
+}

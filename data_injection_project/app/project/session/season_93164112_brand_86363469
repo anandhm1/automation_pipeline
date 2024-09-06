@@ -1,0 +1,227 @@
+{
+    "externalId": "AggregatedSeason_fab2d7b7-e537-572e-b24f-264130b7d7d5",
+    "clientContentId": "PACK0000000008163226",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "chi": "Comedy",
+                    "tam": "Comedy",
+                    "ind": "Comedy",
+                    "tha": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2020,
+    "rating": "15",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Luke Treadaway",
+            " David Morrissey",
+            " Elizabeth Tan"
+        ],
+        "may": [
+            "Luke Treadaway",
+            " David Morrissey",
+            " Elizabeth Tan"
+        ],
+        "chi": [
+            "Luke Treadaway",
+            " David Morrissey",
+            " Elizabeth Tan"
+        ],
+        "tam": [
+            "Luke Treadaway",
+            " David Morrissey",
+            " Elizabeth Tan"
+        ],
+        "ind": [
+            "Luke Treadaway",
+            " David Morrissey",
+            " Elizabeth Tan"
+        ],
+        "tha": [
+            "Luke Treadaway",
+            " David Morrissey",
+            " Elizabeth Tan"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Tom Vaughan"
+        ],
+        "may": [
+            "Tom Vaughan"
+        ],
+        "chi": [
+            "Tom Vaughan"
+        ],
+        "tam": [
+            "Tom Vaughan"
+        ],
+        "ind": [
+            "Tom Vaughan"
+        ],
+        "tha": [
+            "Tom Vaughan"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Farah Abushwesha"
+        ],
+        "may": [
+            "Farah Abushwesha"
+        ],
+        "chi": [
+            "Farah Abushwesha"
+        ],
+        "tam": [
+            "Farah Abushwesha"
+        ],
+        "ind": [
+            "Farah Abushwesha"
+        ],
+        "tha": [
+            "Farah Abushwesha"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_f948d897-c30c-50ee-93fb-dffdb7b4f936",
+    "seasonNumber": "r",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Singapore Grip",
+            "may": "The Singapore Grip",
+            "chi": "The Singapore Grip",
+            "tam": "The Singapore Grip",
+            "ind": "The Singapore Grip",
+            "tha": "The Singapore Grip"
+        },
+        "long": {
+            "eng": "The Singapore Grip",
+            "may": "The Singapore Grip",
+            "chi": "The Singapore Grip",
+            "tam": "The Singapore Grip",
+            "ind": "The Singapore Grip",
+            "tha": "The Singapore Grip"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "may": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "chi": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "tam": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "ind": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "tha": "The son of a British family living in South East Asia becomes involved in a love triangle."
+        },
+        "long": {
+            "eng": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "may": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "chi": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "tam": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "ind": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "tha": "The son of a British family living in South East Asia becomes involved in a love triangle."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheSingaporeGrip_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheSingaporeGrip_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheSingaporeGrip_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_83e54c9c-3676-577a-803d-0a62780d0e59",
+    "clientContentId": "PACK0000000007846350",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Gemini Man (2019)",
+            "may": "Gemini Man (2019)",
+            "tam": "Gemini Man (2019)",
+            "chi": "Gemini Man (2019)",
+            "tha": "Gemini Man (2019)",
+            "ind": "Gemini Man (2019)"
+        },
+        "long": {
+            "eng": "Gemini Man (2019)",
+            "may": "Gemini Man (2019)",
+            "tam": "Gemini Man (2019)",
+            "chi": "Gemini Man (2019)",
+            "tha": "Gemini Man (2019)",
+            "ind": "Gemini Man (2019)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "An over-the-hill hitman faces off against a younger clone of himself.",
+            "may": "An over-the-hill hitman faces off against a younger clone of himself.",
+            "tam": "An over-the-hill hitman faces off against a younger clone of himself.",
+            "chi": "An over-the-hill hitman faces off against a younger clone of himself.",
+            "tha": "An over-the-hill hitman faces off against a younger clone of himself.",
+            "ind": "An over-the-hill hitman faces off against a younger clone of himself."
+        },
+        "long": {
+            "eng": "An over-the-hill hitman faces off against a younger clone of himself.",
+            "may": "An over-the-hill hitman faces off against a younger clone of himself.",
+            "tam": "An over-the-hill hitman faces off against a younger clone of himself.",
+            "chi": "An over-the-hill hitman faces off against a younger clone of himself.",
+            "tha": "An over-the-hill hitman faces off against a younger clone of himself.",
+            "ind": "An over-the-hill hitman faces off against a younger clone of himself."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Will Smith",
+            " Mary Elizabeth Winstead",
+            " Clive Owen",
+            " Benedict Wong",
+            " Douglas Hodge",
+            " Ralph Brown",
+            " Linda Emond",
+            " Ilia Volok",
+            " E.J. Bonilla",
+            " Victor Hugo"
+        ],
+        "may": [
+            "Will Smith",
+            " Mary Elizabeth Winstead",
+            " Clive Owen",
+            " Benedict Wong",
+            " Douglas Hodge",
+            " Ralph Brown",
+            " Linda Emond",
+            " Ilia Volok",
+            " E.J. Bonilla",
+            " Victor Hugo"
+        ],
+        "tam": [
+            "Will Smith",
+            " Mary Elizabeth Winstead",
+            " Clive Owen",
+            " Benedict Wong",
+            " Douglas Hodge",
+            " Ralph Brown",
+            " Linda Emond",
+            " Ilia Volok",
+            " E.J. Bonilla",
+            " Victor Hugo"
+        ],
+        "chi": [
+            "Will Smith",
+            " Mary Elizabeth Winstead",
+            " Clive Owen",
+            " Benedict Wong",
+            " Douglas Hodge",
+            " Ralph Brown",
+            " Linda Emond",
+            " Ilia Volok",
+            " E.J. Bonilla",
+            " Victor Hugo"
+        ],
+        "tha": [
+            "Will Smith",
+            " Mary Elizabeth Winstead",
+            " Clive Owen",
+            " Benedict Wong",
+            " Douglas Hodge",
+            " Ralph Brown",
+            " Linda Emond",
+            " Ilia Volok",
+            " E.J. Bonilla",
+            " Victor Hugo"
+        ],
+        "ind": [
+            "Will Smith",
+            " Mary Elizabeth Winstead",
+            " Clive Owen",
+            " Benedict Wong",
+            " Douglas Hodge",
+            " Ralph Brown",
+            " Linda Emond",
+            " Ilia Volok",
+            " E.J. Bonilla",
+            " Victor Hugo"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Ang Lee"
+        ],
+        "may": [
+            "Ang Lee"
+        ],
+        "tam": [
+            "Ang Lee"
+        ],
+        "chi": [
+            "Ang Lee"
+        ],
+        "tha": [
+            "Ang Lee"
+        ],
+        "ind": [
+            "Ang Lee"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Juliana Moreno Angulo",
+            " Brian Bell",
+            " Rick Benattar",
+            " Jerry Bruckheimer",
+            " Andr\u00e9s Calder\u00f3n",
+            " Salvatore Capone",
+            " Francesca Cingolani",
+            " Howard Ellis",
+            " David Ellison",
+            " Luyuan Fan"
+        ],
+        "may": [
+            "Juliana Moreno Angulo",
+            " Brian Bell",
+            " Rick Benattar",
+            " Jerry Bruckheimer",
+            " Andr\u00e9s Calder\u00f3n",
+            " Salvatore Capone",
+            " Francesca Cingolani",
+            " Howard Ellis",
+            " David Ellison",
+            " Luyuan Fan"
+        ],
+        "tam": [
+            "Juliana Moreno Angulo",
+            " Brian Bell",
+            " Rick Benattar",
+            " Jerry Bruckheimer",
+            " Andr\u00e9s Calder\u00f3n",
+            " Salvatore Capone",
+            " Francesca Cingolani",
+            " Howard Ellis",
+            " David Ellison",
+            " Luyuan Fan"
+        ],
+        "chi": [
+            "Juliana Moreno Angulo",
+            " Brian Bell",
+            " Rick Benattar",
+            " Jerry Bruckheimer",
+            " Andr\u00e9s Calder\u00f3n",
+            " Salvatore Capone",
+            " Francesca Cingolani",
+            " Howard Ellis",
+            " David Ellison",
+            " Luyuan Fan"
+        ],
+        "tha": [
+            "Juliana Moreno Angulo",
+            " Brian Bell",
+            " Rick Benattar",
+            " Jerry Bruckheimer",
+            " Andr\u00e9s Calder\u00f3n",
+            " Salvatore Capone",
+            " Francesca Cingolani",
+            " Howard Ellis",
+            " David Ellison",
+            " Luyuan Fan"
+        ],
+        "ind": [
+            "Juliana Moreno Angulo",
+            " Brian Bell",
+            " Rick Benattar",
+            " Jerry Bruckheimer",
+            " Andr\u00e9s Calder\u00f3n",
+            " Salvatore Capone",
+            " Francesca Cingolani",
+            " Howard Ellis",
+            " David Ellison",
+            " Luyuan Fan"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Sci-Fi",
+                    "may": " Sci-Fi",
+                    "tam": " Sci-Fi",
+                    "chi": " Sci-Fi",
+                    "tha": " Sci-Fi",
+                    "ind": " Sci-Fi"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/GeminiMan(2019)_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/GeminiMan(2019)_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/GeminiMan(2019)_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2019,
+    "rating": "5.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

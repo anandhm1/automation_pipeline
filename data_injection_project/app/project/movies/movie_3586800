@@ -1,0 +1,307 @@
+{
+    "externalId": "AggregatedMovie_2370b9c6-5874-5983-9adb-4dc5fb209e15",
+    "clientContentId": "PACK0000000007666427",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Faraway 2023",
+            "may": "Faraway 2023",
+            "tam": "Faraway 2023",
+            "chi": "Faraway 2023",
+            "tha": "Faraway 2023",
+            "ind": "Faraway 2023"
+        },
+        "long": {
+            "eng": "Faraway 2023",
+            "may": "Faraway 2023",
+            "tam": "Faraway 2023",
+            "chi": "Faraway 2023",
+            "tha": "Faraway 2023",
+            "ind": "Faraway 2023"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Zeynep is unhappy. That's why she flees to a Croatian island, where her deceased mother bought a house long ago. She hopes to find peace and relaxation finally - but she hasn't reckoned with Josip, who still lives on the property.",
+            "may": "Zeynep is unhappy. That's why she flees to a Croatian island, where her deceased mother bought a house long ago. She hopes to find peace and relaxation finally - but she hasn't reckoned with Josip, who still lives on the property.",
+            "tam": "Zeynep is unhappy. That's why she flees to a Croatian island, where her deceased mother bought a house long ago. She hopes to find peace and relaxation finally - but she hasn't reckoned with Josip, who still lives on the property.",
+            "chi": "Zeynep is unhappy. That's why she flees to a Croatian island, where her deceased mother bought a house long ago. She hopes to find peace and relaxation finally - but she hasn't reckoned with Josip, who still lives on the property.",
+            "tha": "Zeynep is unhappy. That's why she flees to a Croatian island, where her deceased mother bought a house long ago. She hopes to find peace and relaxation finally - but she hasn't reckoned with Josip, who still lives on the property.",
+            "ind": "Zeynep is unhappy. That's why she flees to a Croatian island, where her deceased mother bought a house long ago. She hopes to find peace and relaxation finally - but she hasn't reckoned with Josip, who still lives on the property."
+        },
+        "long": {
+            "eng": "Zeynep is unhappy. That's why she flees to a Croatian island, where her deceased mother bought a house long ago. She hopes to find peace and relaxation finally - but she hasn't reckoned with Josip, who still lives on the property.",
+            "may": "Zeynep is unhappy. That's why she flees to a Croatian island, where her deceased mother bought a house long ago. She hopes to find peace and relaxation finally - but she hasn't reckoned with Josip, who still lives on the property.",
+            "tam": "Zeynep is unhappy. That's why she flees to a Croatian island, where her deceased mother bought a house long ago. She hopes to find peace and relaxation finally - but she hasn't reckoned with Josip, who still lives on the property.",
+            "chi": "Zeynep is unhappy. That's why she flees to a Croatian island, where her deceased mother bought a house long ago. She hopes to find peace and relaxation finally - but she hasn't reckoned with Josip, who still lives on the property.",
+            "tha": "Zeynep is unhappy. That's why she flees to a Croatian island, where her deceased mother bought a house long ago. She hopes to find peace and relaxation finally - but she hasn't reckoned with Josip, who still lives on the property.",
+            "ind": "Zeynep is unhappy. That's why she flees to a Croatian island, where her deceased mother bought a house long ago. She hopes to find peace and relaxation finally - but she hasn't reckoned with Josip, who still lives on the property."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Naomi Krauss",
+            " Goran Bogdan",
+            " Adnan Maral",
+            " Bahar Balci",
+            " Artjom Gilz",
+            " Davor Tomic",
+            " Mladen Vasary",
+            " Paula Schramm",
+            " Christian Schneller",
+            " Butz Ulrich Buse"
+        ],
+        "may": [
+            "Naomi Krauss",
+            " Goran Bogdan",
+            " Adnan Maral",
+            " Bahar Balci",
+            " Artjom Gilz",
+            " Davor Tomic",
+            " Mladen Vasary",
+            " Paula Schramm",
+            " Christian Schneller",
+            " Butz Ulrich Buse"
+        ],
+        "tam": [
+            "Naomi Krauss",
+            " Goran Bogdan",
+            " Adnan Maral",
+            " Bahar Balci",
+            " Artjom Gilz",
+            " Davor Tomic",
+            " Mladen Vasary",
+            " Paula Schramm",
+            " Christian Schneller",
+            " Butz Ulrich Buse"
+        ],
+        "chi": [
+            "Naomi Krauss",
+            " Goran Bogdan",
+            " Adnan Maral",
+            " Bahar Balci",
+            " Artjom Gilz",
+            " Davor Tomic",
+            " Mladen Vasary",
+            " Paula Schramm",
+            " Christian Schneller",
+            " Butz Ulrich Buse"
+        ],
+        "tha": [
+            "Naomi Krauss",
+            " Goran Bogdan",
+            " Adnan Maral",
+            " Bahar Balci",
+            " Artjom Gilz",
+            " Davor Tomic",
+            " Mladen Vasary",
+            " Paula Schramm",
+            " Christian Schneller",
+            " Butz Ulrich Buse"
+        ],
+        "ind": [
+            "Naomi Krauss",
+            " Goran Bogdan",
+            " Adnan Maral",
+            " Bahar Balci",
+            " Artjom Gilz",
+            " Davor Tomic",
+            " Mladen Vasary",
+            " Paula Schramm",
+            " Christian Schneller",
+            " Butz Ulrich Buse"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Vanessa Jopp"
+        ],
+        "may": [
+            "Vanessa Jopp"
+        ],
+        "tam": [
+            "Vanessa Jopp"
+        ],
+        "chi": [
+            "Vanessa Jopp"
+        ],
+        "tha": [
+            "Vanessa Jopp"
+        ],
+        "ind": [
+            "Vanessa Jopp"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Viola J\u00e4ger",
+            " Darko Lovrinic",
+            " Marina Schiller",
+            " Diego Zanco"
+        ],
+        "may": [
+            "Viola J\u00e4ger",
+            " Darko Lovrinic",
+            " Marina Schiller",
+            " Diego Zanco"
+        ],
+        "tam": [
+            "Viola J\u00e4ger",
+            " Darko Lovrinic",
+            " Marina Schiller",
+            " Diego Zanco"
+        ],
+        "chi": [
+            "Viola J\u00e4ger",
+            " Darko Lovrinic",
+            " Marina Schiller",
+            " Diego Zanco"
+        ],
+        "tha": [
+            "Viola J\u00e4ger",
+            " Darko Lovrinic",
+            " Marina Schiller",
+            " Diego Zanco"
+        ],
+        "ind": [
+            "Viola J\u00e4ger",
+            " Darko Lovrinic",
+            " Marina Schiller",
+            " Diego Zanco"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Faraway_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Faraway_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Faraway_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2023,
+    "rating": "6.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

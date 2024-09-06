@@ -1,0 +1,289 @@
+{
+    "externalId": "AggregatedMovie_b01e6191-cc7b-5b1c-a6a0-9004c3b14494",
+    "clientContentId": "PACK0000000005941397",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Baby Ruby",
+            "may": "Baby Ruby",
+            "tam": "Baby Ruby",
+            "chi": "Baby Ruby",
+            "tha": "Baby Ruby",
+            "ind": "Baby Ruby"
+        },
+        "long": {
+            "eng": "Baby Ruby",
+            "may": "Baby Ruby",
+            "tam": "Baby Ruby",
+            "chi": "Baby Ruby",
+            "tha": "Baby Ruby",
+            "ind": "Baby Ruby"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The tightly scripted world of a vlogger and influencer unravels after she becomes a mother, in noted playwright Bess Wohl's feature debut.",
+            "may": "The tightly scripted world of a vlogger and influencer unravels after she becomes a mother, in noted playwright Bess Wohl's feature debut.",
+            "tam": "The tightly scripted world of a vlogger and influencer unravels after she becomes a mother, in noted playwright Bess Wohl's feature debut.",
+            "chi": "The tightly scripted world of a vlogger and influencer unravels after she becomes a mother, in noted playwright Bess Wohl's feature debut.",
+            "tha": "The tightly scripted world of a vlogger and influencer unravels after she becomes a mother, in noted playwright Bess Wohl's feature debut.",
+            "ind": "The tightly scripted world of a vlogger and influencer unravels after she becomes a mother, in noted playwright Bess Wohl's feature debut."
+        },
+        "long": {
+            "eng": "The tightly scripted world of a vlogger and influencer unravels after she becomes a mother, in noted playwright Bess Wohl's feature debut.",
+            "may": "The tightly scripted world of a vlogger and influencer unravels after she becomes a mother, in noted playwright Bess Wohl's feature debut.",
+            "tam": "The tightly scripted world of a vlogger and influencer unravels after she becomes a mother, in noted playwright Bess Wohl's feature debut.",
+            "chi": "The tightly scripted world of a vlogger and influencer unravels after she becomes a mother, in noted playwright Bess Wohl's feature debut.",
+            "tha": "The tightly scripted world of a vlogger and influencer unravels after she becomes a mother, in noted playwright Bess Wohl's feature debut.",
+            "ind": "The tightly scripted world of a vlogger and influencer unravels after she becomes a mother, in noted playwright Bess Wohl's feature debut."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "No\u00e9mie Merlant",
+            " Kit Harington",
+            " Meredith Hagner",
+            " Reed Birney",
+            " Jayne Atkinson",
+            " Lauren Beveridge"
+        ],
+        "may": [
+            "No\u00e9mie Merlant",
+            " Kit Harington",
+            " Meredith Hagner",
+            " Reed Birney",
+            " Jayne Atkinson",
+            " Lauren Beveridge"
+        ],
+        "tam": [
+            "No\u00e9mie Merlant",
+            " Kit Harington",
+            " Meredith Hagner",
+            " Reed Birney",
+            " Jayne Atkinson",
+            " Lauren Beveridge"
+        ],
+        "chi": [
+            "No\u00e9mie Merlant",
+            " Kit Harington",
+            " Meredith Hagner",
+            " Reed Birney",
+            " Jayne Atkinson",
+            " Lauren Beveridge"
+        ],
+        "tha": [
+            "No\u00e9mie Merlant",
+            " Kit Harington",
+            " Meredith Hagner",
+            " Reed Birney",
+            " Jayne Atkinson",
+            " Lauren Beveridge"
+        ],
+        "ind": [
+            "No\u00e9mie Merlant",
+            " Kit Harington",
+            " Meredith Hagner",
+            " Reed Birney",
+            " Jayne Atkinson",
+            " Lauren Beveridge"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Bess Wohl"
+        ],
+        "may": [
+            "Bess Wohl"
+        ],
+        "tam": [
+            "Bess Wohl"
+        ],
+        "chi": [
+            "Bess Wohl"
+        ],
+        "tha": [
+            "Bess Wohl"
+        ],
+        "ind": [
+            "Bess Wohl"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Brett Beveridge",
+            " Lauren Beveridge",
+            " Jeffrey Penman",
+            " Alex Saks",
+            " Mariela Villa"
+        ],
+        "may": [
+            "Brett Beveridge",
+            " Lauren Beveridge",
+            " Jeffrey Penman",
+            " Alex Saks",
+            " Mariela Villa"
+        ],
+        "tam": [
+            "Brett Beveridge",
+            " Lauren Beveridge",
+            " Jeffrey Penman",
+            " Alex Saks",
+            " Mariela Villa"
+        ],
+        "chi": [
+            "Brett Beveridge",
+            " Lauren Beveridge",
+            " Jeffrey Penman",
+            " Alex Saks",
+            " Mariela Villa"
+        ],
+        "tha": [
+            "Brett Beveridge",
+            " Lauren Beveridge",
+            " Jeffrey Penman",
+            " Alex Saks",
+            " Mariela Villa"
+        ],
+        "ind": [
+            "Brett Beveridge",
+            " Lauren Beveridge",
+            " Jeffrey Penman",
+            " Alex Saks",
+            " Mariela Villa"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Thriller",
+                    "may": " Thriller",
+                    "tam": " Thriller",
+                    "chi": " Thriller",
+                    "tha": " Thriller",
+                    "ind": " Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/BabyRuby_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/BabyRuby_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/BabyRuby_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2023,
+    "rating": "4.8",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

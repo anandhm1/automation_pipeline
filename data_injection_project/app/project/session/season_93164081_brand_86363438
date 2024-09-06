@@ -1,0 +1,305 @@
+{
+    "externalId": "AggregatedSeason_078ba42c-90a6-5402-ba02-3ba68da85496",
+    "clientContentId": "PACK0000000009830513",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "chi": "Crime",
+                    "tam": "Crime",
+                    "ind": "Crime",
+                    "tha": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2021,
+    "rating": "15",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Celine Buckens",
+            " Joseph Payne",
+            " Kerr Logan",
+            " Tracy Ifeachor",
+            " Sin\u00e9ad Keenan",
+            " Lolita Chakrabarti",
+            " Sharon D Clarke",
+            " James Frain",
+            " Rupert Holliday-Evans",
+            " Christopher Hatherall"
+        ],
+        "may": [
+            "Celine Buckens",
+            " Joseph Payne",
+            " Kerr Logan",
+            " Tracy Ifeachor",
+            " Sin\u00e9ad Keenan",
+            " Lolita Chakrabarti",
+            " Sharon D Clarke",
+            " James Frain",
+            " Rupert Holliday-Evans",
+            " Christopher Hatherall"
+        ],
+        "chi": [
+            "Celine Buckens",
+            " Joseph Payne",
+            " Kerr Logan",
+            " Tracy Ifeachor",
+            " Sin\u00e9ad Keenan",
+            " Lolita Chakrabarti",
+            " Sharon D Clarke",
+            " James Frain",
+            " Rupert Holliday-Evans",
+            " Christopher Hatherall"
+        ],
+        "tam": [
+            "Celine Buckens",
+            " Joseph Payne",
+            " Kerr Logan",
+            " Tracy Ifeachor",
+            " Sin\u00e9ad Keenan",
+            " Lolita Chakrabarti",
+            " Sharon D Clarke",
+            " James Frain",
+            " Rupert Holliday-Evans",
+            " Christopher Hatherall"
+        ],
+        "ind": [
+            "Celine Buckens",
+            " Joseph Payne",
+            " Kerr Logan",
+            " Tracy Ifeachor",
+            " Sin\u00e9ad Keenan",
+            " Lolita Chakrabarti",
+            " Sharon D Clarke",
+            " James Frain",
+            " Rupert Holliday-Evans",
+            " Christopher Hatherall"
+        ],
+        "tha": [
+            "Celine Buckens",
+            " Joseph Payne",
+            " Kerr Logan",
+            " Tracy Ifeachor",
+            " Sin\u00e9ad Keenan",
+            " Lolita Chakrabarti",
+            " Sharon D Clarke",
+            " James Frain",
+            " Rupert Holliday-Evans",
+            " Christopher Hatherall"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Zara Hayes"
+        ],
+        "may": [
+            "Zara Hayes"
+        ],
+        "chi": [
+            "Zara Hayes"
+        ],
+        "tam": [
+            "Zara Hayes"
+        ],
+        "ind": [
+            "Zara Hayes"
+        ],
+        "tha": [
+            "Zara Hayes"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Elizabeth Binns",
+            " Christopher Hall",
+            " Simon Heath",
+            " Emma Luffingham",
+            " Mona Qureshi",
+            " Ben Richards",
+            " Emily Shapland"
+        ],
+        "may": [
+            "Elizabeth Binns",
+            " Christopher Hall",
+            " Simon Heath",
+            " Emma Luffingham",
+            " Mona Qureshi",
+            " Ben Richards",
+            " Emily Shapland"
+        ],
+        "chi": [
+            "Elizabeth Binns",
+            " Christopher Hall",
+            " Simon Heath",
+            " Emma Luffingham",
+            " Mona Qureshi",
+            " Ben Richards",
+            " Emily Shapland"
+        ],
+        "tam": [
+            "Elizabeth Binns",
+            " Christopher Hall",
+            " Simon Heath",
+            " Emma Luffingham",
+            " Mona Qureshi",
+            " Ben Richards",
+            " Emily Shapland"
+        ],
+        "ind": [
+            "Elizabeth Binns",
+            " Christopher Hall",
+            " Simon Heath",
+            " Emma Luffingham",
+            " Mona Qureshi",
+            " Ben Richards",
+            " Emily Shapland"
+        ],
+        "tha": [
+            "Elizabeth Binns",
+            " Christopher Hall",
+            " Simon Heath",
+            " Emma Luffingham",
+            " Mona Qureshi",
+            " Ben Richards",
+            " Emily Shapland"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_303a949a-f7f9-5a62-b610-13a9b2a8729c",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Showtrial Season 1",
+            "may": "Showtrial Season 1",
+            "chi": "Showtrial Season 1",
+            "tam": "Showtrial Season 1",
+            "ind": "Showtrial Season 1",
+            "tha": "Showtrial Season 1"
+        },
+        "long": {
+            "eng": "Showtrial Season 1",
+            "may": "Showtrial Season 1",
+            "chi": "Showtrial Season 1",
+            "tam": "Showtrial Season 1",
+            "ind": "Showtrial Season 1",
+            "tha": "Showtrial Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "may": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "chi": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "tam": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "ind": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "tha": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight."
+        },
+        "long": {
+            "eng": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "may": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "chi": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "tam": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "ind": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight.",
+            "tha": "A high profile murder case captures the attention of the world's media and the general public alike - Throwing Cleo Roberts, a once high flying solicitor defending the chief suspect, back in to the spotlight."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ShowtrialSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ShowtrialSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ShowtrialSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedMovie_794d2c30-602c-56d7-8ae2-3aa81e3cfde9",
+    "clientContentId": "PACK0000000005299134",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "ARMAGEDDON TIME",
+            "may": "ARMAGEDDON TIME",
+            "tam": "ARMAGEDDON TIME",
+            "chi": "ARMAGEDDON TIME",
+            "tha": "ARMAGEDDON TIME",
+            "ind": "ARMAGEDDON TIME"
+        },
+        "long": {
+            "eng": "ARMAGEDDON TIME",
+            "may": "ARMAGEDDON TIME",
+            "tam": "ARMAGEDDON TIME",
+            "chi": "ARMAGEDDON TIME",
+            "tha": "ARMAGEDDON TIME",
+            "ind": "ARMAGEDDON TIME"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A deeply personal coming-of-age story about the strength of family and the generational pursuit of the American Dream.",
+            "may": "A deeply personal coming-of-age story about the strength of family and the generational pursuit of the American Dream.",
+            "tam": "A deeply personal coming-of-age story about the strength of family and the generational pursuit of the American Dream.",
+            "chi": "A deeply personal coming-of-age story about the strength of family and the generational pursuit of the American Dream.",
+            "tha": "A deeply personal coming-of-age story about the strength of family and the generational pursuit of the American Dream.",
+            "ind": "A deeply personal coming-of-age story about the strength of family and the generational pursuit of the American Dream."
+        },
+        "long": {
+            "eng": "A deeply personal coming-of-age story about the strength of family and the generational pursuit of the American Dream.",
+            "may": "A deeply personal coming-of-age story about the strength of family and the generational pursuit of the American Dream.",
+            "tam": "A deeply personal coming-of-age story about the strength of family and the generational pursuit of the American Dream.",
+            "chi": "A deeply personal coming-of-age story about the strength of family and the generational pursuit of the American Dream.",
+            "tha": "A deeply personal coming-of-age story about the strength of family and the generational pursuit of the American Dream.",
+            "ind": "A deeply personal coming-of-age story about the strength of family and the generational pursuit of the American Dream."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Anne Hathaway",
+            " Jeremy Strong",
+            " Banks Repeta",
+            " Jaylin Webb",
+            " Anthony Hopkins",
+            " Ryan SellAndrew PolkTovah FeldshuhMarcia HaufrechtTeddy Coluca"
+        ],
+        "may": [
+            "Anne Hathaway",
+            " Jeremy Strong",
+            " Banks Repeta",
+            " Jaylin Webb",
+            " Anthony Hopkins",
+            " Ryan SellAndrew PolkTovah FeldshuhMarcia HaufrechtTeddy Coluca"
+        ],
+        "tam": [
+            "Anne Hathaway",
+            " Jeremy Strong",
+            " Banks Repeta",
+            " Jaylin Webb",
+            " Anthony Hopkins",
+            " Ryan SellAndrew PolkTovah FeldshuhMarcia HaufrechtTeddy Coluca"
+        ],
+        "chi": [
+            "Anne Hathaway",
+            " Jeremy Strong",
+            " Banks Repeta",
+            " Jaylin Webb",
+            " Anthony Hopkins",
+            " Ryan SellAndrew PolkTovah FeldshuhMarcia HaufrechtTeddy Coluca"
+        ],
+        "tha": [
+            "Anne Hathaway",
+            " Jeremy Strong",
+            " Banks Repeta",
+            " Jaylin Webb",
+            " Anthony Hopkins",
+            " Ryan SellAndrew PolkTovah FeldshuhMarcia HaufrechtTeddy Coluca"
+        ],
+        "ind": [
+            "Anne Hathaway",
+            " Jeremy Strong",
+            " Banks Repeta",
+            " Jaylin Webb",
+            " Anthony Hopkins",
+            " Ryan SellAndrew PolkTovah FeldshuhMarcia HaufrechtTeddy Coluca"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "James Gray"
+        ],
+        "may": [
+            "James Gray"
+        ],
+        "tam": [
+            "James Gray"
+        ],
+        "chi": [
+            "James Gray"
+        ],
+        "tha": [
+            "James Gray"
+        ],
+        "ind": [
+            "James Gray"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Marc Butan",
+            " Beto Gauss",
+            " Sebastian Gilligan-Kim",
+            " James Gray",
+            " Alex Hughes",
+            " Anthony KatagasMarco Tulio KehdiRiccardo MaddalossoRichard MancusoJeffrey Penman"
+        ],
+        "may": [
+            "Marc Butan",
+            " Beto Gauss",
+            " Sebastian Gilligan-Kim",
+            " James Gray",
+            " Alex Hughes",
+            " Anthony KatagasMarco Tulio KehdiRiccardo MaddalossoRichard MancusoJeffrey Penman"
+        ],
+        "tam": [
+            "Marc Butan",
+            " Beto Gauss",
+            " Sebastian Gilligan-Kim",
+            " James Gray",
+            " Alex Hughes",
+            " Anthony KatagasMarco Tulio KehdiRiccardo MaddalossoRichard MancusoJeffrey Penman"
+        ],
+        "chi": [
+            "Marc Butan",
+            " Beto Gauss",
+            " Sebastian Gilligan-Kim",
+            " James Gray",
+            " Alex Hughes",
+            " Anthony KatagasMarco Tulio KehdiRiccardo MaddalossoRichard MancusoJeffrey Penman"
+        ],
+        "tha": [
+            "Marc Butan",
+            " Beto Gauss",
+            " Sebastian Gilligan-Kim",
+            " James Gray",
+            " Alex Hughes",
+            " Anthony KatagasMarco Tulio KehdiRiccardo MaddalossoRichard MancusoJeffrey Penman"
+        ],
+        "ind": [
+            "Marc Butan",
+            " Beto Gauss",
+            " Sebastian Gilligan-Kim",
+            " James Gray",
+            " Alex Hughes",
+            " Anthony KatagasMarco Tulio KehdiRiccardo MaddalossoRichard MancusoJeffrey Penman"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ARMAGEDDONTIME_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ARMAGEDDONTIME_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ARMAGEDDONTIME_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "6.5",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

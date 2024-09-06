@@ -1,0 +1,377 @@
+{
+    "externalId": "AggregatedSeason_5b436bd3-924f-5dba-967a-db2fee894982",
+    "clientContentId": "PACK0000000006731092",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "chi": "Crime",
+                    "tam": "Crime",
+                    "ind": "Crime",
+                    "tha": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Jason Bateman",
+            " Laura Linney",
+            " Sofia Hublitz",
+            " Skylar Gaertner",
+            " Julia Garner",
+            " Charlie Tahan",
+            " Lisa Emery",
+            " Carson Holmes",
+            " Jordana Spiro",
+            " Jessica Frances Dukes"
+        ],
+        "may": [
+            "Jason Bateman",
+            " Laura Linney",
+            " Sofia Hublitz",
+            " Skylar Gaertner",
+            " Julia Garner",
+            " Charlie Tahan",
+            " Lisa Emery",
+            " Carson Holmes",
+            " Jordana Spiro",
+            " Jessica Frances Dukes"
+        ],
+        "chi": [
+            "Jason Bateman",
+            " Laura Linney",
+            " Sofia Hublitz",
+            " Skylar Gaertner",
+            " Julia Garner",
+            " Charlie Tahan",
+            " Lisa Emery",
+            " Carson Holmes",
+            " Jordana Spiro",
+            " Jessica Frances Dukes"
+        ],
+        "tam": [
+            "Jason Bateman",
+            " Laura Linney",
+            " Sofia Hublitz",
+            " Skylar Gaertner",
+            " Julia Garner",
+            " Charlie Tahan",
+            " Lisa Emery",
+            " Carson Holmes",
+            " Jordana Spiro",
+            " Jessica Frances Dukes"
+        ],
+        "ind": [
+            "Jason Bateman",
+            " Laura Linney",
+            " Sofia Hublitz",
+            " Skylar Gaertner",
+            " Julia Garner",
+            " Charlie Tahan",
+            " Lisa Emery",
+            " Carson Holmes",
+            " Jordana Spiro",
+            " Jessica Frances Dukes"
+        ],
+        "tha": [
+            "Jason Bateman",
+            " Laura Linney",
+            " Sofia Hublitz",
+            " Skylar Gaertner",
+            " Julia Garner",
+            " Charlie Tahan",
+            " Lisa Emery",
+            " Carson Holmes",
+            " Jordana Spiro",
+            " Jessica Frances Dukes"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jason Bateman",
+            " Alik Sakharov",
+            " Andrew Bernstein",
+            " Amanda Marsalis",
+            " Ellen Kuras",
+            " Daniel Sackheim",
+            " Ben Semanoff",
+            " Phil Abraham",
+            " Cherien Dabis",
+            " Robin Wright"
+        ],
+        "may": [
+            "Jason Bateman",
+            " Alik Sakharov",
+            " Andrew Bernstein",
+            " Amanda Marsalis",
+            " Ellen Kuras",
+            " Daniel Sackheim",
+            " Ben Semanoff",
+            " Phil Abraham",
+            " Cherien Dabis",
+            " Robin Wright"
+        ],
+        "chi": [
+            "Jason Bateman",
+            " Alik Sakharov",
+            " Andrew Bernstein",
+            " Amanda Marsalis",
+            " Ellen Kuras",
+            " Daniel Sackheim",
+            " Ben Semanoff",
+            " Phil Abraham",
+            " Cherien Dabis",
+            " Robin Wright"
+        ],
+        "tam": [
+            "Jason Bateman",
+            " Alik Sakharov",
+            " Andrew Bernstein",
+            " Amanda Marsalis",
+            " Ellen Kuras",
+            " Daniel Sackheim",
+            " Ben Semanoff",
+            " Phil Abraham",
+            " Cherien Dabis",
+            " Robin Wright"
+        ],
+        "ind": [
+            "Jason Bateman",
+            " Alik Sakharov",
+            " Andrew Bernstein",
+            " Amanda Marsalis",
+            " Ellen Kuras",
+            " Daniel Sackheim",
+            " Ben Semanoff",
+            " Phil Abraham",
+            " Cherien Dabis",
+            " Robin Wright"
+        ],
+        "tha": [
+            "Jason Bateman",
+            " Alik Sakharov",
+            " Andrew Bernstein",
+            " Amanda Marsalis",
+            " Ellen Kuras",
+            " Daniel Sackheim",
+            " Ben Semanoff",
+            " Phil Abraham",
+            " Cherien Dabis",
+            " Robin Wright"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jason Bateman",
+            " Bill Dubuque",
+            " Patrick Markey",
+            " Chris Mundy",
+            " Mark Williams",
+            " Erin Mitchell",
+            " Matthew Spiegel",
+            " Miki Johnson",
+            " Paul Kolsby",
+            " John Shiban"
+        ],
+        "may": [
+            "Jason Bateman",
+            " Bill Dubuque",
+            " Patrick Markey",
+            " Chris Mundy",
+            " Mark Williams",
+            " Erin Mitchell",
+            " Matthew Spiegel",
+            " Miki Johnson",
+            " Paul Kolsby",
+            " John Shiban"
+        ],
+        "chi": [
+            "Jason Bateman",
+            " Bill Dubuque",
+            " Patrick Markey",
+            " Chris Mundy",
+            " Mark Williams",
+            " Erin Mitchell",
+            " Matthew Spiegel",
+            " Miki Johnson",
+            " Paul Kolsby",
+            " John Shiban"
+        ],
+        "tam": [
+            "Jason Bateman",
+            " Bill Dubuque",
+            " Patrick Markey",
+            " Chris Mundy",
+            " Mark Williams",
+            " Erin Mitchell",
+            " Matthew Spiegel",
+            " Miki Johnson",
+            " Paul Kolsby",
+            " John Shiban"
+        ],
+        "ind": [
+            "Jason Bateman",
+            " Bill Dubuque",
+            " Patrick Markey",
+            " Chris Mundy",
+            " Mark Williams",
+            " Erin Mitchell",
+            " Matthew Spiegel",
+            " Miki Johnson",
+            " Paul Kolsby",
+            " John Shiban"
+        ],
+        "tha": [
+            "Jason Bateman",
+            " Bill Dubuque",
+            " Patrick Markey",
+            " Chris Mundy",
+            " Mark Williams",
+            " Erin Mitchell",
+            " Matthew Spiegel",
+            " Miki Johnson",
+            " Paul Kolsby",
+            " John Shiban"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_767edc10-d283-58f1-a479-dc9976ebe91c",
+    "seasonNumber": "4",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Ozark Season 4",
+            "may": "Ozark Season 4",
+            "chi": "Ozark Season 4",
+            "tam": "Ozark Season 4",
+            "ind": "Ozark Season 4",
+            "tha": "Ozark Season 4"
+        },
+        "long": {
+            "eng": "Ozark Season 4",
+            "may": "Ozark Season 4",
+            "chi": "Ozark Season 4",
+            "tam": "Ozark Season 4",
+            "ind": "Ozark Season 4",
+            "tha": "Ozark Season 4"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "may": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "chi": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "tam": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "ind": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "tha": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss."
+        },
+        "long": {
+            "eng": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "may": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "chi": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "tam": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "ind": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+            "tha": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/OzarkSeason4_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/OzarkSeason4_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/OzarkSeason4_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

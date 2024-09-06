@@ -1,0 +1,397 @@
+{
+    "externalId": "AggregatedTvShow_5645d4a9-f01a-5ef0-9e5e-290341cd5f9c",
+    "clientContentId": "PACK0000000002790413",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Black Mirror - Trailer",
+            "may": "Black Mirror - Trailer",
+            "tam": "Black Mirror - Trailer",
+            "chi": "Black Mirror - Trailer",
+            "tha": "Black Mirror - Trailer",
+            "ind": "Black Mirror - Trailer"
+        },
+        "long": {
+            "eng": "Black Mirror - Trailer",
+            "may": "Black Mirror - Trailer",
+            "tam": "Black Mirror - Trailer",
+            "chi": "Black Mirror - Trailer",
+            "tha": "Black Mirror - Trailer",
+            "ind": "Black Mirror - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+            "may": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+            "tam": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+            "chi": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+            "tha": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+            "ind": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide."
+        },
+        "long": {
+            "eng": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+            "may": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+            "tam": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+            "chi": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+            "tha": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+            "ind": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Daniel Lapaine",
+            " Hannah John-Kamen",
+            " Michaela Coel",
+            " Beatrice Robertson-Jones",
+            " Charles Babalola",
+            " Aaron Paul",
+            " Anjana Vasan",
+            " Toby Kebbell",
+            " Daniel Kaluuya",
+            " Rory Kinnear"
+        ],
+        "may": [
+            "Daniel Lapaine",
+            " Hannah John-Kamen",
+            " Michaela Coel",
+            " Beatrice Robertson-Jones",
+            " Charles Babalola",
+            " Aaron Paul",
+            " Anjana Vasan",
+            " Toby Kebbell",
+            " Daniel Kaluuya",
+            " Rory Kinnear"
+        ],
+        "tam": [
+            "Daniel Lapaine",
+            " Hannah John-Kamen",
+            " Michaela Coel",
+            " Beatrice Robertson-Jones",
+            " Charles Babalola",
+            " Aaron Paul",
+            " Anjana Vasan",
+            " Toby Kebbell",
+            " Daniel Kaluuya",
+            " Rory Kinnear"
+        ],
+        "chi": [
+            "Daniel Lapaine",
+            " Hannah John-Kamen",
+            " Michaela Coel",
+            " Beatrice Robertson-Jones",
+            " Charles Babalola",
+            " Aaron Paul",
+            " Anjana Vasan",
+            " Toby Kebbell",
+            " Daniel Kaluuya",
+            " Rory Kinnear"
+        ],
+        "tha": [
+            "Daniel Lapaine",
+            " Hannah John-Kamen",
+            " Michaela Coel",
+            " Beatrice Robertson-Jones",
+            " Charles Babalola",
+            " Aaron Paul",
+            " Anjana Vasan",
+            " Toby Kebbell",
+            " Daniel Kaluuya",
+            " Rory Kinnear"
+        ],
+        "ind": [
+            "Daniel Lapaine",
+            " Hannah John-Kamen",
+            " Michaela Coel",
+            " Beatrice Robertson-Jones",
+            " Charles Babalola",
+            " Aaron Paul",
+            " Anjana Vasan",
+            " Toby Kebbell",
+            " Daniel Kaluuya",
+            " Rory Kinnear"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Owen Harris",
+            " Carl Tibbetts",
+            " James Hawes",
+            " Otto Bathurst",
+            " Euros Lyn",
+            " Brian Welsh",
+            " Bryn Higgins",
+            " Dan Trachtenberg",
+            " Jakob Verbruggen",
+            " James Watkins"
+        ],
+        "may": [
+            "Owen Harris",
+            " Carl Tibbetts",
+            " James Hawes",
+            " Otto Bathurst",
+            " Euros Lyn",
+            " Brian Welsh",
+            " Bryn Higgins",
+            " Dan Trachtenberg",
+            " Jakob Verbruggen",
+            " James Watkins"
+        ],
+        "tam": [
+            "Owen Harris",
+            " Carl Tibbetts",
+            " James Hawes",
+            " Otto Bathurst",
+            " Euros Lyn",
+            " Brian Welsh",
+            " Bryn Higgins",
+            " Dan Trachtenberg",
+            " Jakob Verbruggen",
+            " James Watkins"
+        ],
+        "chi": [
+            "Owen Harris",
+            " Carl Tibbetts",
+            " James Hawes",
+            " Otto Bathurst",
+            " Euros Lyn",
+            " Brian Welsh",
+            " Bryn Higgins",
+            " Dan Trachtenberg",
+            " Jakob Verbruggen",
+            " James Watkins"
+        ],
+        "tha": [
+            "Owen Harris",
+            " Carl Tibbetts",
+            " James Hawes",
+            " Otto Bathurst",
+            " Euros Lyn",
+            " Brian Welsh",
+            " Bryn Higgins",
+            " Dan Trachtenberg",
+            " Jakob Verbruggen",
+            " James Watkins"
+        ],
+        "ind": [
+            "Owen Harris",
+            " Carl Tibbetts",
+            " James Hawes",
+            " Otto Bathurst",
+            " Euros Lyn",
+            " Brian Welsh",
+            " Bryn Higgins",
+            " Dan Trachtenberg",
+            " Jakob Verbruggen",
+            " James Watkins"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Charlie Brooker",
+            " Annabel Jones",
+            " Ian Hogan",
+            " Barney Reisz",
+            " Emma Pike",
+            " Joanne Crowther",
+            " Miguel Ruz",
+            " Laurie Borg",
+            " Nick Pitt",
+            " Mark Kinsella"
+        ],
+        "may": [
+            "Charlie Brooker",
+            " Annabel Jones",
+            " Ian Hogan",
+            " Barney Reisz",
+            " Emma Pike",
+            " Joanne Crowther",
+            " Miguel Ruz",
+            " Laurie Borg",
+            " Nick Pitt",
+            " Mark Kinsella"
+        ],
+        "tam": [
+            "Charlie Brooker",
+            " Annabel Jones",
+            " Ian Hogan",
+            " Barney Reisz",
+            " Emma Pike",
+            " Joanne Crowther",
+            " Miguel Ruz",
+            " Laurie Borg",
+            " Nick Pitt",
+            " Mark Kinsella"
+        ],
+        "chi": [
+            "Charlie Brooker",
+            " Annabel Jones",
+            " Ian Hogan",
+            " Barney Reisz",
+            " Emma Pike",
+            " Joanne Crowther",
+            " Miguel Ruz",
+            " Laurie Borg",
+            " Nick Pitt",
+            " Mark Kinsella"
+        ],
+        "tha": [
+            "Charlie Brooker",
+            " Annabel Jones",
+            " Ian Hogan",
+            " Barney Reisz",
+            " Emma Pike",
+            " Joanne Crowther",
+            " Miguel Ruz",
+            " Laurie Borg",
+            " Nick Pitt",
+            " Mark Kinsella"
+        ],
+        "ind": [
+            "Charlie Brooker",
+            " Annabel Jones",
+            " Ian Hogan",
+            " Barney Reisz",
+            " Emma Pike",
+            " Joanne Crowther",
+            " Miguel Ruz",
+            " Laurie Borg",
+            " Nick Pitt",
+            " Mark Kinsella"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Mystery",
+                    "may": " Mystery",
+                    "tam": " Mystery",
+                    "chi": " Mystery",
+                    "tha": " Mystery",
+                    "ind": " Mystery"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BlackMirrorSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BlackMirrorSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BlackMirrorSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_91c9ea5a-c089-53db-8ad8-f87e39eda13a",
+    "seasonId": "AggregatedSeason_82e46d70-3a99-53e5-82a9-50a42fe636c8",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2011,
+    "rating": "15",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

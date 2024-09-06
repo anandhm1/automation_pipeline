@@ -1,0 +1,349 @@
+{
+    "externalId": "AggregatedTvShow_ea5b5b8f-a809-5521-ab57-2d5cc0e81555",
+    "clientContentId": "PACK0000000001498383",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "My So-Called Death",
+            "may": "My So-Called Death",
+            "tam": "My So-Called Death",
+            "chi": "My So-Called Death",
+            "tha": "My So-Called Death",
+            "ind": "My So-Called Death"
+        },
+        "long": {
+            "eng": "My So-Called Death",
+            "may": "My So-Called Death",
+            "tam": "My So-Called Death",
+            "chi": "My So-Called Death",
+            "tha": "My So-Called Death",
+            "ind": "My So-Called Death"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Know what this is about?",
+            "may": "Know what this is about?",
+            "tam": "Know what this is about?",
+            "chi": "Know what this is about?",
+            "tha": "Know what this is about?",
+            "ind": "Know what this is about?"
+        },
+        "long": {
+            "eng": "Know what this is about?",
+            "may": "Know what this is about?",
+            "tam": "Know what this is about?",
+            "chi": "Know what this is about?",
+            "tha": "Know what this is about?",
+            "ind": "Know what this is about?"
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Kristian Flores",
+            " Milo Manheim",
+            " Spencer Macpherson",
+            " Kiara Pichardo",
+            " Sarah Yarkin",
+            " Nick Pugliese",
+            " Rainbow Wedell",
+            " Josh Zuckerman",
+            " Maria Dizzia",
+            " Peyton List"
+        ],
+        "may": [
+            "Kristian Flores",
+            " Milo Manheim",
+            " Spencer Macpherson",
+            " Kiara Pichardo",
+            " Sarah Yarkin",
+            " Nick Pugliese",
+            " Rainbow Wedell",
+            " Josh Zuckerman",
+            " Maria Dizzia",
+            " Peyton List"
+        ],
+        "tam": [
+            "Kristian Flores",
+            " Milo Manheim",
+            " Spencer Macpherson",
+            " Kiara Pichardo",
+            " Sarah Yarkin",
+            " Nick Pugliese",
+            " Rainbow Wedell",
+            " Josh Zuckerman",
+            " Maria Dizzia",
+            " Peyton List"
+        ],
+        "chi": [
+            "Kristian Flores",
+            " Milo Manheim",
+            " Spencer Macpherson",
+            " Kiara Pichardo",
+            " Sarah Yarkin",
+            " Nick Pugliese",
+            " Rainbow Wedell",
+            " Josh Zuckerman",
+            " Maria Dizzia",
+            " Peyton List"
+        ],
+        "tha": [
+            "Kristian Flores",
+            " Milo Manheim",
+            " Spencer Macpherson",
+            " Kiara Pichardo",
+            " Sarah Yarkin",
+            " Nick Pugliese",
+            " Rainbow Wedell",
+            " Josh Zuckerman",
+            " Maria Dizzia",
+            " Peyton List"
+        ],
+        "ind": [
+            "Kristian Flores",
+            " Milo Manheim",
+            " Spencer Macpherson",
+            " Kiara Pichardo",
+            " Sarah Yarkin",
+            " Nick Pugliese",
+            " Rainbow Wedell",
+            " Josh Zuckerman",
+            " Maria Dizzia",
+            " Peyton List"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Oran Zegman",
+            " Brian Dannelly",
+            " Hannah Macpherson",
+            " Max Winkler"
+        ],
+        "may": [
+            "Oran Zegman",
+            " Brian Dannelly",
+            " Hannah Macpherson",
+            " Max Winkler"
+        ],
+        "tam": [
+            "Oran Zegman",
+            " Brian Dannelly",
+            " Hannah Macpherson",
+            " Max Winkler"
+        ],
+        "chi": [
+            "Oran Zegman",
+            " Brian Dannelly",
+            " Hannah Macpherson",
+            " Max Winkler"
+        ],
+        "tha": [
+            "Oran Zegman",
+            " Brian Dannelly",
+            " Hannah Macpherson",
+            " Max Winkler"
+        ],
+        "ind": [
+            "Oran Zegman",
+            " Brian Dannelly",
+            " Hannah Macpherson",
+            " Max Winkler"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Donald Petersen",
+            " Austin Bedell",
+            " Don Dunn",
+            " Joyce Sawa",
+            " Max Winkler",
+            " Oliver Goldstick",
+            " Megan Trinrud",
+            " Nate Trinrud"
+        ],
+        "may": [
+            "Donald Petersen",
+            " Austin Bedell",
+            " Don Dunn",
+            " Joyce Sawa",
+            " Max Winkler",
+            " Oliver Goldstick",
+            " Megan Trinrud",
+            " Nate Trinrud"
+        ],
+        "tam": [
+            "Donald Petersen",
+            " Austin Bedell",
+            " Don Dunn",
+            " Joyce Sawa",
+            " Max Winkler",
+            " Oliver Goldstick",
+            " Megan Trinrud",
+            " Nate Trinrud"
+        ],
+        "chi": [
+            "Donald Petersen",
+            " Austin Bedell",
+            " Don Dunn",
+            " Joyce Sawa",
+            " Max Winkler",
+            " Oliver Goldstick",
+            " Megan Trinrud",
+            " Nate Trinrud"
+        ],
+        "tha": [
+            "Donald Petersen",
+            " Austin Bedell",
+            " Don Dunn",
+            " Joyce Sawa",
+            " Max Winkler",
+            " Oliver Goldstick",
+            " Megan Trinrud",
+            " Nate Trinrud"
+        ],
+        "ind": [
+            "Donald Petersen",
+            " Austin Bedell",
+            " Don Dunn",
+            " Joyce Sawa",
+            " Max Winkler",
+            " Oliver Goldstick",
+            " Megan Trinrud",
+            " Nate Trinrud"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/SchoolSpiritsS01Ep01_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/SchoolSpiritsS01Ep01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/SchoolSpiritsS01Ep01_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_774a679e-4374-559f-a385-b09bc355a8b0",
+    "seasonId": "AggregatedSeason_17b44b56-1354-5fc5-914a-dce7886d0976",
+    "boxsetIds": [],
+    "episodeNumber": "2.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2023,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

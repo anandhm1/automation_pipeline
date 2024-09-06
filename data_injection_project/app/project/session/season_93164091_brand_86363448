@@ -1,0 +1,353 @@
+{
+    "externalId": "AggregatedSeason_3c839cbf-b8d8-5d93-88c2-3bdd8de226d2",
+    "clientContentId": "PACK0000000007653779",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "chi": "Crime",
+                    "tam": "Crime",
+                    "ind": "Crime",
+                    "tha": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2023,
+    "rating": "TV-14",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Milo Ventimiglia",
+            " Catherine Haena Kim",
+            " Sarah Wayne Callies",
+            " Polly Draper",
+            " Tim Chiou",
+            " James Saito",
+            " Freda Foh Shen",
+            " Felisha Terrell",
+            " William Fichtner",
+            " Efka Kvaraciejus"
+        ],
+        "may": [
+            "Milo Ventimiglia",
+            " Catherine Haena Kim",
+            " Sarah Wayne Callies",
+            " Polly Draper",
+            " Tim Chiou",
+            " James Saito",
+            " Freda Foh Shen",
+            " Felisha Terrell",
+            " William Fichtner",
+            " Efka Kvaraciejus"
+        ],
+        "chi": [
+            "Milo Ventimiglia",
+            " Catherine Haena Kim",
+            " Sarah Wayne Callies",
+            " Polly Draper",
+            " Tim Chiou",
+            " James Saito",
+            " Freda Foh Shen",
+            " Felisha Terrell",
+            " William Fichtner",
+            " Efka Kvaraciejus"
+        ],
+        "tam": [
+            "Milo Ventimiglia",
+            " Catherine Haena Kim",
+            " Sarah Wayne Callies",
+            " Polly Draper",
+            " Tim Chiou",
+            " James Saito",
+            " Freda Foh Shen",
+            " Felisha Terrell",
+            " William Fichtner",
+            " Efka Kvaraciejus"
+        ],
+        "ind": [
+            "Milo Ventimiglia",
+            " Catherine Haena Kim",
+            " Sarah Wayne Callies",
+            " Polly Draper",
+            " Tim Chiou",
+            " James Saito",
+            " Freda Foh Shen",
+            " Felisha Terrell",
+            " William Fichtner",
+            " Efka Kvaraciejus"
+        ],
+        "tha": [
+            "Milo Ventimiglia",
+            " Catherine Haena Kim",
+            " Sarah Wayne Callies",
+            " Polly Draper",
+            " Tim Chiou",
+            " James Saito",
+            " Freda Foh Shen",
+            " Felisha Terrell",
+            " William Fichtner",
+            " Efka Kvaraciejus"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Chi Yoon Chung",
+            " Jon Huertas",
+            " Anna Mastro",
+            " Kevin Mock",
+            " David Straiton",
+            " Ben Younger"
+        ],
+        "may": [
+            "Chi Yoon Chung",
+            " Jon Huertas",
+            " Anna Mastro",
+            " Kevin Mock",
+            " David Straiton",
+            " Ben Younger"
+        ],
+        "chi": [
+            "Chi Yoon Chung",
+            " Jon Huertas",
+            " Anna Mastro",
+            " Kevin Mock",
+            " David Straiton",
+            " Ben Younger"
+        ],
+        "tam": [
+            "Chi Yoon Chung",
+            " Jon Huertas",
+            " Anna Mastro",
+            " Kevin Mock",
+            " David Straiton",
+            " Ben Younger"
+        ],
+        "ind": [
+            "Chi Yoon Chung",
+            " Jon Huertas",
+            " Anna Mastro",
+            " Kevin Mock",
+            " David Straiton",
+            " Ben Younger"
+        ],
+        "tha": [
+            "Chi Yoon Chung",
+            " Jon Huertas",
+            " Anna Mastro",
+            " Kevin Mock",
+            " David Straiton",
+            " Ben Younger"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Julia Cohen",
+            " Phil Klemmer",
+            " Jon M. Chu",
+            " Russ Cundiff",
+            " Caitlin Foito",
+            " Lindsay Goffman",
+            " Mike Gray",
+            " Deanna Harris",
+            " Todd Harthan",
+            " Han-Sang Jo"
+        ],
+        "may": [
+            "Julia Cohen",
+            " Phil Klemmer",
+            " Jon M. Chu",
+            " Russ Cundiff",
+            " Caitlin Foito",
+            " Lindsay Goffman",
+            " Mike Gray",
+            " Deanna Harris",
+            " Todd Harthan",
+            " Han-Sang Jo"
+        ],
+        "chi": [
+            "Julia Cohen",
+            " Phil Klemmer",
+            " Jon M. Chu",
+            " Russ Cundiff",
+            " Caitlin Foito",
+            " Lindsay Goffman",
+            " Mike Gray",
+            " Deanna Harris",
+            " Todd Harthan",
+            " Han-Sang Jo"
+        ],
+        "tam": [
+            "Julia Cohen",
+            " Phil Klemmer",
+            " Jon M. Chu",
+            " Russ Cundiff",
+            " Caitlin Foito",
+            " Lindsay Goffman",
+            " Mike Gray",
+            " Deanna Harris",
+            " Todd Harthan",
+            " Han-Sang Jo"
+        ],
+        "ind": [
+            "Julia Cohen",
+            " Phil Klemmer",
+            " Jon M. Chu",
+            " Russ Cundiff",
+            " Caitlin Foito",
+            " Lindsay Goffman",
+            " Mike Gray",
+            " Deanna Harris",
+            " Todd Harthan",
+            " Han-Sang Jo"
+        ],
+        "tha": [
+            "Julia Cohen",
+            " Phil Klemmer",
+            " Jon M. Chu",
+            " Russ Cundiff",
+            " Caitlin Foito",
+            " Lindsay Goffman",
+            " Mike Gray",
+            " Deanna Harris",
+            " Todd Harthan",
+            " Han-Sang Jo"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_847e3c06-9eeb-5741-90a2-d3322632c042",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Company You Keep S01 E01",
+            "may": "The Company You Keep S01 E01",
+            "chi": "The Company You Keep S01 E01",
+            "tam": "The Company You Keep S01 E01",
+            "ind": "The Company You Keep S01 E01",
+            "tha": "The Company You Keep S01 E01"
+        },
+        "long": {
+            "eng": "The Company You Keep S01 E01",
+            "may": "The Company You Keep S01 E01",
+            "chi": "The Company You Keep S01 E01",
+            "tam": "The Company You Keep S01 E01",
+            "ind": "The Company You Keep S01 E01",
+            "tha": "The Company You Keep S01 E01"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "may": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "chi": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "tam": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "ind": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "tha": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally."
+        },
+        "long": {
+            "eng": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "may": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "chi": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "tam": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "ind": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally.",
+            "tha": "A night of passion leads to love between con-man Charlie and undercover CIA officer Emma, who are unknowingly on a collision course professionally."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheCompanyYouKeepS01E01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheCompanyYouKeepS01E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheCompanyYouKeepS01E01_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

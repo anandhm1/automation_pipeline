@@ -1,0 +1,377 @@
+{
+    "externalId": "AggregatedSeason_5392abba-c9e3-582f-8e1a-3cc7a4bd8711",
+    "clientContentId": "PACK0000000001174832",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "chi": "Action",
+                    "tam": "Action",
+                    "ind": "Action",
+                    "tha": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "chi": " Adventure",
+                    "tam": " Adventure",
+                    "ind": " Adventure",
+                    "tha": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2020,
+    "rating": "TV-14",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Pedro Pascal",
+            " Carl Weathers",
+            " Chris Bartlett",
+            " Leilani Shiu",
+            " Ariel Shiu",
+            " Gina Carano",
+            " Giancarlo Esposito",
+            " Barry Lowin",
+            " Misty Rosas",
+            " Katee Sackhoff"
+        ],
+        "may": [
+            "Pedro Pascal",
+            " Carl Weathers",
+            " Chris Bartlett",
+            " Leilani Shiu",
+            " Ariel Shiu",
+            " Gina Carano",
+            " Giancarlo Esposito",
+            " Barry Lowin",
+            " Misty Rosas",
+            " Katee Sackhoff"
+        ],
+        "chi": [
+            "Pedro Pascal",
+            " Carl Weathers",
+            " Chris Bartlett",
+            " Leilani Shiu",
+            " Ariel Shiu",
+            " Gina Carano",
+            " Giancarlo Esposito",
+            " Barry Lowin",
+            " Misty Rosas",
+            " Katee Sackhoff"
+        ],
+        "tam": [
+            "Pedro Pascal",
+            " Carl Weathers",
+            " Chris Bartlett",
+            " Leilani Shiu",
+            " Ariel Shiu",
+            " Gina Carano",
+            " Giancarlo Esposito",
+            " Barry Lowin",
+            " Misty Rosas",
+            " Katee Sackhoff"
+        ],
+        "ind": [
+            "Pedro Pascal",
+            " Carl Weathers",
+            " Chris Bartlett",
+            " Leilani Shiu",
+            " Ariel Shiu",
+            " Gina Carano",
+            " Giancarlo Esposito",
+            " Barry Lowin",
+            " Misty Rosas",
+            " Katee Sackhoff"
+        ],
+        "tha": [
+            "Pedro Pascal",
+            " Carl Weathers",
+            " Chris Bartlett",
+            " Leilani Shiu",
+            " Ariel Shiu",
+            " Gina Carano",
+            " Giancarlo Esposito",
+            " Barry Lowin",
+            " Misty Rosas",
+            " Katee Sackhoff"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Rick Famuyiwa",
+            " Bryce Dallas Howard",
+            " Dave Filoni",
+            " Deborah Chow",
+            " Carl Weathers",
+            " Peyton Reed",
+            " Taika Waititi",
+            " Jon Favreau",
+            " Robert Rodriguez",
+            " Lee Isaac Chung"
+        ],
+        "may": [
+            "Rick Famuyiwa",
+            " Bryce Dallas Howard",
+            " Dave Filoni",
+            " Deborah Chow",
+            " Carl Weathers",
+            " Peyton Reed",
+            " Taika Waititi",
+            " Jon Favreau",
+            " Robert Rodriguez",
+            " Lee Isaac Chung"
+        ],
+        "chi": [
+            "Rick Famuyiwa",
+            " Bryce Dallas Howard",
+            " Dave Filoni",
+            " Deborah Chow",
+            " Carl Weathers",
+            " Peyton Reed",
+            " Taika Waititi",
+            " Jon Favreau",
+            " Robert Rodriguez",
+            " Lee Isaac Chung"
+        ],
+        "tam": [
+            "Rick Famuyiwa",
+            " Bryce Dallas Howard",
+            " Dave Filoni",
+            " Deborah Chow",
+            " Carl Weathers",
+            " Peyton Reed",
+            " Taika Waititi",
+            " Jon Favreau",
+            " Robert Rodriguez",
+            " Lee Isaac Chung"
+        ],
+        "ind": [
+            "Rick Famuyiwa",
+            " Bryce Dallas Howard",
+            " Dave Filoni",
+            " Deborah Chow",
+            " Carl Weathers",
+            " Peyton Reed",
+            " Taika Waititi",
+            " Jon Favreau",
+            " Robert Rodriguez",
+            " Lee Isaac Chung"
+        ],
+        "tha": [
+            "Rick Famuyiwa",
+            " Bryce Dallas Howard",
+            " Dave Filoni",
+            " Deborah Chow",
+            " Carl Weathers",
+            " Peyton Reed",
+            " Taika Waititi",
+            " Jon Favreau",
+            " Robert Rodriguez",
+            " Lee Isaac Chung"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jon Favreau",
+            " John Bartnicki",
+            " Carrie Beck",
+            " Dave Filoni",
+            " Karen Gilchrist",
+            " Kathleen Kennedy",
+            " Colin Wilson",
+            " Janet Lewin",
+            " Jason McGatlin",
+            " Kristen Schreck"
+        ],
+        "may": [
+            "Jon Favreau",
+            " John Bartnicki",
+            " Carrie Beck",
+            " Dave Filoni",
+            " Karen Gilchrist",
+            " Kathleen Kennedy",
+            " Colin Wilson",
+            " Janet Lewin",
+            " Jason McGatlin",
+            " Kristen Schreck"
+        ],
+        "chi": [
+            "Jon Favreau",
+            " John Bartnicki",
+            " Carrie Beck",
+            " Dave Filoni",
+            " Karen Gilchrist",
+            " Kathleen Kennedy",
+            " Colin Wilson",
+            " Janet Lewin",
+            " Jason McGatlin",
+            " Kristen Schreck"
+        ],
+        "tam": [
+            "Jon Favreau",
+            " John Bartnicki",
+            " Carrie Beck",
+            " Dave Filoni",
+            " Karen Gilchrist",
+            " Kathleen Kennedy",
+            " Colin Wilson",
+            " Janet Lewin",
+            " Jason McGatlin",
+            " Kristen Schreck"
+        ],
+        "ind": [
+            "Jon Favreau",
+            " John Bartnicki",
+            " Carrie Beck",
+            " Dave Filoni",
+            " Karen Gilchrist",
+            " Kathleen Kennedy",
+            " Colin Wilson",
+            " Janet Lewin",
+            " Jason McGatlin",
+            " Kristen Schreck"
+        ],
+        "tha": [
+            "Jon Favreau",
+            " John Bartnicki",
+            " Carrie Beck",
+            " Dave Filoni",
+            " Karen Gilchrist",
+            " Kathleen Kennedy",
+            " Colin Wilson",
+            " Janet Lewin",
+            " Jason McGatlin",
+            " Kristen Schreck"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_f5f09d67-f223-587e-a8b4-505c96defdca",
+    "seasonNumber": "n",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Mandalorian Season 1",
+            "may": "The Mandalorian Season 1",
+            "chi": "The Mandalorian Season 1",
+            "tam": "The Mandalorian Season 1",
+            "ind": "The Mandalorian Season 1",
+            "tha": "The Mandalorian Season 1"
+        },
+        "long": {
+            "eng": "The Mandalorian Season 1",
+            "may": "The Mandalorian Season 1",
+            "chi": "The Mandalorian Season 1",
+            "tam": "The Mandalorian Season 1",
+            "ind": "The Mandalorian Season 1",
+            "tha": "The Mandalorian Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "may": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "chi": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "tam": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "ind": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "tha": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic."
+        },
+        "long": {
+            "eng": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "may": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "chi": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "tam": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "ind": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "tha": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheMandalorianSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheMandalorianSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheMandalorianSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

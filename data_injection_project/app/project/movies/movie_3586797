@@ -1,0 +1,307 @@
+{
+    "externalId": "AggregatedMovie_060782f7-b1c6-53a7-8fe8-945f33b976c0",
+    "clientContentId": "PACK0000000001235314",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "April Rain 2014",
+            "may": "April Rain 2014",
+            "tam": "April Rain 2014",
+            "chi": "April Rain 2014",
+            "tha": "April Rain 2014",
+            "ind": "April Rain 2014"
+        },
+        "long": {
+            "eng": "April Rain 2014",
+            "may": "April Rain 2014",
+            "tam": "April Rain 2014",
+            "chi": "April Rain 2014",
+            "tha": "April Rain 2014",
+            "ind": "April Rain 2014"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "When an eclectic group of terrorists plot to attack the United States from within, it's up to a quasi-military special investigative unit to identify, infiltrate and neutralize the threat.",
+            "may": "When an eclectic group of terrorists plot to attack the United States from within, it's up to a quasi-military special investigative unit to identify, infiltrate and neutralize the threat.",
+            "tam": "When an eclectic group of terrorists plot to attack the United States from within, it's up to a quasi-military special investigative unit to identify, infiltrate and neutralize the threat.",
+            "chi": "When an eclectic group of terrorists plot to attack the United States from within, it's up to a quasi-military special investigative unit to identify, infiltrate and neutralize the threat.",
+            "tha": "When an eclectic group of terrorists plot to attack the United States from within, it's up to a quasi-military special investigative unit to identify, infiltrate and neutralize the threat.",
+            "ind": "When an eclectic group of terrorists plot to attack the United States from within, it's up to a quasi-military special investigative unit to identify, infiltrate and neutralize the threat."
+        },
+        "long": {
+            "eng": "When an eclectic group of terrorists plot to attack the United States from within, it's up to a quasi-military special investigative unit to identify, infiltrate and neutralize the threat.",
+            "may": "When an eclectic group of terrorists plot to attack the United States from within, it's up to a quasi-military special investigative unit to identify, infiltrate and neutralize the threat.",
+            "tam": "When an eclectic group of terrorists plot to attack the United States from within, it's up to a quasi-military special investigative unit to identify, infiltrate and neutralize the threat.",
+            "chi": "When an eclectic group of terrorists plot to attack the United States from within, it's up to a quasi-military special investigative unit to identify, infiltrate and neutralize the threat.",
+            "tha": "When an eclectic group of terrorists plot to attack the United States from within, it's up to a quasi-military special investigative unit to identify, infiltrate and neutralize the threat.",
+            "ind": "When an eclectic group of terrorists plot to attack the United States from within, it's up to a quasi-military special investigative unit to identify, infiltrate and neutralize the threat."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Deniz Akdeniz",
+            " Brittany Beery",
+            " Ryan Guzman",
+            " Dragos Beldie",
+            " Jewel Christian",
+            " Ming-Na Wen",
+            " Teresa De Fonte",
+            " Miranda Frigon",
+            " Luke Goss",
+            " Anne Marie Howard"
+        ],
+        "may": [
+            "Deniz Akdeniz",
+            " Brittany Beery",
+            " Ryan Guzman",
+            " Dragos Beldie",
+            " Jewel Christian",
+            " Ming-Na Wen",
+            " Teresa De Fonte",
+            " Miranda Frigon",
+            " Luke Goss",
+            " Anne Marie Howard"
+        ],
+        "tam": [
+            "Deniz Akdeniz",
+            " Brittany Beery",
+            " Ryan Guzman",
+            " Dragos Beldie",
+            " Jewel Christian",
+            " Ming-Na Wen",
+            " Teresa De Fonte",
+            " Miranda Frigon",
+            " Luke Goss",
+            " Anne Marie Howard"
+        ],
+        "chi": [
+            "Deniz Akdeniz",
+            " Brittany Beery",
+            " Ryan Guzman",
+            " Dragos Beldie",
+            " Jewel Christian",
+            " Ming-Na Wen",
+            " Teresa De Fonte",
+            " Miranda Frigon",
+            " Luke Goss",
+            " Anne Marie Howard"
+        ],
+        "tha": [
+            "Deniz Akdeniz",
+            " Brittany Beery",
+            " Ryan Guzman",
+            " Dragos Beldie",
+            " Jewel Christian",
+            " Ming-Na Wen",
+            " Teresa De Fonte",
+            " Miranda Frigon",
+            " Luke Goss",
+            " Anne Marie Howard"
+        ],
+        "ind": [
+            "Deniz Akdeniz",
+            " Brittany Beery",
+            " Ryan Guzman",
+            " Dragos Beldie",
+            " Jewel Christian",
+            " Ming-Na Wen",
+            " Teresa De Fonte",
+            " Miranda Frigon",
+            " Luke Goss",
+            " Anne Marie Howard"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Luciano Saber"
+        ],
+        "may": [
+            "Luciano Saber"
+        ],
+        "tam": [
+            "Luciano Saber"
+        ],
+        "chi": [
+            "Luciano Saber"
+        ],
+        "tha": [
+            "Luciano Saber"
+        ],
+        "ind": [
+            "Luciano Saber"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Scott Fort",
+            " Scott J. Jones",
+            " Jay E. Joyce",
+            " Luciano Saber"
+        ],
+        "may": [
+            "Scott Fort",
+            " Scott J. Jones",
+            " Jay E. Joyce",
+            " Luciano Saber"
+        ],
+        "tam": [
+            "Scott Fort",
+            " Scott J. Jones",
+            " Jay E. Joyce",
+            " Luciano Saber"
+        ],
+        "chi": [
+            "Scott Fort",
+            " Scott J. Jones",
+            " Jay E. Joyce",
+            " Luciano Saber"
+        ],
+        "tha": [
+            "Scott Fort",
+            " Scott J. Jones",
+            " Jay E. Joyce",
+            " Luciano Saber"
+        ],
+        "ind": [
+            "Scott Fort",
+            " Scott J. Jones",
+            " Jay E. Joyce",
+            " Luciano Saber"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AprilRain_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AprilRain_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AprilRain_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2014,
+    "rating": "2.9",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

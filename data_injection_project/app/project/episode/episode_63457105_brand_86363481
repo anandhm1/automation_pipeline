@@ -1,0 +1,355 @@
+{
+    "externalId": "AggregatedTvShow_b790addc-fc8f-50ff-ba71-f60726f214ef",
+    "clientContentId": "PACK0000000001314225",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Unbelievable - Trailer",
+            "may": "Unbelievable - Trailer",
+            "tam": "Unbelievable - Trailer",
+            "chi": "Unbelievable - Trailer",
+            "tha": "Unbelievable - Trailer",
+            "ind": "Unbelievable - Trailer"
+        },
+        "long": {
+            "eng": "Unbelievable - Trailer",
+            "may": "Unbelievable - Trailer",
+            "tam": "Unbelievable - Trailer",
+            "chi": "Unbelievable - Trailer",
+            "tha": "Unbelievable - Trailer",
+            "ind": "Unbelievable - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "may": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "tam": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "chi": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "tha": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "ind": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth."
+        },
+        "long": {
+            "eng": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "may": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "tam": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "chi": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "tha": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth.",
+            "ind": "A teenager is charged with lying about having been raped, but two detectives follow the path to the truth."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Kaitlyn Dever",
+            " Toni Collette",
+            " Merritt Wever",
+            " Blake Ellis",
+            " Dale Dickey",
+            " Liza Lapira",
+            " Kai Lennox",
+            " Omar Maskati",
+            " Valery Altamar",
+            " Austin H\u00e9bert"
+        ],
+        "may": [
+            "Kaitlyn Dever",
+            " Toni Collette",
+            " Merritt Wever",
+            " Blake Ellis",
+            " Dale Dickey",
+            " Liza Lapira",
+            " Kai Lennox",
+            " Omar Maskati",
+            " Valery Altamar",
+            " Austin H\u00e9bert"
+        ],
+        "tam": [
+            "Kaitlyn Dever",
+            " Toni Collette",
+            " Merritt Wever",
+            " Blake Ellis",
+            " Dale Dickey",
+            " Liza Lapira",
+            " Kai Lennox",
+            " Omar Maskati",
+            " Valery Altamar",
+            " Austin H\u00e9bert"
+        ],
+        "chi": [
+            "Kaitlyn Dever",
+            " Toni Collette",
+            " Merritt Wever",
+            " Blake Ellis",
+            " Dale Dickey",
+            " Liza Lapira",
+            " Kai Lennox",
+            " Omar Maskati",
+            " Valery Altamar",
+            " Austin H\u00e9bert"
+        ],
+        "tha": [
+            "Kaitlyn Dever",
+            " Toni Collette",
+            " Merritt Wever",
+            " Blake Ellis",
+            " Dale Dickey",
+            " Liza Lapira",
+            " Kai Lennox",
+            " Omar Maskati",
+            " Valery Altamar",
+            " Austin H\u00e9bert"
+        ],
+        "ind": [
+            "Kaitlyn Dever",
+            " Toni Collette",
+            " Merritt Wever",
+            " Blake Ellis",
+            " Dale Dickey",
+            " Liza Lapira",
+            " Kai Lennox",
+            " Omar Maskati",
+            " Valery Altamar",
+            " Austin H\u00e9bert"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Lisa Cholodenko",
+            " Michael Dinner",
+            " Susannah Grant"
+        ],
+        "may": [
+            "Lisa Cholodenko",
+            " Michael Dinner",
+            " Susannah Grant"
+        ],
+        "tam": [
+            "Lisa Cholodenko",
+            " Michael Dinner",
+            " Susannah Grant"
+        ],
+        "chi": [
+            "Lisa Cholodenko",
+            " Michael Dinner",
+            " Susannah Grant"
+        ],
+        "tha": [
+            "Lisa Cholodenko",
+            " Michael Dinner",
+            " Susannah Grant"
+        ],
+        "ind": [
+            "Lisa Cholodenko",
+            " Michael Dinner",
+            " Susannah Grant"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ken Armstrong",
+            " Carl Beverly",
+            " Michael Chabon",
+            " Lisa Cholodenko",
+            " Katie Couric",
+            " Katie DiMento",
+            " Susannah Grant",
+            " T. Christian Miller",
+            " Daniel Rodriguez",
+            " Robyn Semien"
+        ],
+        "may": [
+            "Ken Armstrong",
+            " Carl Beverly",
+            " Michael Chabon",
+            " Lisa Cholodenko",
+            " Katie Couric",
+            " Katie DiMento",
+            " Susannah Grant",
+            " T. Christian Miller",
+            " Daniel Rodriguez",
+            " Robyn Semien"
+        ],
+        "tam": [
+            "Ken Armstrong",
+            " Carl Beverly",
+            " Michael Chabon",
+            " Lisa Cholodenko",
+            " Katie Couric",
+            " Katie DiMento",
+            " Susannah Grant",
+            " T. Christian Miller",
+            " Daniel Rodriguez",
+            " Robyn Semien"
+        ],
+        "chi": [
+            "Ken Armstrong",
+            " Carl Beverly",
+            " Michael Chabon",
+            " Lisa Cholodenko",
+            " Katie Couric",
+            " Katie DiMento",
+            " Susannah Grant",
+            " T. Christian Miller",
+            " Daniel Rodriguez",
+            " Robyn Semien"
+        ],
+        "tha": [
+            "Ken Armstrong",
+            " Carl Beverly",
+            " Michael Chabon",
+            " Lisa Cholodenko",
+            " Katie Couric",
+            " Katie DiMento",
+            " Susannah Grant",
+            " T. Christian Miller",
+            " Daniel Rodriguez",
+            " Robyn Semien"
+        ],
+        "ind": [
+            "Ken Armstrong",
+            " Carl Beverly",
+            " Michael Chabon",
+            " Lisa Cholodenko",
+            " Katie Couric",
+            " Katie DiMento",
+            " Susannah Grant",
+            " T. Christian Miller",
+            " Daniel Rodriguez",
+            " Robyn Semien"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/UnbelievableSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/UnbelievableSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/UnbelievableSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_382185ab-cca8-55a6-b406-254fdbda07e2",
+    "seasonId": "AggregatedSeason_0592f1fe-ef00-5284-9581-edb3e8c156dc",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2019,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

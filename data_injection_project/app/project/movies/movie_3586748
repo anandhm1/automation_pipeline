@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_5749e887-570a-5ede-9f90-cf895d7c71e8",
+    "clientContentId": "PACK0000000005079598",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "He's All That",
+            "may": "He's All That",
+            "tam": "He's All That",
+            "chi": "He's All That",
+            "tha": "He's All That",
+            "ind": "He's All That"
+        },
+        "long": {
+            "eng": "He's All That",
+            "may": "He's All That",
+            "tam": "He's All That",
+            "chi": "He's All That",
+            "tha": "He's All That",
+            "ind": "He's All That"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A teenage girl sets out to give a nebbish classmate the ultimate high school makeover. An updated remake of the 1999 film, 'She's All That'.",
+            "may": "A teenage girl sets out to give a nebbish classmate the ultimate high school makeover. An updated remake of the 1999 film, 'She's All That'.",
+            "tam": "A teenage girl sets out to give a nebbish classmate the ultimate high school makeover. An updated remake of the 1999 film, 'She's All That'.",
+            "chi": "A teenage girl sets out to give a nebbish classmate the ultimate high school makeover. An updated remake of the 1999 film, 'She's All That'.",
+            "tha": "A teenage girl sets out to give a nebbish classmate the ultimate high school makeover. An updated remake of the 1999 film, 'She's All That'.",
+            "ind": "A teenage girl sets out to give a nebbish classmate the ultimate high school makeover. An updated remake of the 1999 film, 'She's All That'."
+        },
+        "long": {
+            "eng": "A teenage girl sets out to give a nebbish classmate the ultimate high school makeover. An updated remake of the 1999 film, 'She's All That'.",
+            "may": "A teenage girl sets out to give a nebbish classmate the ultimate high school makeover. An updated remake of the 1999 film, 'She's All That'.",
+            "tam": "A teenage girl sets out to give a nebbish classmate the ultimate high school makeover. An updated remake of the 1999 film, 'She's All That'.",
+            "chi": "A teenage girl sets out to give a nebbish classmate the ultimate high school makeover. An updated remake of the 1999 film, 'She's All That'.",
+            "tha": "A teenage girl sets out to give a nebbish classmate the ultimate high school makeover. An updated remake of the 1999 film, 'She's All That'.",
+            "ind": "A teenage girl sets out to give a nebbish classmate the ultimate high school makeover. An updated remake of the 1999 film, 'She's All That'."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Addison Rae",
+            " Tanner Buchanan",
+            " Madison Pettis",
+            " Rachael Leigh Cook",
+            " Matthew Lillard",
+            " Peyton Meyer",
+            " Isabella Crovetti",
+            " Annie Jacob",
+            " Myra Molloy",
+            " Kourtney Kardashian"
+        ],
+        "may": [
+            "Addison Rae",
+            " Tanner Buchanan",
+            " Madison Pettis",
+            " Rachael Leigh Cook",
+            " Matthew Lillard",
+            " Peyton Meyer",
+            " Isabella Crovetti",
+            " Annie Jacob",
+            " Myra Molloy",
+            " Kourtney Kardashian"
+        ],
+        "tam": [
+            "Addison Rae",
+            " Tanner Buchanan",
+            " Madison Pettis",
+            " Rachael Leigh Cook",
+            " Matthew Lillard",
+            " Peyton Meyer",
+            " Isabella Crovetti",
+            " Annie Jacob",
+            " Myra Molloy",
+            " Kourtney Kardashian"
+        ],
+        "chi": [
+            "Addison Rae",
+            " Tanner Buchanan",
+            " Madison Pettis",
+            " Rachael Leigh Cook",
+            " Matthew Lillard",
+            " Peyton Meyer",
+            " Isabella Crovetti",
+            " Annie Jacob",
+            " Myra Molloy",
+            " Kourtney Kardashian"
+        ],
+        "tha": [
+            "Addison Rae",
+            " Tanner Buchanan",
+            " Madison Pettis",
+            " Rachael Leigh Cook",
+            " Matthew Lillard",
+            " Peyton Meyer",
+            " Isabella Crovetti",
+            " Annie Jacob",
+            " Myra Molloy",
+            " Kourtney Kardashian"
+        ],
+        "ind": [
+            "Addison Rae",
+            " Tanner Buchanan",
+            " Madison Pettis",
+            " Rachael Leigh Cook",
+            " Matthew Lillard",
+            " Peyton Meyer",
+            " Isabella Crovetti",
+            " Annie Jacob",
+            " Myra Molloy",
+            " Kourtney Kardashian"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Mark Waters"
+        ],
+        "may": [
+            "Mark Waters"
+        ],
+        "tam": [
+            "Mark Waters"
+        ],
+        "chi": [
+            "Mark Waters"
+        ],
+        "tha": [
+            "Mark Waters"
+        ],
+        "ind": [
+            "Mark Waters"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Bill Block",
+            " R. Lee Fleming Jr.",
+            " Jennifer Gibgot",
+            " Andrew Golov",
+            " Jared Iacino",
+            " Michael Lachance",
+            " Munika Lay",
+            " Bob Osher",
+            " Andrew Panay",
+            " Nick Tran"
+        ],
+        "may": [
+            "Bill Block",
+            " R. Lee Fleming Jr.",
+            " Jennifer Gibgot",
+            " Andrew Golov",
+            " Jared Iacino",
+            " Michael Lachance",
+            " Munika Lay",
+            " Bob Osher",
+            " Andrew Panay",
+            " Nick Tran"
+        ],
+        "tam": [
+            "Bill Block",
+            " R. Lee Fleming Jr.",
+            " Jennifer Gibgot",
+            " Andrew Golov",
+            " Jared Iacino",
+            " Michael Lachance",
+            " Munika Lay",
+            " Bob Osher",
+            " Andrew Panay",
+            " Nick Tran"
+        ],
+        "chi": [
+            "Bill Block",
+            " R. Lee Fleming Jr.",
+            " Jennifer Gibgot",
+            " Andrew Golov",
+            " Jared Iacino",
+            " Michael Lachance",
+            " Munika Lay",
+            " Bob Osher",
+            " Andrew Panay",
+            " Nick Tran"
+        ],
+        "tha": [
+            "Bill Block",
+            " R. Lee Fleming Jr.",
+            " Jennifer Gibgot",
+            " Andrew Golov",
+            " Jared Iacino",
+            " Michael Lachance",
+            " Munika Lay",
+            " Bob Osher",
+            " Andrew Panay",
+            " Nick Tran"
+        ],
+        "ind": [
+            "Bill Block",
+            " R. Lee Fleming Jr.",
+            " Jennifer Gibgot",
+            " Andrew Golov",
+            " Jared Iacino",
+            " Michael Lachance",
+            " Munika Lay",
+            " Bob Osher",
+            " Andrew Panay",
+            " Nick Tran"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Romance",
+                    "may": " Romance",
+                    "tam": " Romance",
+                    "chi": " Romance",
+                    "tha": " Romance",
+                    "ind": " Romance"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/He'sAllThat_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/He'sAllThat_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/He'sAllThat_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2021,
+    "rating": "4.4",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

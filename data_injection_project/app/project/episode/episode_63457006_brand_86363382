@@ -1,0 +1,355 @@
+{
+    "externalId": "AggregatedTvShow_71745f5e-8cdd-5424-a45a-1073bbb18dbf",
+    "clientContentId": "PACK0000000009870291",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Bad Bloods - Trailer",
+            "may": "Bad Bloods - Trailer",
+            "tam": "Bad Bloods - Trailer",
+            "chi": "Bad Bloods - Trailer",
+            "tha": "Bad Bloods - Trailer",
+            "ind": "Bad Bloods - Trailer"
+        },
+        "long": {
+            "eng": "Bad Bloods - Trailer",
+            "may": "Bad Bloods - Trailer",
+            "tam": "Bad Bloods - Trailer",
+            "chi": "Bad Bloods - Trailer",
+            "tha": "Bad Bloods - Trailer",
+            "ind": "Bad Bloods - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "may": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "tam": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "chi": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "tha": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "ind": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto."
+        },
+        "long": {
+            "eng": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "may": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "tam": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "chi": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "tha": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+            "ind": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Kim Coates",
+            " Louis Ferreira",
+            " Sharon Taylor",
+            " Melanie Scrofano",
+            " Dylan Taylor",
+            " Anna Hopkins",
+            " Daniel Kash",
+            " Lisa Berry",
+            " Ryan McDonald",
+            " Franco Lo Presti"
+        ],
+        "may": [
+            "Kim Coates",
+            " Louis Ferreira",
+            " Sharon Taylor",
+            " Melanie Scrofano",
+            " Dylan Taylor",
+            " Anna Hopkins",
+            " Daniel Kash",
+            " Lisa Berry",
+            " Ryan McDonald",
+            " Franco Lo Presti"
+        ],
+        "tam": [
+            "Kim Coates",
+            " Louis Ferreira",
+            " Sharon Taylor",
+            " Melanie Scrofano",
+            " Dylan Taylor",
+            " Anna Hopkins",
+            " Daniel Kash",
+            " Lisa Berry",
+            " Ryan McDonald",
+            " Franco Lo Presti"
+        ],
+        "chi": [
+            "Kim Coates",
+            " Louis Ferreira",
+            " Sharon Taylor",
+            " Melanie Scrofano",
+            " Dylan Taylor",
+            " Anna Hopkins",
+            " Daniel Kash",
+            " Lisa Berry",
+            " Ryan McDonald",
+            " Franco Lo Presti"
+        ],
+        "tha": [
+            "Kim Coates",
+            " Louis Ferreira",
+            " Sharon Taylor",
+            " Melanie Scrofano",
+            " Dylan Taylor",
+            " Anna Hopkins",
+            " Daniel Kash",
+            " Lisa Berry",
+            " Ryan McDonald",
+            " Franco Lo Presti"
+        ],
+        "ind": [
+            "Kim Coates",
+            " Louis Ferreira",
+            " Sharon Taylor",
+            " Melanie Scrofano",
+            " Dylan Taylor",
+            " Anna Hopkins",
+            " Daniel Kash",
+            " Lisa Berry",
+            " Ryan McDonald",
+            " Franco Lo Presti"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Alain Desrochers",
+            " Jeff Renfroe",
+            " Molly McGlynn"
+        ],
+        "may": [
+            "Alain Desrochers",
+            " Jeff Renfroe",
+            " Molly McGlynn"
+        ],
+        "tam": [
+            "Alain Desrochers",
+            " Jeff Renfroe",
+            " Molly McGlynn"
+        ],
+        "chi": [
+            "Alain Desrochers",
+            " Jeff Renfroe",
+            " Molly McGlynn"
+        ],
+        "tha": [
+            "Alain Desrochers",
+            " Jeff Renfroe",
+            " Molly McGlynn"
+        ],
+        "ind": [
+            "Alain Desrochers",
+            " Jeff Renfroe",
+            " Molly McGlynn"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Simon Barry",
+            " Kim Coates",
+            " Michael Konyves",
+            " Lauren MacKinlay",
+            " Mark Montefiore",
+            " Cameron MacLaren",
+            " Alison Lea Bingeman",
+            " Nataline Rodrigues",
+            " Paula J. Smith",
+            " Jos\u00e9e Vall\u00e9e"
+        ],
+        "may": [
+            "Simon Barry",
+            " Kim Coates",
+            " Michael Konyves",
+            " Lauren MacKinlay",
+            " Mark Montefiore",
+            " Cameron MacLaren",
+            " Alison Lea Bingeman",
+            " Nataline Rodrigues",
+            " Paula J. Smith",
+            " Jos\u00e9e Vall\u00e9e"
+        ],
+        "tam": [
+            "Simon Barry",
+            " Kim Coates",
+            " Michael Konyves",
+            " Lauren MacKinlay",
+            " Mark Montefiore",
+            " Cameron MacLaren",
+            " Alison Lea Bingeman",
+            " Nataline Rodrigues",
+            " Paula J. Smith",
+            " Jos\u00e9e Vall\u00e9e"
+        ],
+        "chi": [
+            "Simon Barry",
+            " Kim Coates",
+            " Michael Konyves",
+            " Lauren MacKinlay",
+            " Mark Montefiore",
+            " Cameron MacLaren",
+            " Alison Lea Bingeman",
+            " Nataline Rodrigues",
+            " Paula J. Smith",
+            " Jos\u00e9e Vall\u00e9e"
+        ],
+        "tha": [
+            "Simon Barry",
+            " Kim Coates",
+            " Michael Konyves",
+            " Lauren MacKinlay",
+            " Mark Montefiore",
+            " Cameron MacLaren",
+            " Alison Lea Bingeman",
+            " Nataline Rodrigues",
+            " Paula J. Smith",
+            " Jos\u00e9e Vall\u00e9e"
+        ],
+        "ind": [
+            "Simon Barry",
+            " Kim Coates",
+            " Michael Konyves",
+            " Lauren MacKinlay",
+            " Mark Montefiore",
+            " Cameron MacLaren",
+            " Alison Lea Bingeman",
+            " Nataline Rodrigues",
+            " Paula J. Smith",
+            " Jos\u00e9e Vall\u00e9e"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BadBloodsSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BadBloodsSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BadBloodsSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_2bfa256e-f387-5a98-999b-b4c3ba258c39",
+    "seasonId": "AggregatedSeason_b3b2a241-ae0b-5a8f-9188-85a6dbdc1b5b",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2017,
+    "rating": "14+",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

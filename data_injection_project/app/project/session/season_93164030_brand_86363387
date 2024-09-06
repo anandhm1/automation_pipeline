@@ -1,0 +1,305 @@
+{
+    "externalId": "AggregatedSeason_4af4522d-46ce-5e26-a5bf-25ef3c43a1eb",
+    "clientContentId": "PACK0000000008095396",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "chi": "Crime",
+                    "tam": "Crime",
+                    "ind": "Crime",
+                    "tha": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Orlando Bloom",
+            " Cara Delevingne",
+            " Simon McBurney",
+            " Tamzin Merchant",
+            " David Gyasi",
+            " Karla CromeJamie HarrisAndrew GowerArty FroushanAriyon Bakare"
+        ],
+        "may": [
+            "Orlando Bloom",
+            " Cara Delevingne",
+            " Simon McBurney",
+            " Tamzin Merchant",
+            " David Gyasi",
+            " Karla CromeJamie HarrisAndrew GowerArty FroushanAriyon Bakare"
+        ],
+        "chi": [
+            "Orlando Bloom",
+            " Cara Delevingne",
+            " Simon McBurney",
+            " Tamzin Merchant",
+            " David Gyasi",
+            " Karla CromeJamie HarrisAndrew GowerArty FroushanAriyon Bakare"
+        ],
+        "tam": [
+            "Orlando Bloom",
+            " Cara Delevingne",
+            " Simon McBurney",
+            " Tamzin Merchant",
+            " David Gyasi",
+            " Karla CromeJamie HarrisAndrew GowerArty FroushanAriyon Bakare"
+        ],
+        "ind": [
+            "Orlando Bloom",
+            " Cara Delevingne",
+            " Simon McBurney",
+            " Tamzin Merchant",
+            " David Gyasi",
+            " Karla CromeJamie HarrisAndrew GowerArty FroushanAriyon Bakare"
+        ],
+        "tha": [
+            "Orlando Bloom",
+            " Cara Delevingne",
+            " Simon McBurney",
+            " Tamzin Merchant",
+            " David Gyasi",
+            " Karla CromeJamie HarrisAndrew GowerArty FroushanAriyon Bakare"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Thor Freudenthal",
+            " Andy Goddard",
+            " Julian Holmes",
+            " Jon Amiel",
+            " Anna Foerster",
+            " Wendey Stanzler"
+        ],
+        "may": [
+            "Thor Freudenthal",
+            " Andy Goddard",
+            " Julian Holmes",
+            " Jon Amiel",
+            " Anna Foerster",
+            " Wendey Stanzler"
+        ],
+        "chi": [
+            "Thor Freudenthal",
+            " Andy Goddard",
+            " Julian Holmes",
+            " Jon Amiel",
+            " Anna Foerster",
+            " Wendey Stanzler"
+        ],
+        "tam": [
+            "Thor Freudenthal",
+            " Andy Goddard",
+            " Julian Holmes",
+            " Jon Amiel",
+            " Anna Foerster",
+            " Wendey Stanzler"
+        ],
+        "ind": [
+            "Thor Freudenthal",
+            " Andy Goddard",
+            " Julian Holmes",
+            " Jon Amiel",
+            " Anna Foerster",
+            " Wendey Stanzler"
+        ],
+        "tha": [
+            "Thor Freudenthal",
+            " Andy Goddard",
+            " Julian Holmes",
+            " Jon Amiel",
+            " Anna Foerster",
+            " Wendey Stanzler"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Orlando Bloom",
+            " Marc Guggenheim",
+            " David Minkowski",
+            " Matthew Stillman",
+            " Alex Shevchenko",
+            " Travis BeachamMarc BernardinSarah ByrdCara DelevingneJim Dunn"
+        ],
+        "may": [
+            "Orlando Bloom",
+            " Marc Guggenheim",
+            " David Minkowski",
+            " Matthew Stillman",
+            " Alex Shevchenko",
+            " Travis BeachamMarc BernardinSarah ByrdCara DelevingneJim Dunn"
+        ],
+        "chi": [
+            "Orlando Bloom",
+            " Marc Guggenheim",
+            " David Minkowski",
+            " Matthew Stillman",
+            " Alex Shevchenko",
+            " Travis BeachamMarc BernardinSarah ByrdCara DelevingneJim Dunn"
+        ],
+        "tam": [
+            "Orlando Bloom",
+            " Marc Guggenheim",
+            " David Minkowski",
+            " Matthew Stillman",
+            " Alex Shevchenko",
+            " Travis BeachamMarc BernardinSarah ByrdCara DelevingneJim Dunn"
+        ],
+        "ind": [
+            "Orlando Bloom",
+            " Marc Guggenheim",
+            " David Minkowski",
+            " Matthew Stillman",
+            " Alex Shevchenko",
+            " Travis BeachamMarc BernardinSarah ByrdCara DelevingneJim Dunn"
+        ],
+        "tha": [
+            "Orlando Bloom",
+            " Marc Guggenheim",
+            " David Minkowski",
+            " Matthew Stillman",
+            " Alex Shevchenko",
+            " Travis BeachamMarc BernardinSarah ByrdCara DelevingneJim Dunn"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_84de0d57-976d-5320-9c05-b4b1196c8e77",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Carnival Row Season 1",
+            "may": "Carnival Row Season 1",
+            "chi": "Carnival Row Season 1",
+            "tam": "Carnival Row Season 1",
+            "ind": "Carnival Row Season 1",
+            "tha": "Carnival Row Season 1"
+        },
+        "long": {
+            "eng": "Carnival Row Season 1",
+            "may": "Carnival Row Season 1",
+            "chi": "Carnival Row Season 1",
+            "tam": "Carnival Row Season 1",
+            "ind": "Carnival Row Season 1",
+            "tha": "Carnival Row Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A human detective and a fairy rekindle a dangerous affair in a Victorian fantasy world, where the city's uneasy peace collapses when a string of murders reveals an unimaginable monster.",
+            "may": "A human detective and a fairy rekindle a dangerous affair in a Victorian fantasy world, where the city's uneasy peace collapses when a string of murders reveals an unimaginable monster.",
+            "chi": "A human detective and a fairy rekindle a dangerous affair in a Victorian fantasy world, where the city's uneasy peace collapses when a string of murders reveals an unimaginable monster.",
+            "tam": "A human detective and a fairy rekindle a dangerous affair in a Victorian fantasy world, where the city's uneasy peace collapses when a string of murders reveals an unimaginable monster.",
+            "ind": "A human detective and a fairy rekindle a dangerous affair in a Victorian fantasy world, where the city's uneasy peace collapses when a string of murders reveals an unimaginable monster.",
+            "tha": "A human detective and a fairy rekindle a dangerous affair in a Victorian fantasy world, where the city's uneasy peace collapses when a string of murders reveals an unimaginable monster."
+        },
+        "long": {
+            "eng": "A human detective and a fairy rekindle a dangerous affair in a Victorian fantasy world, where the city's uneasy peace collapses when a string of murders reveals an unimaginable monster.",
+            "may": "A human detective and a fairy rekindle a dangerous affair in a Victorian fantasy world, where the city's uneasy peace collapses when a string of murders reveals an unimaginable monster.",
+            "chi": "A human detective and a fairy rekindle a dangerous affair in a Victorian fantasy world, where the city's uneasy peace collapses when a string of murders reveals an unimaginable monster.",
+            "tam": "A human detective and a fairy rekindle a dangerous affair in a Victorian fantasy world, where the city's uneasy peace collapses when a string of murders reveals an unimaginable monster.",
+            "ind": "A human detective and a fairy rekindle a dangerous affair in a Victorian fantasy world, where the city's uneasy peace collapses when a string of murders reveals an unimaginable monster.",
+            "tha": "A human detective and a fairy rekindle a dangerous affair in a Victorian fantasy world, where the city's uneasy peace collapses when a string of murders reveals an unimaginable monster."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/CarnivalRowSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/CarnivalRowSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/CarnivalRowSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

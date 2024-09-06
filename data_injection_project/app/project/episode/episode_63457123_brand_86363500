@@ -1,0 +1,247 @@
+{
+    "externalId": "AggregatedTvShow_ff905295-9797-525c-89bb-20b597ef01fb",
+    "clientContentId": "PACK0000000002238104",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Minus One S1 E1",
+            "may": "Minus One S1 E1",
+            "tam": "Minus One S1 E1",
+            "chi": "Minus One S1 E1",
+            "tha": "Minus One S1 E1",
+            "ind": "Minus One S1 E1"
+        },
+        "long": {
+            "eng": "Minus One S1 E1",
+            "may": "Minus One S1 E1",
+            "tam": "Minus One S1 E1",
+            "chi": "Minus One S1 E1",
+            "tha": "Minus One S1 E1",
+            "ind": "Minus One S1 E1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "may": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "tam": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "chi": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "tha": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "ind": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates."
+        },
+        "long": {
+            "eng": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "may": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "tam": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "chi": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "tha": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "ind": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Faiz Khan",
+            " Kira Narayanan",
+            " Aisha Ahmed"
+        ],
+        "may": [
+            "Faiz Khan",
+            " Kira Narayanan",
+            " Aisha Ahmed"
+        ],
+        "tam": [
+            "Faiz Khan",
+            " Kira Narayanan",
+            " Aisha Ahmed"
+        ],
+        "chi": [
+            "Faiz Khan",
+            " Kira Narayanan",
+            " Aisha Ahmed"
+        ],
+        "tha": [
+            "Faiz Khan",
+            " Kira Narayanan",
+            " Aisha Ahmed"
+        ],
+        "ind": [
+            "Faiz Khan",
+            " Kira Narayanan",
+            " Aisha Ahmed"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Shubham Yogi"
+        ],
+        "may": [
+            "Shubham Yogi"
+        ],
+        "tam": [
+            "Shubham Yogi"
+        ],
+        "chi": [
+            "Shubham Yogi"
+        ],
+        "tha": [
+            "Shubham Yogi"
+        ],
+        "ind": [
+            "Shubham Yogi"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Shubham Yogi"
+        ],
+        "may": [
+            "Shubham Yogi"
+        ],
+        "tam": [
+            "Shubham Yogi"
+        ],
+        "chi": [
+            "Shubham Yogi"
+        ],
+        "tha": [
+            "Shubham Yogi"
+        ],
+        "ind": [
+            "Shubham Yogi"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/MinusOne_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/MinusOne_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/MinusOne_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_474a2767-c5e3-5723-b6bc-67462fac1458",
+    "seasonId": "AggregatedSeason_1125ccf0-dea1-5d33-8e2a-8374a912b17a",
+    "boxsetIds": [],
+    "episodeNumber": "2.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2019,
+    "rating": "7.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,329 @@
+{
+    "externalId": "AggregatedSeason_18d406d4-6472-594c-a4a6-3332fa01dcde",
+    "clientContentId": "PACK0000000001315578",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "chi": "Action",
+                    "tam": "Action",
+                    "ind": "Action",
+                    "tha": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Chris Pratt",
+            " Constance Wu",
+            " Taylor Kitsch",
+            " Riley Keough",
+            " Arlo Mertz",
+            " Jeanne Tripplehorn",
+            " Jared Shaw",
+            " JD Pardo",
+            " LaMonica Garrett",
+            " Christina Vidal"
+        ],
+        "may": [
+            "Chris Pratt",
+            " Constance Wu",
+            " Taylor Kitsch",
+            " Riley Keough",
+            " Arlo Mertz",
+            " Jeanne Tripplehorn",
+            " Jared Shaw",
+            " JD Pardo",
+            " LaMonica Garrett",
+            " Christina Vidal"
+        ],
+        "chi": [
+            "Chris Pratt",
+            " Constance Wu",
+            " Taylor Kitsch",
+            " Riley Keough",
+            " Arlo Mertz",
+            " Jeanne Tripplehorn",
+            " Jared Shaw",
+            " JD Pardo",
+            " LaMonica Garrett",
+            " Christina Vidal"
+        ],
+        "tam": [
+            "Chris Pratt",
+            " Constance Wu",
+            " Taylor Kitsch",
+            " Riley Keough",
+            " Arlo Mertz",
+            " Jeanne Tripplehorn",
+            " Jared Shaw",
+            " JD Pardo",
+            " LaMonica Garrett",
+            " Christina Vidal"
+        ],
+        "ind": [
+            "Chris Pratt",
+            " Constance Wu",
+            " Taylor Kitsch",
+            " Riley Keough",
+            " Arlo Mertz",
+            " Jeanne Tripplehorn",
+            " Jared Shaw",
+            " JD Pardo",
+            " LaMonica Garrett",
+            " Christina Vidal"
+        ],
+        "tha": [
+            "Chris Pratt",
+            " Constance Wu",
+            " Taylor Kitsch",
+            " Riley Keough",
+            " Arlo Mertz",
+            " Jeanne Tripplehorn",
+            " Jared Shaw",
+            " JD Pardo",
+            " LaMonica Garrett",
+            " Christina Vidal"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Frederick E.O. Toye",
+            " Sylvain White",
+            " M.J. Bassett",
+            " Antoine Fuqua",
+            " Tucker Gates",
+            " Ellen Kuras"
+        ],
+        "may": [
+            "Frederick E.O. Toye",
+            " Sylvain White",
+            " M.J. Bassett",
+            " Antoine Fuqua",
+            " Tucker Gates",
+            " Ellen Kuras"
+        ],
+        "chi": [
+            "Frederick E.O. Toye",
+            " Sylvain White",
+            " M.J. Bassett",
+            " Antoine Fuqua",
+            " Tucker Gates",
+            " Ellen Kuras"
+        ],
+        "tam": [
+            "Frederick E.O. Toye",
+            " Sylvain White",
+            " M.J. Bassett",
+            " Antoine Fuqua",
+            " Tucker Gates",
+            " Ellen Kuras"
+        ],
+        "ind": [
+            "Frederick E.O. Toye",
+            " Sylvain White",
+            " M.J. Bassett",
+            " Antoine Fuqua",
+            " Tucker Gates",
+            " Ellen Kuras"
+        ],
+        "tha": [
+            "Frederick E.O. Toye",
+            " Sylvain White",
+            " M.J. Bassett",
+            " Antoine Fuqua",
+            " Tucker Gates",
+            " Ellen Kuras"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Max Adams",
+            " David Auge",
+            " Jack Carr",
+            " David DiGilio",
+            " Justin Epifanio",
+            " Antoine FuquaMelanie KirkLisa LongJohn LopezChris Pratt"
+        ],
+        "may": [
+            "Max Adams",
+            " David Auge",
+            " Jack Carr",
+            " David DiGilio",
+            " Justin Epifanio",
+            " Antoine FuquaMelanie KirkLisa LongJohn LopezChris Pratt"
+        ],
+        "chi": [
+            "Max Adams",
+            " David Auge",
+            " Jack Carr",
+            " David DiGilio",
+            " Justin Epifanio",
+            " Antoine FuquaMelanie KirkLisa LongJohn LopezChris Pratt"
+        ],
+        "tam": [
+            "Max Adams",
+            " David Auge",
+            " Jack Carr",
+            " David DiGilio",
+            " Justin Epifanio",
+            " Antoine FuquaMelanie KirkLisa LongJohn LopezChris Pratt"
+        ],
+        "ind": [
+            "Max Adams",
+            " David Auge",
+            " Jack Carr",
+            " David DiGilio",
+            " Justin Epifanio",
+            " Antoine FuquaMelanie KirkLisa LongJohn LopezChris Pratt"
+        ],
+        "tha": [
+            "Max Adams",
+            " David Auge",
+            " Jack Carr",
+            " David DiGilio",
+            " Justin Epifanio",
+            " Antoine FuquaMelanie KirkLisa LongJohn LopezChris Pratt"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_f0dcbcf4-c36d-5b46-93c3-543838d0140f",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Terminal List S01E01",
+            "may": "The Terminal List S01E01",
+            "chi": "The Terminal List S01E01",
+            "tam": "The Terminal List S01E01",
+            "ind": "The Terminal List S01E01",
+            "tha": "The Terminal List S01E01"
+        },
+        "long": {
+            "eng": "The Terminal List S01E01",
+            "may": "The Terminal List S01E01",
+            "chi": "The Terminal List S01E01",
+            "tam": "The Terminal List S01E01",
+            "ind": "The Terminal List S01E01",
+            "tha": "The Terminal List S01E01"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "may": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "chi": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "tam": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "ind": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "tha": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability."
+        },
+        "long": {
+            "eng": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "may": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "chi": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "tam": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "ind": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability.",
+            "tha": "In the wake of a disastrous mission overseas, Navy SEAL commander James Reece returns home with conflicting memories of the op and questions about his own culpability."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheTerminalListS01E01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheTerminalListS01E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheTerminalListS01E01_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

@@ -1,0 +1,313 @@
+{
+    "externalId": "AggregatedMovie_7b5bd7b4-ca4e-5a29-bfb4-22bd21633b77",
+    "clientContentId": "PACK0000000004627505",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Quest For Tom Sawyer's Gold (2023)",
+            "may": "The Quest For Tom Sawyer's Gold (2023)",
+            "tam": "The Quest For Tom Sawyer's Gold (2023)",
+            "chi": "The Quest For Tom Sawyer's Gold (2023)",
+            "tha": "The Quest For Tom Sawyer's Gold (2023)",
+            "ind": "The Quest For Tom Sawyer's Gold (2023)"
+        },
+        "long": {
+            "eng": "The Quest For Tom Sawyer's Gold (2023)",
+            "may": "The Quest For Tom Sawyer's Gold (2023)",
+            "tam": "The Quest For Tom Sawyer's Gold (2023)",
+            "chi": "The Quest For Tom Sawyer's Gold (2023)",
+            "tha": "The Quest For Tom Sawyer's Gold (2023)",
+            "ind": "The Quest For Tom Sawyer's Gold (2023)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A risk-averse English teacher is forced to face her greatest fears when several of her students venture alone into the southern wilderness in search of Tom Sawyer's long lost gold.",
+            "may": "A risk-averse English teacher is forced to face her greatest fears when several of her students venture alone into the southern wilderness in search of Tom Sawyer's long lost gold.",
+            "tam": "A risk-averse English teacher is forced to face her greatest fears when several of her students venture alone into the southern wilderness in search of Tom Sawyer's long lost gold.",
+            "chi": "A risk-averse English teacher is forced to face her greatest fears when several of her students venture alone into the southern wilderness in search of Tom Sawyer's long lost gold.",
+            "tha": "A risk-averse English teacher is forced to face her greatest fears when several of her students venture alone into the southern wilderness in search of Tom Sawyer's long lost gold.",
+            "ind": "A risk-averse English teacher is forced to face her greatest fears when several of her students venture alone into the southern wilderness in search of Tom Sawyer's long lost gold."
+        },
+        "long": {
+            "eng": "A risk-averse English teacher is forced to face her greatest fears when several of her students venture alone into the southern wilderness in search of Tom Sawyer's long lost gold.",
+            "may": "A risk-averse English teacher is forced to face her greatest fears when several of her students venture alone into the southern wilderness in search of Tom Sawyer's long lost gold.",
+            "tam": "A risk-averse English teacher is forced to face her greatest fears when several of her students venture alone into the southern wilderness in search of Tom Sawyer's long lost gold.",
+            "chi": "A risk-averse English teacher is forced to face her greatest fears when several of her students venture alone into the southern wilderness in search of Tom Sawyer's long lost gold.",
+            "tha": "A risk-averse English teacher is forced to face her greatest fears when several of her students venture alone into the southern wilderness in search of Tom Sawyer's long lost gold.",
+            "ind": "A risk-averse English teacher is forced to face her greatest fears when several of her students venture alone into the southern wilderness in search of Tom Sawyer's long lost gold."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Joey Lauren Adams",
+            " Patrick Muldoon",
+            " Alex Hyde-White",
+            " Ava Torres",
+            " Deja Monique Cruz",
+            " Scott Bailey",
+            " Dodge Prince",
+            " Amanda Joy Erickson",
+            " Drew Pollock",
+            " Kobi Frumer"
+        ],
+        "may": [
+            "Joey Lauren Adams",
+            " Patrick Muldoon",
+            " Alex Hyde-White",
+            " Ava Torres",
+            " Deja Monique Cruz",
+            " Scott Bailey",
+            " Dodge Prince",
+            " Amanda Joy Erickson",
+            " Drew Pollock",
+            " Kobi Frumer"
+        ],
+        "tam": [
+            "Joey Lauren Adams",
+            " Patrick Muldoon",
+            " Alex Hyde-White",
+            " Ava Torres",
+            " Deja Monique Cruz",
+            " Scott Bailey",
+            " Dodge Prince",
+            " Amanda Joy Erickson",
+            " Drew Pollock",
+            " Kobi Frumer"
+        ],
+        "chi": [
+            "Joey Lauren Adams",
+            " Patrick Muldoon",
+            " Alex Hyde-White",
+            " Ava Torres",
+            " Deja Monique Cruz",
+            " Scott Bailey",
+            " Dodge Prince",
+            " Amanda Joy Erickson",
+            " Drew Pollock",
+            " Kobi Frumer"
+        ],
+        "tha": [
+            "Joey Lauren Adams",
+            " Patrick Muldoon",
+            " Alex Hyde-White",
+            " Ava Torres",
+            " Deja Monique Cruz",
+            " Scott Bailey",
+            " Dodge Prince",
+            " Amanda Joy Erickson",
+            " Drew Pollock",
+            " Kobi Frumer"
+        ],
+        "ind": [
+            "Joey Lauren Adams",
+            " Patrick Muldoon",
+            " Alex Hyde-White",
+            " Ava Torres",
+            " Deja Monique Cruz",
+            " Scott Bailey",
+            " Dodge Prince",
+            " Amanda Joy Erickson",
+            " Drew Pollock",
+            " Kobi Frumer"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Kirk Harris"
+        ],
+        "may": [
+            "Kirk Harris"
+        ],
+        "tam": [
+            "Kirk Harris"
+        ],
+        "chi": [
+            "Kirk Harris"
+        ],
+        "tha": [
+            "Kirk Harris"
+        ],
+        "ind": [
+            "Kirk Harris"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Nick Pollack",
+            " Jerome Reygner-Kalfon",
+            " Sebastien Semon",
+            " Brian Vilim",
+            " Zeus Zamani"
+        ],
+        "may": [
+            "Nick Pollack",
+            " Jerome Reygner-Kalfon",
+            " Sebastien Semon",
+            " Brian Vilim",
+            " Zeus Zamani"
+        ],
+        "tam": [
+            "Nick Pollack",
+            " Jerome Reygner-Kalfon",
+            " Sebastien Semon",
+            " Brian Vilim",
+            " Zeus Zamani"
+        ],
+        "chi": [
+            "Nick Pollack",
+            " Jerome Reygner-Kalfon",
+            " Sebastien Semon",
+            " Brian Vilim",
+            " Zeus Zamani"
+        ],
+        "tha": [
+            "Nick Pollack",
+            " Jerome Reygner-Kalfon",
+            " Sebastien Semon",
+            " Brian Vilim",
+            " Zeus Zamani"
+        ],
+        "ind": [
+            "Nick Pollack",
+            " Jerome Reygner-Kalfon",
+            " Sebastien Semon",
+            " Brian Vilim",
+            " Zeus Zamani"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Adventure",
+                    "may": "Adventure",
+                    "tam": "Adventure",
+                    "chi": "Adventure",
+                    "tha": "Adventure",
+                    "ind": "Adventure"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Family",
+                    "may": " Family",
+                    "tam": " Family",
+                    "chi": " Family",
+                    "tha": " Family",
+                    "ind": " Family"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheQuestForTomSawyer'sGold_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheQuestForTomSawyer'sGold_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheQuestForTomSawyer'sGold_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2023,
+    "rating": "5.1",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

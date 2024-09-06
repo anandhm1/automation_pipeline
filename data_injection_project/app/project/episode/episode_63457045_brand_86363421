@@ -1,0 +1,355 @@
+{
+    "externalId": "AggregatedTvShow_9a5695ff-5bbc-56ef-87a3-58555aec98ef",
+    "clientContentId": "PACK0000000008223769",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Goldfish Problem",
+            "may": "The Goldfish Problem",
+            "tam": "The Goldfish Problem",
+            "chi": "The Goldfish Problem",
+            "tha": "The Goldfish Problem",
+            "ind": "The Goldfish Problem"
+        },
+        "long": {
+            "eng": "The Goldfish Problem",
+            "may": "The Goldfish Problem",
+            "tam": "The Goldfish Problem",
+            "chi": "The Goldfish Problem",
+            "tha": "The Goldfish Problem",
+            "ind": "The Goldfish Problem"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "may": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "tam": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "chi": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "tha": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "ind": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary."
+        },
+        "long": {
+            "eng": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "may": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "tam": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "chi": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "tha": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary.",
+            "ind": "Socially awkward, amiable , gift shop-ist Steven Grant learns that he may share a body with a ruthless mercenary."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Oscar Isaac",
+            " Ethan Hawke",
+            " May Calamawy",
+            " Michael Benjamin Hernandez",
+            " F. Murray Abraham",
+            " Ann Akinjirin",
+            " Karim El Hakim",
+            " David Ganly",
+            " Antonia Salib",
+            " Khalid Abdalla"
+        ],
+        "may": [
+            "Oscar Isaac",
+            " Ethan Hawke",
+            " May Calamawy",
+            " Michael Benjamin Hernandez",
+            " F. Murray Abraham",
+            " Ann Akinjirin",
+            " Karim El Hakim",
+            " David Ganly",
+            " Antonia Salib",
+            " Khalid Abdalla"
+        ],
+        "tam": [
+            "Oscar Isaac",
+            " Ethan Hawke",
+            " May Calamawy",
+            " Michael Benjamin Hernandez",
+            " F. Murray Abraham",
+            " Ann Akinjirin",
+            " Karim El Hakim",
+            " David Ganly",
+            " Antonia Salib",
+            " Khalid Abdalla"
+        ],
+        "chi": [
+            "Oscar Isaac",
+            " Ethan Hawke",
+            " May Calamawy",
+            " Michael Benjamin Hernandez",
+            " F. Murray Abraham",
+            " Ann Akinjirin",
+            " Karim El Hakim",
+            " David Ganly",
+            " Antonia Salib",
+            " Khalid Abdalla"
+        ],
+        "tha": [
+            "Oscar Isaac",
+            " Ethan Hawke",
+            " May Calamawy",
+            " Michael Benjamin Hernandez",
+            " F. Murray Abraham",
+            " Ann Akinjirin",
+            " Karim El Hakim",
+            " David Ganly",
+            " Antonia Salib",
+            " Khalid Abdalla"
+        ],
+        "ind": [
+            "Oscar Isaac",
+            " Ethan Hawke",
+            " May Calamawy",
+            " Michael Benjamin Hernandez",
+            " F. Murray Abraham",
+            " Ann Akinjirin",
+            " Karim El Hakim",
+            " David Ganly",
+            " Antonia Salib",
+            " Khalid Abdalla"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Mohamed Diab",
+            " Justin Benson",
+            " Aaron Moorhead"
+        ],
+        "may": [
+            "Mohamed Diab",
+            " Justin Benson",
+            " Aaron Moorhead"
+        ],
+        "tam": [
+            "Mohamed Diab",
+            " Justin Benson",
+            " Aaron Moorhead"
+        ],
+        "chi": [
+            "Mohamed Diab",
+            " Justin Benson",
+            " Aaron Moorhead"
+        ],
+        "tha": [
+            "Mohamed Diab",
+            " Justin Benson",
+            " Aaron Moorhead"
+        ],
+        "ind": [
+            "Mohamed Diab",
+            " Justin Benson",
+            " Aaron Moorhead"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Victoria Alonso",
+            " Peter Cameron",
+            " Grant Curtis",
+            " Louis D'Esposito",
+            " Mohamed Diab",
+            " Kevin Feige",
+            " Sarah Goher",
+            " Oscar Isaac",
+            " Rebecca Kirsch",
+            " Sabir Pirzada"
+        ],
+        "may": [
+            "Victoria Alonso",
+            " Peter Cameron",
+            " Grant Curtis",
+            " Louis D'Esposito",
+            " Mohamed Diab",
+            " Kevin Feige",
+            " Sarah Goher",
+            " Oscar Isaac",
+            " Rebecca Kirsch",
+            " Sabir Pirzada"
+        ],
+        "tam": [
+            "Victoria Alonso",
+            " Peter Cameron",
+            " Grant Curtis",
+            " Louis D'Esposito",
+            " Mohamed Diab",
+            " Kevin Feige",
+            " Sarah Goher",
+            " Oscar Isaac",
+            " Rebecca Kirsch",
+            " Sabir Pirzada"
+        ],
+        "chi": [
+            "Victoria Alonso",
+            " Peter Cameron",
+            " Grant Curtis",
+            " Louis D'Esposito",
+            " Mohamed Diab",
+            " Kevin Feige",
+            " Sarah Goher",
+            " Oscar Isaac",
+            " Rebecca Kirsch",
+            " Sabir Pirzada"
+        ],
+        "tha": [
+            "Victoria Alonso",
+            " Peter Cameron",
+            " Grant Curtis",
+            " Louis D'Esposito",
+            " Mohamed Diab",
+            " Kevin Feige",
+            " Sarah Goher",
+            " Oscar Isaac",
+            " Rebecca Kirsch",
+            " Sabir Pirzada"
+        ],
+        "ind": [
+            "Victoria Alonso",
+            " Peter Cameron",
+            " Grant Curtis",
+            " Louis D'Esposito",
+            " Mohamed Diab",
+            " Kevin Feige",
+            " Sarah Goher",
+            " Oscar Isaac",
+            " Rebecca Kirsch",
+            " Sabir Pirzada"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MoonKnightS01E01_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MoonKnightS01E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MoonKnightS01E01_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_3d299eec-617d-5717-b339-73b11829985f",
+    "seasonId": "AggregatedSeason_892e0e32-cf71-5338-bdd7-c3492e554765",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "TV-14",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

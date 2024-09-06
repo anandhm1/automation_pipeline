@@ -1,0 +1,353 @@
+{
+    "externalId": "AggregatedSeason_fb1cffbf-0df2-5d4b-b13d-e12bcdbdc022",
+    "clientContentId": "PACK0000000007344811",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "chi": "Crime",
+                    "tam": "Crime",
+                    "ind": "Crime",
+                    "tha": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2023,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Matthew Rhys",
+            " Shea Whigham",
+            " Eric Lange",
+            " Juliet Rylance",
+            " Chris Chalk",
+            " Gayle Rankin",
+            " Tatiana Maslany",
+            " John Lithgow",
+            " Andrew Howard",
+            " Diarra Kilpatrick"
+        ],
+        "may": [
+            "Matthew Rhys",
+            " Shea Whigham",
+            " Eric Lange",
+            " Juliet Rylance",
+            " Chris Chalk",
+            " Gayle Rankin",
+            " Tatiana Maslany",
+            " John Lithgow",
+            " Andrew Howard",
+            " Diarra Kilpatrick"
+        ],
+        "chi": [
+            "Matthew Rhys",
+            " Shea Whigham",
+            " Eric Lange",
+            " Juliet Rylance",
+            " Chris Chalk",
+            " Gayle Rankin",
+            " Tatiana Maslany",
+            " John Lithgow",
+            " Andrew Howard",
+            " Diarra Kilpatrick"
+        ],
+        "tam": [
+            "Matthew Rhys",
+            " Shea Whigham",
+            " Eric Lange",
+            " Juliet Rylance",
+            " Chris Chalk",
+            " Gayle Rankin",
+            " Tatiana Maslany",
+            " John Lithgow",
+            " Andrew Howard",
+            " Diarra Kilpatrick"
+        ],
+        "ind": [
+            "Matthew Rhys",
+            " Shea Whigham",
+            " Eric Lange",
+            " Juliet Rylance",
+            " Chris Chalk",
+            " Gayle Rankin",
+            " Tatiana Maslany",
+            " John Lithgow",
+            " Andrew Howard",
+            " Diarra Kilpatrick"
+        ],
+        "tha": [
+            "Matthew Rhys",
+            " Shea Whigham",
+            " Eric Lange",
+            " Juliet Rylance",
+            " Chris Chalk",
+            " Gayle Rankin",
+            " Tatiana Maslany",
+            " John Lithgow",
+            " Andrew Howard",
+            " Diarra Kilpatrick"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Timothy Van Patten",
+            " Deniz Gamze Erg\u00fcven",
+            " Nina Lopez-Corrado",
+            " Fernando Coimbra",
+            " Jessica Lowrey",
+            " Marialy Rivas"
+        ],
+        "may": [
+            "Timothy Van Patten",
+            " Deniz Gamze Erg\u00fcven",
+            " Nina Lopez-Corrado",
+            " Fernando Coimbra",
+            " Jessica Lowrey",
+            " Marialy Rivas"
+        ],
+        "chi": [
+            "Timothy Van Patten",
+            " Deniz Gamze Erg\u00fcven",
+            " Nina Lopez-Corrado",
+            " Fernando Coimbra",
+            " Jessica Lowrey",
+            " Marialy Rivas"
+        ],
+        "tam": [
+            "Timothy Van Patten",
+            " Deniz Gamze Erg\u00fcven",
+            " Nina Lopez-Corrado",
+            " Fernando Coimbra",
+            " Jessica Lowrey",
+            " Marialy Rivas"
+        ],
+        "ind": [
+            "Timothy Van Patten",
+            " Deniz Gamze Erg\u00fcven",
+            " Nina Lopez-Corrado",
+            " Fernando Coimbra",
+            " Jessica Lowrey",
+            " Marialy Rivas"
+        ],
+        "tha": [
+            "Timothy Van Patten",
+            " Deniz Gamze Erg\u00fcven",
+            " Nina Lopez-Corrado",
+            " Fernando Coimbra",
+            " Jessica Lowrey",
+            " Marialy Rivas"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Christopher Darling",
+            " Susan Feiles",
+            " David Gambino",
+            " Amanda Burrell",
+            " Robert Downey Jr.",
+            " Susan Downey",
+            " Joseph Horacek",
+            " Matthew Rhys",
+            " Timothy Van Patten",
+            " Peter Feldman"
+        ],
+        "may": [
+            "Christopher Darling",
+            " Susan Feiles",
+            " David Gambino",
+            " Amanda Burrell",
+            " Robert Downey Jr.",
+            " Susan Downey",
+            " Joseph Horacek",
+            " Matthew Rhys",
+            " Timothy Van Patten",
+            " Peter Feldman"
+        ],
+        "chi": [
+            "Christopher Darling",
+            " Susan Feiles",
+            " David Gambino",
+            " Amanda Burrell",
+            " Robert Downey Jr.",
+            " Susan Downey",
+            " Joseph Horacek",
+            " Matthew Rhys",
+            " Timothy Van Patten",
+            " Peter Feldman"
+        ],
+        "tam": [
+            "Christopher Darling",
+            " Susan Feiles",
+            " David Gambino",
+            " Amanda Burrell",
+            " Robert Downey Jr.",
+            " Susan Downey",
+            " Joseph Horacek",
+            " Matthew Rhys",
+            " Timothy Van Patten",
+            " Peter Feldman"
+        ],
+        "ind": [
+            "Christopher Darling",
+            " Susan Feiles",
+            " David Gambino",
+            " Amanda Burrell",
+            " Robert Downey Jr.",
+            " Susan Downey",
+            " Joseph Horacek",
+            " Matthew Rhys",
+            " Timothy Van Patten",
+            " Peter Feldman"
+        ],
+        "tha": [
+            "Christopher Darling",
+            " Susan Feiles",
+            " David Gambino",
+            " Amanda Burrell",
+            " Robert Downey Jr.",
+            " Susan Downey",
+            " Joseph Horacek",
+            " Matthew Rhys",
+            " Timothy Van Patten",
+            " Peter Feldman"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_45cd06a2-a8b1-5832-a793-e9b4e3ba3ae1",
+    "seasonNumber": "2",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Perry Mason Season 2",
+            "may": "Perry Mason Season 2",
+            "chi": "Perry Mason Season 2",
+            "tam": "Perry Mason Season 2",
+            "ind": "Perry Mason Season 2",
+            "tha": "Perry Mason Season 2"
+        },
+        "long": {
+            "eng": "Perry Mason Season 2",
+            "may": "Perry Mason Season 2",
+            "chi": "Perry Mason Season 2",
+            "tam": "Perry Mason Season 2",
+            "ind": "Perry Mason Season 2",
+            "tha": "Perry Mason Season 2"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "may": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "chi": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "tam": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "ind": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "tha": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime."
+        },
+        "long": {
+            "eng": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "may": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "chi": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "tam": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "ind": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "tha": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PerryMasonSeason2_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PerryMasonSeason2_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PerryMasonSeason2_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

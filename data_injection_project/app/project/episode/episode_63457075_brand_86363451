@@ -1,0 +1,325 @@
+{
+    "externalId": "AggregatedTvShow_6f40df5a-90cf-5693-be98-642df79206ea",
+    "clientContentId": "PACK0000000002603851",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Devil's Hour - Trailer",
+            "may": "The Devil's Hour - Trailer",
+            "tam": "The Devil's Hour - Trailer",
+            "chi": "The Devil's Hour - Trailer",
+            "tha": "The Devil's Hour - Trailer",
+            "ind": "The Devil's Hour - Trailer"
+        },
+        "long": {
+            "eng": "The Devil's Hour - Trailer",
+            "may": "The Devil's Hour - Trailer",
+            "tam": "The Devil's Hour - Trailer",
+            "chi": "The Devil's Hour - Trailer",
+            "tha": "The Devil's Hour - Trailer",
+            "ind": "The Devil's Hour - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "may": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "tam": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "chi": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "tha": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "ind": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM."
+        },
+        "long": {
+            "eng": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "may": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "tam": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "chi": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "tha": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "ind": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jessica Raine",
+            " Peter Capaldi",
+            " Nikesh Patel",
+            " Benjamin Chivers",
+            " Phil Dunster",
+            " Talia Walker Bassols",
+            " Rhiannon Harper-Rafferty",
+            " Alex Ferns",
+            " Meera Syal",
+            " Thomas Dominique"
+        ],
+        "may": [
+            "Jessica Raine",
+            " Peter Capaldi",
+            " Nikesh Patel",
+            " Benjamin Chivers",
+            " Phil Dunster",
+            " Talia Walker Bassols",
+            " Rhiannon Harper-Rafferty",
+            " Alex Ferns",
+            " Meera Syal",
+            " Thomas Dominique"
+        ],
+        "tam": [
+            "Jessica Raine",
+            " Peter Capaldi",
+            " Nikesh Patel",
+            " Benjamin Chivers",
+            " Phil Dunster",
+            " Talia Walker Bassols",
+            " Rhiannon Harper-Rafferty",
+            " Alex Ferns",
+            " Meera Syal",
+            " Thomas Dominique"
+        ],
+        "chi": [
+            "Jessica Raine",
+            " Peter Capaldi",
+            " Nikesh Patel",
+            " Benjamin Chivers",
+            " Phil Dunster",
+            " Talia Walker Bassols",
+            " Rhiannon Harper-Rafferty",
+            " Alex Ferns",
+            " Meera Syal",
+            " Thomas Dominique"
+        ],
+        "tha": [
+            "Jessica Raine",
+            " Peter Capaldi",
+            " Nikesh Patel",
+            " Benjamin Chivers",
+            " Phil Dunster",
+            " Talia Walker Bassols",
+            " Rhiannon Harper-Rafferty",
+            " Alex Ferns",
+            " Meera Syal",
+            " Thomas Dominique"
+        ],
+        "ind": [
+            "Jessica Raine",
+            " Peter Capaldi",
+            " Nikesh Patel",
+            " Benjamin Chivers",
+            " Phil Dunster",
+            " Talia Walker Bassols",
+            " Rhiannon Harper-Rafferty",
+            " Alex Ferns",
+            " Meera Syal",
+            " Thomas Dominique"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Johnny Allan",
+            " Isabelle Sieb"
+        ],
+        "may": [
+            "Johnny Allan",
+            " Isabelle Sieb"
+        ],
+        "tam": [
+            "Johnny Allan",
+            " Isabelle Sieb"
+        ],
+        "chi": [
+            "Johnny Allan",
+            " Isabelle Sieb"
+        ],
+        "tha": [
+            "Johnny Allan",
+            " Isabelle Sieb"
+        ],
+        "ind": [
+            "Johnny Allan",
+            " Isabelle Sieb"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ken Horn",
+            " Menzies Kennedy",
+            " Steven Moffat",
+            " Tom Moran",
+            " Helena Murphy",
+            " Sue Vertue"
+        ],
+        "may": [
+            "Ken Horn",
+            " Menzies Kennedy",
+            " Steven Moffat",
+            " Tom Moran",
+            " Helena Murphy",
+            " Sue Vertue"
+        ],
+        "tam": [
+            "Ken Horn",
+            " Menzies Kennedy",
+            " Steven Moffat",
+            " Tom Moran",
+            " Helena Murphy",
+            " Sue Vertue"
+        ],
+        "chi": [
+            "Ken Horn",
+            " Menzies Kennedy",
+            " Steven Moffat",
+            " Tom Moran",
+            " Helena Murphy",
+            " Sue Vertue"
+        ],
+        "tha": [
+            "Ken Horn",
+            " Menzies Kennedy",
+            " Steven Moffat",
+            " Tom Moran",
+            " Helena Murphy",
+            " Sue Vertue"
+        ],
+        "ind": [
+            "Ken Horn",
+            " Menzies Kennedy",
+            " Steven Moffat",
+            " Tom Moran",
+            " Helena Murphy",
+            " Sue Vertue"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Thriller",
+                    "may": " Thriller",
+                    "tam": " Thriller",
+                    "chi": " Thriller",
+                    "tha": " Thriller",
+                    "ind": " Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheDevil'sHourSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheDevil'sHourSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheDevil'sHourSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_e7314c14-1031-5263-9980-5fe6a2e65582",
+    "seasonId": "AggregatedSeason_d577cbdb-cdf0-5c8b-b4e8-a853e8ef550b",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedSeries_81003c58-6f76-51cb-80d7-059e5730e6a5",
+    "clientContentId": "PACK0000000002603808",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Locke & Key",
+            "may": "Locke & Key",
+            "tam": "Locke & Key",
+            "chi": "Locke & Key",
+            "tha": "Locke & Key",
+            "ind": "Locke & Key"
+        },
+        "long": {
+            "eng": "Locke & Key",
+            "may": "Locke & Key",
+            "tam": "Locke & Key",
+            "chi": "Locke & Key",
+            "tha": "Locke & Key",
+            "ind": "Locke & Key"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "After their father is murdered under mysterious circumstances, the three Locke siblings and their mother move into their ancestral home, Keyhouse, which they discover is full of magical keys that may be connected to their father's death.",
+            "may": "After their father is murdered under mysterious circumstances, the three Locke siblings and their mother move into their ancestral home, Keyhouse, which they discover is full of magical keys that may be connected to their father's death.",
+            "tam": "After their father is murdered under mysterious circumstances, the three Locke siblings and their mother move into their ancestral home, Keyhouse, which they discover is full of magical keys that may be connected to their father's death.",
+            "chi": "After their father is murdered under mysterious circumstances, the three Locke siblings and their mother move into their ancestral home, Keyhouse, which they discover is full of magical keys that may be connected to their father's death.",
+            "tha": "After their father is murdered under mysterious circumstances, the three Locke siblings and their mother move into their ancestral home, Keyhouse, which they discover is full of magical keys that may be connected to their father's death.",
+            "ind": "After their father is murdered under mysterious circumstances, the three Locke siblings and their mother move into their ancestral home, Keyhouse, which they discover is full of magical keys that may be connected to their father's death."
+        },
+        "long": {
+            "eng": "After their father is murdered under mysterious circumstances, the three Locke siblings and their mother move into their ancestral home, Keyhouse, which they discover is full of magical keys that may be connected to their father's death.",
+            "may": "After their father is murdered under mysterious circumstances, the three Locke siblings and their mother move into their ancestral home, Keyhouse, which they discover is full of magical keys that may be connected to their father's death.",
+            "tam": "After their father is murdered under mysterious circumstances, the three Locke siblings and their mother move into their ancestral home, Keyhouse, which they discover is full of magical keys that may be connected to their father's death.",
+            "chi": "After their father is murdered under mysterious circumstances, the three Locke siblings and their mother move into their ancestral home, Keyhouse, which they discover is full of magical keys that may be connected to their father's death.",
+            "tha": "After their father is murdered under mysterious circumstances, the three Locke siblings and their mother move into their ancestral home, Keyhouse, which they discover is full of magical keys that may be connected to their father's death.",
+            "ind": "After their father is murdered under mysterious circumstances, the three Locke siblings and their mother move into their ancestral home, Keyhouse, which they discover is full of magical keys that may be connected to their father's death."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Darby Stanchfield",
+            " Connor Jessup",
+            " Emilia Jones",
+            " Jackson Robert Scott",
+            " Petrice Jones",
+            " Hallea JonesAaron AshmoreGriffin GluckSherri SaumBrendan Hines"
+        ],
+        "may": [
+            "Darby Stanchfield",
+            " Connor Jessup",
+            " Emilia Jones",
+            " Jackson Robert Scott",
+            " Petrice Jones",
+            " Hallea JonesAaron AshmoreGriffin GluckSherri SaumBrendan Hines"
+        ],
+        "tam": [
+            "Darby Stanchfield",
+            " Connor Jessup",
+            " Emilia Jones",
+            " Jackson Robert Scott",
+            " Petrice Jones",
+            " Hallea JonesAaron AshmoreGriffin GluckSherri SaumBrendan Hines"
+        ],
+        "chi": [
+            "Darby Stanchfield",
+            " Connor Jessup",
+            " Emilia Jones",
+            " Jackson Robert Scott",
+            " Petrice Jones",
+            " Hallea JonesAaron AshmoreGriffin GluckSherri SaumBrendan Hines"
+        ],
+        "tha": [
+            "Darby Stanchfield",
+            " Connor Jessup",
+            " Emilia Jones",
+            " Jackson Robert Scott",
+            " Petrice Jones",
+            " Hallea JonesAaron AshmoreGriffin GluckSherri SaumBrendan Hines"
+        ],
+        "ind": [
+            "Darby Stanchfield",
+            " Connor Jessup",
+            " Emilia Jones",
+            " Jackson Robert Scott",
+            " Petrice Jones",
+            " Hallea JonesAaron AshmoreGriffin GluckSherri SaumBrendan Hines"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Mark Tonderai",
+            " Mairzee Almas",
+            " Michael Morris",
+            " Vincenzo Natali",
+            " Tim Southam",
+            " Dawn WilkinsonMillicent SheltonMarisol AdlerGuy FerlandEdward Ornelas"
+        ],
+        "may": [
+            "Mark Tonderai",
+            " Mairzee Almas",
+            " Michael Morris",
+            " Vincenzo Natali",
+            " Tim Southam",
+            " Dawn WilkinsonMillicent SheltonMarisol AdlerGuy FerlandEdward Ornelas"
+        ],
+        "tam": [
+            "Mark Tonderai",
+            " Mairzee Almas",
+            " Michael Morris",
+            " Vincenzo Natali",
+            " Tim Southam",
+            " Dawn WilkinsonMillicent SheltonMarisol AdlerGuy FerlandEdward Ornelas"
+        ],
+        "chi": [
+            "Mark Tonderai",
+            " Mairzee Almas",
+            " Michael Morris",
+            " Vincenzo Natali",
+            " Tim Southam",
+            " Dawn WilkinsonMillicent SheltonMarisol AdlerGuy FerlandEdward Ornelas"
+        ],
+        "tha": [
+            "Mark Tonderai",
+            " Mairzee Almas",
+            " Michael Morris",
+            " Vincenzo Natali",
+            " Tim Southam",
+            " Dawn WilkinsonMillicent SheltonMarisol AdlerGuy FerlandEdward Ornelas"
+        ],
+        "ind": [
+            "Mark Tonderai",
+            " Mairzee Almas",
+            " Michael Morris",
+            " Vincenzo Natali",
+            " Tim Southam",
+            " Dawn WilkinsonMillicent SheltonMarisol AdlerGuy FerlandEdward Ornelas"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Meredith Averill",
+            " Carlton Cuse",
+            " Kevin Lafferty",
+            " Vanessa Rojas",
+            " Michael D. Fuller",
+            " Nicole LaneAndy MuschiettiBarbara MuschiettiTed AdamsDavid Alpert"
+        ],
+        "may": [
+            "Meredith Averill",
+            " Carlton Cuse",
+            " Kevin Lafferty",
+            " Vanessa Rojas",
+            " Michael D. Fuller",
+            " Nicole LaneAndy MuschiettiBarbara MuschiettiTed AdamsDavid Alpert"
+        ],
+        "tam": [
+            "Meredith Averill",
+            " Carlton Cuse",
+            " Kevin Lafferty",
+            " Vanessa Rojas",
+            " Michael D. Fuller",
+            " Nicole LaneAndy MuschiettiBarbara MuschiettiTed AdamsDavid Alpert"
+        ],
+        "chi": [
+            "Meredith Averill",
+            " Carlton Cuse",
+            " Kevin Lafferty",
+            " Vanessa Rojas",
+            " Michael D. Fuller",
+            " Nicole LaneAndy MuschiettiBarbara MuschiettiTed AdamsDavid Alpert"
+        ],
+        "tha": [
+            "Meredith Averill",
+            " Carlton Cuse",
+            " Kevin Lafferty",
+            " Vanessa Rojas",
+            " Michael D. Fuller",
+            " Nicole LaneAndy MuschiettiBarbara MuschiettiTed AdamsDavid Alpert"
+        ],
+        "ind": [
+            "Meredith Averill",
+            " Carlton Cuse",
+            " Kevin Lafferty",
+            " Vanessa Rojas",
+            " Michael D. Fuller",
+            " Nicole LaneAndy MuschiettiBarbara MuschiettiTed AdamsDavid Alpert"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Fantasy",
+                    "may": " Fantasy",
+                    "tam": " Fantasy",
+                    "chi": " Fantasy",
+                    "tha": " Fantasy",
+                    "ind": " Fantasy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Locke&KeySeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Locke&KeySeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Locke&KeySeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "10",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2020,
+    "maxConcurrentStreams": 0
+}

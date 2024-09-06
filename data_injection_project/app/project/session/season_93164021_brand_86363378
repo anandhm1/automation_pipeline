@@ -1,0 +1,377 @@
+{
+    "externalId": "AggregatedSeason_b9888dd8-0483-5148-835a-84f8a93ec9c8",
+    "clientContentId": "PACK0000000007571176",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "chi": "Comedy",
+                    "tam": "Comedy",
+                    "ind": "Comedy",
+                    "tha": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2018,
+    "rating": "TV-PG",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Paris Berelc",
+            " Isabel May",
+            " Jolie Jenkins",
+            " Emery Kelly",
+            " Eddie Shin",
+            " Finn Carr",
+            " Tiffani Thiessen",
+            " Merit Leighton",
+            " Iman Benson",
+            " Kerri Medders"
+        ],
+        "may": [
+            "Paris Berelc",
+            " Isabel May",
+            " Jolie Jenkins",
+            " Emery Kelly",
+            " Eddie Shin",
+            " Finn Carr",
+            " Tiffani Thiessen",
+            " Merit Leighton",
+            " Iman Benson",
+            " Kerri Medders"
+        ],
+        "chi": [
+            "Paris Berelc",
+            " Isabel May",
+            " Jolie Jenkins",
+            " Emery Kelly",
+            " Eddie Shin",
+            " Finn Carr",
+            " Tiffani Thiessen",
+            " Merit Leighton",
+            " Iman Benson",
+            " Kerri Medders"
+        ],
+        "tam": [
+            "Paris Berelc",
+            " Isabel May",
+            " Jolie Jenkins",
+            " Emery Kelly",
+            " Eddie Shin",
+            " Finn Carr",
+            " Tiffani Thiessen",
+            " Merit Leighton",
+            " Iman Benson",
+            " Kerri Medders"
+        ],
+        "ind": [
+            "Paris Berelc",
+            " Isabel May",
+            " Jolie Jenkins",
+            " Emery Kelly",
+            " Eddie Shin",
+            " Finn Carr",
+            " Tiffani Thiessen",
+            " Merit Leighton",
+            " Iman Benson",
+            " Kerri Medders"
+        ],
+        "tha": [
+            "Paris Berelc",
+            " Isabel May",
+            " Jolie Jenkins",
+            " Emery Kelly",
+            " Eddie Shin",
+            " Finn Carr",
+            " Tiffani Thiessen",
+            " Merit Leighton",
+            " Iman Benson",
+            " Kerri Medders"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Trevor Kirschner",
+            " Victor Gonzalez",
+            " Kelly Park",
+            " Jody Margolin Hahn",
+            " Andy Cadiff",
+            " Jeff Melman",
+            " Katy Garretson",
+            " Phill Lewis",
+            " Erika Kaestle",
+            " Gloria Calder\u00f3n Kellett"
+        ],
+        "may": [
+            "Trevor Kirschner",
+            " Victor Gonzalez",
+            " Kelly Park",
+            " Jody Margolin Hahn",
+            " Andy Cadiff",
+            " Jeff Melman",
+            " Katy Garretson",
+            " Phill Lewis",
+            " Erika Kaestle",
+            " Gloria Calder\u00f3n Kellett"
+        ],
+        "chi": [
+            "Trevor Kirschner",
+            " Victor Gonzalez",
+            " Kelly Park",
+            " Jody Margolin Hahn",
+            " Andy Cadiff",
+            " Jeff Melman",
+            " Katy Garretson",
+            " Phill Lewis",
+            " Erika Kaestle",
+            " Gloria Calder\u00f3n Kellett"
+        ],
+        "tam": [
+            "Trevor Kirschner",
+            " Victor Gonzalez",
+            " Kelly Park",
+            " Jody Margolin Hahn",
+            " Andy Cadiff",
+            " Jeff Melman",
+            " Katy Garretson",
+            " Phill Lewis",
+            " Erika Kaestle",
+            " Gloria Calder\u00f3n Kellett"
+        ],
+        "ind": [
+            "Trevor Kirschner",
+            " Victor Gonzalez",
+            " Kelly Park",
+            " Jody Margolin Hahn",
+            " Andy Cadiff",
+            " Jeff Melman",
+            " Katy Garretson",
+            " Phill Lewis",
+            " Erika Kaestle",
+            " Gloria Calder\u00f3n Kellett"
+        ],
+        "tha": [
+            "Trevor Kirschner",
+            " Victor Gonzalez",
+            " Kelly Park",
+            " Jody Margolin Hahn",
+            " Andy Cadiff",
+            " Jeff Melman",
+            " Katy Garretson",
+            " Phill Lewis",
+            " Erika Kaestle",
+            " Gloria Calder\u00f3n Kellett"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Nancy Cohen",
+            " Heather Wordham",
+            " Max Burnett",
+            " Eric Horsted",
+            " Ray Lancon",
+            " Lucas Brown Eyes",
+            " Leo Chu",
+            " Eric Garcia",
+            " Laura Gibson",
+            " Grant Levy"
+        ],
+        "may": [
+            "Nancy Cohen",
+            " Heather Wordham",
+            " Max Burnett",
+            " Eric Horsted",
+            " Ray Lancon",
+            " Lucas Brown Eyes",
+            " Leo Chu",
+            " Eric Garcia",
+            " Laura Gibson",
+            " Grant Levy"
+        ],
+        "chi": [
+            "Nancy Cohen",
+            " Heather Wordham",
+            " Max Burnett",
+            " Eric Horsted",
+            " Ray Lancon",
+            " Lucas Brown Eyes",
+            " Leo Chu",
+            " Eric Garcia",
+            " Laura Gibson",
+            " Grant Levy"
+        ],
+        "tam": [
+            "Nancy Cohen",
+            " Heather Wordham",
+            " Max Burnett",
+            " Eric Horsted",
+            " Ray Lancon",
+            " Lucas Brown Eyes",
+            " Leo Chu",
+            " Eric Garcia",
+            " Laura Gibson",
+            " Grant Levy"
+        ],
+        "ind": [
+            "Nancy Cohen",
+            " Heather Wordham",
+            " Max Burnett",
+            " Eric Horsted",
+            " Ray Lancon",
+            " Lucas Brown Eyes",
+            " Leo Chu",
+            " Eric Garcia",
+            " Laura Gibson",
+            " Grant Levy"
+        ],
+        "tha": [
+            "Nancy Cohen",
+            " Heather Wordham",
+            " Max Burnett",
+            " Eric Horsted",
+            " Ray Lancon",
+            " Lucas Brown Eyes",
+            " Leo Chu",
+            " Eric Garcia",
+            " Laura Gibson",
+            " Grant Levy"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_21721135-be03-5c5a-a10c-d2407337ca01",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Alexa & Katie Season 1",
+            "may": "Alexa & Katie Season 1",
+            "chi": "Alexa & Katie Season 1",
+            "tam": "Alexa & Katie Season 1",
+            "ind": "Alexa & Katie Season 1",
+            "tha": "Alexa & Katie Season 1"
+        },
+        "long": {
+            "eng": "Alexa & Katie Season 1",
+            "may": "Alexa & Katie Season 1",
+            "chi": "Alexa & Katie Season 1",
+            "tam": "Alexa & Katie Season 1",
+            "ind": "Alexa & Katie Season 1",
+            "tha": "Alexa & Katie Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "may": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "chi": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "tam": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "ind": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "tha": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most."
+        },
+        "long": {
+            "eng": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "may": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "chi": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "tam": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "ind": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "tha": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Alexa&KatieSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Alexa&KatieSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Alexa&KatieSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

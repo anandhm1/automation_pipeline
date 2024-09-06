@@ -1,0 +1,377 @@
+{
+    "externalId": "AggregatedSeason_6b4f465d-2d26-59c7-9175-11db021b0d8b",
+    "clientContentId": "PACK0000000008749780",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "chi": "Crime",
+                    "tam": "Crime",
+                    "ind": "Crime",
+                    "tha": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2011,
+    "rating": "18",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Ashley Walters",
+            " Kano",
+            " Micheal Ward",
+            " Jasmine Jobson",
+            " Little Simz",
+            " Shone Romulus",
+            " Kadeem Ramsay",
+            " Araloyin Oshunremi",
+            " Dudley O'Shaughnessy",
+            " Joshua Blisset"
+        ],
+        "may": [
+            "Ashley Walters",
+            " Kano",
+            " Micheal Ward",
+            " Jasmine Jobson",
+            " Little Simz",
+            " Shone Romulus",
+            " Kadeem Ramsay",
+            " Araloyin Oshunremi",
+            " Dudley O'Shaughnessy",
+            " Joshua Blisset"
+        ],
+        "chi": [
+            "Ashley Walters",
+            " Kano",
+            " Micheal Ward",
+            " Jasmine Jobson",
+            " Little Simz",
+            " Shone Romulus",
+            " Kadeem Ramsay",
+            " Araloyin Oshunremi",
+            " Dudley O'Shaughnessy",
+            " Joshua Blisset"
+        ],
+        "tam": [
+            "Ashley Walters",
+            " Kano",
+            " Micheal Ward",
+            " Jasmine Jobson",
+            " Little Simz",
+            " Shone Romulus",
+            " Kadeem Ramsay",
+            " Araloyin Oshunremi",
+            " Dudley O'Shaughnessy",
+            " Joshua Blisset"
+        ],
+        "ind": [
+            "Ashley Walters",
+            " Kano",
+            " Micheal Ward",
+            " Jasmine Jobson",
+            " Little Simz",
+            " Shone Romulus",
+            " Kadeem Ramsay",
+            " Araloyin Oshunremi",
+            " Dudley O'Shaughnessy",
+            " Joshua Blisset"
+        ],
+        "tha": [
+            "Ashley Walters",
+            " Kano",
+            " Micheal Ward",
+            " Jasmine Jobson",
+            " Little Simz",
+            " Shone Romulus",
+            " Kadeem Ramsay",
+            " Araloyin Oshunremi",
+            " Dudley O'Shaughnessy",
+            " Joshua Blisset"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Yann Demange",
+            " Jonathan van Tulleken",
+            " Brady Hood",
+            " Reinaldo Marcus Green",
+            " Aneil Karia",
+            " Nia DaCosta",
+            " Koby Adom",
+            " William Stefan Smith",
+            " Myriam Raja",
+            " "
+        ],
+        "may": [
+            "Yann Demange",
+            " Jonathan van Tulleken",
+            " Brady Hood",
+            " Reinaldo Marcus Green",
+            " Aneil Karia",
+            " Nia DaCosta",
+            " Koby Adom",
+            " William Stefan Smith",
+            " Myriam Raja",
+            " "
+        ],
+        "chi": [
+            "Yann Demange",
+            " Jonathan van Tulleken",
+            " Brady Hood",
+            " Reinaldo Marcus Green",
+            " Aneil Karia",
+            " Nia DaCosta",
+            " Koby Adom",
+            " William Stefan Smith",
+            " Myriam Raja",
+            " "
+        ],
+        "tam": [
+            "Yann Demange",
+            " Jonathan van Tulleken",
+            " Brady Hood",
+            " Reinaldo Marcus Green",
+            " Aneil Karia",
+            " Nia DaCosta",
+            " Koby Adom",
+            " William Stefan Smith",
+            " Myriam Raja",
+            " "
+        ],
+        "ind": [
+            "Yann Demange",
+            " Jonathan van Tulleken",
+            " Brady Hood",
+            " Reinaldo Marcus Green",
+            " Aneil Karia",
+            " Nia DaCosta",
+            " Koby Adom",
+            " William Stefan Smith",
+            " Myriam Raja",
+            " "
+        ],
+        "tha": [
+            "Yann Demange",
+            " Jonathan van Tulleken",
+            " Brady Hood",
+            " Reinaldo Marcus Green",
+            " Aneil Karia",
+            " Nia DaCosta",
+            " Koby Adom",
+            " William Stefan Smith",
+            " Myriam Raja",
+            " "
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ronan Bennett",
+            " Charles Collier",
+            " Alasdair Flind",
+            " Charles Steel",
+            " Yann Demange",
+            " Maverick Carter",
+            " Drake",
+            " Jamal Henderson",
+            " Adel Nur",
+            " Tina Pawlik"
+        ],
+        "may": [
+            "Ronan Bennett",
+            " Charles Collier",
+            " Alasdair Flind",
+            " Charles Steel",
+            " Yann Demange",
+            " Maverick Carter",
+            " Drake",
+            " Jamal Henderson",
+            " Adel Nur",
+            " Tina Pawlik"
+        ],
+        "chi": [
+            "Ronan Bennett",
+            " Charles Collier",
+            " Alasdair Flind",
+            " Charles Steel",
+            " Yann Demange",
+            " Maverick Carter",
+            " Drake",
+            " Jamal Henderson",
+            " Adel Nur",
+            " Tina Pawlik"
+        ],
+        "tam": [
+            "Ronan Bennett",
+            " Charles Collier",
+            " Alasdair Flind",
+            " Charles Steel",
+            " Yann Demange",
+            " Maverick Carter",
+            " Drake",
+            " Jamal Henderson",
+            " Adel Nur",
+            " Tina Pawlik"
+        ],
+        "ind": [
+            "Ronan Bennett",
+            " Charles Collier",
+            " Alasdair Flind",
+            " Charles Steel",
+            " Yann Demange",
+            " Maverick Carter",
+            " Drake",
+            " Jamal Henderson",
+            " Adel Nur",
+            " Tina Pawlik"
+        ],
+        "tha": [
+            "Ronan Bennett",
+            " Charles Collier",
+            " Alasdair Flind",
+            " Charles Steel",
+            " Yann Demange",
+            " Maverick Carter",
+            " Drake",
+            " Jamal Henderson",
+            " Adel Nur",
+            " Tina Pawlik"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_ea39fc45-8b60-58ba-8b2a-f3ba631cdf04",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "TOP BOY Season 1",
+            "may": "TOP BOY Season 1",
+            "chi": "TOP BOY Season 1",
+            "tam": "TOP BOY Season 1",
+            "ind": "TOP BOY Season 1",
+            "tha": "TOP BOY Season 1"
+        },
+        "long": {
+            "eng": "TOP BOY Season 1",
+            "may": "TOP BOY Season 1",
+            "chi": "TOP BOY Season 1",
+            "tam": "TOP BOY Season 1",
+            "ind": "TOP BOY Season 1",
+            "tha": "TOP BOY Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Two London drug dealers ply their lucrative trade at a public housing estate in East London.",
+            "may": "Two London drug dealers ply their lucrative trade at a public housing estate in East London.",
+            "chi": "Two London drug dealers ply their lucrative trade at a public housing estate in East London.",
+            "tam": "Two London drug dealers ply their lucrative trade at a public housing estate in East London.",
+            "ind": "Two London drug dealers ply their lucrative trade at a public housing estate in East London.",
+            "tha": "Two London drug dealers ply their lucrative trade at a public housing estate in East London."
+        },
+        "long": {
+            "eng": "Two London drug dealers ply their lucrative trade at a public housing estate in East London.",
+            "may": "Two London drug dealers ply their lucrative trade at a public housing estate in East London.",
+            "chi": "Two London drug dealers ply their lucrative trade at a public housing estate in East London.",
+            "tam": "Two London drug dealers ply their lucrative trade at a public housing estate in East London.",
+            "ind": "Two London drug dealers ply their lucrative trade at a public housing estate in East London.",
+            "tha": "Two London drug dealers ply their lucrative trade at a public housing estate in East London."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TOPBOYSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TOPBOYSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TOPBOYSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

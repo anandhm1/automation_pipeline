@@ -1,0 +1,319 @@
+{
+    "externalId": "AggregatedTvShow_b2c58f39-c2e9-5f94-bed7-d747eb23e5b7",
+    "clientContentId": "PACK0000000009047808",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Dublin Murders - Trailer",
+            "may": "Dublin Murders - Trailer",
+            "tam": "Dublin Murders - Trailer",
+            "chi": "Dublin Murders - Trailer",
+            "tha": "Dublin Murders - Trailer",
+            "ind": "Dublin Murders - Trailer"
+        },
+        "long": {
+            "eng": "Dublin Murders - Trailer",
+            "may": "Dublin Murders - Trailer",
+            "tam": "Dublin Murders - Trailer",
+            "chi": "Dublin Murders - Trailer",
+            "tha": "Dublin Murders - Trailer",
+            "ind": "Dublin Murders - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "may": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "tam": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "chi": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "tha": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "ind": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives."
+        },
+        "long": {
+            "eng": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "may": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "tam": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "chi": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "tha": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives.",
+            "ind": "In the Dublin Murder Squad, Garda detectives Rob Reilly and Cassie Maddox investigate murder cases that tap into Ireland's past and also touch on their own personal lives."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Sarah Greene",
+            " Killian Scott",
+            " Michael D'Arcy"
+        ],
+        "may": [
+            "Sarah Greene",
+            " Killian Scott",
+            " Michael D'Arcy"
+        ],
+        "tam": [
+            "Sarah Greene",
+            " Killian Scott",
+            " Michael D'Arcy"
+        ],
+        "chi": [
+            "Sarah Greene",
+            " Killian Scott",
+            " Michael D'Arcy"
+        ],
+        "tha": [
+            "Sarah Greene",
+            " Killian Scott",
+            " Michael D'Arcy"
+        ],
+        "ind": [
+            "Sarah Greene",
+            " Killian Scott",
+            " Michael D'Arcy"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "John Hayes",
+            " Saul Dibb",
+            " Rebecca Gatward"
+        ],
+        "may": [
+            "John Hayes",
+            " Saul Dibb",
+            " Rebecca Gatward"
+        ],
+        "tam": [
+            "John Hayes",
+            " Saul Dibb",
+            " Rebecca Gatward"
+        ],
+        "chi": [
+            "John Hayes",
+            " Saul Dibb",
+            " Rebecca Gatward"
+        ],
+        "tha": [
+            "John Hayes",
+            " Saul Dibb",
+            " Rebecca Gatward"
+        ],
+        "ind": [
+            "John Hayes",
+            " Saul Dibb",
+            " Rebecca Gatward"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Tommy Bulfin",
+            " Saul Dibb",
+            " Alan Gasmer",
+            " Ed Guiney",
+            " Kate Harwood",
+            " Peter Jaysen",
+            " Elizabeth Kilgarriff",
+            " Carmel Maloney",
+            " Katrina McBriarty",
+            " Sarah Phelps",
+            " Noemi Spanos"
+        ],
+        "may": [
+            "Tommy Bulfin",
+            " Saul Dibb",
+            " Alan Gasmer",
+            " Ed Guiney",
+            " Kate Harwood",
+            " Peter Jaysen",
+            " Elizabeth Kilgarriff",
+            " Carmel Maloney",
+            " Katrina McBriarty",
+            " Sarah Phelps",
+            " Noemi Spanos"
+        ],
+        "tam": [
+            "Tommy Bulfin",
+            " Saul Dibb",
+            " Alan Gasmer",
+            " Ed Guiney",
+            " Kate Harwood",
+            " Peter Jaysen",
+            " Elizabeth Kilgarriff",
+            " Carmel Maloney",
+            " Katrina McBriarty",
+            " Sarah Phelps",
+            " Noemi Spanos"
+        ],
+        "chi": [
+            "Tommy Bulfin",
+            " Saul Dibb",
+            " Alan Gasmer",
+            " Ed Guiney",
+            " Kate Harwood",
+            " Peter Jaysen",
+            " Elizabeth Kilgarriff",
+            " Carmel Maloney",
+            " Katrina McBriarty",
+            " Sarah Phelps",
+            " Noemi Spanos"
+        ],
+        "tha": [
+            "Tommy Bulfin",
+            " Saul Dibb",
+            " Alan Gasmer",
+            " Ed Guiney",
+            " Kate Harwood",
+            " Peter Jaysen",
+            " Elizabeth Kilgarriff",
+            " Carmel Maloney",
+            " Katrina McBriarty",
+            " Sarah Phelps",
+            " Noemi Spanos"
+        ],
+        "ind": [
+            "Tommy Bulfin",
+            " Saul Dibb",
+            " Alan Gasmer",
+            " Ed Guiney",
+            " Kate Harwood",
+            " Peter Jaysen",
+            " Elizabeth Kilgarriff",
+            " Carmel Maloney",
+            " Katrina McBriarty",
+            " Sarah Phelps",
+            " Noemi Spanos"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DublinMurdersSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DublinMurdersSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DublinMurdersSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_6a2d9733-c75f-5e39-a060-4881e3736e6b",
+    "seasonId": "AggregatedSeason_322cf2a1-cc8f-534e-802f-2cbda64ded18",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2019,
+    "rating": "15",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

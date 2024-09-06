@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_4f672e38-f3c8-5ba2-8b6e-f33a16bdfeb4",
+    "clientContentId": "PACK0000000003626249",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Plane",
+            "may": "Plane",
+            "tam": "Plane",
+            "chi": "Plane",
+            "tha": "Plane",
+            "ind": "Plane"
+        },
+        "long": {
+            "eng": "Plane",
+            "may": "Plane",
+            "tam": "Plane",
+            "chi": "Plane",
+            "tha": "Plane",
+            "ind": "Plane"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A pilot finds himself caught in a war zone after he's forced to land his commercial aircraft during a terrible storm.",
+            "may": "A pilot finds himself caught in a war zone after he's forced to land his commercial aircraft during a terrible storm.",
+            "tam": "A pilot finds himself caught in a war zone after he's forced to land his commercial aircraft during a terrible storm.",
+            "chi": "A pilot finds himself caught in a war zone after he's forced to land his commercial aircraft during a terrible storm.",
+            "tha": "A pilot finds himself caught in a war zone after he's forced to land his commercial aircraft during a terrible storm.",
+            "ind": "A pilot finds himself caught in a war zone after he's forced to land his commercial aircraft during a terrible storm."
+        },
+        "long": {
+            "eng": "A pilot finds himself caught in a war zone after he's forced to land his commercial aircraft during a terrible storm.",
+            "may": "A pilot finds himself caught in a war zone after he's forced to land his commercial aircraft during a terrible storm.",
+            "tam": "A pilot finds himself caught in a war zone after he's forced to land his commercial aircraft during a terrible storm.",
+            "chi": "A pilot finds himself caught in a war zone after he's forced to land his commercial aircraft during a terrible storm.",
+            "tha": "A pilot finds himself caught in a war zone after he's forced to land his commercial aircraft during a terrible storm.",
+            "ind": "A pilot finds himself caught in a war zone after he's forced to land his commercial aircraft during a terrible storm."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Gerard Butler",
+            " Mike Colter",
+            " Tony Goldwyn",
+            " Yoson An",
+            " Evan Dane Taylor",
+            " Paul Ben-Victor",
+            " Daniella Pineda",
+            " Lilly Krug",
+            " Kelly Gale",
+            " Otis Winston"
+        ],
+        "may": [
+            "Gerard Butler",
+            " Mike Colter",
+            " Tony Goldwyn",
+            " Yoson An",
+            " Evan Dane Taylor",
+            " Paul Ben-Victor",
+            " Daniella Pineda",
+            " Lilly Krug",
+            " Kelly Gale",
+            " Otis Winston"
+        ],
+        "tam": [
+            "Gerard Butler",
+            " Mike Colter",
+            " Tony Goldwyn",
+            " Yoson An",
+            " Evan Dane Taylor",
+            " Paul Ben-Victor",
+            " Daniella Pineda",
+            " Lilly Krug",
+            " Kelly Gale",
+            " Otis Winston"
+        ],
+        "chi": [
+            "Gerard Butler",
+            " Mike Colter",
+            " Tony Goldwyn",
+            " Yoson An",
+            " Evan Dane Taylor",
+            " Paul Ben-Victor",
+            " Daniella Pineda",
+            " Lilly Krug",
+            " Kelly Gale",
+            " Otis Winston"
+        ],
+        "tha": [
+            "Gerard Butler",
+            " Mike Colter",
+            " Tony Goldwyn",
+            " Yoson An",
+            " Evan Dane Taylor",
+            " Paul Ben-Victor",
+            " Daniella Pineda",
+            " Lilly Krug",
+            " Kelly Gale",
+            " Otis Winston"
+        ],
+        "ind": [
+            "Gerard Butler",
+            " Mike Colter",
+            " Tony Goldwyn",
+            " Yoson An",
+            " Evan Dane Taylor",
+            " Paul Ben-Victor",
+            " Daniella Pineda",
+            " Lilly Krug",
+            " Kelly Gale",
+            " Otis Winston"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jean-Fran\u00e7ois Richet"
+        ],
+        "may": [
+            "Jean-Fran\u00e7ois Richet"
+        ],
+        "tam": [
+            "Jean-Fran\u00e7ois Richet"
+        ],
+        "chi": [
+            "Jean-Fran\u00e7ois Richet"
+        ],
+        "tha": [
+            "Jean-Fran\u00e7ois Richet"
+        ],
+        "ind": [
+            "Jean-Fran\u00e7ois Richet"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Emma Ago",
+            " Nik Bower",
+            " Alastair Burlingham",
+            " Marc Butan",
+            " Gerard Butler",
+            " Michael Cho",
+            " J.P. Davis",
+            " Vicki Dee Rock",
+            " Lorenzo di Bonaventura",
+            " Mathew Dunne"
+        ],
+        "may": [
+            "Emma Ago",
+            " Nik Bower",
+            " Alastair Burlingham",
+            " Marc Butan",
+            " Gerard Butler",
+            " Michael Cho",
+            " J.P. Davis",
+            " Vicki Dee Rock",
+            " Lorenzo di Bonaventura",
+            " Mathew Dunne"
+        ],
+        "tam": [
+            "Emma Ago",
+            " Nik Bower",
+            " Alastair Burlingham",
+            " Marc Butan",
+            " Gerard Butler",
+            " Michael Cho",
+            " J.P. Davis",
+            " Vicki Dee Rock",
+            " Lorenzo di Bonaventura",
+            " Mathew Dunne"
+        ],
+        "chi": [
+            "Emma Ago",
+            " Nik Bower",
+            " Alastair Burlingham",
+            " Marc Butan",
+            " Gerard Butler",
+            " Michael Cho",
+            " J.P. Davis",
+            " Vicki Dee Rock",
+            " Lorenzo di Bonaventura",
+            " Mathew Dunne"
+        ],
+        "tha": [
+            "Emma Ago",
+            " Nik Bower",
+            " Alastair Burlingham",
+            " Marc Butan",
+            " Gerard Butler",
+            " Michael Cho",
+            " J.P. Davis",
+            " Vicki Dee Rock",
+            " Lorenzo di Bonaventura",
+            " Mathew Dunne"
+        ],
+        "ind": [
+            "Emma Ago",
+            " Nik Bower",
+            " Alastair Burlingham",
+            " Marc Butan",
+            " Gerard Butler",
+            " Michael Cho",
+            " J.P. Davis",
+            " Vicki Dee Rock",
+            " Lorenzo di Bonaventura",
+            " Mathew Dunne"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Plane_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Plane_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Plane_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2023,
+    "rating": "6.5",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

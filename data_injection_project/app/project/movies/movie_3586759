@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_67841450-1113-5a2d-b3fe-5a7b0cc132c7",
+    "clientContentId": "PACK0000000001167701",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "MARLOWE",
+            "may": "MARLOWE",
+            "tam": "MARLOWE",
+            "chi": "MARLOWE",
+            "tha": "MARLOWE",
+            "ind": "MARLOWE"
+        },
+        "long": {
+            "eng": "MARLOWE",
+            "may": "MARLOWE",
+            "tam": "MARLOWE",
+            "chi": "MARLOWE",
+            "tha": "MARLOWE",
+            "ind": "MARLOWE"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "In late 1930s Bay City, a brooding, down on his luck detective is hired to find the ex-lover of a glamorous heiress.",
+            "may": "In late 1930s Bay City, a brooding, down on his luck detective is hired to find the ex-lover of a glamorous heiress.",
+            "tam": "In late 1930s Bay City, a brooding, down on his luck detective is hired to find the ex-lover of a glamorous heiress.",
+            "chi": "In late 1930s Bay City, a brooding, down on his luck detective is hired to find the ex-lover of a glamorous heiress.",
+            "tha": "In late 1930s Bay City, a brooding, down on his luck detective is hired to find the ex-lover of a glamorous heiress.",
+            "ind": "In late 1930s Bay City, a brooding, down on his luck detective is hired to find the ex-lover of a glamorous heiress."
+        },
+        "long": {
+            "eng": "In late 1930s Bay City, a brooding, down on his luck detective is hired to find the ex-lover of a glamorous heiress.",
+            "may": "In late 1930s Bay City, a brooding, down on his luck detective is hired to find the ex-lover of a glamorous heiress.",
+            "tam": "In late 1930s Bay City, a brooding, down on his luck detective is hired to find the ex-lover of a glamorous heiress.",
+            "chi": "In late 1930s Bay City, a brooding, down on his luck detective is hired to find the ex-lover of a glamorous heiress.",
+            "tha": "In late 1930s Bay City, a brooding, down on his luck detective is hired to find the ex-lover of a glamorous heiress.",
+            "ind": "In late 1930s Bay City, a brooding, down on his luck detective is hired to find the ex-lover of a glamorous heiress."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Liam Neeson",
+            " Brenda Rawn",
+            " Alan Moloney",
+            " Diane Kruger",
+            " Stella Stocker",
+            " Fran\u00e7ois Arnaud",
+            " Darrell D'Silva",
+            " Ian Hart",
+            " Kim DeLonghi",
+            " Stephan Wiks"
+        ],
+        "may": [
+            "Liam Neeson",
+            " Brenda Rawn",
+            " Alan Moloney",
+            " Diane Kruger",
+            " Stella Stocker",
+            " Fran\u00e7ois Arnaud",
+            " Darrell D'Silva",
+            " Ian Hart",
+            " Kim DeLonghi",
+            " Stephan Wiks"
+        ],
+        "tam": [
+            "Liam Neeson",
+            " Brenda Rawn",
+            " Alan Moloney",
+            " Diane Kruger",
+            " Stella Stocker",
+            " Fran\u00e7ois Arnaud",
+            " Darrell D'Silva",
+            " Ian Hart",
+            " Kim DeLonghi",
+            " Stephan Wiks"
+        ],
+        "chi": [
+            "Liam Neeson",
+            " Brenda Rawn",
+            " Alan Moloney",
+            " Diane Kruger",
+            " Stella Stocker",
+            " Fran\u00e7ois Arnaud",
+            " Darrell D'Silva",
+            " Ian Hart",
+            " Kim DeLonghi",
+            " Stephan Wiks"
+        ],
+        "tha": [
+            "Liam Neeson",
+            " Brenda Rawn",
+            " Alan Moloney",
+            " Diane Kruger",
+            " Stella Stocker",
+            " Fran\u00e7ois Arnaud",
+            " Darrell D'Silva",
+            " Ian Hart",
+            " Kim DeLonghi",
+            " Stephan Wiks"
+        ],
+        "ind": [
+            "Liam Neeson",
+            " Brenda Rawn",
+            " Alan Moloney",
+            " Diane Kruger",
+            " Stella Stocker",
+            " Fran\u00e7ois Arnaud",
+            " Darrell D'Silva",
+            " Ian Hart",
+            " Kim DeLonghi",
+            " Stephan Wiks"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Neil Jordan"
+        ],
+        "may": [
+            "Neil Jordan"
+        ],
+        "tam": [
+            "Neil Jordan"
+        ],
+        "chi": [
+            "Neil Jordan"
+        ],
+        "tha": [
+            "Neil Jordan"
+        ],
+        "ind": [
+            "Neil Jordan"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Colette Aguilar",
+            " Mary Aloe",
+            " James T. Bruce IV",
+            " A.J. Buckley",
+            " Alberto Burgue\u00f1o",
+            " Sameer Chopra",
+            " Elisabeth Costa de Beauregard",
+            " James Di Giacomo",
+            " Fahar Faizaan",
+            " Mark Fasano"
+        ],
+        "may": [
+            "Colette Aguilar",
+            " Mary Aloe",
+            " James T. Bruce IV",
+            " A.J. Buckley",
+            " Alberto Burgue\u00f1o",
+            " Sameer Chopra",
+            " Elisabeth Costa de Beauregard",
+            " James Di Giacomo",
+            " Fahar Faizaan",
+            " Mark Fasano"
+        ],
+        "tam": [
+            "Colette Aguilar",
+            " Mary Aloe",
+            " James T. Bruce IV",
+            " A.J. Buckley",
+            " Alberto Burgue\u00f1o",
+            " Sameer Chopra",
+            " Elisabeth Costa de Beauregard",
+            " James Di Giacomo",
+            " Fahar Faizaan",
+            " Mark Fasano"
+        ],
+        "chi": [
+            "Colette Aguilar",
+            " Mary Aloe",
+            " James T. Bruce IV",
+            " A.J. Buckley",
+            " Alberto Burgue\u00f1o",
+            " Sameer Chopra",
+            " Elisabeth Costa de Beauregard",
+            " James Di Giacomo",
+            " Fahar Faizaan",
+            " Mark Fasano"
+        ],
+        "tha": [
+            "Colette Aguilar",
+            " Mary Aloe",
+            " James T. Bruce IV",
+            " A.J. Buckley",
+            " Alberto Burgue\u00f1o",
+            " Sameer Chopra",
+            " Elisabeth Costa de Beauregard",
+            " James Di Giacomo",
+            " Fahar Faizaan",
+            " Mark Fasano"
+        ],
+        "ind": [
+            "Colette Aguilar",
+            " Mary Aloe",
+            " James T. Bruce IV",
+            " A.J. Buckley",
+            " Alberto Burgue\u00f1o",
+            " Sameer Chopra",
+            " Elisabeth Costa de Beauregard",
+            " James Di Giacomo",
+            " Fahar Faizaan",
+            " Mark Fasano"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Mystery",
+                    "may": " Mystery",
+                    "tam": " Mystery",
+                    "chi": " Mystery",
+                    "tha": " Mystery",
+                    "ind": " Mystery"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/MARLOWE_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/MARLOWE_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/MARLOWE_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "5.4",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_089f1331-f213-5495-9bcc-ac6aaa5bc3c1",
+    "clientContentId": "PACK0000000002123159",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Living",
+            "may": "Living",
+            "tam": "Living",
+            "chi": "Living",
+            "tha": "Living",
+            "ind": "Living"
+        },
+        "long": {
+            "eng": "Living",
+            "may": "Living",
+            "tam": "Living",
+            "chi": "Living",
+            "tha": "Living",
+            "ind": "Living"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "In 1950s London, a humorless civil servant decides to take time off work to experience life after receiving a grim diagnosis.",
+            "may": "In 1950s London, a humorless civil servant decides to take time off work to experience life after receiving a grim diagnosis.",
+            "tam": "In 1950s London, a humorless civil servant decides to take time off work to experience life after receiving a grim diagnosis.",
+            "chi": "In 1950s London, a humorless civil servant decides to take time off work to experience life after receiving a grim diagnosis.",
+            "tha": "In 1950s London, a humorless civil servant decides to take time off work to experience life after receiving a grim diagnosis.",
+            "ind": "In 1950s London, a humorless civil servant decides to take time off work to experience life after receiving a grim diagnosis."
+        },
+        "long": {
+            "eng": "In 1950s London, a humorless civil servant decides to take time off work to experience life after receiving a grim diagnosis.",
+            "may": "In 1950s London, a humorless civil servant decides to take time off work to experience life after receiving a grim diagnosis.",
+            "tam": "In 1950s London, a humorless civil servant decides to take time off work to experience life after receiving a grim diagnosis.",
+            "chi": "In 1950s London, a humorless civil servant decides to take time off work to experience life after receiving a grim diagnosis.",
+            "tha": "In 1950s London, a humorless civil servant decides to take time off work to experience life after receiving a grim diagnosis.",
+            "ind": "In 1950s London, a humorless civil servant decides to take time off work to experience life after receiving a grim diagnosis."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Alex Sharp",
+            " Adrian Rawlins",
+            " Hubert Burton",
+            " Oliver Chris",
+            " Bill Nighy",
+            " Michael Cochrane",
+            " Anant Varman",
+            " Aimee Lou Wood",
+            " Zoe Boyle",
+            " Lia Williams"
+        ],
+        "may": [
+            "Alex Sharp",
+            " Adrian Rawlins",
+            " Hubert Burton",
+            " Oliver Chris",
+            " Bill Nighy",
+            " Michael Cochrane",
+            " Anant Varman",
+            " Aimee Lou Wood",
+            " Zoe Boyle",
+            " Lia Williams"
+        ],
+        "tam": [
+            "Alex Sharp",
+            " Adrian Rawlins",
+            " Hubert Burton",
+            " Oliver Chris",
+            " Bill Nighy",
+            " Michael Cochrane",
+            " Anant Varman",
+            " Aimee Lou Wood",
+            " Zoe Boyle",
+            " Lia Williams"
+        ],
+        "chi": [
+            "Alex Sharp",
+            " Adrian Rawlins",
+            " Hubert Burton",
+            " Oliver Chris",
+            " Bill Nighy",
+            " Michael Cochrane",
+            " Anant Varman",
+            " Aimee Lou Wood",
+            " Zoe Boyle",
+            " Lia Williams"
+        ],
+        "tha": [
+            "Alex Sharp",
+            " Adrian Rawlins",
+            " Hubert Burton",
+            " Oliver Chris",
+            " Bill Nighy",
+            " Michael Cochrane",
+            " Anant Varman",
+            " Aimee Lou Wood",
+            " Zoe Boyle",
+            " Lia Williams"
+        ],
+        "ind": [
+            "Alex Sharp",
+            " Adrian Rawlins",
+            " Hubert Burton",
+            " Oliver Chris",
+            " Bill Nighy",
+            " Michael Cochrane",
+            " Anant Varman",
+            " Aimee Lou Wood",
+            " Zoe Boyle",
+            " Lia Williams"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Oliver Hermanus"
+        ],
+        "may": [
+            "Oliver Hermanus"
+        ],
+        "tam": [
+            "Oliver Hermanus"
+        ],
+        "chi": [
+            "Oliver Hermanus"
+        ],
+        "tha": [
+            "Oliver Hermanus"
+        ],
+        "ind": [
+            "Oliver Hermanus"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Daniel Battsek",
+            " Emma Berkofsky",
+            " Kristina B\u00f6rjeson",
+            " Peter Hampden",
+            " Jane Hooks",
+            " Kazuo Ishiguro",
+            " Elizabeth Karlsen",
+            " Ko Kurosawa",
+            " Ollie Madden",
+            " Norman Merry"
+        ],
+        "may": [
+            "Daniel Battsek",
+            " Emma Berkofsky",
+            " Kristina B\u00f6rjeson",
+            " Peter Hampden",
+            " Jane Hooks",
+            " Kazuo Ishiguro",
+            " Elizabeth Karlsen",
+            " Ko Kurosawa",
+            " Ollie Madden",
+            " Norman Merry"
+        ],
+        "tam": [
+            "Daniel Battsek",
+            " Emma Berkofsky",
+            " Kristina B\u00f6rjeson",
+            " Peter Hampden",
+            " Jane Hooks",
+            " Kazuo Ishiguro",
+            " Elizabeth Karlsen",
+            " Ko Kurosawa",
+            " Ollie Madden",
+            " Norman Merry"
+        ],
+        "chi": [
+            "Daniel Battsek",
+            " Emma Berkofsky",
+            " Kristina B\u00f6rjeson",
+            " Peter Hampden",
+            " Jane Hooks",
+            " Kazuo Ishiguro",
+            " Elizabeth Karlsen",
+            " Ko Kurosawa",
+            " Ollie Madden",
+            " Norman Merry"
+        ],
+        "tha": [
+            "Daniel Battsek",
+            " Emma Berkofsky",
+            " Kristina B\u00f6rjeson",
+            " Peter Hampden",
+            " Jane Hooks",
+            " Kazuo Ishiguro",
+            " Elizabeth Karlsen",
+            " Ko Kurosawa",
+            " Ollie Madden",
+            " Norman Merry"
+        ],
+        "ind": [
+            "Daniel Battsek",
+            " Emma Berkofsky",
+            " Kristina B\u00f6rjeson",
+            " Peter Hampden",
+            " Jane Hooks",
+            " Kazuo Ishiguro",
+            " Elizabeth Karlsen",
+            " Ko Kurosawa",
+            " Ollie Madden",
+            " Norman Merry"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Living_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Living_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Living_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "7.3",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

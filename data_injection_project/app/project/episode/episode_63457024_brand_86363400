@@ -1,0 +1,361 @@
+{
+    "externalId": "AggregatedTvShow_da294c74-e212-5a37-911f-bf0e059197d4",
+    "clientContentId": "PACK0000000006412553",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Heartbreak High - Trailer",
+            "may": "Heartbreak High - Trailer",
+            "tam": "Heartbreak High - Trailer",
+            "chi": "Heartbreak High - Trailer",
+            "tha": "Heartbreak High - Trailer",
+            "ind": "Heartbreak High - Trailer"
+        },
+        "long": {
+            "eng": "Heartbreak High - Trailer",
+            "may": "Heartbreak High - Trailer",
+            "tam": "Heartbreak High - Trailer",
+            "chi": "Heartbreak High - Trailer",
+            "tha": "Heartbreak High - Trailer",
+            "ind": "Heartbreak High - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "may": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "tam": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "chi": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "tha": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "ind": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak."
+        },
+        "long": {
+            "eng": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "may": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "tam": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "chi": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "tha": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+            "ind": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Ayesha Madon",
+            " James Majoos",
+            " Chloe Hayden",
+            " Asher Yasbincek",
+            " Thomas Weatherall",
+            " Will McDonald",
+            " Josh Heuston",
+            " Gemma Chua-Tran",
+            " Bryn Chapman Parish",
+            " Sherry-Lee Watson"
+        ],
+        "may": [
+            "Ayesha Madon",
+            " James Majoos",
+            " Chloe Hayden",
+            " Asher Yasbincek",
+            " Thomas Weatherall",
+            " Will McDonald",
+            " Josh Heuston",
+            " Gemma Chua-Tran",
+            " Bryn Chapman Parish",
+            " Sherry-Lee Watson"
+        ],
+        "tam": [
+            "Ayesha Madon",
+            " James Majoos",
+            " Chloe Hayden",
+            " Asher Yasbincek",
+            " Thomas Weatherall",
+            " Will McDonald",
+            " Josh Heuston",
+            " Gemma Chua-Tran",
+            " Bryn Chapman Parish",
+            " Sherry-Lee Watson"
+        ],
+        "chi": [
+            "Ayesha Madon",
+            " James Majoos",
+            " Chloe Hayden",
+            " Asher Yasbincek",
+            " Thomas Weatherall",
+            " Will McDonald",
+            " Josh Heuston",
+            " Gemma Chua-Tran",
+            " Bryn Chapman Parish",
+            " Sherry-Lee Watson"
+        ],
+        "tha": [
+            "Ayesha Madon",
+            " James Majoos",
+            " Chloe Hayden",
+            " Asher Yasbincek",
+            " Thomas Weatherall",
+            " Will McDonald",
+            " Josh Heuston",
+            " Gemma Chua-Tran",
+            " Bryn Chapman Parish",
+            " Sherry-Lee Watson"
+        ],
+        "ind": [
+            "Ayesha Madon",
+            " James Majoos",
+            " Chloe Hayden",
+            " Asher Yasbincek",
+            " Thomas Weatherall",
+            " Will McDonald",
+            " Josh Heuston",
+            " Gemma Chua-Tran",
+            " Bryn Chapman Parish",
+            " Sherry-Lee Watson"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Gracie Otto",
+            " Adam Murfet",
+            " Jessie Oldfield",
+            " Neil Sharma"
+        ],
+        "may": [
+            "Gracie Otto",
+            " Adam Murfet",
+            " Jessie Oldfield",
+            " Neil Sharma"
+        ],
+        "tam": [
+            "Gracie Otto",
+            " Adam Murfet",
+            " Jessie Oldfield",
+            " Neil Sharma"
+        ],
+        "chi": [
+            "Gracie Otto",
+            " Adam Murfet",
+            " Jessie Oldfield",
+            " Neil Sharma"
+        ],
+        "tha": [
+            "Gracie Otto",
+            " Adam Murfet",
+            " Jessie Oldfield",
+            " Neil Sharma"
+        ],
+        "ind": [
+            "Gracie Otto",
+            " Adam Murfet",
+            " Jessie Oldfield",
+            " Neil Sharma"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Brian Abel",
+            " Anna Curtis",
+            " Sarah Freeman",
+            " Carly Heaton",
+            " Michael Jenkins",
+            " Jeroen Koopman",
+            " Chris Oliver-Taylor",
+            " Megan Palinkas",
+            " Anne Robinson",
+            " Tarik Traidia"
+        ],
+        "may": [
+            "Brian Abel",
+            " Anna Curtis",
+            " Sarah Freeman",
+            " Carly Heaton",
+            " Michael Jenkins",
+            " Jeroen Koopman",
+            " Chris Oliver-Taylor",
+            " Megan Palinkas",
+            " Anne Robinson",
+            " Tarik Traidia"
+        ],
+        "tam": [
+            "Brian Abel",
+            " Anna Curtis",
+            " Sarah Freeman",
+            " Carly Heaton",
+            " Michael Jenkins",
+            " Jeroen Koopman",
+            " Chris Oliver-Taylor",
+            " Megan Palinkas",
+            " Anne Robinson",
+            " Tarik Traidia"
+        ],
+        "chi": [
+            "Brian Abel",
+            " Anna Curtis",
+            " Sarah Freeman",
+            " Carly Heaton",
+            " Michael Jenkins",
+            " Jeroen Koopman",
+            " Chris Oliver-Taylor",
+            " Megan Palinkas",
+            " Anne Robinson",
+            " Tarik Traidia"
+        ],
+        "tha": [
+            "Brian Abel",
+            " Anna Curtis",
+            " Sarah Freeman",
+            " Carly Heaton",
+            " Michael Jenkins",
+            " Jeroen Koopman",
+            " Chris Oliver-Taylor",
+            " Megan Palinkas",
+            " Anne Robinson",
+            " Tarik Traidia"
+        ],
+        "ind": [
+            "Brian Abel",
+            " Anna Curtis",
+            " Sarah Freeman",
+            " Carly Heaton",
+            " Michael Jenkins",
+            " Jeroen Koopman",
+            " Chris Oliver-Taylor",
+            " Megan Palinkas",
+            " Anne Robinson",
+            " Tarik Traidia"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Romance",
+                    "may": " Romance",
+                    "tam": " Romance",
+                    "chi": " Romance",
+                    "tha": " Romance",
+                    "ind": " Romance"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HeartbreakHighSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HeartbreakHighSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HeartbreakHighSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_33ad9ba1-4869-5aaa-814f-782a183d5c3c",
+    "seasonId": "AggregatedSeason_27f39fc1-63de-5ec6-acb9-350dec55c942",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "18+",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

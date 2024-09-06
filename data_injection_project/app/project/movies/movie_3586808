@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_b76f7a5d-e216-5e22-8fa5-b948f77f8521",
+    "clientContentId": "PACK0000000004235777",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Angry Neighbors",
+            "may": "Angry Neighbors",
+            "tam": "Angry Neighbors",
+            "chi": "Angry Neighbors",
+            "tha": "Angry Neighbors",
+            "ind": "Angry Neighbors"
+        },
+        "long": {
+            "eng": "Angry Neighbors",
+            "may": "Angry Neighbors",
+            "tam": "Angry Neighbors",
+            "chi": "Angry Neighbors",
+            "tha": "Angry Neighbors",
+            "ind": "Angry Neighbors"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A grumpy novelist vows revenge when his wealthy neighbor builds a hideous mega-mansion next door.",
+            "may": "A grumpy novelist vows revenge when his wealthy neighbor builds a hideous mega-mansion next door.",
+            "tam": "A grumpy novelist vows revenge when his wealthy neighbor builds a hideous mega-mansion next door.",
+            "chi": "A grumpy novelist vows revenge when his wealthy neighbor builds a hideous mega-mansion next door.",
+            "tha": "A grumpy novelist vows revenge when his wealthy neighbor builds a hideous mega-mansion next door.",
+            "ind": "A grumpy novelist vows revenge when his wealthy neighbor builds a hideous mega-mansion next door."
+        },
+        "long": {
+            "eng": "A grumpy novelist vows revenge when his wealthy neighbor builds a hideous mega-mansion next door.",
+            "may": "A grumpy novelist vows revenge when his wealthy neighbor builds a hideous mega-mansion next door.",
+            "tam": "A grumpy novelist vows revenge when his wealthy neighbor builds a hideous mega-mansion next door.",
+            "chi": "A grumpy novelist vows revenge when his wealthy neighbor builds a hideous mega-mansion next door.",
+            "tha": "A grumpy novelist vows revenge when his wealthy neighbor builds a hideous mega-mansion next door.",
+            "ind": "A grumpy novelist vows revenge when his wealthy neighbor builds a hideous mega-mansion next door."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Bobby Cannavale",
+            " Ashley Benson",
+            " Stockard Channing",
+            " Frank Langella",
+            " Katie Parker",
+            " Cheech Marin",
+            " Jared Gilman",
+            " Deborah Tucker",
+            " April McCullough",
+            " Stelio Savante"
+        ],
+        "may": [
+            "Bobby Cannavale",
+            " Ashley Benson",
+            " Stockard Channing",
+            " Frank Langella",
+            " Katie Parker",
+            " Cheech Marin",
+            " Jared Gilman",
+            " Deborah Tucker",
+            " April McCullough",
+            " Stelio Savante"
+        ],
+        "tam": [
+            "Bobby Cannavale",
+            " Ashley Benson",
+            " Stockard Channing",
+            " Frank Langella",
+            " Katie Parker",
+            " Cheech Marin",
+            " Jared Gilman",
+            " Deborah Tucker",
+            " April McCullough",
+            " Stelio Savante"
+        ],
+        "chi": [
+            "Bobby Cannavale",
+            " Ashley Benson",
+            " Stockard Channing",
+            " Frank Langella",
+            " Katie Parker",
+            " Cheech Marin",
+            " Jared Gilman",
+            " Deborah Tucker",
+            " April McCullough",
+            " Stelio Savante"
+        ],
+        "tha": [
+            "Bobby Cannavale",
+            " Ashley Benson",
+            " Stockard Channing",
+            " Frank Langella",
+            " Katie Parker",
+            " Cheech Marin",
+            " Jared Gilman",
+            " Deborah Tucker",
+            " April McCullough",
+            " Stelio Savante"
+        ],
+        "ind": [
+            "Bobby Cannavale",
+            " Ashley Benson",
+            " Stockard Channing",
+            " Frank Langella",
+            " Katie Parker",
+            " Cheech Marin",
+            " Jared Gilman",
+            " Deborah Tucker",
+            " April McCullough",
+            " Stelio Savante"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Warren Brock"
+        ],
+        "may": [
+            "Warren Brock"
+        ],
+        "tam": [
+            "Warren Brock"
+        ],
+        "chi": [
+            "Warren Brock"
+        ],
+        "tha": [
+            "Warren Brock"
+        ],
+        "ind": [
+            "Warren Brock"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ruthie Austin",
+            " Warren Brock",
+            " Frank Langella",
+            " Kerry Orent",
+            " Stelio Savante",
+            " Mark A. Smith",
+            " Mike Sobiloff",
+            " Camille Torabpour",
+            " Hamid Torabpour",
+            " Patrick Werksma"
+        ],
+        "may": [
+            "Ruthie Austin",
+            " Warren Brock",
+            " Frank Langella",
+            " Kerry Orent",
+            " Stelio Savante",
+            " Mark A. Smith",
+            " Mike Sobiloff",
+            " Camille Torabpour",
+            " Hamid Torabpour",
+            " Patrick Werksma"
+        ],
+        "tam": [
+            "Ruthie Austin",
+            " Warren Brock",
+            " Frank Langella",
+            " Kerry Orent",
+            " Stelio Savante",
+            " Mark A. Smith",
+            " Mike Sobiloff",
+            " Camille Torabpour",
+            " Hamid Torabpour",
+            " Patrick Werksma"
+        ],
+        "chi": [
+            "Ruthie Austin",
+            " Warren Brock",
+            " Frank Langella",
+            " Kerry Orent",
+            " Stelio Savante",
+            " Mark A. Smith",
+            " Mike Sobiloff",
+            " Camille Torabpour",
+            " Hamid Torabpour",
+            " Patrick Werksma"
+        ],
+        "tha": [
+            "Ruthie Austin",
+            " Warren Brock",
+            " Frank Langella",
+            " Kerry Orent",
+            " Stelio Savante",
+            " Mark A. Smith",
+            " Mike Sobiloff",
+            " Camille Torabpour",
+            " Hamid Torabpour",
+            " Patrick Werksma"
+        ],
+        "ind": [
+            "Ruthie Austin",
+            " Warren Brock",
+            " Frank Langella",
+            " Kerry Orent",
+            " Stelio Savante",
+            " Mark A. Smith",
+            " Mike Sobiloff",
+            " Camille Torabpour",
+            " Hamid Torabpour",
+            " Patrick Werksma"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AngryNeighbors_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AngryNeighbors_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AngryNeighbors_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "6.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

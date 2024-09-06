@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_72ba67e5-4cbf-502d-9b2a-dc48daa4e14d",
+    "clientContentId": "PACK0000000001641733",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "SPIDER-MAN FAR FROM HOME",
+            "may": "SPIDER-MAN FAR FROM HOME",
+            "tam": "SPIDER-MAN FAR FROM HOME",
+            "chi": "SPIDER-MAN FAR FROM HOME",
+            "tha": "SPIDER-MAN FAR FROM HOME",
+            "ind": "SPIDER-MAN FAR FROM HOME"
+        },
+        "long": {
+            "eng": "SPIDER-MAN FAR FROM HOME",
+            "may": "SPIDER-MAN FAR FROM HOME",
+            "tam": "SPIDER-MAN FAR FROM HOME",
+            "chi": "SPIDER-MAN FAR FROM HOME",
+            "tha": "SPIDER-MAN FAR FROM HOME",
+            "ind": "SPIDER-MAN FAR FROM HOME"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+            "may": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+            "tam": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+            "chi": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+            "tha": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+            "ind": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever."
+        },
+        "long": {
+            "eng": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+            "may": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+            "tam": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+            "chi": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+            "tha": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+            "ind": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Tom Holland",
+            " Samuel L. Jackson",
+            " Jake Gyllenhaal",
+            " Marisa Tomei",
+            " Jon Favreau",
+            " Zendaya",
+            " Jacob Batalon",
+            " Tony Revolori",
+            " Angourie Rice",
+            " Remy Hii"
+        ],
+        "may": [
+            "Tom Holland",
+            " Samuel L. Jackson",
+            " Jake Gyllenhaal",
+            " Marisa Tomei",
+            " Jon Favreau",
+            " Zendaya",
+            " Jacob Batalon",
+            " Tony Revolori",
+            " Angourie Rice",
+            " Remy Hii"
+        ],
+        "tam": [
+            "Tom Holland",
+            " Samuel L. Jackson",
+            " Jake Gyllenhaal",
+            " Marisa Tomei",
+            " Jon Favreau",
+            " Zendaya",
+            " Jacob Batalon",
+            " Tony Revolori",
+            " Angourie Rice",
+            " Remy Hii"
+        ],
+        "chi": [
+            "Tom Holland",
+            " Samuel L. Jackson",
+            " Jake Gyllenhaal",
+            " Marisa Tomei",
+            " Jon Favreau",
+            " Zendaya",
+            " Jacob Batalon",
+            " Tony Revolori",
+            " Angourie Rice",
+            " Remy Hii"
+        ],
+        "tha": [
+            "Tom Holland",
+            " Samuel L. Jackson",
+            " Jake Gyllenhaal",
+            " Marisa Tomei",
+            " Jon Favreau",
+            " Zendaya",
+            " Jacob Batalon",
+            " Tony Revolori",
+            " Angourie Rice",
+            " Remy Hii"
+        ],
+        "ind": [
+            "Tom Holland",
+            " Samuel L. Jackson",
+            " Jake Gyllenhaal",
+            " Marisa Tomei",
+            " Jon Favreau",
+            " Zendaya",
+            " Jacob Batalon",
+            " Tony Revolori",
+            " Angourie Rice",
+            " Remy Hii"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jon Watts"
+        ],
+        "may": [
+            "Jon Watts"
+        ],
+        "tam": [
+            "Jon Watts"
+        ],
+        "chi": [
+            "Jon Watts"
+        ],
+        "tha": [
+            "Jon Watts"
+        ],
+        "ind": [
+            "Jon Watts"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Victoria Alonso",
+            " Avi Arad",
+            " Chris Buongiorno",
+            " Eric Hauserman Carroll",
+            " Louis D'Esposito",
+            " Kevin Feige",
+            " Thomas M. Hammel",
+            " Stan Lee",
+            " David Minkowski",
+            " Rachel O'Connor"
+        ],
+        "may": [
+            "Victoria Alonso",
+            " Avi Arad",
+            " Chris Buongiorno",
+            " Eric Hauserman Carroll",
+            " Louis D'Esposito",
+            " Kevin Feige",
+            " Thomas M. Hammel",
+            " Stan Lee",
+            " David Minkowski",
+            " Rachel O'Connor"
+        ],
+        "tam": [
+            "Victoria Alonso",
+            " Avi Arad",
+            " Chris Buongiorno",
+            " Eric Hauserman Carroll",
+            " Louis D'Esposito",
+            " Kevin Feige",
+            " Thomas M. Hammel",
+            " Stan Lee",
+            " David Minkowski",
+            " Rachel O'Connor"
+        ],
+        "chi": [
+            "Victoria Alonso",
+            " Avi Arad",
+            " Chris Buongiorno",
+            " Eric Hauserman Carroll",
+            " Louis D'Esposito",
+            " Kevin Feige",
+            " Thomas M. Hammel",
+            " Stan Lee",
+            " David Minkowski",
+            " Rachel O'Connor"
+        ],
+        "tha": [
+            "Victoria Alonso",
+            " Avi Arad",
+            " Chris Buongiorno",
+            " Eric Hauserman Carroll",
+            " Louis D'Esposito",
+            " Kevin Feige",
+            " Thomas M. Hammel",
+            " Stan Lee",
+            " David Minkowski",
+            " Rachel O'Connor"
+        ],
+        "ind": [
+            "Victoria Alonso",
+            " Avi Arad",
+            " Chris Buongiorno",
+            " Eric Hauserman Carroll",
+            " Louis D'Esposito",
+            " Kevin Feige",
+            " Thomas M. Hammel",
+            " Stan Lee",
+            " David Minkowski",
+            " Rachel O'Connor"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/SPIDER-MANFARFROMHOME_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/SPIDER-MANFARFROMHOME_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/SPIDER-MANFARFROMHOME_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2019,
+    "rating": "7.4",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,373 @@
+{
+    "externalId": "AggregatedTvShow_aa600fb6-d0b3-5f23-b50c-decf6877fc39",
+    "clientContentId": "PACK0000000005201429",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Mallorca Files - Trailer",
+            "may": "The Mallorca Files - Trailer",
+            "tam": "The Mallorca Files - Trailer",
+            "chi": "The Mallorca Files - Trailer",
+            "tha": "The Mallorca Files - Trailer",
+            "ind": "The Mallorca Files - Trailer"
+        },
+        "long": {
+            "eng": "The Mallorca Files - Trailer",
+            "may": "The Mallorca Files - Trailer",
+            "tam": "The Mallorca Files - Trailer",
+            "chi": "The Mallorca Files - Trailer",
+            "tha": "The Mallorca Files - Trailer",
+            "ind": "The Mallorca Files - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A British and German detective clashing over how to police the Spanish island of Mallorca.",
+            "may": "A British and German detective clashing over how to police the Spanish island of Mallorca.",
+            "tam": "A British and German detective clashing over how to police the Spanish island of Mallorca.",
+            "chi": "A British and German detective clashing over how to police the Spanish island of Mallorca.",
+            "tha": "A British and German detective clashing over how to police the Spanish island of Mallorca.",
+            "ind": "A British and German detective clashing over how to police the Spanish island of Mallorca."
+        },
+        "long": {
+            "eng": "A British and German detective clashing over how to police the Spanish island of Mallorca.",
+            "may": "A British and German detective clashing over how to police the Spanish island of Mallorca.",
+            "tam": "A British and German detective clashing over how to police the Spanish island of Mallorca.",
+            "chi": "A British and German detective clashing over how to police the Spanish island of Mallorca.",
+            "tha": "A British and German detective clashing over how to police the Spanish island of Mallorca.",
+            "ind": "A British and German detective clashing over how to police the Spanish island of Mallorca."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Elen Rhys",
+            " Julian Looman",
+            " Mar\u00eda Fern\u00e1ndez Ache",
+            " T\u00e1bata Cerezo",
+            " Nacho Aldeguer",
+            " Denis Schmidt",
+            " Alex Hafner",
+            " Carlos Olalla",
+            " Tanya Moodie",
+            " Nansi Nsue"
+        ],
+        "may": [
+            "Elen Rhys",
+            " Julian Looman",
+            " Mar\u00eda Fern\u00e1ndez Ache",
+            " T\u00e1bata Cerezo",
+            " Nacho Aldeguer",
+            " Denis Schmidt",
+            " Alex Hafner",
+            " Carlos Olalla",
+            " Tanya Moodie",
+            " Nansi Nsue"
+        ],
+        "tam": [
+            "Elen Rhys",
+            " Julian Looman",
+            " Mar\u00eda Fern\u00e1ndez Ache",
+            " T\u00e1bata Cerezo",
+            " Nacho Aldeguer",
+            " Denis Schmidt",
+            " Alex Hafner",
+            " Carlos Olalla",
+            " Tanya Moodie",
+            " Nansi Nsue"
+        ],
+        "chi": [
+            "Elen Rhys",
+            " Julian Looman",
+            " Mar\u00eda Fern\u00e1ndez Ache",
+            " T\u00e1bata Cerezo",
+            " Nacho Aldeguer",
+            " Denis Schmidt",
+            " Alex Hafner",
+            " Carlos Olalla",
+            " Tanya Moodie",
+            " Nansi Nsue"
+        ],
+        "tha": [
+            "Elen Rhys",
+            " Julian Looman",
+            " Mar\u00eda Fern\u00e1ndez Ache",
+            " T\u00e1bata Cerezo",
+            " Nacho Aldeguer",
+            " Denis Schmidt",
+            " Alex Hafner",
+            " Carlos Olalla",
+            " Tanya Moodie",
+            " Nansi Nsue"
+        ],
+        "ind": [
+            "Elen Rhys",
+            " Julian Looman",
+            " Mar\u00eda Fern\u00e1ndez Ache",
+            " T\u00e1bata Cerezo",
+            " Nacho Aldeguer",
+            " Denis Schmidt",
+            " Alex Hafner",
+            " Carlos Olalla",
+            " Tanya Moodie",
+            " Nansi Nsue"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Bryn Higgins",
+            " Gordon Anderson",
+            " Rob Evans",
+            " Charlie Palmer",
+            " Christiana Ebohon-Green",
+            " Craig Pickles"
+        ],
+        "may": [
+            "Bryn Higgins",
+            " Gordon Anderson",
+            " Rob Evans",
+            " Charlie Palmer",
+            " Christiana Ebohon-Green",
+            " Craig Pickles"
+        ],
+        "tam": [
+            "Bryn Higgins",
+            " Gordon Anderson",
+            " Rob Evans",
+            " Charlie Palmer",
+            " Christiana Ebohon-Green",
+            " Craig Pickles"
+        ],
+        "chi": [
+            "Bryn Higgins",
+            " Gordon Anderson",
+            " Rob Evans",
+            " Charlie Palmer",
+            " Christiana Ebohon-Green",
+            " Craig Pickles"
+        ],
+        "tha": [
+            "Bryn Higgins",
+            " Gordon Anderson",
+            " Rob Evans",
+            " Charlie Palmer",
+            " Christiana Ebohon-Green",
+            " Craig Pickles"
+        ],
+        "ind": [
+            "Bryn Higgins",
+            " Gordon Anderson",
+            " Rob Evans",
+            " Charlie Palmer",
+            " Christiana Ebohon-Green",
+            " Craig Pickles"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Dominic Barlow",
+            " Ben Donald",
+            " Michael Robins",
+            " Helen Munson",
+            " Annika Schmidt",
+            " Trent Walton",
+            " Pilar Amer",
+            " Murray Ferguson",
+            " Dan Sefton",
+            " "
+        ],
+        "may": [
+            "Dominic Barlow",
+            " Ben Donald",
+            " Michael Robins",
+            " Helen Munson",
+            " Annika Schmidt",
+            " Trent Walton",
+            " Pilar Amer",
+            " Murray Ferguson",
+            " Dan Sefton",
+            " "
+        ],
+        "tam": [
+            "Dominic Barlow",
+            " Ben Donald",
+            " Michael Robins",
+            " Helen Munson",
+            " Annika Schmidt",
+            " Trent Walton",
+            " Pilar Amer",
+            " Murray Ferguson",
+            " Dan Sefton",
+            " "
+        ],
+        "chi": [
+            "Dominic Barlow",
+            " Ben Donald",
+            " Michael Robins",
+            " Helen Munson",
+            " Annika Schmidt",
+            " Trent Walton",
+            " Pilar Amer",
+            " Murray Ferguson",
+            " Dan Sefton",
+            " "
+        ],
+        "tha": [
+            "Dominic Barlow",
+            " Ben Donald",
+            " Michael Robins",
+            " Helen Munson",
+            " Annika Schmidt",
+            " Trent Walton",
+            " Pilar Amer",
+            " Murray Ferguson",
+            " Dan Sefton",
+            " "
+        ],
+        "ind": [
+            "Dominic Barlow",
+            " Ben Donald",
+            " Michael Robins",
+            " Helen Munson",
+            " Annika Schmidt",
+            " Trent Walton",
+            " Pilar Amer",
+            " Murray Ferguson",
+            " Dan Sefton",
+            " "
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheMallorcaFilesSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheMallorcaFilesSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheMallorcaFilesSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_7b4a32e8-a43d-5e1a-9231-c6d26c247495",
+    "seasonId": "AggregatedSeason_a0c00d43-0dfd-573c-bf0b-693ba8c95381",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2019,
+    "rating": "12",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

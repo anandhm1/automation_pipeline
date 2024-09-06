@@ -1,0 +1,323 @@
+{
+    "externalId": "AggregatedSeason_fc42edfa-39dd-59d5-ab28-5309b922555b",
+    "clientContentId": "PACK0000000008770705",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Adventure",
+                    "may": "Adventure",
+                    "chi": "Adventure",
+                    "tam": "Adventure",
+                    "ind": "Adventure",
+                    "tha": "Adventure"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Family",
+                    "may": " Family",
+                    "chi": " Family",
+                    "tam": " Family",
+                    "ind": " Family",
+                    "tha": " Family"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "PG",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Neil Sterenberg",
+            " Beccy Henderson",
+            " Nathalie Emmanuel",
+            " Taron Egerton",
+            " Kevin Clash",
+            " Victor Yerrid",
+            " Warrick Brownlow-Pike",
+            " Anya Taylor-Joy",
+            " Alice Dinnean",
+            " Dave Chapman"
+        ],
+        "may": [
+            "Neil Sterenberg",
+            " Beccy Henderson",
+            " Nathalie Emmanuel",
+            " Taron Egerton",
+            " Kevin Clash",
+            " Victor Yerrid",
+            " Warrick Brownlow-Pike",
+            " Anya Taylor-Joy",
+            " Alice Dinnean",
+            " Dave Chapman"
+        ],
+        "chi": [
+            "Neil Sterenberg",
+            " Beccy Henderson",
+            " Nathalie Emmanuel",
+            " Taron Egerton",
+            " Kevin Clash",
+            " Victor Yerrid",
+            " Warrick Brownlow-Pike",
+            " Anya Taylor-Joy",
+            " Alice Dinnean",
+            " Dave Chapman"
+        ],
+        "tam": [
+            "Neil Sterenberg",
+            " Beccy Henderson",
+            " Nathalie Emmanuel",
+            " Taron Egerton",
+            " Kevin Clash",
+            " Victor Yerrid",
+            " Warrick Brownlow-Pike",
+            " Anya Taylor-Joy",
+            " Alice Dinnean",
+            " Dave Chapman"
+        ],
+        "ind": [
+            "Neil Sterenberg",
+            " Beccy Henderson",
+            " Nathalie Emmanuel",
+            " Taron Egerton",
+            " Kevin Clash",
+            " Victor Yerrid",
+            " Warrick Brownlow-Pike",
+            " Anya Taylor-Joy",
+            " Alice Dinnean",
+            " Dave Chapman"
+        ],
+        "tha": [
+            "Neil Sterenberg",
+            " Beccy Henderson",
+            " Nathalie Emmanuel",
+            " Taron Egerton",
+            " Kevin Clash",
+            " Victor Yerrid",
+            " Warrick Brownlow-Pike",
+            " Anya Taylor-Joy",
+            " Alice Dinnean",
+            " Dave Chapman"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Louis Leterrier"
+        ],
+        "may": [
+            "Louis Leterrier"
+        ],
+        "chi": [
+            "Louis Leterrier"
+        ],
+        "tam": [
+            "Louis Leterrier"
+        ],
+        "ind": [
+            "Louis Leterrier"
+        ],
+        "tha": [
+            "Louis Leterrier"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jeffrey Addiss",
+            " Javier Grillo-Marxuach",
+            " Lisa Henson",
+            " Vivian Lee",
+            " Louis Leterrier",
+            " Blanca Lista",
+            " Will Matthews",
+            " Ritamarie Peruggi",
+            " Cameron Richardson",
+            " Halle Stanford"
+        ],
+        "may": [
+            "Jeffrey Addiss",
+            " Javier Grillo-Marxuach",
+            " Lisa Henson",
+            " Vivian Lee",
+            " Louis Leterrier",
+            " Blanca Lista",
+            " Will Matthews",
+            " Ritamarie Peruggi",
+            " Cameron Richardson",
+            " Halle Stanford"
+        ],
+        "chi": [
+            "Jeffrey Addiss",
+            " Javier Grillo-Marxuach",
+            " Lisa Henson",
+            " Vivian Lee",
+            " Louis Leterrier",
+            " Blanca Lista",
+            " Will Matthews",
+            " Ritamarie Peruggi",
+            " Cameron Richardson",
+            " Halle Stanford"
+        ],
+        "tam": [
+            "Jeffrey Addiss",
+            " Javier Grillo-Marxuach",
+            " Lisa Henson",
+            " Vivian Lee",
+            " Louis Leterrier",
+            " Blanca Lista",
+            " Will Matthews",
+            " Ritamarie Peruggi",
+            " Cameron Richardson",
+            " Halle Stanford"
+        ],
+        "ind": [
+            "Jeffrey Addiss",
+            " Javier Grillo-Marxuach",
+            " Lisa Henson",
+            " Vivian Lee",
+            " Louis Leterrier",
+            " Blanca Lista",
+            " Will Matthews",
+            " Ritamarie Peruggi",
+            " Cameron Richardson",
+            " Halle Stanford"
+        ],
+        "tha": [
+            "Jeffrey Addiss",
+            " Javier Grillo-Marxuach",
+            " Lisa Henson",
+            " Vivian Lee",
+            " Louis Leterrier",
+            " Blanca Lista",
+            " Will Matthews",
+            " Ritamarie Peruggi",
+            " Cameron Richardson",
+            " Halle Stanford"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_f863499c-f5e5-5e9c-aab3-44b839bc9e37",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Dark Crystal Age of Resistance Season 1",
+            "may": "The Dark Crystal Age of Resistance Season 1",
+            "chi": "The Dark Crystal Age of Resistance Season 1",
+            "tam": "The Dark Crystal Age of Resistance Season 1",
+            "ind": "The Dark Crystal Age of Resistance Season 1",
+            "tha": "The Dark Crystal Age of Resistance Season 1"
+        },
+        "long": {
+            "eng": "The Dark Crystal Age of Resistance Season 1",
+            "may": "The Dark Crystal Age of Resistance Season 1",
+            "chi": "The Dark Crystal Age of Resistance Season 1",
+            "tam": "The Dark Crystal Age of Resistance Season 1",
+            "ind": "The Dark Crystal Age of Resistance Season 1",
+            "tha": "The Dark Crystal Age of Resistance Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Return to the world of Thra, where three Gelfling discover the horrifying secret behind the Skeksis' power, and set out to ignite the fires of rebellion and save their world.",
+            "may": "Return to the world of Thra, where three Gelfling discover the horrifying secret behind the Skeksis' power, and set out to ignite the fires of rebellion and save their world.",
+            "chi": "Return to the world of Thra, where three Gelfling discover the horrifying secret behind the Skeksis' power, and set out to ignite the fires of rebellion and save their world.",
+            "tam": "Return to the world of Thra, where three Gelfling discover the horrifying secret behind the Skeksis' power, and set out to ignite the fires of rebellion and save their world.",
+            "ind": "Return to the world of Thra, where three Gelfling discover the horrifying secret behind the Skeksis' power, and set out to ignite the fires of rebellion and save their world.",
+            "tha": "Return to the world of Thra, where three Gelfling discover the horrifying secret behind the Skeksis' power, and set out to ignite the fires of rebellion and save their world."
+        },
+        "long": {
+            "eng": "Return to the world of Thra, where three Gelfling discover the horrifying secret behind the Skeksis' power, and set out to ignite the fires of rebellion and save their world.",
+            "may": "Return to the world of Thra, where three Gelfling discover the horrifying secret behind the Skeksis' power, and set out to ignite the fires of rebellion and save their world.",
+            "chi": "Return to the world of Thra, where three Gelfling discover the horrifying secret behind the Skeksis' power, and set out to ignite the fires of rebellion and save their world.",
+            "tam": "Return to the world of Thra, where three Gelfling discover the horrifying secret behind the Skeksis' power, and set out to ignite the fires of rebellion and save their world.",
+            "ind": "Return to the world of Thra, where three Gelfling discover the horrifying secret behind the Skeksis' power, and set out to ignite the fires of rebellion and save their world.",
+            "tha": "Return to the world of Thra, where three Gelfling discover the horrifying secret behind the Skeksis' power, and set out to ignite the fires of rebellion and save their world."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheDarkCrystalAgeofResistanceSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheDarkCrystalAgeofResistanceSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheDarkCrystalAgeofResistanceSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

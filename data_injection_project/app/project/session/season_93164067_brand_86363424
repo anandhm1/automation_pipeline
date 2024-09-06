@@ -1,0 +1,371 @@
+{
+    "externalId": "AggregatedSeason_ab6c7e5c-70b9-54fe-a764-2a5dd6bcbd33",
+    "clientContentId": "PACK0000000001304348",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Fantasy",
+                    "may": " Fantasy",
+                    "chi": " Fantasy",
+                    "tam": " Fantasy",
+                    "ind": " Fantasy",
+                    "tha": " Fantasy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "TV-14",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Ashleigh Cummings",
+            " \u00d3lafur Darri \u00d3lafsson",
+            " Jahkara Smith",
+            " Ebon Moss-Bachrach",
+            " Virginia Kull",
+            " Zachary Quinto",
+            " Ashley Romans",
+            " Mattea Conforti",
+            " Jonathan Langdon",
+            " Dalton Harrod"
+        ],
+        "may": [
+            "Ashleigh Cummings",
+            " \u00d3lafur Darri \u00d3lafsson",
+            " Jahkara Smith",
+            " Ebon Moss-Bachrach",
+            " Virginia Kull",
+            " Zachary Quinto",
+            " Ashley Romans",
+            " Mattea Conforti",
+            " Jonathan Langdon",
+            " Dalton Harrod"
+        ],
+        "chi": [
+            "Ashleigh Cummings",
+            " \u00d3lafur Darri \u00d3lafsson",
+            " Jahkara Smith",
+            " Ebon Moss-Bachrach",
+            " Virginia Kull",
+            " Zachary Quinto",
+            " Ashley Romans",
+            " Mattea Conforti",
+            " Jonathan Langdon",
+            " Dalton Harrod"
+        ],
+        "tam": [
+            "Ashleigh Cummings",
+            " \u00d3lafur Darri \u00d3lafsson",
+            " Jahkara Smith",
+            " Ebon Moss-Bachrach",
+            " Virginia Kull",
+            " Zachary Quinto",
+            " Ashley Romans",
+            " Mattea Conforti",
+            " Jonathan Langdon",
+            " Dalton Harrod"
+        ],
+        "ind": [
+            "Ashleigh Cummings",
+            " \u00d3lafur Darri \u00d3lafsson",
+            " Jahkara Smith",
+            " Ebon Moss-Bachrach",
+            " Virginia Kull",
+            " Zachary Quinto",
+            " Ashley Romans",
+            " Mattea Conforti",
+            " Jonathan Langdon",
+            " Dalton Harrod"
+        ],
+        "tha": [
+            "Ashleigh Cummings",
+            " \u00d3lafur Darri \u00d3lafsson",
+            " Jahkara Smith",
+            " Ebon Moss-Bachrach",
+            " Virginia Kull",
+            " Zachary Quinto",
+            " Ashley Romans",
+            " Mattea Conforti",
+            " Jonathan Langdon",
+            " Dalton Harrod"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "John Shiban",
+            " Hanelle M. Culpepper",
+            " Kari Skogland",
+            " Tim Southam",
+            " Jeremy Webb",
+            " Tricia Brock",
+            " Toa Fraser",
+            " Craig William Macneill",
+            " Stefan Schwartz"
+        ],
+        "may": [
+            "John Shiban",
+            " Hanelle M. Culpepper",
+            " Kari Skogland",
+            " Tim Southam",
+            " Jeremy Webb",
+            " Tricia Brock",
+            " Toa Fraser",
+            " Craig William Macneill",
+            " Stefan Schwartz"
+        ],
+        "chi": [
+            "John Shiban",
+            " Hanelle M. Culpepper",
+            " Kari Skogland",
+            " Tim Southam",
+            " Jeremy Webb",
+            " Tricia Brock",
+            " Toa Fraser",
+            " Craig William Macneill",
+            " Stefan Schwartz"
+        ],
+        "tam": [
+            "John Shiban",
+            " Hanelle M. Culpepper",
+            " Kari Skogland",
+            " Tim Southam",
+            " Jeremy Webb",
+            " Tricia Brock",
+            " Toa Fraser",
+            " Craig William Macneill",
+            " Stefan Schwartz"
+        ],
+        "ind": [
+            "John Shiban",
+            " Hanelle M. Culpepper",
+            " Kari Skogland",
+            " Tim Southam",
+            " Jeremy Webb",
+            " Tricia Brock",
+            " Toa Fraser",
+            " Craig William Macneill",
+            " Stefan Schwartz"
+        ],
+        "tha": [
+            "John Shiban",
+            " Hanelle M. Culpepper",
+            " Kari Skogland",
+            " Tim Southam",
+            " Jeremy Webb",
+            " Tricia Brock",
+            " Toa Fraser",
+            " Craig William Macneill",
+            " Stefan Schwartz"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Tom Brady",
+            " Lauren Corrao",
+            " Joe Hill",
+            " Shana Fischer Huber",
+            " Megan Mostyn-Brown",
+            " Jami O'Brien",
+            " Nina Jack",
+            " Colin Walsh",
+            " Kate Amer",
+            " Marcus Gardley"
+        ],
+        "may": [
+            "Tom Brady",
+            " Lauren Corrao",
+            " Joe Hill",
+            " Shana Fischer Huber",
+            " Megan Mostyn-Brown",
+            " Jami O'Brien",
+            " Nina Jack",
+            " Colin Walsh",
+            " Kate Amer",
+            " Marcus Gardley"
+        ],
+        "chi": [
+            "Tom Brady",
+            " Lauren Corrao",
+            " Joe Hill",
+            " Shana Fischer Huber",
+            " Megan Mostyn-Brown",
+            " Jami O'Brien",
+            " Nina Jack",
+            " Colin Walsh",
+            " Kate Amer",
+            " Marcus Gardley"
+        ],
+        "tam": [
+            "Tom Brady",
+            " Lauren Corrao",
+            " Joe Hill",
+            " Shana Fischer Huber",
+            " Megan Mostyn-Brown",
+            " Jami O'Brien",
+            " Nina Jack",
+            " Colin Walsh",
+            " Kate Amer",
+            " Marcus Gardley"
+        ],
+        "ind": [
+            "Tom Brady",
+            " Lauren Corrao",
+            " Joe Hill",
+            " Shana Fischer Huber",
+            " Megan Mostyn-Brown",
+            " Jami O'Brien",
+            " Nina Jack",
+            " Colin Walsh",
+            " Kate Amer",
+            " Marcus Gardley"
+        ],
+        "tha": [
+            "Tom Brady",
+            " Lauren Corrao",
+            " Joe Hill",
+            " Shana Fischer Huber",
+            " Megan Mostyn-Brown",
+            " Jami O'Brien",
+            " Nina Jack",
+            " Colin Walsh",
+            " Kate Amer",
+            " Marcus Gardley"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_1129e5fc-380b-5f2d-9eee-e41f4b945872",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "NOS4A2 Season 1",
+            "may": "NOS4A2 Season 1",
+            "chi": "NOS4A2 Season 1",
+            "tam": "NOS4A2 Season 1",
+            "ind": "NOS4A2 Season 1",
+            "tha": "NOS4A2 Season 1"
+        },
+        "long": {
+            "eng": "NOS4A2 Season 1",
+            "may": "NOS4A2 Season 1",
+            "chi": "NOS4A2 Season 1",
+            "tam": "NOS4A2 Season 1",
+            "ind": "NOS4A2 Season 1",
+            "tha": "NOS4A2 Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Charlie Manx, a seductive immortal who feeds off the souls of children, has his whole world threatened when a young woman in New England discovers she has a dangerous gift.",
+            "may": "Charlie Manx, a seductive immortal who feeds off the souls of children, has his whole world threatened when a young woman in New England discovers she has a dangerous gift.",
+            "chi": "Charlie Manx, a seductive immortal who feeds off the souls of children, has his whole world threatened when a young woman in New England discovers she has a dangerous gift.",
+            "tam": "Charlie Manx, a seductive immortal who feeds off the souls of children, has his whole world threatened when a young woman in New England discovers she has a dangerous gift.",
+            "ind": "Charlie Manx, a seductive immortal who feeds off the souls of children, has his whole world threatened when a young woman in New England discovers she has a dangerous gift.",
+            "tha": "Charlie Manx, a seductive immortal who feeds off the souls of children, has his whole world threatened when a young woman in New England discovers she has a dangerous gift."
+        },
+        "long": {
+            "eng": "Charlie Manx, a seductive immortal who feeds off the souls of children, has his whole world threatened when a young woman in New England discovers she has a dangerous gift.",
+            "may": "Charlie Manx, a seductive immortal who feeds off the souls of children, has his whole world threatened when a young woman in New England discovers she has a dangerous gift.",
+            "chi": "Charlie Manx, a seductive immortal who feeds off the souls of children, has his whole world threatened when a young woman in New England discovers she has a dangerous gift.",
+            "tam": "Charlie Manx, a seductive immortal who feeds off the souls of children, has his whole world threatened when a young woman in New England discovers she has a dangerous gift.",
+            "ind": "Charlie Manx, a seductive immortal who feeds off the souls of children, has his whole world threatened when a young woman in New England discovers she has a dangerous gift.",
+            "tha": "Charlie Manx, a seductive immortal who feeds off the souls of children, has his whole world threatened when a young woman in New England discovers she has a dangerous gift."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/NOS4A2Season1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/NOS4A2Season1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/NOS4A2Season1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

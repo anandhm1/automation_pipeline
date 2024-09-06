@@ -1,0 +1,353 @@
+{
+    "externalId": "AggregatedSeason_d2c75020-f15f-5924-a325-7e3c21424d1d",
+    "clientContentId": "PACK0000000004399512",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "chi": "Documentary",
+                    "tam": "Documentary",
+                    "ind": "Documentary",
+                    "tha": "Documentary"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "chi": "Documentary",
+                    "tam": "Documentary",
+                    "ind": "Documentary",
+                    "tha": "Documentary"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2021,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Jeremy Renner",
+            " Dianne Wiest",
+            " Hugh Dillon",
+            " Tobi Bamtefa",
+            " Taylor Handley",
+            " Emma Laird",
+            " Derek Webster",
+            " Hamish Allan-Headley",
+            " Aidan Gillen",
+            " Nishi Munshi"
+        ],
+        "may": [
+            "Jeremy Renner",
+            " Dianne Wiest",
+            " Hugh Dillon",
+            " Tobi Bamtefa",
+            " Taylor Handley",
+            " Emma Laird",
+            " Derek Webster",
+            " Hamish Allan-Headley",
+            " Aidan Gillen",
+            " Nishi Munshi"
+        ],
+        "chi": [
+            "Jeremy Renner",
+            " Dianne Wiest",
+            " Hugh Dillon",
+            " Tobi Bamtefa",
+            " Taylor Handley",
+            " Emma Laird",
+            " Derek Webster",
+            " Hamish Allan-Headley",
+            " Aidan Gillen",
+            " Nishi Munshi"
+        ],
+        "tam": [
+            "Jeremy Renner",
+            " Dianne Wiest",
+            " Hugh Dillon",
+            " Tobi Bamtefa",
+            " Taylor Handley",
+            " Emma Laird",
+            " Derek Webster",
+            " Hamish Allan-Headley",
+            " Aidan Gillen",
+            " Nishi Munshi"
+        ],
+        "ind": [
+            "Jeremy Renner",
+            " Dianne Wiest",
+            " Hugh Dillon",
+            " Tobi Bamtefa",
+            " Taylor Handley",
+            " Emma Laird",
+            " Derek Webster",
+            " Hamish Allan-Headley",
+            " Aidan Gillen",
+            " Nishi Munshi"
+        ],
+        "tha": [
+            "Jeremy Renner",
+            " Dianne Wiest",
+            " Hugh Dillon",
+            " Tobi Bamtefa",
+            " Taylor Handley",
+            " Emma Laird",
+            " Derek Webster",
+            " Hamish Allan-Headley",
+            " Aidan Gillen",
+            " Nishi Munshi"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Stephen Kay",
+            " Guy Ferland",
+            " Clark Johnson",
+            " Ben Richardson",
+            " Taylor Sheridan",
+            " Tasha Smith"
+        ],
+        "may": [
+            "Stephen Kay",
+            " Guy Ferland",
+            " Clark Johnson",
+            " Ben Richardson",
+            " Taylor Sheridan",
+            " Tasha Smith"
+        ],
+        "chi": [
+            "Stephen Kay",
+            " Guy Ferland",
+            " Clark Johnson",
+            " Ben Richardson",
+            " Taylor Sheridan",
+            " Tasha Smith"
+        ],
+        "tam": [
+            "Stephen Kay",
+            " Guy Ferland",
+            " Clark Johnson",
+            " Ben Richardson",
+            " Taylor Sheridan",
+            " Tasha Smith"
+        ],
+        "ind": [
+            "Stephen Kay",
+            " Guy Ferland",
+            " Clark Johnson",
+            " Ben Richardson",
+            " Taylor Sheridan",
+            " Tasha Smith"
+        ],
+        "tha": [
+            "Stephen Kay",
+            " Guy Ferland",
+            " Clark Johnson",
+            " Ben Richardson",
+            " Taylor Sheridan",
+            " Tasha Smith"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Michael Friedman",
+            " Ron Burkle",
+            " Hugh Dillon",
+            " Antoine Fuqua",
+            " David Glasser",
+            " Jeremy Renner",
+            " Taylor Sheridan",
+            " Bob Yari",
+            " Alex Jordan",
+            " Ben Richardson"
+        ],
+        "may": [
+            "Michael Friedman",
+            " Ron Burkle",
+            " Hugh Dillon",
+            " Antoine Fuqua",
+            " David Glasser",
+            " Jeremy Renner",
+            " Taylor Sheridan",
+            " Bob Yari",
+            " Alex Jordan",
+            " Ben Richardson"
+        ],
+        "chi": [
+            "Michael Friedman",
+            " Ron Burkle",
+            " Hugh Dillon",
+            " Antoine Fuqua",
+            " David Glasser",
+            " Jeremy Renner",
+            " Taylor Sheridan",
+            " Bob Yari",
+            " Alex Jordan",
+            " Ben Richardson"
+        ],
+        "tam": [
+            "Michael Friedman",
+            " Ron Burkle",
+            " Hugh Dillon",
+            " Antoine Fuqua",
+            " David Glasser",
+            " Jeremy Renner",
+            " Taylor Sheridan",
+            " Bob Yari",
+            " Alex Jordan",
+            " Ben Richardson"
+        ],
+        "ind": [
+            "Michael Friedman",
+            " Ron Burkle",
+            " Hugh Dillon",
+            " Antoine Fuqua",
+            " David Glasser",
+            " Jeremy Renner",
+            " Taylor Sheridan",
+            " Bob Yari",
+            " Alex Jordan",
+            " Ben Richardson"
+        ],
+        "tha": [
+            "Michael Friedman",
+            " Ron Burkle",
+            " Hugh Dillon",
+            " Antoine Fuqua",
+            " David Glasser",
+            " Jeremy Renner",
+            " Taylor Sheridan",
+            " Bob Yari",
+            " Alex Jordan",
+            " Ben Richardson"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_f89ff333-b6be-5820-88c0-7fec58ca47d5",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Mayor Of Kingstown S01 EP01",
+            "may": "Mayor Of Kingstown S01 EP01",
+            "chi": "Mayor Of Kingstown S01 EP01",
+            "tam": "Mayor Of Kingstown S01 EP01",
+            "ind": "Mayor Of Kingstown S01 EP01",
+            "tha": "Mayor Of Kingstown S01 EP01"
+        },
+        "long": {
+            "eng": "Mayor Of Kingstown S01 EP01",
+            "may": "Mayor Of Kingstown S01 EP01",
+            "chi": "Mayor Of Kingstown S01 EP01",
+            "tam": "Mayor Of Kingstown S01 EP01",
+            "ind": "Mayor Of Kingstown S01 EP01",
+            "tha": "Mayor Of Kingstown S01 EP01"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "may": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "chi": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "tam": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "ind": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "tha": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice."
+        },
+        "long": {
+            "eng": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "may": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "chi": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "tam": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "ind": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "tha": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MayorOfKingstownS01EP01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MayorOfKingstownS01EP01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MayorOfKingstownS01EP01_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

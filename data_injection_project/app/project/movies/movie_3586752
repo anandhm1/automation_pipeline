@@ -1,0 +1,349 @@
+{
+    "externalId": "AggregatedMovie_c4b2201f-f82f-5082-80a3-90c97d9e1336",
+    "clientContentId": "PACK0000000005238488",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Jigsaw (2017)",
+            "may": "Jigsaw (2017)",
+            "tam": "Jigsaw (2017)",
+            "chi": "Jigsaw (2017)",
+            "tha": "Jigsaw (2017)",
+            "ind": "Jigsaw (2017)"
+        },
+        "long": {
+            "eng": "Jigsaw (2017)",
+            "may": "Jigsaw (2017)",
+            "tam": "Jigsaw (2017)",
+            "chi": "Jigsaw (2017)",
+            "tha": "Jigsaw (2017)",
+            "ind": "Jigsaw (2017)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Bodies are turning up around the city, each having met a uniquely gruesome demise. As the investigation proceeds, evidence points to one suspect: John Kramer, the man known as Jigsaw, who has been dead for over 10 years.",
+            "may": "Bodies are turning up around the city, each having met a uniquely gruesome demise. As the investigation proceeds, evidence points to one suspect: John Kramer, the man known as Jigsaw, who has been dead for over 10 years.",
+            "tam": "Bodies are turning up around the city, each having met a uniquely gruesome demise. As the investigation proceeds, evidence points to one suspect: John Kramer, the man known as Jigsaw, who has been dead for over 10 years.",
+            "chi": "Bodies are turning up around the city, each having met a uniquely gruesome demise. As the investigation proceeds, evidence points to one suspect: John Kramer, the man known as Jigsaw, who has been dead for over 10 years.",
+            "tha": "Bodies are turning up around the city, each having met a uniquely gruesome demise. As the investigation proceeds, evidence points to one suspect: John Kramer, the man known as Jigsaw, who has been dead for over 10 years.",
+            "ind": "Bodies are turning up around the city, each having met a uniquely gruesome demise. As the investigation proceeds, evidence points to one suspect: John Kramer, the man known as Jigsaw, who has been dead for over 10 years."
+        },
+        "long": {
+            "eng": "Bodies are turning up around the city, each having met a uniquely gruesome demise. As the investigation proceeds, evidence points to one suspect: John Kramer, the man known as Jigsaw, who has been dead for over 10 years.",
+            "may": "Bodies are turning up around the city, each having met a uniquely gruesome demise. As the investigation proceeds, evidence points to one suspect: John Kramer, the man known as Jigsaw, who has been dead for over 10 years.",
+            "tam": "Bodies are turning up around the city, each having met a uniquely gruesome demise. As the investigation proceeds, evidence points to one suspect: John Kramer, the man known as Jigsaw, who has been dead for over 10 years.",
+            "chi": "Bodies are turning up around the city, each having met a uniquely gruesome demise. As the investigation proceeds, evidence points to one suspect: John Kramer, the man known as Jigsaw, who has been dead for over 10 years.",
+            "tha": "Bodies are turning up around the city, each having met a uniquely gruesome demise. As the investigation proceeds, evidence points to one suspect: John Kramer, the man known as Jigsaw, who has been dead for over 10 years.",
+            "ind": "Bodies are turning up around the city, each having met a uniquely gruesome demise. As the investigation proceeds, evidence points to one suspect: John Kramer, the man known as Jigsaw, who has been dead for over 10 years."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Matt Passmore",
+            " Tobin Bell",
+            " Callum Keith Rennie",
+            " Hannah Emily Anderson",
+            " Cl\u00e9 Bennett",
+            " Laura Vandervoort",
+            " Paul Braunstein",
+            " Mandela Van Peebles",
+            " Brittany Allen",
+            " Josiah Black"
+        ],
+        "may": [
+            "Matt Passmore",
+            " Tobin Bell",
+            " Callum Keith Rennie",
+            " Hannah Emily Anderson",
+            " Cl\u00e9 Bennett",
+            " Laura Vandervoort",
+            " Paul Braunstein",
+            " Mandela Van Peebles",
+            " Brittany Allen",
+            " Josiah Black"
+        ],
+        "tam": [
+            "Matt Passmore",
+            " Tobin Bell",
+            " Callum Keith Rennie",
+            " Hannah Emily Anderson",
+            " Cl\u00e9 Bennett",
+            " Laura Vandervoort",
+            " Paul Braunstein",
+            " Mandela Van Peebles",
+            " Brittany Allen",
+            " Josiah Black"
+        ],
+        "chi": [
+            "Matt Passmore",
+            " Tobin Bell",
+            " Callum Keith Rennie",
+            " Hannah Emily Anderson",
+            " Cl\u00e9 Bennett",
+            " Laura Vandervoort",
+            " Paul Braunstein",
+            " Mandela Van Peebles",
+            " Brittany Allen",
+            " Josiah Black"
+        ],
+        "tha": [
+            "Matt Passmore",
+            " Tobin Bell",
+            " Callum Keith Rennie",
+            " Hannah Emily Anderson",
+            " Cl\u00e9 Bennett",
+            " Laura Vandervoort",
+            " Paul Braunstein",
+            " Mandela Van Peebles",
+            " Brittany Allen",
+            " Josiah Black"
+        ],
+        "ind": [
+            "Matt Passmore",
+            " Tobin Bell",
+            " Callum Keith Rennie",
+            " Hannah Emily Anderson",
+            " Cl\u00e9 Bennett",
+            " Laura Vandervoort",
+            " Paul Braunstein",
+            " Mandela Van Peebles",
+            " Brittany Allen",
+            " Josiah Black"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Michael Spierig",
+            " Peter Spierig"
+        ],
+        "may": [
+            "Michael Spierig",
+            " Peter Spierig"
+        ],
+        "tam": [
+            "Michael Spierig",
+            " Peter Spierig"
+        ],
+        "chi": [
+            "Michael Spierig",
+            " Peter Spierig"
+        ],
+        "tha": [
+            "Michael Spierig",
+            " Peter Spierig"
+        ],
+        "ind": [
+            "Michael Spierig",
+            " Peter Spierig"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Peter Block",
+            " Mark Burg",
+            " Jason Constantine",
+            " Kym Crepin",
+            " Daniel J. Heffner",
+            " Gregg Hoffman",
+            " Ketura Kestin",
+            " Oren Koules",
+            " Stacey Testro",
+            " James Wan"
+        ],
+        "may": [
+            "Peter Block",
+            " Mark Burg",
+            " Jason Constantine",
+            " Kym Crepin",
+            " Daniel J. Heffner",
+            " Gregg Hoffman",
+            " Ketura Kestin",
+            " Oren Koules",
+            " Stacey Testro",
+            " James Wan"
+        ],
+        "tam": [
+            "Peter Block",
+            " Mark Burg",
+            " Jason Constantine",
+            " Kym Crepin",
+            " Daniel J. Heffner",
+            " Gregg Hoffman",
+            " Ketura Kestin",
+            " Oren Koules",
+            " Stacey Testro",
+            " James Wan"
+        ],
+        "chi": [
+            "Peter Block",
+            " Mark Burg",
+            " Jason Constantine",
+            " Kym Crepin",
+            " Daniel J. Heffner",
+            " Gregg Hoffman",
+            " Ketura Kestin",
+            " Oren Koules",
+            " Stacey Testro",
+            " James Wan"
+        ],
+        "tha": [
+            "Peter Block",
+            " Mark Burg",
+            " Jason Constantine",
+            " Kym Crepin",
+            " Daniel J. Heffner",
+            " Gregg Hoffman",
+            " Ketura Kestin",
+            " Oren Koules",
+            " Stacey Testro",
+            " James Wan"
+        ],
+        "ind": [
+            "Peter Block",
+            " Mark Burg",
+            " Jason Constantine",
+            " Kym Crepin",
+            " Daniel J. Heffner",
+            " Gregg Hoffman",
+            " Ketura Kestin",
+            " Oren Koules",
+            " Stacey Testro",
+            " James Wan"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "tam": " Horror",
+                    "chi": " Horror",
+                    "tha": " Horror",
+                    "ind": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Jigsaw_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Jigsaw_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Jigsaw_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2017,
+    "rating": "5.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

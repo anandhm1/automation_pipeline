@@ -1,0 +1,377 @@
+{
+    "externalId": "AggregatedSeason_629b0101-491b-5cdd-ba9a-f0e6c1432a42",
+    "clientContentId": "PACK0000000009772760",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "chi": "Action",
+                    "tam": "Action",
+                    "ind": "Action",
+                    "tha": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "chi": " Adventure",
+                    "tam": " Adventure",
+                    "ind": " Adventure",
+                    "tha": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2018,
+    "rating": "TV-14",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Daniel Wu",
+            " Orla Brady",
+            " Emily Beecham",
+            " Aramis Knight",
+            " Ally Ioannides",
+            " Nick Frost",
+            " Sherman Augustus",
+            " Sarah Bolger",
+            " Oliver Stark",
+            " Madeleine Mantock"
+        ],
+        "may": [
+            "Daniel Wu",
+            " Orla Brady",
+            " Emily Beecham",
+            " Aramis Knight",
+            " Ally Ioannides",
+            " Nick Frost",
+            " Sherman Augustus",
+            " Sarah Bolger",
+            " Oliver Stark",
+            " Madeleine Mantock"
+        ],
+        "chi": [
+            "Daniel Wu",
+            " Orla Brady",
+            " Emily Beecham",
+            " Aramis Knight",
+            " Ally Ioannides",
+            " Nick Frost",
+            " Sherman Augustus",
+            " Sarah Bolger",
+            " Oliver Stark",
+            " Madeleine Mantock"
+        ],
+        "tam": [
+            "Daniel Wu",
+            " Orla Brady",
+            " Emily Beecham",
+            " Aramis Knight",
+            " Ally Ioannides",
+            " Nick Frost",
+            " Sherman Augustus",
+            " Sarah Bolger",
+            " Oliver Stark",
+            " Madeleine Mantock"
+        ],
+        "ind": [
+            "Daniel Wu",
+            " Orla Brady",
+            " Emily Beecham",
+            " Aramis Knight",
+            " Ally Ioannides",
+            " Nick Frost",
+            " Sherman Augustus",
+            " Sarah Bolger",
+            " Oliver Stark",
+            " Madeleine Mantock"
+        ],
+        "tha": [
+            "Daniel Wu",
+            " Orla Brady",
+            " Emily Beecham",
+            " Aramis Knight",
+            " Ally Ioannides",
+            " Nick Frost",
+            " Sherman Augustus",
+            " Sarah Bolger",
+            " Oliver Stark",
+            " Madeleine Mantock"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Paco Cabezas",
+            " Toa Fraser",
+            " David Dobkin",
+            " Guy Ferland",
+            " Nick Copus",
+            " Stephen Fung",
+            " James Marshall",
+            " Tricia Brock",
+            " Miles Millar",
+            " Wayne Yip"
+        ],
+        "may": [
+            "Paco Cabezas",
+            " Toa Fraser",
+            " David Dobkin",
+            " Guy Ferland",
+            " Nick Copus",
+            " Stephen Fung",
+            " James Marshall",
+            " Tricia Brock",
+            " Miles Millar",
+            " Wayne Yip"
+        ],
+        "chi": [
+            "Paco Cabezas",
+            " Toa Fraser",
+            " David Dobkin",
+            " Guy Ferland",
+            " Nick Copus",
+            " Stephen Fung",
+            " James Marshall",
+            " Tricia Brock",
+            " Miles Millar",
+            " Wayne Yip"
+        ],
+        "tam": [
+            "Paco Cabezas",
+            " Toa Fraser",
+            " David Dobkin",
+            " Guy Ferland",
+            " Nick Copus",
+            " Stephen Fung",
+            " James Marshall",
+            " Tricia Brock",
+            " Miles Millar",
+            " Wayne Yip"
+        ],
+        "ind": [
+            "Paco Cabezas",
+            " Toa Fraser",
+            " David Dobkin",
+            " Guy Ferland",
+            " Nick Copus",
+            " Stephen Fung",
+            " James Marshall",
+            " Tricia Brock",
+            " Miles Millar",
+            " Wayne Yip"
+        ],
+        "tha": [
+            "Paco Cabezas",
+            " Toa Fraser",
+            " David Dobkin",
+            " Guy Ferland",
+            " Nick Copus",
+            " Stephen Fung",
+            " James Marshall",
+            " Tricia Brock",
+            " Miles Millar",
+            " Wayne Yip"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Kimberly Boyd",
+            " David Dobkin",
+            " Stephen Fung",
+            " Alfred Gough",
+            " Huen Chiu Ku",
+            " Miles Millar",
+            " Michael Shamberg",
+            " Stacey Sher",
+            " Daniel Wu",
+            " Mikey Eberle"
+        ],
+        "may": [
+            "Kimberly Boyd",
+            " David Dobkin",
+            " Stephen Fung",
+            " Alfred Gough",
+            " Huen Chiu Ku",
+            " Miles Millar",
+            " Michael Shamberg",
+            " Stacey Sher",
+            " Daniel Wu",
+            " Mikey Eberle"
+        ],
+        "chi": [
+            "Kimberly Boyd",
+            " David Dobkin",
+            " Stephen Fung",
+            " Alfred Gough",
+            " Huen Chiu Ku",
+            " Miles Millar",
+            " Michael Shamberg",
+            " Stacey Sher",
+            " Daniel Wu",
+            " Mikey Eberle"
+        ],
+        "tam": [
+            "Kimberly Boyd",
+            " David Dobkin",
+            " Stephen Fung",
+            " Alfred Gough",
+            " Huen Chiu Ku",
+            " Miles Millar",
+            " Michael Shamberg",
+            " Stacey Sher",
+            " Daniel Wu",
+            " Mikey Eberle"
+        ],
+        "ind": [
+            "Kimberly Boyd",
+            " David Dobkin",
+            " Stephen Fung",
+            " Alfred Gough",
+            " Huen Chiu Ku",
+            " Miles Millar",
+            " Michael Shamberg",
+            " Stacey Sher",
+            " Daniel Wu",
+            " Mikey Eberle"
+        ],
+        "tha": [
+            "Kimberly Boyd",
+            " David Dobkin",
+            " Stephen Fung",
+            " Alfred Gough",
+            " Huen Chiu Ku",
+            " Miles Millar",
+            " Michael Shamberg",
+            " Stacey Sher",
+            " Daniel Wu",
+            " Mikey Eberle"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_a98128ff-836a-5b2b-ba52-caff256a5466",
+    "seasonNumber": "3",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "INTO THE BADLANDS Season 3",
+            "may": "INTO THE BADLANDS Season 3",
+            "chi": "INTO THE BADLANDS Season 3",
+            "tam": "INTO THE BADLANDS Season 3",
+            "ind": "INTO THE BADLANDS Season 3",
+            "tha": "INTO THE BADLANDS Season 3"
+        },
+        "long": {
+            "eng": "INTO THE BADLANDS Season 3",
+            "may": "INTO THE BADLANDS Season 3",
+            "chi": "INTO THE BADLANDS Season 3",
+            "tam": "INTO THE BADLANDS Season 3",
+            "ind": "INTO THE BADLANDS Season 3",
+            "tha": "INTO THE BADLANDS Season 3"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "may": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "chi": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "tam": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "ind": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "tha": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons."
+        },
+        "long": {
+            "eng": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "may": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "chi": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "tam": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "ind": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons.",
+            "tha": "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic America controlled by feudal barons."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/INTOTHEBADLANDSSeason3_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/INTOTHEBADLANDSSeason3_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/INTOTHEBADLANDSSeason3_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

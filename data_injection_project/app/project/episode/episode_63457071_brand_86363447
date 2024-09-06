@@ -1,0 +1,355 @@
+{
+    "externalId": "AggregatedTvShow_5b4c7a0c-c81d-50e8-a494-908750c43ec2",
+    "clientContentId": "PACK0000000006730899",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Bastard Son & The Devil Himself - Trailer",
+            "may": "The Bastard Son & The Devil Himself - Trailer",
+            "tam": "The Bastard Son & The Devil Himself - Trailer",
+            "chi": "The Bastard Son & The Devil Himself - Trailer",
+            "tha": "The Bastard Son & The Devil Himself - Trailer",
+            "ind": "The Bastard Son & The Devil Himself - Trailer"
+        },
+        "long": {
+            "eng": "The Bastard Son & The Devil Himself - Trailer",
+            "may": "The Bastard Son & The Devil Himself - Trailer",
+            "tam": "The Bastard Son & The Devil Himself - Trailer",
+            "chi": "The Bastard Son & The Devil Himself - Trailer",
+            "tha": "The Bastard Son & The Devil Himself - Trailer",
+            "ind": "The Bastard Son & The Devil Himself - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "may": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "tam": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "chi": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "tha": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "ind": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers."
+        },
+        "long": {
+            "eng": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "may": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "tam": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "chi": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "tha": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers.",
+            "ind": "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world \u2014 and his powers."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jay Lycurgo",
+            " Nadia Parkes",
+            " Paul Ready",
+            " Isobel Jesper Jones",
+            " Karen Connell",
+            " Jeska Pike",
+            " Hector Hewer",
+            " Emilien Vekemans",
+            " Fehinti Balogun",
+            " Luke Polie"
+        ],
+        "may": [
+            "Jay Lycurgo",
+            " Nadia Parkes",
+            " Paul Ready",
+            " Isobel Jesper Jones",
+            " Karen Connell",
+            " Jeska Pike",
+            " Hector Hewer",
+            " Emilien Vekemans",
+            " Fehinti Balogun",
+            " Luke Polie"
+        ],
+        "tam": [
+            "Jay Lycurgo",
+            " Nadia Parkes",
+            " Paul Ready",
+            " Isobel Jesper Jones",
+            " Karen Connell",
+            " Jeska Pike",
+            " Hector Hewer",
+            " Emilien Vekemans",
+            " Fehinti Balogun",
+            " Luke Polie"
+        ],
+        "chi": [
+            "Jay Lycurgo",
+            " Nadia Parkes",
+            " Paul Ready",
+            " Isobel Jesper Jones",
+            " Karen Connell",
+            " Jeska Pike",
+            " Hector Hewer",
+            " Emilien Vekemans",
+            " Fehinti Balogun",
+            " Luke Polie"
+        ],
+        "tha": [
+            "Jay Lycurgo",
+            " Nadia Parkes",
+            " Paul Ready",
+            " Isobel Jesper Jones",
+            " Karen Connell",
+            " Jeska Pike",
+            " Hector Hewer",
+            " Emilien Vekemans",
+            " Fehinti Balogun",
+            " Luke Polie"
+        ],
+        "ind": [
+            "Jay Lycurgo",
+            " Nadia Parkes",
+            " Paul Ready",
+            " Isobel Jesper Jones",
+            " Karen Connell",
+            " Jeska Pike",
+            " Hector Hewer",
+            " Emilien Vekemans",
+            " Fehinti Balogun",
+            " Luke Polie"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Colm McCarthy",
+            " Debs Paterson",
+            " Rachna Suri"
+        ],
+        "may": [
+            "Colm McCarthy",
+            " Debs Paterson",
+            " Rachna Suri"
+        ],
+        "tam": [
+            "Colm McCarthy",
+            " Debs Paterson",
+            " Rachna Suri"
+        ],
+        "chi": [
+            "Colm McCarthy",
+            " Debs Paterson",
+            " Rachna Suri"
+        ],
+        "tha": [
+            "Colm McCarthy",
+            " Debs Paterson",
+            " Rachna Suri"
+        ],
+        "ind": [
+            "Colm McCarthy",
+            " Debs Paterson",
+            " Rachna Suri"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jonathan Cavendish",
+            " Steve Clark-Hall",
+            " Colm McCarthy",
+            " Lizzie Rusbridger",
+            " Catherine Slater",
+            " Adrian Sturges",
+            " Will Tennant",
+            " Emily Thomas",
+            " Joe Barton",
+            " Andy Serkis"
+        ],
+        "may": [
+            "Jonathan Cavendish",
+            " Steve Clark-Hall",
+            " Colm McCarthy",
+            " Lizzie Rusbridger",
+            " Catherine Slater",
+            " Adrian Sturges",
+            " Will Tennant",
+            " Emily Thomas",
+            " Joe Barton",
+            " Andy Serkis"
+        ],
+        "tam": [
+            "Jonathan Cavendish",
+            " Steve Clark-Hall",
+            " Colm McCarthy",
+            " Lizzie Rusbridger",
+            " Catherine Slater",
+            " Adrian Sturges",
+            " Will Tennant",
+            " Emily Thomas",
+            " Joe Barton",
+            " Andy Serkis"
+        ],
+        "chi": [
+            "Jonathan Cavendish",
+            " Steve Clark-Hall",
+            " Colm McCarthy",
+            " Lizzie Rusbridger",
+            " Catherine Slater",
+            " Adrian Sturges",
+            " Will Tennant",
+            " Emily Thomas",
+            " Joe Barton",
+            " Andy Serkis"
+        ],
+        "tha": [
+            "Jonathan Cavendish",
+            " Steve Clark-Hall",
+            " Colm McCarthy",
+            " Lizzie Rusbridger",
+            " Catherine Slater",
+            " Adrian Sturges",
+            " Will Tennant",
+            " Emily Thomas",
+            " Joe Barton",
+            " Andy Serkis"
+        ],
+        "ind": [
+            "Jonathan Cavendish",
+            " Steve Clark-Hall",
+            " Colm McCarthy",
+            " Lizzie Rusbridger",
+            " Catherine Slater",
+            " Adrian Sturges",
+            " Will Tennant",
+            " Emily Thomas",
+            " Joe Barton",
+            " Andy Serkis"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheBastardSon&TheDevilHimselfSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheBastardSon&TheDevilHimselfSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheBastardSon&TheDevilHimselfSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_df68762c-29c7-52f5-a2fa-daed48441d09",
+    "seasonId": "AggregatedSeason_87b005a6-bdcb-5051-bd1b-d4c5dae08656",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "15",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

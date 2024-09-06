@@ -1,0 +1,359 @@
+{
+    "externalId": "AggregatedSeason_8b6165fa-6d21-532c-b6fd-63e18f051e4b",
+    "clientContentId": "PACK0000000004749234",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Fantasy",
+                    "may": " Fantasy",
+                    "chi": " Fantasy",
+                    "tam": " Fantasy",
+                    "ind": " Fantasy",
+                    "tha": " Fantasy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "TV-14",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Winona Ryder",
+            " David Harbour",
+            " Finn Wolfhard",
+            " Gaten Matarazzo",
+            " Caleb McLaughlin",
+            " Natalia Dyer",
+            " Charlie Heaton",
+            " Joe Keery",
+            " Millie Bobby Brown",
+            " Noah Schnapp"
+        ],
+        "may": [
+            "Winona Ryder",
+            " David Harbour",
+            " Finn Wolfhard",
+            " Gaten Matarazzo",
+            " Caleb McLaughlin",
+            " Natalia Dyer",
+            " Charlie Heaton",
+            " Joe Keery",
+            " Millie Bobby Brown",
+            " Noah Schnapp"
+        ],
+        "chi": [
+            "Winona Ryder",
+            " David Harbour",
+            " Finn Wolfhard",
+            " Gaten Matarazzo",
+            " Caleb McLaughlin",
+            " Natalia Dyer",
+            " Charlie Heaton",
+            " Joe Keery",
+            " Millie Bobby Brown",
+            " Noah Schnapp"
+        ],
+        "tam": [
+            "Winona Ryder",
+            " David Harbour",
+            " Finn Wolfhard",
+            " Gaten Matarazzo",
+            " Caleb McLaughlin",
+            " Natalia Dyer",
+            " Charlie Heaton",
+            " Joe Keery",
+            " Millie Bobby Brown",
+            " Noah Schnapp"
+        ],
+        "ind": [
+            "Winona Ryder",
+            " David Harbour",
+            " Finn Wolfhard",
+            " Gaten Matarazzo",
+            " Caleb McLaughlin",
+            " Natalia Dyer",
+            " Charlie Heaton",
+            " Joe Keery",
+            " Millie Bobby Brown",
+            " Noah Schnapp"
+        ],
+        "tha": [
+            "Winona Ryder",
+            " David Harbour",
+            " Finn Wolfhard",
+            " Gaten Matarazzo",
+            " Caleb McLaughlin",
+            " Natalia Dyer",
+            " Charlie Heaton",
+            " Joe Keery",
+            " Millie Bobby Brown",
+            " Noah Schnapp"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Andrew Stanton",
+            " Uta Briesewitz",
+            " Nimr\u00f3d Antal",
+            " Rebecca Thomas"
+        ],
+        "may": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Andrew Stanton",
+            " Uta Briesewitz",
+            " Nimr\u00f3d Antal",
+            " Rebecca Thomas"
+        ],
+        "chi": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Andrew Stanton",
+            " Uta Briesewitz",
+            " Nimr\u00f3d Antal",
+            " Rebecca Thomas"
+        ],
+        "tam": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Andrew Stanton",
+            " Uta Briesewitz",
+            " Nimr\u00f3d Antal",
+            " Rebecca Thomas"
+        ],
+        "ind": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Andrew Stanton",
+            " Uta Briesewitz",
+            " Nimr\u00f3d Antal",
+            " Rebecca Thomas"
+        ],
+        "tha": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Andrew Stanton",
+            " Uta Briesewitz",
+            " Nimr\u00f3d Antal",
+            " Rebecca Thomas"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Dan Cohen",
+            " Rand Geiger",
+            " Emily Morris",
+            " Iain Paterson",
+            " Justin Doble",
+            " Curtis Gwinn",
+            " Paula Kramer"
+        ],
+        "may": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Dan Cohen",
+            " Rand Geiger",
+            " Emily Morris",
+            " Iain Paterson",
+            " Justin Doble",
+            " Curtis Gwinn",
+            " Paula Kramer"
+        ],
+        "chi": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Dan Cohen",
+            " Rand Geiger",
+            " Emily Morris",
+            " Iain Paterson",
+            " Justin Doble",
+            " Curtis Gwinn",
+            " Paula Kramer"
+        ],
+        "tam": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Dan Cohen",
+            " Rand Geiger",
+            " Emily Morris",
+            " Iain Paterson",
+            " Justin Doble",
+            " Curtis Gwinn",
+            " Paula Kramer"
+        ],
+        "ind": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Dan Cohen",
+            " Rand Geiger",
+            " Emily Morris",
+            " Iain Paterson",
+            " Justin Doble",
+            " Curtis Gwinn",
+            " Paula Kramer"
+        ],
+        "tha": [
+            "Matt Duffer",
+            " Ross Duffer",
+            " Shawn Levy",
+            " Dan Cohen",
+            " Rand Geiger",
+            " Emily Morris",
+            " Iain Paterson",
+            " Justin Doble",
+            " Curtis Gwinn",
+            " Paula Kramer"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_ea31acb3-18b9-57f6-a78b-1aa049a15122",
+    "seasonNumber": "3",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Stranger Things Season 3",
+            "may": "Stranger Things Season 3",
+            "chi": "Stranger Things Season 3",
+            "tam": "Stranger Things Season 3",
+            "ind": "Stranger Things Season 3",
+            "tha": "Stranger Things Season 3"
+        },
+        "long": {
+            "eng": "Stranger Things Season 3",
+            "may": "Stranger Things Season 3",
+            "chi": "Stranger Things Season 3",
+            "tam": "Stranger Things Season 3",
+            "ind": "Stranger Things Season 3",
+            "tha": "Stranger Things Season 3"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "may": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "chi": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "tam": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "ind": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "tha": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back."
+        },
+        "long": {
+            "eng": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "may": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "chi": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "tam": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "ind": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+            "tha": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StrangerThingsSeason3_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StrangerThingsSeason3_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StrangerThingsSeason3_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

@@ -1,0 +1,329 @@
+{
+    "externalId": "AggregatedSeason_cfd636dc-afa2-503e-ba79-14a7ed144813",
+    "clientContentId": "PACK0000000002100575",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " History",
+                    "may": " History",
+                    "chi": " History",
+                    "tam": " History",
+                    "ind": " History",
+                    "tha": " History"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2023,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Bronte Carmichael",
+            " Tom Sweet",
+            " Gianni Calchetti",
+            " Olivia Colman",
+            " Matt Berry",
+            " Fionn Whitehead",
+            " Shalom Brune-Franklin",
+            " Hayley Squires",
+            " Johnny Harris",
+            " Trystan Gravelle"
+        ],
+        "may": [
+            "Bronte Carmichael",
+            " Tom Sweet",
+            " Gianni Calchetti",
+            " Olivia Colman",
+            " Matt Berry",
+            " Fionn Whitehead",
+            " Shalom Brune-Franklin",
+            " Hayley Squires",
+            " Johnny Harris",
+            " Trystan Gravelle"
+        ],
+        "chi": [
+            "Bronte Carmichael",
+            " Tom Sweet",
+            " Gianni Calchetti",
+            " Olivia Colman",
+            " Matt Berry",
+            " Fionn Whitehead",
+            " Shalom Brune-Franklin",
+            " Hayley Squires",
+            " Johnny Harris",
+            " Trystan Gravelle"
+        ],
+        "tam": [
+            "Bronte Carmichael",
+            " Tom Sweet",
+            " Gianni Calchetti",
+            " Olivia Colman",
+            " Matt Berry",
+            " Fionn Whitehead",
+            " Shalom Brune-Franklin",
+            " Hayley Squires",
+            " Johnny Harris",
+            " Trystan Gravelle"
+        ],
+        "ind": [
+            "Bronte Carmichael",
+            " Tom Sweet",
+            " Gianni Calchetti",
+            " Olivia Colman",
+            " Matt Berry",
+            " Fionn Whitehead",
+            " Shalom Brune-Franklin",
+            " Hayley Squires",
+            " Johnny Harris",
+            " Trystan Gravelle"
+        ],
+        "tha": [
+            "Bronte Carmichael",
+            " Tom Sweet",
+            " Gianni Calchetti",
+            " Olivia Colman",
+            " Matt Berry",
+            " Fionn Whitehead",
+            " Shalom Brune-Franklin",
+            " Hayley Squires",
+            " Johnny Harris",
+            " Trystan Gravelle"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Brady Hood",
+            " Samira Radsi"
+        ],
+        "may": [
+            "Brady Hood",
+            " Samira Radsi"
+        ],
+        "chi": [
+            "Brady Hood",
+            " Samira Radsi"
+        ],
+        "tam": [
+            "Brady Hood",
+            " Samira Radsi"
+        ],
+        "ind": [
+            "Brady Hood",
+            " Samira Radsi"
+        ],
+        "tha": [
+            "Brady Hood",
+            " Samira Radsi"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Dean Baker",
+            " Kate Crowe",
+            " Greg Harris",
+            " Mark Kinsella",
+            " Matt Jennings",
+            " Tom Hardy",
+            " Steven Knight",
+            " Ridley Scott",
+            " David W. Zucker",
+            " "
+        ],
+        "may": [
+            "Dean Baker",
+            " Kate Crowe",
+            " Greg Harris",
+            " Mark Kinsella",
+            " Matt Jennings",
+            " Tom Hardy",
+            " Steven Knight",
+            " Ridley Scott",
+            " David W. Zucker",
+            " "
+        ],
+        "chi": [
+            "Dean Baker",
+            " Kate Crowe",
+            " Greg Harris",
+            " Mark Kinsella",
+            " Matt Jennings",
+            " Tom Hardy",
+            " Steven Knight",
+            " Ridley Scott",
+            " David W. Zucker",
+            " "
+        ],
+        "tam": [
+            "Dean Baker",
+            " Kate Crowe",
+            " Greg Harris",
+            " Mark Kinsella",
+            " Matt Jennings",
+            " Tom Hardy",
+            " Steven Knight",
+            " Ridley Scott",
+            " David W. Zucker",
+            " "
+        ],
+        "ind": [
+            "Dean Baker",
+            " Kate Crowe",
+            " Greg Harris",
+            " Mark Kinsella",
+            " Matt Jennings",
+            " Tom Hardy",
+            " Steven Knight",
+            " Ridley Scott",
+            " David W. Zucker",
+            " "
+        ],
+        "tha": [
+            "Dean Baker",
+            " Kate Crowe",
+            " Greg Harris",
+            " Mark Kinsella",
+            " Matt Jennings",
+            " Tom Hardy",
+            " Steven Knight",
+            " Ridley Scott",
+            " David W. Zucker",
+            " "
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_a55899b1-b4be-525a-be7d-a2f4d81e8210",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Great Expectations Season 1",
+            "may": "Great Expectations Season 1",
+            "chi": "Great Expectations Season 1",
+            "tam": "Great Expectations Season 1",
+            "ind": "Great Expectations Season 1",
+            "tha": "Great Expectations Season 1"
+        },
+        "long": {
+            "eng": "Great Expectations Season 1",
+            "may": "Great Expectations Season 1",
+            "chi": "Great Expectations Season 1",
+            "tam": "Great Expectations Season 1",
+            "ind": "Great Expectations Season 1",
+            "tha": "Great Expectations Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "may": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "chi": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "tam": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "ind": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "tha": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society."
+        },
+        "long": {
+            "eng": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "may": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "chi": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "tam": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "ind": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society.",
+            "tha": "Follows orphan Pip, who spent his childhood as a blacksmith's apprentice and suddenly receives a windfall from an unknown benefactor that allows him to travel to London and enter high society."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/GreatExpectationsSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/GreatExpectationsSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/GreatExpectationsSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

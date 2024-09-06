@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedMovie_e890ca93-96e2-5b33-89e1-0470628ff419",
+    "clientContentId": "PACK0000000006873778",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Emancipation",
+            "may": "Emancipation",
+            "tam": "Emancipation",
+            "chi": "Emancipation",
+            "tha": "Emancipation",
+            "ind": "Emancipation"
+        },
+        "long": {
+            "eng": "Emancipation",
+            "may": "Emancipation",
+            "tam": "Emancipation",
+            "chi": "Emancipation",
+            "tha": "Emancipation",
+            "ind": "Emancipation"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A runaway slave forges through the swamps of Louisiana on a tortuous journey to escape plantation owners that nearly killed him.",
+            "may": "A runaway slave forges through the swamps of Louisiana on a tortuous journey to escape plantation owners that nearly killed him.",
+            "tam": "A runaway slave forges through the swamps of Louisiana on a tortuous journey to escape plantation owners that nearly killed him.",
+            "chi": "A runaway slave forges through the swamps of Louisiana on a tortuous journey to escape plantation owners that nearly killed him.",
+            "tha": "A runaway slave forges through the swamps of Louisiana on a tortuous journey to escape plantation owners that nearly killed him.",
+            "ind": "A runaway slave forges through the swamps of Louisiana on a tortuous journey to escape plantation owners that nearly killed him."
+        },
+        "long": {
+            "eng": "A runaway slave forges through the swamps of Louisiana on a tortuous journey to escape plantation owners that nearly killed him.",
+            "may": "A runaway slave forges through the swamps of Louisiana on a tortuous journey to escape plantation owners that nearly killed him.",
+            "tam": "A runaway slave forges through the swamps of Louisiana on a tortuous journey to escape plantation owners that nearly killed him.",
+            "chi": "A runaway slave forges through the swamps of Louisiana on a tortuous journey to escape plantation owners that nearly killed him.",
+            "tha": "A runaway slave forges through the swamps of Louisiana on a tortuous journey to escape plantation owners that nearly killed him.",
+            "ind": "A runaway slave forges through the swamps of Louisiana on a tortuous journey to escape plantation owners that nearly killed him."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Will Smith",
+            " Ben Foster",
+            " Charmaine Bingwa",
+            " Gilbert Owuor",
+            " Ronnie Gene Blevins",
+            " Aaron MotenJabbar LewisMichael LuwoyeSteven OggGrant Harvey"
+        ],
+        "may": [
+            "Will Smith",
+            " Ben Foster",
+            " Charmaine Bingwa",
+            " Gilbert Owuor",
+            " Ronnie Gene Blevins",
+            " Aaron MotenJabbar LewisMichael LuwoyeSteven OggGrant Harvey"
+        ],
+        "tam": [
+            "Will Smith",
+            " Ben Foster",
+            " Charmaine Bingwa",
+            " Gilbert Owuor",
+            " Ronnie Gene Blevins",
+            " Aaron MotenJabbar LewisMichael LuwoyeSteven OggGrant Harvey"
+        ],
+        "chi": [
+            "Will Smith",
+            " Ben Foster",
+            " Charmaine Bingwa",
+            " Gilbert Owuor",
+            " Ronnie Gene Blevins",
+            " Aaron MotenJabbar LewisMichael LuwoyeSteven OggGrant Harvey"
+        ],
+        "tha": [
+            "Will Smith",
+            " Ben Foster",
+            " Charmaine Bingwa",
+            " Gilbert Owuor",
+            " Ronnie Gene Blevins",
+            " Aaron MotenJabbar LewisMichael LuwoyeSteven OggGrant Harvey"
+        ],
+        "ind": [
+            "Will Smith",
+            " Ben Foster",
+            " Charmaine Bingwa",
+            " Gilbert Owuor",
+            " Ronnie Gene Blevins",
+            " Aaron MotenJabbar LewisMichael LuwoyeSteven OggGrant Harvey"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Antoine Fuqua"
+        ],
+        "may": [
+            "Antoine Fuqua"
+        ],
+        "tam": [
+            "Antoine Fuqua"
+        ],
+        "chi": [
+            "Antoine Fuqua"
+        ],
+        "tha": [
+            "Antoine Fuqua"
+        ],
+        "ind": [
+            "Antoine Fuqua"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Glen Basner",
+            " Todd Black",
+            " Chris Brigham",
+            " Antoine Fuqua",
+            " Scott Greenberg",
+            " James LassiterJoey McFarlandJon MoneCliff RobertsKat Samick"
+        ],
+        "may": [
+            "Glen Basner",
+            " Todd Black",
+            " Chris Brigham",
+            " Antoine Fuqua",
+            " Scott Greenberg",
+            " James LassiterJoey McFarlandJon MoneCliff RobertsKat Samick"
+        ],
+        "tam": [
+            "Glen Basner",
+            " Todd Black",
+            " Chris Brigham",
+            " Antoine Fuqua",
+            " Scott Greenberg",
+            " James LassiterJoey McFarlandJon MoneCliff RobertsKat Samick"
+        ],
+        "chi": [
+            "Glen Basner",
+            " Todd Black",
+            " Chris Brigham",
+            " Antoine Fuqua",
+            " Scott Greenberg",
+            " James LassiterJoey McFarlandJon MoneCliff RobertsKat Samick"
+        ],
+        "tha": [
+            "Glen Basner",
+            " Todd Black",
+            " Chris Brigham",
+            " Antoine Fuqua",
+            " Scott Greenberg",
+            " James LassiterJoey McFarlandJon MoneCliff RobertsKat Samick"
+        ],
+        "ind": [
+            "Glen Basner",
+            " Todd Black",
+            " Chris Brigham",
+            " Antoine Fuqua",
+            " Scott Greenberg",
+            " James LassiterJoey McFarlandJon MoneCliff RobertsKat Samick"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Thriller",
+                    "may": " Thriller",
+                    "tam": " Thriller",
+                    "chi": " Thriller",
+                    "tha": " Thriller",
+                    "ind": " Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Emancipation_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Emancipation_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Emancipation_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "6.1",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

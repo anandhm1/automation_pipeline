@@ -1,0 +1,235 @@
+{
+    "externalId": "AggregatedSeries_232f550b-d50a-5f81-b196-b821bd4d3b2d",
+    "clientContentId": "PACK0000000003655661",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Girlfriend Experience",
+            "may": "The Girlfriend Experience",
+            "tam": "The Girlfriend Experience",
+            "chi": "The Girlfriend Experience",
+            "tha": "The Girlfriend Experience",
+            "ind": "The Girlfriend Experience"
+        },
+        "long": {
+            "eng": "The Girlfriend Experience",
+            "may": "The Girlfriend Experience",
+            "tam": "The Girlfriend Experience",
+            "chi": "The Girlfriend Experience",
+            "tha": "The Girlfriend Experience",
+            "ind": "The Girlfriend Experience"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "may": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "tam": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "chi": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "tha": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "ind": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships."
+        },
+        "long": {
+            "eng": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "may": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "tam": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "chi": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "tha": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships.",
+            "ind": "Christine Reade is a second-year law student and a new intern at a prestigious law firm. Her focus quickly shifts when a classmate introduces her to the world of transactional relationships."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Riley Keough",
+            " Paul Sparks",
+            " Mary Lynn Rajskub"
+        ],
+        "may": [
+            "Riley Keough",
+            " Paul Sparks",
+            " Mary Lynn Rajskub"
+        ],
+        "tam": [
+            "Riley Keough",
+            " Paul Sparks",
+            " Mary Lynn Rajskub"
+        ],
+        "chi": [
+            "Riley Keough",
+            " Paul Sparks",
+            " Mary Lynn Rajskub"
+        ],
+        "tha": [
+            "Riley Keough",
+            " Paul Sparks",
+            " Mary Lynn Rajskub"
+        ],
+        "ind": [
+            "Riley Keough",
+            " Paul Sparks",
+            " Mary Lynn Rajskub"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Lodge Kerrigan",
+            " Amy Seimetz",
+            " Anja Marquardt"
+        ],
+        "may": [
+            "Lodge Kerrigan",
+            " Amy Seimetz",
+            " Anja Marquardt"
+        ],
+        "tam": [
+            "Lodge Kerrigan",
+            " Amy Seimetz",
+            " Anja Marquardt"
+        ],
+        "chi": [
+            "Lodge Kerrigan",
+            " Amy Seimetz",
+            " Anja Marquardt"
+        ],
+        "tha": [
+            "Lodge Kerrigan",
+            " Amy Seimetz",
+            " Anja Marquardt"
+        ],
+        "ind": [
+            "Lodge Kerrigan",
+            " Amy Seimetz",
+            " Anja Marquardt"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Gregory Jacobs",
+            " Todd Wagner"
+        ],
+        "may": [
+            "Gregory Jacobs",
+            " Todd Wagner"
+        ],
+        "tam": [
+            "Gregory Jacobs",
+            " Todd Wagner"
+        ],
+        "chi": [
+            "Gregory Jacobs",
+            " Todd Wagner"
+        ],
+        "tha": [
+            "Gregory Jacobs",
+            " Todd Wagner"
+        ],
+        "ind": [
+            "Gregory Jacobs",
+            " Todd Wagner"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheGirlfriendExperience_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheGirlfriendExperience_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheGirlfriendExperience_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "8",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2016,
+    "maxConcurrentStreams": 0
+}

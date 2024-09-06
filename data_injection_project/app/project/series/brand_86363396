@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedSeries_f97dfa9a-3af0-5656-9677-7c3afc380bb5",
+    "clientContentId": "PACK0000000002261984",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Fate The Winx Saga",
+            "may": "Fate The Winx Saga",
+            "tam": "Fate The Winx Saga",
+            "chi": "Fate The Winx Saga",
+            "tha": "Fate The Winx Saga",
+            "ind": "Fate The Winx Saga"
+        },
+        "long": {
+            "eng": "Fate The Winx Saga",
+            "may": "Fate The Winx Saga",
+            "tam": "Fate The Winx Saga",
+            "chi": "Fate The Winx Saga",
+            "tha": "Fate The Winx Saga",
+            "ind": "Fate The Winx Saga"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A live-action adaptation of Nickelodeon's Winx Club (2004). It follows Bloom as she adjusts to life in the Otherworld, where she must learn to control her dangerous magical powers.",
+            "may": "A live-action adaptation of Nickelodeon's Winx Club (2004). It follows Bloom as she adjusts to life in the Otherworld, where she must learn to control her dangerous magical powers.",
+            "tam": "A live-action adaptation of Nickelodeon's Winx Club (2004). It follows Bloom as she adjusts to life in the Otherworld, where she must learn to control her dangerous magical powers.",
+            "chi": "A live-action adaptation of Nickelodeon's Winx Club (2004). It follows Bloom as she adjusts to life in the Otherworld, where she must learn to control her dangerous magical powers.",
+            "tha": "A live-action adaptation of Nickelodeon's Winx Club (2004). It follows Bloom as she adjusts to life in the Otherworld, where she must learn to control her dangerous magical powers.",
+            "ind": "A live-action adaptation of Nickelodeon's Winx Club (2004). It follows Bloom as she adjusts to life in the Otherworld, where she must learn to control her dangerous magical powers."
+        },
+        "long": {
+            "eng": "A live-action adaptation of Nickelodeon's Winx Club (2004). It follows Bloom as she adjusts to life in the Otherworld, where she must learn to control her dangerous magical powers.",
+            "may": "A live-action adaptation of Nickelodeon's Winx Club (2004). It follows Bloom as she adjusts to life in the Otherworld, where she must learn to control her dangerous magical powers.",
+            "tam": "A live-action adaptation of Nickelodeon's Winx Club (2004). It follows Bloom as she adjusts to life in the Otherworld, where she must learn to control her dangerous magical powers.",
+            "chi": "A live-action adaptation of Nickelodeon's Winx Club (2004). It follows Bloom as she adjusts to life in the Otherworld, where she must learn to control her dangerous magical powers.",
+            "tha": "A live-action adaptation of Nickelodeon's Winx Club (2004). It follows Bloom as she adjusts to life in the Otherworld, where she must learn to control her dangerous magical powers.",
+            "ind": "A live-action adaptation of Nickelodeon's Winx Club (2004). It follows Bloom as she adjusts to life in the Otherworld, where she must learn to control her dangerous magical powers."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Abigail Cowen",
+            " Hannah van der Westhuysen",
+            " Precious Mustapha",
+            " Eliot Salt",
+            " Elisha Applebaum",
+            " Danny Griffin",
+            " Sadie Soverall",
+            " Freddie Thorp",
+            " Robert James-Collier",
+            " Theo Graham"
+        ],
+        "may": [
+            "Abigail Cowen",
+            " Hannah van der Westhuysen",
+            " Precious Mustapha",
+            " Eliot Salt",
+            " Elisha Applebaum",
+            " Danny Griffin",
+            " Sadie Soverall",
+            " Freddie Thorp",
+            " Robert James-Collier",
+            " Theo Graham"
+        ],
+        "tam": [
+            "Abigail Cowen",
+            " Hannah van der Westhuysen",
+            " Precious Mustapha",
+            " Eliot Salt",
+            " Elisha Applebaum",
+            " Danny Griffin",
+            " Sadie Soverall",
+            " Freddie Thorp",
+            " Robert James-Collier",
+            " Theo Graham"
+        ],
+        "chi": [
+            "Abigail Cowen",
+            " Hannah van der Westhuysen",
+            " Precious Mustapha",
+            " Eliot Salt",
+            " Elisha Applebaum",
+            " Danny Griffin",
+            " Sadie Soverall",
+            " Freddie Thorp",
+            " Robert James-Collier",
+            " Theo Graham"
+        ],
+        "tha": [
+            "Abigail Cowen",
+            " Hannah van der Westhuysen",
+            " Precious Mustapha",
+            " Eliot Salt",
+            " Elisha Applebaum",
+            " Danny Griffin",
+            " Sadie Soverall",
+            " Freddie Thorp",
+            " Robert James-Collier",
+            " Theo Graham"
+        ],
+        "ind": [
+            "Abigail Cowen",
+            " Hannah van der Westhuysen",
+            " Precious Mustapha",
+            " Eliot Salt",
+            " Elisha Applebaum",
+            " Danny Griffin",
+            " Sadie Soverall",
+            " Freddie Thorp",
+            " Robert James-Collier",
+            " Theo Graham"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Edward Bazalgette",
+            " Lisa James Larsson",
+            " Hannah Quinn",
+            " Stephen Woolfenden",
+            " Sallie Aprahamian",
+            " David Moore"
+        ],
+        "may": [
+            "Edward Bazalgette",
+            " Lisa James Larsson",
+            " Hannah Quinn",
+            " Stephen Woolfenden",
+            " Sallie Aprahamian",
+            " David Moore"
+        ],
+        "tam": [
+            "Edward Bazalgette",
+            " Lisa James Larsson",
+            " Hannah Quinn",
+            " Stephen Woolfenden",
+            " Sallie Aprahamian",
+            " David Moore"
+        ],
+        "chi": [
+            "Edward Bazalgette",
+            " Lisa James Larsson",
+            " Hannah Quinn",
+            " Stephen Woolfenden",
+            " Sallie Aprahamian",
+            " David Moore"
+        ],
+        "tha": [
+            "Edward Bazalgette",
+            " Lisa James Larsson",
+            " Hannah Quinn",
+            " Stephen Woolfenden",
+            " Sallie Aprahamian",
+            " David Moore"
+        ],
+        "ind": [
+            "Edward Bazalgette",
+            " Lisa James Larsson",
+            " Hannah Quinn",
+            " Stephen Woolfenden",
+            " Sallie Aprahamian",
+            " David Moore"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Cristiana Buzzelli",
+            " Judy Counihan",
+            " Macdara Kelleher",
+            " John Keville",
+            " Joanne Lee",
+            " Kris Thykier",
+            " Brian Young",
+            " Shaina Fewell",
+            " Donna Eperon",
+            " Jon Finn"
+        ],
+        "may": [
+            "Cristiana Buzzelli",
+            " Judy Counihan",
+            " Macdara Kelleher",
+            " John Keville",
+            " Joanne Lee",
+            " Kris Thykier",
+            " Brian Young",
+            " Shaina Fewell",
+            " Donna Eperon",
+            " Jon Finn"
+        ],
+        "tam": [
+            "Cristiana Buzzelli",
+            " Judy Counihan",
+            " Macdara Kelleher",
+            " John Keville",
+            " Joanne Lee",
+            " Kris Thykier",
+            " Brian Young",
+            " Shaina Fewell",
+            " Donna Eperon",
+            " Jon Finn"
+        ],
+        "chi": [
+            "Cristiana Buzzelli",
+            " Judy Counihan",
+            " Macdara Kelleher",
+            " John Keville",
+            " Joanne Lee",
+            " Kris Thykier",
+            " Brian Young",
+            " Shaina Fewell",
+            " Donna Eperon",
+            " Jon Finn"
+        ],
+        "tha": [
+            "Cristiana Buzzelli",
+            " Judy Counihan",
+            " Macdara Kelleher",
+            " John Keville",
+            " Joanne Lee",
+            " Kris Thykier",
+            " Brian Young",
+            " Shaina Fewell",
+            " Donna Eperon",
+            " Jon Finn"
+        ],
+        "ind": [
+            "Cristiana Buzzelli",
+            " Judy Counihan",
+            " Macdara Kelleher",
+            " John Keville",
+            " Joanne Lee",
+            " Kris Thykier",
+            " Brian Young",
+            " Shaina Fewell",
+            " Donna Eperon",
+            " Jon Finn"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/FateTheWinxSagaSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/FateTheWinxSagaSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/FateTheWinxSagaSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "9",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2021,
+    "maxConcurrentStreams": 0
+}

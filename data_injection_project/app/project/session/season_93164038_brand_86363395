@@ -1,0 +1,305 @@
+{
+    "externalId": "AggregatedSeason_8b4c64e1-3239-5f4d-817a-d1cc88431fce",
+    "clientContentId": "PACK0000000006611512",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Mystery",
+                    "may": " Mystery",
+                    "chi": " Mystery",
+                    "tam": " Mystery",
+                    "ind": " Mystery",
+                    "tha": " Mystery"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "MA15+",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Michelle Monaghan",
+            " Matt Bomer",
+            " Karen Robinson",
+            " Ali Stroker",
+            " Gable Swanlund",
+            " Rosanny ZayasMichael O'NeillJonathan TuckerDaniel SunjataMadison Abbott"
+        ],
+        "may": [
+            "Michelle Monaghan",
+            " Matt Bomer",
+            " Karen Robinson",
+            " Ali Stroker",
+            " Gable Swanlund",
+            " Rosanny ZayasMichael O'NeillJonathan TuckerDaniel SunjataMadison Abbott"
+        ],
+        "chi": [
+            "Michelle Monaghan",
+            " Matt Bomer",
+            " Karen Robinson",
+            " Ali Stroker",
+            " Gable Swanlund",
+            " Rosanny ZayasMichael O'NeillJonathan TuckerDaniel SunjataMadison Abbott"
+        ],
+        "tam": [
+            "Michelle Monaghan",
+            " Matt Bomer",
+            " Karen Robinson",
+            " Ali Stroker",
+            " Gable Swanlund",
+            " Rosanny ZayasMichael O'NeillJonathan TuckerDaniel SunjataMadison Abbott"
+        ],
+        "ind": [
+            "Michelle Monaghan",
+            " Matt Bomer",
+            " Karen Robinson",
+            " Ali Stroker",
+            " Gable Swanlund",
+            " Rosanny ZayasMichael O'NeillJonathan TuckerDaniel SunjataMadison Abbott"
+        ],
+        "tha": [
+            "Michelle Monaghan",
+            " Matt Bomer",
+            " Karen Robinson",
+            " Ali Stroker",
+            " Gable Swanlund",
+            " Rosanny ZayasMichael O'NeillJonathan TuckerDaniel SunjataMadison Abbott"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Kat Candler",
+            " Li Lu",
+            " Anna Mastro",
+            " Valerie Weiss",
+            " ",
+            " "
+        ],
+        "may": [
+            "Kat Candler",
+            " Li Lu",
+            " Anna Mastro",
+            " Valerie Weiss",
+            " ",
+            " "
+        ],
+        "chi": [
+            "Kat Candler",
+            " Li Lu",
+            " Anna Mastro",
+            " Valerie Weiss",
+            " ",
+            " "
+        ],
+        "tam": [
+            "Kat Candler",
+            " Li Lu",
+            " Anna Mastro",
+            " Valerie Weiss",
+            " ",
+            " "
+        ],
+        "ind": [
+            "Kat Candler",
+            " Li Lu",
+            " Anna Mastro",
+            " Valerie Weiss",
+            " ",
+            " "
+        ],
+        "tha": [
+            "Kat Candler",
+            " Li Lu",
+            " Anna Mastro",
+            " Valerie Weiss",
+            " ",
+            " "
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Imogen Banks",
+            " Vanessa Gazy",
+            " Thomas Glinkowski",
+            " Julie H\u00e9bert",
+            " Paul M. Leonard",
+            " Quinton PeeplesCarole PetermanMimi Won TechentinBrian YorkeyBrian Moraga"
+        ],
+        "may": [
+            "Imogen Banks",
+            " Vanessa Gazy",
+            " Thomas Glinkowski",
+            " Julie H\u00e9bert",
+            " Paul M. Leonard",
+            " Quinton PeeplesCarole PetermanMimi Won TechentinBrian YorkeyBrian Moraga"
+        ],
+        "chi": [
+            "Imogen Banks",
+            " Vanessa Gazy",
+            " Thomas Glinkowski",
+            " Julie H\u00e9bert",
+            " Paul M. Leonard",
+            " Quinton PeeplesCarole PetermanMimi Won TechentinBrian YorkeyBrian Moraga"
+        ],
+        "tam": [
+            "Imogen Banks",
+            " Vanessa Gazy",
+            " Thomas Glinkowski",
+            " Julie H\u00e9bert",
+            " Paul M. Leonard",
+            " Quinton PeeplesCarole PetermanMimi Won TechentinBrian YorkeyBrian Moraga"
+        ],
+        "ind": [
+            "Imogen Banks",
+            " Vanessa Gazy",
+            " Thomas Glinkowski",
+            " Julie H\u00e9bert",
+            " Paul M. Leonard",
+            " Quinton PeeplesCarole PetermanMimi Won TechentinBrian YorkeyBrian Moraga"
+        ],
+        "tha": [
+            "Imogen Banks",
+            " Vanessa Gazy",
+            " Thomas Glinkowski",
+            " Julie H\u00e9bert",
+            " Paul M. Leonard",
+            " Quinton PeeplesCarole PetermanMimi Won TechentinBrian YorkeyBrian Moraga"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_02f59420-00f1-510c-9056-695031655a15",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Echoes Season 1",
+            "may": "Echoes Season 1",
+            "chi": "Echoes Season 1",
+            "tam": "Echoes Season 1",
+            "ind": "Echoes Season 1",
+            "tha": "Echoes Season 1"
+        },
+        "long": {
+            "eng": "Echoes Season 1",
+            "may": "Echoes Season 1",
+            "chi": "Echoes Season 1",
+            "tam": "Echoes Season 1",
+            "ind": "Echoes Season 1",
+            "tha": "Echoes Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "may": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "chi": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "tam": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "ind": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "tha": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos."
+        },
+        "long": {
+            "eng": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "may": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "chi": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "tam": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "ind": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos.",
+            "tha": "Leni and Gina are identical twins who have secretly swapped their lives since they were children, culminating in a double life as adults, but one of the sisters goes missing and everything in their perfectly schemed world turns into chaos."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/EchoesSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/EchoesSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/EchoesSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

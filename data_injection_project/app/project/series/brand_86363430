@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedSeries_45cd06a2-a8b1-5832-a793-e9b4e3ba3ae1",
+    "clientContentId": "PACK0000000002412601",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Perry Mason",
+            "may": "Perry Mason",
+            "tam": "Perry Mason",
+            "chi": "Perry Mason",
+            "tha": "Perry Mason",
+            "ind": "Perry Mason"
+        },
+        "long": {
+            "eng": "Perry Mason",
+            "may": "Perry Mason",
+            "tam": "Perry Mason",
+            "chi": "Perry Mason",
+            "tha": "Perry Mason",
+            "ind": "Perry Mason"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "may": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "tam": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "chi": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "tha": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "ind": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime."
+        },
+        "long": {
+            "eng": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "may": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "tam": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "chi": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "tha": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+            "ind": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Matthew Rhys",
+            " Shea Whigham",
+            " Eric Lange",
+            " Juliet Rylance",
+            " Chris Chalk",
+            " Gayle Rankin",
+            " Tatiana Maslany",
+            " John Lithgow",
+            " Andrew Howard",
+            " Diarra Kilpatrick"
+        ],
+        "may": [
+            "Matthew Rhys",
+            " Shea Whigham",
+            " Eric Lange",
+            " Juliet Rylance",
+            " Chris Chalk",
+            " Gayle Rankin",
+            " Tatiana Maslany",
+            " John Lithgow",
+            " Andrew Howard",
+            " Diarra Kilpatrick"
+        ],
+        "tam": [
+            "Matthew Rhys",
+            " Shea Whigham",
+            " Eric Lange",
+            " Juliet Rylance",
+            " Chris Chalk",
+            " Gayle Rankin",
+            " Tatiana Maslany",
+            " John Lithgow",
+            " Andrew Howard",
+            " Diarra Kilpatrick"
+        ],
+        "chi": [
+            "Matthew Rhys",
+            " Shea Whigham",
+            " Eric Lange",
+            " Juliet Rylance",
+            " Chris Chalk",
+            " Gayle Rankin",
+            " Tatiana Maslany",
+            " John Lithgow",
+            " Andrew Howard",
+            " Diarra Kilpatrick"
+        ],
+        "tha": [
+            "Matthew Rhys",
+            " Shea Whigham",
+            " Eric Lange",
+            " Juliet Rylance",
+            " Chris Chalk",
+            " Gayle Rankin",
+            " Tatiana Maslany",
+            " John Lithgow",
+            " Andrew Howard",
+            " Diarra Kilpatrick"
+        ],
+        "ind": [
+            "Matthew Rhys",
+            " Shea Whigham",
+            " Eric Lange",
+            " Juliet Rylance",
+            " Chris Chalk",
+            " Gayle Rankin",
+            " Tatiana Maslany",
+            " John Lithgow",
+            " Andrew Howard",
+            " Diarra Kilpatrick"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Timothy Van Patten",
+            " Deniz Gamze Erg\u00fcven",
+            " Nina Lopez-Corrado",
+            " Fernando Coimbra",
+            " Jessica Lowrey",
+            " Marialy Rivas"
+        ],
+        "may": [
+            "Timothy Van Patten",
+            " Deniz Gamze Erg\u00fcven",
+            " Nina Lopez-Corrado",
+            " Fernando Coimbra",
+            " Jessica Lowrey",
+            " Marialy Rivas"
+        ],
+        "tam": [
+            "Timothy Van Patten",
+            " Deniz Gamze Erg\u00fcven",
+            " Nina Lopez-Corrado",
+            " Fernando Coimbra",
+            " Jessica Lowrey",
+            " Marialy Rivas"
+        ],
+        "chi": [
+            "Timothy Van Patten",
+            " Deniz Gamze Erg\u00fcven",
+            " Nina Lopez-Corrado",
+            " Fernando Coimbra",
+            " Jessica Lowrey",
+            " Marialy Rivas"
+        ],
+        "tha": [
+            "Timothy Van Patten",
+            " Deniz Gamze Erg\u00fcven",
+            " Nina Lopez-Corrado",
+            " Fernando Coimbra",
+            " Jessica Lowrey",
+            " Marialy Rivas"
+        ],
+        "ind": [
+            "Timothy Van Patten",
+            " Deniz Gamze Erg\u00fcven",
+            " Nina Lopez-Corrado",
+            " Fernando Coimbra",
+            " Jessica Lowrey",
+            " Marialy Rivas"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Christopher Darling",
+            " Susan Feiles",
+            " David Gambino",
+            " Amanda Burrell",
+            " Robert Downey Jr.",
+            " Susan Downey",
+            " Joseph Horacek",
+            " Matthew Rhys",
+            " Timothy Van Patten",
+            " Peter Feldman"
+        ],
+        "may": [
+            "Christopher Darling",
+            " Susan Feiles",
+            " David Gambino",
+            " Amanda Burrell",
+            " Robert Downey Jr.",
+            " Susan Downey",
+            " Joseph Horacek",
+            " Matthew Rhys",
+            " Timothy Van Patten",
+            " Peter Feldman"
+        ],
+        "tam": [
+            "Christopher Darling",
+            " Susan Feiles",
+            " David Gambino",
+            " Amanda Burrell",
+            " Robert Downey Jr.",
+            " Susan Downey",
+            " Joseph Horacek",
+            " Matthew Rhys",
+            " Timothy Van Patten",
+            " Peter Feldman"
+        ],
+        "chi": [
+            "Christopher Darling",
+            " Susan Feiles",
+            " David Gambino",
+            " Amanda Burrell",
+            " Robert Downey Jr.",
+            " Susan Downey",
+            " Joseph Horacek",
+            " Matthew Rhys",
+            " Timothy Van Patten",
+            " Peter Feldman"
+        ],
+        "tha": [
+            "Christopher Darling",
+            " Susan Feiles",
+            " David Gambino",
+            " Amanda Burrell",
+            " Robert Downey Jr.",
+            " Susan Downey",
+            " Joseph Horacek",
+            " Matthew Rhys",
+            " Timothy Van Patten",
+            " Peter Feldman"
+        ],
+        "ind": [
+            "Christopher Darling",
+            " Susan Feiles",
+            " David Gambino",
+            " Amanda Burrell",
+            " Robert Downey Jr.",
+            " Susan Downey",
+            " Joseph Horacek",
+            " Matthew Rhys",
+            " Timothy Van Patten",
+            " Peter Feldman"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PerryMasonSeason2_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PerryMasonSeason2_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PerryMasonSeason2_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "9",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2020,
+    "maxConcurrentStreams": 0
+}

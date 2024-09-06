@@ -1,0 +1,337 @@
+{
+    "externalId": "AggregatedMovie_86f7ae15-ecc7-58d2-90f6-98de1f50e50d",
+    "clientContentId": "PACK0000000005021086",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Commuter",
+            "may": "The Commuter",
+            "tam": "The Commuter",
+            "chi": "The Commuter",
+            "tha": "The Commuter",
+            "ind": "The Commuter"
+        },
+        "long": {
+            "eng": "The Commuter",
+            "may": "The Commuter",
+            "tam": "The Commuter",
+            "chi": "The Commuter",
+            "tha": "The Commuter",
+            "ind": "The Commuter"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "An insurance salesman/ex-cop is caught up in a life-threatening conspiracy during his daily commute home.",
+            "may": "An insurance salesman/ex-cop is caught up in a life-threatening conspiracy during his daily commute home.",
+            "tam": "An insurance salesman/ex-cop is caught up in a life-threatening conspiracy during his daily commute home.",
+            "chi": "An insurance salesman/ex-cop is caught up in a life-threatening conspiracy during his daily commute home.",
+            "tha": "An insurance salesman/ex-cop is caught up in a life-threatening conspiracy during his daily commute home.",
+            "ind": "An insurance salesman/ex-cop is caught up in a life-threatening conspiracy during his daily commute home."
+        },
+        "long": {
+            "eng": "An insurance salesman/ex-cop is caught up in a life-threatening conspiracy during his daily commute home.",
+            "may": "An insurance salesman/ex-cop is caught up in a life-threatening conspiracy during his daily commute home.",
+            "tam": "An insurance salesman/ex-cop is caught up in a life-threatening conspiracy during his daily commute home.",
+            "chi": "An insurance salesman/ex-cop is caught up in a life-threatening conspiracy during his daily commute home.",
+            "tha": "An insurance salesman/ex-cop is caught up in a life-threatening conspiracy during his daily commute home.",
+            "ind": "An insurance salesman/ex-cop is caught up in a life-threatening conspiracy during his daily commute home."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Liam Neeson",
+            " Vera Farmiga",
+            " Patrick Wilson",
+            " Jonathan Banks",
+            " Sam Neill",
+            " Elizabeth McGovern",
+            " Killian Scott",
+            " Shazad Latif",
+            " Andy Nyman",
+            " Clara Lago"
+        ],
+        "may": [
+            "Liam Neeson",
+            " Vera Farmiga",
+            " Patrick Wilson",
+            " Jonathan Banks",
+            " Sam Neill",
+            " Elizabeth McGovern",
+            " Killian Scott",
+            " Shazad Latif",
+            " Andy Nyman",
+            " Clara Lago"
+        ],
+        "tam": [
+            "Liam Neeson",
+            " Vera Farmiga",
+            " Patrick Wilson",
+            " Jonathan Banks",
+            " Sam Neill",
+            " Elizabeth McGovern",
+            " Killian Scott",
+            " Shazad Latif",
+            " Andy Nyman",
+            " Clara Lago"
+        ],
+        "chi": [
+            "Liam Neeson",
+            " Vera Farmiga",
+            " Patrick Wilson",
+            " Jonathan Banks",
+            " Sam Neill",
+            " Elizabeth McGovern",
+            " Killian Scott",
+            " Shazad Latif",
+            " Andy Nyman",
+            " Clara Lago"
+        ],
+        "tha": [
+            "Liam Neeson",
+            " Vera Farmiga",
+            " Patrick Wilson",
+            " Jonathan Banks",
+            " Sam Neill",
+            " Elizabeth McGovern",
+            " Killian Scott",
+            " Shazad Latif",
+            " Andy Nyman",
+            " Clara Lago"
+        ],
+        "ind": [
+            "Liam Neeson",
+            " Vera Farmiga",
+            " Patrick Wilson",
+            " Jonathan Banks",
+            " Sam Neill",
+            " Elizabeth McGovern",
+            " Killian Scott",
+            " Shazad Latif",
+            " Andy Nyman",
+            " Clara Lago"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jaume Collet-Serra"
+        ],
+        "may": [
+            "Jaume Collet-Serra"
+        ],
+        "tam": [
+            "Jaume Collet-Serra"
+        ],
+        "chi": [
+            "Jaume Collet-Serra"
+        ],
+        "tha": [
+            "Jaume Collet-Serra"
+        ],
+        "ind": [
+            "Jaume Collet-Serra"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Stuart M. Besser",
+            " Jaume Collet-Serra",
+            " Michael Dreyer",
+            " Ron Halpern",
+            " Alex Heineman",
+            " Didier Lupfer",
+            " Lacey Darlene Paulson",
+            " Andrew Rona",
+            " Juan Sola"
+        ],
+        "may": [
+            "Stuart M. Besser",
+            " Jaume Collet-Serra",
+            " Michael Dreyer",
+            " Ron Halpern",
+            " Alex Heineman",
+            " Didier Lupfer",
+            " Lacey Darlene Paulson",
+            " Andrew Rona",
+            " Juan Sola"
+        ],
+        "tam": [
+            "Stuart M. Besser",
+            " Jaume Collet-Serra",
+            " Michael Dreyer",
+            " Ron Halpern",
+            " Alex Heineman",
+            " Didier Lupfer",
+            " Lacey Darlene Paulson",
+            " Andrew Rona",
+            " Juan Sola"
+        ],
+        "chi": [
+            "Stuart M. Besser",
+            " Jaume Collet-Serra",
+            " Michael Dreyer",
+            " Ron Halpern",
+            " Alex Heineman",
+            " Didier Lupfer",
+            " Lacey Darlene Paulson",
+            " Andrew Rona",
+            " Juan Sola"
+        ],
+        "tha": [
+            "Stuart M. Besser",
+            " Jaume Collet-Serra",
+            " Michael Dreyer",
+            " Ron Halpern",
+            " Alex Heineman",
+            " Didier Lupfer",
+            " Lacey Darlene Paulson",
+            " Andrew Rona",
+            " Juan Sola"
+        ],
+        "ind": [
+            "Stuart M. Besser",
+            " Jaume Collet-Serra",
+            " Michael Dreyer",
+            " Ron Halpern",
+            " Alex Heineman",
+            " Didier Lupfer",
+            " Lacey Darlene Paulson",
+            " Andrew Rona",
+            " Juan Sola"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Mystery",
+                    "may": " Mystery",
+                    "tam": " Mystery",
+                    "chi": " Mystery",
+                    "tha": " Mystery",
+                    "ind": " Mystery"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheCommuter_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheCommuter_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheCommuter_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2018,
+    "rating": "6.3",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

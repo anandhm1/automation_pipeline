@@ -1,0 +1,359 @@
+{
+    "externalId": "AggregatedSeason_544928b7-bc60-5d9f-9596-9c5dc558a2c6",
+    "clientContentId": "PACK0000000002485695",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "chi": "Comedy",
+                    "tam": "Comedy",
+                    "ind": "Comedy",
+                    "tha": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "chi": " Crime",
+                    "tam": " Crime",
+                    "ind": " Crime",
+                    "tha": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Brianna Hildebrand",
+            " Kiana Madeira",
+            " Quintessa Swindell",
+            " Odiseas Georgiadis",
+            " Brandon Butler",
+            " Larry Sullivan",
+            " Jessica Lynn Skinner",
+            " Henrique Zaga",
+            " Haley Tju",
+            " Munther Dajani"
+        ],
+        "may": [
+            "Brianna Hildebrand",
+            " Kiana Madeira",
+            " Quintessa Swindell",
+            " Odiseas Georgiadis",
+            " Brandon Butler",
+            " Larry Sullivan",
+            " Jessica Lynn Skinner",
+            " Henrique Zaga",
+            " Haley Tju",
+            " Munther Dajani"
+        ],
+        "chi": [
+            "Brianna Hildebrand",
+            " Kiana Madeira",
+            " Quintessa Swindell",
+            " Odiseas Georgiadis",
+            " Brandon Butler",
+            " Larry Sullivan",
+            " Jessica Lynn Skinner",
+            " Henrique Zaga",
+            " Haley Tju",
+            " Munther Dajani"
+        ],
+        "tam": [
+            "Brianna Hildebrand",
+            " Kiana Madeira",
+            " Quintessa Swindell",
+            " Odiseas Georgiadis",
+            " Brandon Butler",
+            " Larry Sullivan",
+            " Jessica Lynn Skinner",
+            " Henrique Zaga",
+            " Haley Tju",
+            " Munther Dajani"
+        ],
+        "ind": [
+            "Brianna Hildebrand",
+            " Kiana Madeira",
+            " Quintessa Swindell",
+            " Odiseas Georgiadis",
+            " Brandon Butler",
+            " Larry Sullivan",
+            " Jessica Lynn Skinner",
+            " Henrique Zaga",
+            " Haley Tju",
+            " Munther Dajani"
+        ],
+        "tha": [
+            "Brianna Hildebrand",
+            " Kiana Madeira",
+            " Quintessa Swindell",
+            " Odiseas Georgiadis",
+            " Brandon Butler",
+            " Larry Sullivan",
+            " Jessica Lynn Skinner",
+            " Henrique Zaga",
+            " Haley Tju",
+            " Munther Dajani"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Sara St. Onge",
+            " Sherwin Shilati",
+            " Clare Kilner",
+            " Hannah Macpherson",
+            " Ayoka Chenzira",
+            " John Fortenberry",
+            " Megan Griffiths"
+        ],
+        "may": [
+            "Sara St. Onge",
+            " Sherwin Shilati",
+            " Clare Kilner",
+            " Hannah Macpherson",
+            " Ayoka Chenzira",
+            " John Fortenberry",
+            " Megan Griffiths"
+        ],
+        "chi": [
+            "Sara St. Onge",
+            " Sherwin Shilati",
+            " Clare Kilner",
+            " Hannah Macpherson",
+            " Ayoka Chenzira",
+            " John Fortenberry",
+            " Megan Griffiths"
+        ],
+        "tam": [
+            "Sara St. Onge",
+            " Sherwin Shilati",
+            " Clare Kilner",
+            " Hannah Macpherson",
+            " Ayoka Chenzira",
+            " John Fortenberry",
+            " Megan Griffiths"
+        ],
+        "ind": [
+            "Sara St. Onge",
+            " Sherwin Shilati",
+            " Clare Kilner",
+            " Hannah Macpherson",
+            " Ayoka Chenzira",
+            " John Fortenberry",
+            " Megan Griffiths"
+        ],
+        "tha": [
+            "Sara St. Onge",
+            " Sherwin Shilati",
+            " Clare Kilner",
+            " Hannah Macpherson",
+            " Ayoka Chenzira",
+            " John Fortenberry",
+            " Megan Griffiths"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Amy Andelson",
+            " Don Dunn",
+            " Rebecca Glashow",
+            " Melissa Klein",
+            " Melanie Krauss",
+            " Scott Levine",
+            " Brin Lukens",
+            " Emily Meyer",
+            " Kirsten Smith",
+            " Shelley Zimmerman"
+        ],
+        "may": [
+            "Amy Andelson",
+            " Don Dunn",
+            " Rebecca Glashow",
+            " Melissa Klein",
+            " Melanie Krauss",
+            " Scott Levine",
+            " Brin Lukens",
+            " Emily Meyer",
+            " Kirsten Smith",
+            " Shelley Zimmerman"
+        ],
+        "chi": [
+            "Amy Andelson",
+            " Don Dunn",
+            " Rebecca Glashow",
+            " Melissa Klein",
+            " Melanie Krauss",
+            " Scott Levine",
+            " Brin Lukens",
+            " Emily Meyer",
+            " Kirsten Smith",
+            " Shelley Zimmerman"
+        ],
+        "tam": [
+            "Amy Andelson",
+            " Don Dunn",
+            " Rebecca Glashow",
+            " Melissa Klein",
+            " Melanie Krauss",
+            " Scott Levine",
+            " Brin Lukens",
+            " Emily Meyer",
+            " Kirsten Smith",
+            " Shelley Zimmerman"
+        ],
+        "ind": [
+            "Amy Andelson",
+            " Don Dunn",
+            " Rebecca Glashow",
+            " Melissa Klein",
+            " Melanie Krauss",
+            " Scott Levine",
+            " Brin Lukens",
+            " Emily Meyer",
+            " Kirsten Smith",
+            " Shelley Zimmerman"
+        ],
+        "tha": [
+            "Amy Andelson",
+            " Don Dunn",
+            " Rebecca Glashow",
+            " Melissa Klein",
+            " Melanie Krauss",
+            " Scott Levine",
+            " Brin Lukens",
+            " Emily Meyer",
+            " Kirsten Smith",
+            " Shelley Zimmerman"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_e04527c1-14c8-5f75-a302-61c76edd8927",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "TRINKETS Season 1",
+            "may": "TRINKETS Season 1",
+            "chi": "TRINKETS Season 1",
+            "tam": "TRINKETS Season 1",
+            "ind": "TRINKETS Season 1",
+            "tha": "TRINKETS Season 1"
+        },
+        "long": {
+            "eng": "TRINKETS Season 1",
+            "may": "TRINKETS Season 1",
+            "chi": "TRINKETS Season 1",
+            "tam": "TRINKETS Season 1",
+            "ind": "TRINKETS Season 1",
+            "tha": "TRINKETS Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "may": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "chi": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "tam": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "ind": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "tha": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous."
+        },
+        "long": {
+            "eng": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "may": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "chi": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "tam": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "ind": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous.",
+            "tha": "An unexpected friendship forms when three teenage girls meet in Shoplifters Anonymous."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TRINKETSSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TRINKETSSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TRINKETSSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

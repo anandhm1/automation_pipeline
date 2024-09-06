@@ -1,0 +1,397 @@
+{
+    "externalId": "AggregatedTvShow_c18a547b-4b0f-596a-8882-cf2d613587d4",
+    "clientContentId": "PACK0000000006645065",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Insatiable - Trailer",
+            "may": "Insatiable - Trailer",
+            "tam": "Insatiable - Trailer",
+            "chi": "Insatiable - Trailer",
+            "tha": "Insatiable - Trailer",
+            "ind": "Insatiable - Trailer"
+        },
+        "long": {
+            "eng": "Insatiable - Trailer",
+            "may": "Insatiable - Trailer",
+            "tam": "Insatiable - Trailer",
+            "chi": "Insatiable - Trailer",
+            "tha": "Insatiable - Trailer",
+            "ind": "Insatiable - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A disgraced, dissatisfied civil lawyer-turned-beauty pageant coach takes on a vengeful, bullied teenager as his client and has no idea what he's about to unleash upon the world.",
+            "may": "A disgraced, dissatisfied civil lawyer-turned-beauty pageant coach takes on a vengeful, bullied teenager as his client and has no idea what he's about to unleash upon the world.",
+            "tam": "A disgraced, dissatisfied civil lawyer-turned-beauty pageant coach takes on a vengeful, bullied teenager as his client and has no idea what he's about to unleash upon the world.",
+            "chi": "A disgraced, dissatisfied civil lawyer-turned-beauty pageant coach takes on a vengeful, bullied teenager as his client and has no idea what he's about to unleash upon the world.",
+            "tha": "A disgraced, dissatisfied civil lawyer-turned-beauty pageant coach takes on a vengeful, bullied teenager as his client and has no idea what he's about to unleash upon the world.",
+            "ind": "A disgraced, dissatisfied civil lawyer-turned-beauty pageant coach takes on a vengeful, bullied teenager as his client and has no idea what he's about to unleash upon the world."
+        },
+        "long": {
+            "eng": "A disgraced, dissatisfied civil lawyer-turned-beauty pageant coach takes on a vengeful, bullied teenager as his client and has no idea what he's about to unleash upon the world.",
+            "may": "A disgraced, dissatisfied civil lawyer-turned-beauty pageant coach takes on a vengeful, bullied teenager as his client and has no idea what he's about to unleash upon the world.",
+            "tam": "A disgraced, dissatisfied civil lawyer-turned-beauty pageant coach takes on a vengeful, bullied teenager as his client and has no idea what he's about to unleash upon the world.",
+            "chi": "A disgraced, dissatisfied civil lawyer-turned-beauty pageant coach takes on a vengeful, bullied teenager as his client and has no idea what he's about to unleash upon the world.",
+            "tha": "A disgraced, dissatisfied civil lawyer-turned-beauty pageant coach takes on a vengeful, bullied teenager as his client and has no idea what he's about to unleash upon the world.",
+            "ind": "A disgraced, dissatisfied civil lawyer-turned-beauty pageant coach takes on a vengeful, bullied teenager as his client and has no idea what he's about to unleash upon the world."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Dallas Roberts",
+            " Debby Ryan",
+            " Christopher Gorham",
+            " Kimmy Shields",
+            " Erinn Westbrook",
+            " Michael Provost",
+            " Alyssa Milano",
+            " Arden Myrin",
+            " Irene Choi",
+            " Sarah Colonna"
+        ],
+        "may": [
+            "Dallas Roberts",
+            " Debby Ryan",
+            " Christopher Gorham",
+            " Kimmy Shields",
+            " Erinn Westbrook",
+            " Michael Provost",
+            " Alyssa Milano",
+            " Arden Myrin",
+            " Irene Choi",
+            " Sarah Colonna"
+        ],
+        "tam": [
+            "Dallas Roberts",
+            " Debby Ryan",
+            " Christopher Gorham",
+            " Kimmy Shields",
+            " Erinn Westbrook",
+            " Michael Provost",
+            " Alyssa Milano",
+            " Arden Myrin",
+            " Irene Choi",
+            " Sarah Colonna"
+        ],
+        "chi": [
+            "Dallas Roberts",
+            " Debby Ryan",
+            " Christopher Gorham",
+            " Kimmy Shields",
+            " Erinn Westbrook",
+            " Michael Provost",
+            " Alyssa Milano",
+            " Arden Myrin",
+            " Irene Choi",
+            " Sarah Colonna"
+        ],
+        "tha": [
+            "Dallas Roberts",
+            " Debby Ryan",
+            " Christopher Gorham",
+            " Kimmy Shields",
+            " Erinn Westbrook",
+            " Michael Provost",
+            " Alyssa Milano",
+            " Arden Myrin",
+            " Irene Choi",
+            " Sarah Colonna"
+        ],
+        "ind": [
+            "Dallas Roberts",
+            " Debby Ryan",
+            " Christopher Gorham",
+            " Kimmy Shields",
+            " Erinn Westbrook",
+            " Michael Provost",
+            " Alyssa Milano",
+            " Arden Myrin",
+            " Irene Choi",
+            " Sarah Colonna"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Andrew Fleming",
+            " Brian Dannelly",
+            " Lev L. Spiro",
+            " Elodie Keene",
+            " Maggie Kiley",
+            " Steven K. Tsuchida",
+            " Nancy Hower",
+            " Damian Marcano",
+            " Ryan Shiraki",
+            " Suzi Yoonessi"
+        ],
+        "may": [
+            "Andrew Fleming",
+            " Brian Dannelly",
+            " Lev L. Spiro",
+            " Elodie Keene",
+            " Maggie Kiley",
+            " Steven K. Tsuchida",
+            " Nancy Hower",
+            " Damian Marcano",
+            " Ryan Shiraki",
+            " Suzi Yoonessi"
+        ],
+        "tam": [
+            "Andrew Fleming",
+            " Brian Dannelly",
+            " Lev L. Spiro",
+            " Elodie Keene",
+            " Maggie Kiley",
+            " Steven K. Tsuchida",
+            " Nancy Hower",
+            " Damian Marcano",
+            " Ryan Shiraki",
+            " Suzi Yoonessi"
+        ],
+        "chi": [
+            "Andrew Fleming",
+            " Brian Dannelly",
+            " Lev L. Spiro",
+            " Elodie Keene",
+            " Maggie Kiley",
+            " Steven K. Tsuchida",
+            " Nancy Hower",
+            " Damian Marcano",
+            " Ryan Shiraki",
+            " Suzi Yoonessi"
+        ],
+        "tha": [
+            "Andrew Fleming",
+            " Brian Dannelly",
+            " Lev L. Spiro",
+            " Elodie Keene",
+            " Maggie Kiley",
+            " Steven K. Tsuchida",
+            " Nancy Hower",
+            " Damian Marcano",
+            " Ryan Shiraki",
+            " Suzi Yoonessi"
+        ],
+        "ind": [
+            "Andrew Fleming",
+            " Brian Dannelly",
+            " Lev L. Spiro",
+            " Elodie Keene",
+            " Maggie Kiley",
+            " Steven K. Tsuchida",
+            " Nancy Hower",
+            " Damian Marcano",
+            " Ryan Shiraki",
+            " Suzi Yoonessi"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Michael Ellis",
+            " Andrew Fleming",
+            " Lauren Gussis",
+            " Todd Hoffman",
+            " Denise Pleune",
+            " Andrea Shay",
+            " Nina Wass",
+            " Kari Drake",
+            " Robert Friedman",
+            " Danielle Hoover"
+        ],
+        "may": [
+            "Michael Ellis",
+            " Andrew Fleming",
+            " Lauren Gussis",
+            " Todd Hoffman",
+            " Denise Pleune",
+            " Andrea Shay",
+            " Nina Wass",
+            " Kari Drake",
+            " Robert Friedman",
+            " Danielle Hoover"
+        ],
+        "tam": [
+            "Michael Ellis",
+            " Andrew Fleming",
+            " Lauren Gussis",
+            " Todd Hoffman",
+            " Denise Pleune",
+            " Andrea Shay",
+            " Nina Wass",
+            " Kari Drake",
+            " Robert Friedman",
+            " Danielle Hoover"
+        ],
+        "chi": [
+            "Michael Ellis",
+            " Andrew Fleming",
+            " Lauren Gussis",
+            " Todd Hoffman",
+            " Denise Pleune",
+            " Andrea Shay",
+            " Nina Wass",
+            " Kari Drake",
+            " Robert Friedman",
+            " Danielle Hoover"
+        ],
+        "tha": [
+            "Michael Ellis",
+            " Andrew Fleming",
+            " Lauren Gussis",
+            " Todd Hoffman",
+            " Denise Pleune",
+            " Andrea Shay",
+            " Nina Wass",
+            " Kari Drake",
+            " Robert Friedman",
+            " Danielle Hoover"
+        ],
+        "ind": [
+            "Michael Ellis",
+            " Andrew Fleming",
+            " Lauren Gussis",
+            " Todd Hoffman",
+            " Denise Pleune",
+            " Andrea Shay",
+            " Nina Wass",
+            " Kari Drake",
+            " Robert Friedman",
+            " Danielle Hoover"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/InsatiableSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/InsatiableSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/InsatiableSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_a8d9333a-f987-5acf-a10b-e40a394386a3",
+    "seasonId": "AggregatedSeason_37b09304-3117-57b7-9260-58273f74a769",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2018,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

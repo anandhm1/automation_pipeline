@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_846e8342-a479-5cc3-85a2-e795c90554ea",
+    "clientContentId": "PACK0000000004523180",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Lamborghini",
+            "may": "Lamborghini",
+            "tam": "Lamborghini",
+            "chi": "Lamborghini",
+            "tha": "Lamborghini",
+            "ind": "Lamborghini"
+        },
+        "long": {
+            "eng": "Lamborghini",
+            "may": "Lamborghini",
+            "tam": "Lamborghini",
+            "chi": "Lamborghini",
+            "tha": "Lamborghini",
+            "ind": "Lamborghini"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The life story of Ferruccio Lamborghini, the founder of Lamborghini.",
+            "may": "The life story of Ferruccio Lamborghini, the founder of Lamborghini.",
+            "tam": "The life story of Ferruccio Lamborghini, the founder of Lamborghini.",
+            "chi": "The life story of Ferruccio Lamborghini, the founder of Lamborghini.",
+            "tha": "The life story of Ferruccio Lamborghini, the founder of Lamborghini.",
+            "ind": "The life story of Ferruccio Lamborghini, the founder of Lamborghini."
+        },
+        "long": {
+            "eng": "The life story of Ferruccio Lamborghini, the founder of Lamborghini.",
+            "may": "The life story of Ferruccio Lamborghini, the founder of Lamborghini.",
+            "tam": "The life story of Ferruccio Lamborghini, the founder of Lamborghini.",
+            "chi": "The life story of Ferruccio Lamborghini, the founder of Lamborghini.",
+            "tha": "The life story of Ferruccio Lamborghini, the founder of Lamborghini.",
+            "ind": "The life story of Ferruccio Lamborghini, the founder of Lamborghini."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Frank Grillo",
+            " Mira Sorvino",
+            " Gabriel Byrne",
+            " Eliana Jones",
+            " Giorgio Cantarini",
+            " Hannah van der Westhuysen",
+            " Francesca Tizzano",
+            " Chiara Primavesi",
+            " Patrick Brennan",
+            " Fortunato Cerlino"
+        ],
+        "may": [
+            "Frank Grillo",
+            " Mira Sorvino",
+            " Gabriel Byrne",
+            " Eliana Jones",
+            " Giorgio Cantarini",
+            " Hannah van der Westhuysen",
+            " Francesca Tizzano",
+            " Chiara Primavesi",
+            " Patrick Brennan",
+            " Fortunato Cerlino"
+        ],
+        "tam": [
+            "Frank Grillo",
+            " Mira Sorvino",
+            " Gabriel Byrne",
+            " Eliana Jones",
+            " Giorgio Cantarini",
+            " Hannah van der Westhuysen",
+            " Francesca Tizzano",
+            " Chiara Primavesi",
+            " Patrick Brennan",
+            " Fortunato Cerlino"
+        ],
+        "chi": [
+            "Frank Grillo",
+            " Mira Sorvino",
+            " Gabriel Byrne",
+            " Eliana Jones",
+            " Giorgio Cantarini",
+            " Hannah van der Westhuysen",
+            " Francesca Tizzano",
+            " Chiara Primavesi",
+            " Patrick Brennan",
+            " Fortunato Cerlino"
+        ],
+        "tha": [
+            "Frank Grillo",
+            " Mira Sorvino",
+            " Gabriel Byrne",
+            " Eliana Jones",
+            " Giorgio Cantarini",
+            " Hannah van der Westhuysen",
+            " Francesca Tizzano",
+            " Chiara Primavesi",
+            " Patrick Brennan",
+            " Fortunato Cerlino"
+        ],
+        "ind": [
+            "Frank Grillo",
+            " Mira Sorvino",
+            " Gabriel Byrne",
+            " Eliana Jones",
+            " Giorgio Cantarini",
+            " Hannah van der Westhuysen",
+            " Francesca Tizzano",
+            " Chiara Primavesi",
+            " Patrick Brennan",
+            " Fortunato Cerlino"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Bobby Moresco"
+        ],
+        "may": [
+            "Bobby Moresco"
+        ],
+        "tam": [
+            "Bobby Moresco"
+        ],
+        "chi": [
+            "Bobby Moresco"
+        ],
+        "tha": [
+            "Bobby Moresco"
+        ],
+        "ind": [
+            "Bobby Moresco"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Monika Bacardi",
+            " Jeff Bowler",
+            " Corso Codecasa",
+            " Allen Dam",
+            " Andrea Iervolino",
+            " Roman Kopelevich",
+            " Danielle Maloni",
+            " Guglielmo Marchetti",
+            " Sergio Navarretta",
+            " Bret Saxon"
+        ],
+        "may": [
+            "Monika Bacardi",
+            " Jeff Bowler",
+            " Corso Codecasa",
+            " Allen Dam",
+            " Andrea Iervolino",
+            " Roman Kopelevich",
+            " Danielle Maloni",
+            " Guglielmo Marchetti",
+            " Sergio Navarretta",
+            " Bret Saxon"
+        ],
+        "tam": [
+            "Monika Bacardi",
+            " Jeff Bowler",
+            " Corso Codecasa",
+            " Allen Dam",
+            " Andrea Iervolino",
+            " Roman Kopelevich",
+            " Danielle Maloni",
+            " Guglielmo Marchetti",
+            " Sergio Navarretta",
+            " Bret Saxon"
+        ],
+        "chi": [
+            "Monika Bacardi",
+            " Jeff Bowler",
+            " Corso Codecasa",
+            " Allen Dam",
+            " Andrea Iervolino",
+            " Roman Kopelevich",
+            " Danielle Maloni",
+            " Guglielmo Marchetti",
+            " Sergio Navarretta",
+            " Bret Saxon"
+        ],
+        "tha": [
+            "Monika Bacardi",
+            " Jeff Bowler",
+            " Corso Codecasa",
+            " Allen Dam",
+            " Andrea Iervolino",
+            " Roman Kopelevich",
+            " Danielle Maloni",
+            " Guglielmo Marchetti",
+            " Sergio Navarretta",
+            " Bret Saxon"
+        ],
+        "ind": [
+            "Monika Bacardi",
+            " Jeff Bowler",
+            " Corso Codecasa",
+            " Allen Dam",
+            " Andrea Iervolino",
+            " Roman Kopelevich",
+            " Danielle Maloni",
+            " Guglielmo Marchetti",
+            " Sergio Navarretta",
+            " Bret Saxon"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Biography",
+                    "may": "Biography",
+                    "tam": "Biography",
+                    "chi": "Biography",
+                    "tha": "Biography",
+                    "ind": "Biography"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Lamborghini_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Lamborghini_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Lamborghini_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "5.3",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

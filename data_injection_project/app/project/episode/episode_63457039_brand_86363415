@@ -1,0 +1,397 @@
+{
+    "externalId": "AggregatedTvShow_197d1901-09f4-5181-a323-c30373d2d579",
+    "clientContentId": "PACK0000000004628873",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Lost In Space - Trailer",
+            "may": "Lost In Space - Trailer",
+            "tam": "Lost In Space - Trailer",
+            "chi": "Lost In Space - Trailer",
+            "tha": "Lost In Space - Trailer",
+            "ind": "Lost In Space - Trailer"
+        },
+        "long": {
+            "eng": "Lost In Space - Trailer",
+            "may": "Lost In Space - Trailer",
+            "tam": "Lost In Space - Trailer",
+            "chi": "Lost In Space - Trailer",
+            "tha": "Lost In Space - Trailer",
+            "ind": "Lost In Space - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "may": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "tam": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "chi": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "tha": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "ind": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers."
+        },
+        "long": {
+            "eng": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "may": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "tam": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "chi": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "tha": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+            "ind": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Molly Parker",
+            " Toby Stephens",
+            " Maxwell Jenkins",
+            " Taylor Russell",
+            " Mina Sundwall",
+            " Ignacio Serricchio",
+            " Parker Posey",
+            " Brian Steele",
+            " Ajay Friese",
+            " Raza Jaffrey"
+        ],
+        "may": [
+            "Molly Parker",
+            " Toby Stephens",
+            " Maxwell Jenkins",
+            " Taylor Russell",
+            " Mina Sundwall",
+            " Ignacio Serricchio",
+            " Parker Posey",
+            " Brian Steele",
+            " Ajay Friese",
+            " Raza Jaffrey"
+        ],
+        "tam": [
+            "Molly Parker",
+            " Toby Stephens",
+            " Maxwell Jenkins",
+            " Taylor Russell",
+            " Mina Sundwall",
+            " Ignacio Serricchio",
+            " Parker Posey",
+            " Brian Steele",
+            " Ajay Friese",
+            " Raza Jaffrey"
+        ],
+        "chi": [
+            "Molly Parker",
+            " Toby Stephens",
+            " Maxwell Jenkins",
+            " Taylor Russell",
+            " Mina Sundwall",
+            " Ignacio Serricchio",
+            " Parker Posey",
+            " Brian Steele",
+            " Ajay Friese",
+            " Raza Jaffrey"
+        ],
+        "tha": [
+            "Molly Parker",
+            " Toby Stephens",
+            " Maxwell Jenkins",
+            " Taylor Russell",
+            " Mina Sundwall",
+            " Ignacio Serricchio",
+            " Parker Posey",
+            " Brian Steele",
+            " Ajay Friese",
+            " Raza Jaffrey"
+        ],
+        "ind": [
+            "Molly Parker",
+            " Toby Stephens",
+            " Maxwell Jenkins",
+            " Taylor Russell",
+            " Mina Sundwall",
+            " Ignacio Serricchio",
+            " Parker Posey",
+            " Brian Steele",
+            " Ajay Friese",
+            " Raza Jaffrey"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Tim Southam",
+            " Stephen Surjik",
+            " Leslie Hope",
+            " Alex Graves",
+            " Neil Marshall",
+            " Jabbar Raisani",
+            " Jon East",
+            " Julian Holmes",
+            " Deborah Chow",
+            " Vincenzo Natali"
+        ],
+        "may": [
+            "Tim Southam",
+            " Stephen Surjik",
+            " Leslie Hope",
+            " Alex Graves",
+            " Neil Marshall",
+            " Jabbar Raisani",
+            " Jon East",
+            " Julian Holmes",
+            " Deborah Chow",
+            " Vincenzo Natali"
+        ],
+        "tam": [
+            "Tim Southam",
+            " Stephen Surjik",
+            " Leslie Hope",
+            " Alex Graves",
+            " Neil Marshall",
+            " Jabbar Raisani",
+            " Jon East",
+            " Julian Holmes",
+            " Deborah Chow",
+            " Vincenzo Natali"
+        ],
+        "chi": [
+            "Tim Southam",
+            " Stephen Surjik",
+            " Leslie Hope",
+            " Alex Graves",
+            " Neil Marshall",
+            " Jabbar Raisani",
+            " Jon East",
+            " Julian Holmes",
+            " Deborah Chow",
+            " Vincenzo Natali"
+        ],
+        "tha": [
+            "Tim Southam",
+            " Stephen Surjik",
+            " Leslie Hope",
+            " Alex Graves",
+            " Neil Marshall",
+            " Jabbar Raisani",
+            " Jon East",
+            " Julian Holmes",
+            " Deborah Chow",
+            " Vincenzo Natali"
+        ],
+        "ind": [
+            "Tim Southam",
+            " Stephen Surjik",
+            " Leslie Hope",
+            " Alex Graves",
+            " Neil Marshall",
+            " Jabbar Raisani",
+            " Jon East",
+            " Julian Holmes",
+            " Deborah Chow",
+            " Vincenzo Natali"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Zack Estrin",
+            " Jon Jashni",
+            " Matt Sazama",
+            " Scott Schofield",
+            " Burk Sharpless",
+            " Brad Van Arragon",
+            " Kevin Burns",
+            " Katherine Collins",
+            " Kari Drake",
+            " Marc Helwig"
+        ],
+        "may": [
+            "Zack Estrin",
+            " Jon Jashni",
+            " Matt Sazama",
+            " Scott Schofield",
+            " Burk Sharpless",
+            " Brad Van Arragon",
+            " Kevin Burns",
+            " Katherine Collins",
+            " Kari Drake",
+            " Marc Helwig"
+        ],
+        "tam": [
+            "Zack Estrin",
+            " Jon Jashni",
+            " Matt Sazama",
+            " Scott Schofield",
+            " Burk Sharpless",
+            " Brad Van Arragon",
+            " Kevin Burns",
+            " Katherine Collins",
+            " Kari Drake",
+            " Marc Helwig"
+        ],
+        "chi": [
+            "Zack Estrin",
+            " Jon Jashni",
+            " Matt Sazama",
+            " Scott Schofield",
+            " Burk Sharpless",
+            " Brad Van Arragon",
+            " Kevin Burns",
+            " Katherine Collins",
+            " Kari Drake",
+            " Marc Helwig"
+        ],
+        "tha": [
+            "Zack Estrin",
+            " Jon Jashni",
+            " Matt Sazama",
+            " Scott Schofield",
+            " Burk Sharpless",
+            " Brad Van Arragon",
+            " Kevin Burns",
+            " Katherine Collins",
+            " Kari Drake",
+            " Marc Helwig"
+        ],
+        "ind": [
+            "Zack Estrin",
+            " Jon Jashni",
+            " Matt Sazama",
+            " Scott Schofield",
+            " Burk Sharpless",
+            " Brad Van Arragon",
+            " Kevin Burns",
+            " Katherine Collins",
+            " Kari Drake",
+            " Marc Helwig"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LostinSpaceSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LostinSpaceSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LostinSpaceSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_16da0757-0bdc-553a-8ceb-bd23358d95ba",
+    "seasonId": "AggregatedSeason_7916a329-35d9-5d1b-b9d9-a8fdff49cfb4",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2018,
+    "rating": "TV-PG",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

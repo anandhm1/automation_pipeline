@@ -1,0 +1,307 @@
+{
+    "externalId": "AggregatedMovie_83a6c9d8-4f41-5282-bb21-012b27327d9c",
+    "clientContentId": "PACK0000000002219685",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Strays 2023",
+            "may": "The Strays 2023",
+            "tam": "The Strays 2023",
+            "chi": "The Strays 2023",
+            "tha": "The Strays 2023",
+            "ind": "The Strays 2023"
+        },
+        "long": {
+            "eng": "The Strays 2023",
+            "may": "The Strays 2023",
+            "tam": "The Strays 2023",
+            "chi": "The Strays 2023",
+            "tha": "The Strays 2023",
+            "ind": "The Strays 2023"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A Black woman's meticulously-crafted life of privilege unravels when two strangers show up in her quaint suburban town.",
+            "may": "A Black woman's meticulously-crafted life of privilege unravels when two strangers show up in her quaint suburban town.",
+            "tam": "A Black woman's meticulously-crafted life of privilege unravels when two strangers show up in her quaint suburban town.",
+            "chi": "A Black woman's meticulously-crafted life of privilege unravels when two strangers show up in her quaint suburban town.",
+            "tha": "A Black woman's meticulously-crafted life of privilege unravels when two strangers show up in her quaint suburban town.",
+            "ind": "A Black woman's meticulously-crafted life of privilege unravels when two strangers show up in her quaint suburban town."
+        },
+        "long": {
+            "eng": "A Black woman's meticulously-crafted life of privilege unravels when two strangers show up in her quaint suburban town.",
+            "may": "A Black woman's meticulously-crafted life of privilege unravels when two strangers show up in her quaint suburban town.",
+            "tam": "A Black woman's meticulously-crafted life of privilege unravels when two strangers show up in her quaint suburban town.",
+            "chi": "A Black woman's meticulously-crafted life of privilege unravels when two strangers show up in her quaint suburban town.",
+            "tha": "A Black woman's meticulously-crafted life of privilege unravels when two strangers show up in her quaint suburban town.",
+            "ind": "A Black woman's meticulously-crafted life of privilege unravels when two strangers show up in her quaint suburban town."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Ashley Madekwe",
+            " Bukky Bakray",
+            " Jorden Myrie",
+            " Samuel Paul Small",
+            " Maria Almeida",
+            " Justin Salinger",
+            " Lucy Liemann",
+            " Tom Andrews",
+            " Rob Jarvis",
+            " Michael Warburton"
+        ],
+        "may": [
+            "Ashley Madekwe",
+            " Bukky Bakray",
+            " Jorden Myrie",
+            " Samuel Paul Small",
+            " Maria Almeida",
+            " Justin Salinger",
+            " Lucy Liemann",
+            " Tom Andrews",
+            " Rob Jarvis",
+            " Michael Warburton"
+        ],
+        "tam": [
+            "Ashley Madekwe",
+            " Bukky Bakray",
+            " Jorden Myrie",
+            " Samuel Paul Small",
+            " Maria Almeida",
+            " Justin Salinger",
+            " Lucy Liemann",
+            " Tom Andrews",
+            " Rob Jarvis",
+            " Michael Warburton"
+        ],
+        "chi": [
+            "Ashley Madekwe",
+            " Bukky Bakray",
+            " Jorden Myrie",
+            " Samuel Paul Small",
+            " Maria Almeida",
+            " Justin Salinger",
+            " Lucy Liemann",
+            " Tom Andrews",
+            " Rob Jarvis",
+            " Michael Warburton"
+        ],
+        "tha": [
+            "Ashley Madekwe",
+            " Bukky Bakray",
+            " Jorden Myrie",
+            " Samuel Paul Small",
+            " Maria Almeida",
+            " Justin Salinger",
+            " Lucy Liemann",
+            " Tom Andrews",
+            " Rob Jarvis",
+            " Michael Warburton"
+        ],
+        "ind": [
+            "Ashley Madekwe",
+            " Bukky Bakray",
+            " Jorden Myrie",
+            " Samuel Paul Small",
+            " Maria Almeida",
+            " Justin Salinger",
+            " Lucy Liemann",
+            " Tom Andrews",
+            " Rob Jarvis",
+            " Michael Warburton"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Nathaniel Martello-White"
+        ],
+        "may": [
+            "Nathaniel Martello-White"
+        ],
+        "tam": [
+            "Nathaniel Martello-White"
+        ],
+        "chi": [
+            "Nathaniel Martello-White"
+        ],
+        "tha": [
+            "Nathaniel Martello-White"
+        ],
+        "ind": [
+            "Nathaniel Martello-White"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Valentina Brazzini",
+            " Tristan Goligher",
+            " Eimhear McMahon",
+            " Rob Watson"
+        ],
+        "may": [
+            "Valentina Brazzini",
+            " Tristan Goligher",
+            " Eimhear McMahon",
+            " Rob Watson"
+        ],
+        "tam": [
+            "Valentina Brazzini",
+            " Tristan Goligher",
+            " Eimhear McMahon",
+            " Rob Watson"
+        ],
+        "chi": [
+            "Valentina Brazzini",
+            " Tristan Goligher",
+            " Eimhear McMahon",
+            " Rob Watson"
+        ],
+        "tha": [
+            "Valentina Brazzini",
+            " Tristan Goligher",
+            " Eimhear McMahon",
+            " Rob Watson"
+        ],
+        "ind": [
+            "Valentina Brazzini",
+            " Tristan Goligher",
+            " Eimhear McMahon",
+            " Rob Watson"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Thriller",
+                    "may": " Thriller",
+                    "tam": " Thriller",
+                    "chi": " Thriller",
+                    "tha": " Thriller",
+                    "ind": " Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheStrays_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheStrays_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheStrays_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2023,
+    "rating": "4.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

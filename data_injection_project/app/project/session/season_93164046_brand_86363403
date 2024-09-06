@@ -1,0 +1,323 @@
+{
+    "externalId": "AggregatedSeason_a38bdd71-5cc1-52d0-a44e-b27185cef296",
+    "clientContentId": "PACK0000000008689335",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Reality-TV",
+                    "may": "Reality-TV",
+                    "chi": "Reality-TV",
+                    "tam": "Reality-TV",
+                    "ind": "Reality-TV",
+                    "tha": "Reality-TV"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Reality-TV",
+                    "may": "Reality-TV",
+                    "chi": "Reality-TV",
+                    "tam": "Reality-TV",
+                    "ind": "Reality-TV",
+                    "tha": "Reality-TV"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "TV-PG",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Stacey-Lee May",
+            " Michael Bisping",
+            " Lindsay Czarniak",
+            " Rutledge Wood",
+            " Mike Hill",
+            " Faruk Kugay",
+            " Fielding Shredder",
+            " Diego Higa",
+            " Sara Haro",
+            " Jo\u00e3o Barion"
+        ],
+        "may": [
+            "Stacey-Lee May",
+            " Michael Bisping",
+            " Lindsay Czarniak",
+            " Rutledge Wood",
+            " Mike Hill",
+            " Faruk Kugay",
+            " Fielding Shredder",
+            " Diego Higa",
+            " Sara Haro",
+            " Jo\u00e3o Barion"
+        ],
+        "chi": [
+            "Stacey-Lee May",
+            " Michael Bisping",
+            " Lindsay Czarniak",
+            " Rutledge Wood",
+            " Mike Hill",
+            " Faruk Kugay",
+            " Fielding Shredder",
+            " Diego Higa",
+            " Sara Haro",
+            " Jo\u00e3o Barion"
+        ],
+        "tam": [
+            "Stacey-Lee May",
+            " Michael Bisping",
+            " Lindsay Czarniak",
+            " Rutledge Wood",
+            " Mike Hill",
+            " Faruk Kugay",
+            " Fielding Shredder",
+            " Diego Higa",
+            " Sara Haro",
+            " Jo\u00e3o Barion"
+        ],
+        "ind": [
+            "Stacey-Lee May",
+            " Michael Bisping",
+            " Lindsay Czarniak",
+            " Rutledge Wood",
+            " Mike Hill",
+            " Faruk Kugay",
+            " Fielding Shredder",
+            " Diego Higa",
+            " Sara Haro",
+            " Jo\u00e3o Barion"
+        ],
+        "tha": [
+            "Stacey-Lee May",
+            " Michael Bisping",
+            " Lindsay Czarniak",
+            " Rutledge Wood",
+            " Mike Hill",
+            " Faruk Kugay",
+            " Fielding Shredder",
+            " Diego Higa",
+            " Sara Haro",
+            " Jo\u00e3o Barion"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Patrick McManus"
+        ],
+        "may": [
+            "Patrick McManus"
+        ],
+        "chi": [
+            "Patrick McManus"
+        ],
+        "tam": [
+            "Patrick McManus"
+        ],
+        "ind": [
+            "Patrick McManus"
+        ],
+        "tha": [
+            "Patrick McManus"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jonathan Bourne",
+            " Sam Bullard",
+            " Daniel Calin",
+            " Robert Callow",
+            " Andrew Calver",
+            " Aaron Catling",
+            " Andrew Comrie-Picard",
+            " Joel Dobzewitz",
+            " Karinil Figueroa",
+            " Evan Gatica"
+        ],
+        "may": [
+            "Jonathan Bourne",
+            " Sam Bullard",
+            " Daniel Calin",
+            " Robert Callow",
+            " Andrew Calver",
+            " Aaron Catling",
+            " Andrew Comrie-Picard",
+            " Joel Dobzewitz",
+            " Karinil Figueroa",
+            " Evan Gatica"
+        ],
+        "chi": [
+            "Jonathan Bourne",
+            " Sam Bullard",
+            " Daniel Calin",
+            " Robert Callow",
+            " Andrew Calver",
+            " Aaron Catling",
+            " Andrew Comrie-Picard",
+            " Joel Dobzewitz",
+            " Karinil Figueroa",
+            " Evan Gatica"
+        ],
+        "tam": [
+            "Jonathan Bourne",
+            " Sam Bullard",
+            " Daniel Calin",
+            " Robert Callow",
+            " Andrew Calver",
+            " Aaron Catling",
+            " Andrew Comrie-Picard",
+            " Joel Dobzewitz",
+            " Karinil Figueroa",
+            " Evan Gatica"
+        ],
+        "ind": [
+            "Jonathan Bourne",
+            " Sam Bullard",
+            " Daniel Calin",
+            " Robert Callow",
+            " Andrew Calver",
+            " Aaron Catling",
+            " Andrew Comrie-Picard",
+            " Joel Dobzewitz",
+            " Karinil Figueroa",
+            " Evan Gatica"
+        ],
+        "tha": [
+            "Jonathan Bourne",
+            " Sam Bullard",
+            " Daniel Calin",
+            " Robert Callow",
+            " Andrew Calver",
+            " Aaron Catling",
+            " Andrew Comrie-Picard",
+            " Joel Dobzewitz",
+            " Karinil Figueroa",
+            " Evan Gatica"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_d6834075-2344-5ed0-ae58-1a996e6cce11",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Hyperdrive Season 1",
+            "may": "Hyperdrive Season 1",
+            "chi": "Hyperdrive Season 1",
+            "tam": "Hyperdrive Season 1",
+            "ind": "Hyperdrive Season 1",
+            "tha": "Hyperdrive Season 1"
+        },
+        "long": {
+            "eng": "Hyperdrive Season 1",
+            "may": "Hyperdrive Season 1",
+            "chi": "Hyperdrive Season 1",
+            "tam": "Hyperdrive Season 1",
+            "ind": "Hyperdrive Season 1",
+            "tha": "Hyperdrive Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "may": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "chi": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "tam": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "ind": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "tha": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made."
+        },
+        "long": {
+            "eng": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "may": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "chi": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "tam": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "ind": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+            "tha": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HyperdriveSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HyperdriveSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HyperdriveSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

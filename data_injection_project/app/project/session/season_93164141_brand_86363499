@@ -1,0 +1,227 @@
+{
+    "externalId": "AggregatedSeason_d47b10c0-216a-5162-b159-80e11022b82a",
+    "clientContentId": "PACK0000000004646948",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Reality-TV",
+                    "may": "Reality-TV",
+                    "chi": "Reality-TV",
+                    "tam": "Reality-TV",
+                    "ind": "Reality-TV",
+                    "tha": "Reality-TV"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Reality-TV",
+                    "may": "Reality-TV",
+                    "chi": "Reality-TV",
+                    "tam": "Reality-TV",
+                    "ind": "Reality-TV",
+                    "tha": "Reality-TV"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "5",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Matthew Hoffman",
+            " Iain Stirling",
+            " Zeta Morrison"
+        ],
+        "may": [
+            "Matthew Hoffman",
+            " Iain Stirling",
+            " Zeta Morrison"
+        ],
+        "chi": [
+            "Matthew Hoffman",
+            " Iain Stirling",
+            " Zeta Morrison"
+        ],
+        "tam": [
+            "Matthew Hoffman",
+            " Iain Stirling",
+            " Zeta Morrison"
+        ],
+        "ind": [
+            "Matthew Hoffman",
+            " Iain Stirling",
+            " Zeta Morrison"
+        ],
+        "tha": [
+            "Matthew Hoffman",
+            " Iain Stirling",
+            " Zeta Morrison"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Paul Newton"
+        ],
+        "may": [
+            "Paul Newton"
+        ],
+        "chi": [
+            "Paul Newton"
+        ],
+        "tam": [
+            "Paul Newton"
+        ],
+        "ind": [
+            "Paul Newton"
+        ],
+        "tha": [
+            "Paul Newton"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Paul Newton"
+        ],
+        "may": [
+            "Paul Newton"
+        ],
+        "chi": [
+            "Paul Newton"
+        ],
+        "tam": [
+            "Paul Newton"
+        ],
+        "ind": [
+            "Paul Newton"
+        ],
+        "tha": [
+            "Paul Newton"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_9052b5dd-94f3-5b28-a91b-1fa6d4425bcb",
+    "seasonNumber": "7",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Love Island UK S01 EP01",
+            "may": "Love Island UK S01 EP01",
+            "chi": "Love Island UK S01 EP01",
+            "tam": "Love Island UK S01 EP01",
+            "ind": "Love Island UK S01 EP01",
+            "tha": "Love Island UK S01 EP01"
+        },
+        "long": {
+            "eng": "Love Island UK S01 EP01",
+            "may": "Love Island UK S01 EP01",
+            "chi": "Love Island UK S01 EP01",
+            "tam": "Love Island UK S01 EP01",
+            "ind": "Love Island UK S01 EP01",
+            "tha": "Love Island UK S01 EP01"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "may": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "chi": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "tam": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "ind": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "tha": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another."
+        },
+        "long": {
+            "eng": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "may": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "chi": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "tam": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "ind": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "tha": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/LoveIslandUKSeason7_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/LoveIslandUKSeason7_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/LoveIslandUKSeason7_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

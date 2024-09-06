@@ -1,0 +1,323 @@
+{
+    "externalId": "AggregatedSeason_a6f320ae-6d29-57c5-be8a-4c05c1f6f2a9",
+    "clientContentId": "PACK0000000009942526",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "chi": "Documentary",
+                    "tam": "Documentary",
+                    "ind": "Documentary",
+                    "tha": "Documentary"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Cem Yigit Uz\u00fcmoglu",
+            " Tuba B\u00fcy\u00fck\u00fcst\u00fcn",
+            " Alp Ilkman",
+            " Ushan \u00c7akir",
+            " Charles Dance",
+            " Tommaso Basili",
+            " Selim Bayraktar",
+            " Birkan Sokullu",
+            " Osman Sonant",
+            " Damla S\u00f6nmez"
+        ],
+        "may": [
+            "Cem Yigit Uz\u00fcmoglu",
+            " Tuba B\u00fcy\u00fck\u00fcst\u00fcn",
+            " Alp Ilkman",
+            " Ushan \u00c7akir",
+            " Charles Dance",
+            " Tommaso Basili",
+            " Selim Bayraktar",
+            " Birkan Sokullu",
+            " Osman Sonant",
+            " Damla S\u00f6nmez"
+        ],
+        "chi": [
+            "Cem Yigit Uz\u00fcmoglu",
+            " Tuba B\u00fcy\u00fck\u00fcst\u00fcn",
+            " Alp Ilkman",
+            " Ushan \u00c7akir",
+            " Charles Dance",
+            " Tommaso Basili",
+            " Selim Bayraktar",
+            " Birkan Sokullu",
+            " Osman Sonant",
+            " Damla S\u00f6nmez"
+        ],
+        "tam": [
+            "Cem Yigit Uz\u00fcmoglu",
+            " Tuba B\u00fcy\u00fck\u00fcst\u00fcn",
+            " Alp Ilkman",
+            " Ushan \u00c7akir",
+            " Charles Dance",
+            " Tommaso Basili",
+            " Selim Bayraktar",
+            " Birkan Sokullu",
+            " Osman Sonant",
+            " Damla S\u00f6nmez"
+        ],
+        "ind": [
+            "Cem Yigit Uz\u00fcmoglu",
+            " Tuba B\u00fcy\u00fck\u00fcst\u00fcn",
+            " Alp Ilkman",
+            " Ushan \u00c7akir",
+            " Charles Dance",
+            " Tommaso Basili",
+            " Selim Bayraktar",
+            " Birkan Sokullu",
+            " Osman Sonant",
+            " Damla S\u00f6nmez"
+        ],
+        "tha": [
+            "Cem Yigit Uz\u00fcmoglu",
+            " Tuba B\u00fcy\u00fck\u00fcst\u00fcn",
+            " Alp Ilkman",
+            " Ushan \u00c7akir",
+            " Charles Dance",
+            " Tommaso Basili",
+            " Selim Bayraktar",
+            " Birkan Sokullu",
+            " Osman Sonant",
+            " Damla S\u00f6nmez"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Emre Sahin"
+        ],
+        "may": [
+            "Emre Sahin"
+        ],
+        "chi": [
+            "Emre Sahin"
+        ],
+        "tam": [
+            "Emre Sahin"
+        ],
+        "ind": [
+            "Emre Sahin"
+        ],
+        "tha": [
+            "Emre Sahin"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Fikret Manoglu",
+            " Kelly McPherson",
+            " Emre Sahin",
+            " Kerem Ozerdogan",
+            " Sarah Wetherbee",
+            " Jada Miranda",
+            " Zita Kisgergely",
+            " Sam Anzel",
+            " Minoti Vaishnav",
+            " "
+        ],
+        "may": [
+            "Fikret Manoglu",
+            " Kelly McPherson",
+            " Emre Sahin",
+            " Kerem Ozerdogan",
+            " Sarah Wetherbee",
+            " Jada Miranda",
+            " Zita Kisgergely",
+            " Sam Anzel",
+            " Minoti Vaishnav",
+            " "
+        ],
+        "chi": [
+            "Fikret Manoglu",
+            " Kelly McPherson",
+            " Emre Sahin",
+            " Kerem Ozerdogan",
+            " Sarah Wetherbee",
+            " Jada Miranda",
+            " Zita Kisgergely",
+            " Sam Anzel",
+            " Minoti Vaishnav",
+            " "
+        ],
+        "tam": [
+            "Fikret Manoglu",
+            " Kelly McPherson",
+            " Emre Sahin",
+            " Kerem Ozerdogan",
+            " Sarah Wetherbee",
+            " Jada Miranda",
+            " Zita Kisgergely",
+            " Sam Anzel",
+            " Minoti Vaishnav",
+            " "
+        ],
+        "ind": [
+            "Fikret Manoglu",
+            " Kelly McPherson",
+            " Emre Sahin",
+            " Kerem Ozerdogan",
+            " Sarah Wetherbee",
+            " Jada Miranda",
+            " Zita Kisgergely",
+            " Sam Anzel",
+            " Minoti Vaishnav",
+            " "
+        ],
+        "tha": [
+            "Fikret Manoglu",
+            " Kelly McPherson",
+            " Emre Sahin",
+            " Kerem Ozerdogan",
+            " Sarah Wetherbee",
+            " Jada Miranda",
+            " Zita Kisgergely",
+            " Sam Anzel",
+            " Minoti Vaishnav",
+            " "
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_ba39151d-8750-533b-b4b1-6fb30f2ab2a6",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Rise of Empires Ottoman Season 1",
+            "may": "Rise of Empires Ottoman Season 1",
+            "chi": "Rise of Empires Ottoman Season 1",
+            "tam": "Rise of Empires Ottoman Season 1",
+            "ind": "Rise of Empires Ottoman Season 1",
+            "tha": "Rise of Empires Ottoman Season 1"
+        },
+        "long": {
+            "eng": "Rise of Empires Ottoman Season 1",
+            "may": "Rise of Empires Ottoman Season 1",
+            "chi": "Rise of Empires Ottoman Season 1",
+            "tam": "Rise of Empires Ottoman Season 1",
+            "ind": "Rise of Empires Ottoman Season 1",
+            "tha": "Rise of Empires Ottoman Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries.",
+            "may": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries.",
+            "chi": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries.",
+            "tam": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries.",
+            "ind": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries.",
+            "tha": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries."
+        },
+        "long": {
+            "eng": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries.",
+            "may": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries.",
+            "chi": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries.",
+            "tam": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries.",
+            "ind": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries.",
+            "tha": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/RiseofEmpiresOttomanSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/RiseofEmpiresOttomanSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/RiseofEmpiresOttomanSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

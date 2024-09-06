@@ -1,0 +1,335 @@
+{
+    "externalId": "AggregatedSeason_57f1c845-41d7-56be-847e-113b32594c60",
+    "clientContentId": "PACK0000000002237557",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Animation",
+                    "may": "Animation",
+                    "chi": "Animation",
+                    "tam": "Animation",
+                    "ind": "Animation",
+                    "tha": "Animation"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Action",
+                    "may": " Action",
+                    "chi": " Action",
+                    "tam": " Action",
+                    "ind": " Action",
+                    "tha": " Action"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-14",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Gideon Adlon",
+            " Calum Worthy",
+            " Erica Lindbeck",
+            " Victoria Grace",
+            " Allie MacDonald",
+            " Andy McPhee",
+            " Jason Spisak",
+            " Martin Klebba",
+            " Leonardo Nam",
+            " Leilani Jones"
+        ],
+        "may": [
+            "Gideon Adlon",
+            " Calum Worthy",
+            " Erica Lindbeck",
+            " Victoria Grace",
+            " Allie MacDonald",
+            " Andy McPhee",
+            " Jason Spisak",
+            " Martin Klebba",
+            " Leonardo Nam",
+            " Leilani Jones"
+        ],
+        "chi": [
+            "Gideon Adlon",
+            " Calum Worthy",
+            " Erica Lindbeck",
+            " Victoria Grace",
+            " Allie MacDonald",
+            " Andy McPhee",
+            " Jason Spisak",
+            " Martin Klebba",
+            " Leonardo Nam",
+            " Leilani Jones"
+        ],
+        "tam": [
+            "Gideon Adlon",
+            " Calum Worthy",
+            " Erica Lindbeck",
+            " Victoria Grace",
+            " Allie MacDonald",
+            " Andy McPhee",
+            " Jason Spisak",
+            " Martin Klebba",
+            " Leonardo Nam",
+            " Leilani Jones"
+        ],
+        "ind": [
+            "Gideon Adlon",
+            " Calum Worthy",
+            " Erica Lindbeck",
+            " Victoria Grace",
+            " Allie MacDonald",
+            " Andy McPhee",
+            " Jason Spisak",
+            " Martin Klebba",
+            " Leonardo Nam",
+            " Leilani Jones"
+        ],
+        "tha": [
+            "Gideon Adlon",
+            " Calum Worthy",
+            " Erica Lindbeck",
+            " Victoria Grace",
+            " Allie MacDonald",
+            " Andy McPhee",
+            " Jason Spisak",
+            " Martin Klebba",
+            " Leonardo Nam",
+            " Leilani Jones"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Hiroyuki Hayashi",
+            " Jae Hong Kim",
+            " Susumu Sugai",
+            " Masayuki Uemoto",
+            " Takeshi Iwata"
+        ],
+        "may": [
+            "Hiroyuki Hayashi",
+            " Jae Hong Kim",
+            " Susumu Sugai",
+            " Masayuki Uemoto",
+            " Takeshi Iwata"
+        ],
+        "chi": [
+            "Hiroyuki Hayashi",
+            " Jae Hong Kim",
+            " Susumu Sugai",
+            " Masayuki Uemoto",
+            " Takeshi Iwata"
+        ],
+        "tam": [
+            "Hiroyuki Hayashi",
+            " Jae Hong Kim",
+            " Susumu Sugai",
+            " Masayuki Uemoto",
+            " Takeshi Iwata"
+        ],
+        "ind": [
+            "Hiroyuki Hayashi",
+            " Jae Hong Kim",
+            " Susumu Sugai",
+            " Masayuki Uemoto",
+            " Takeshi Iwata"
+        ],
+        "tha": [
+            "Hiroyuki Hayashi",
+            " Jae Hong Kim",
+            " Susumu Sugai",
+            " Masayuki Uemoto",
+            " Takeshi Iwata"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ken Duer",
+            " Greg Johnson",
+            " Jack Liang",
+            " Bill E. Miller",
+            " Reinard J. Palisoc",
+            " Shuzo John Shiota",
+            " Shiho Tanaka",
+            " Craig Kyle"
+        ],
+        "may": [
+            "Ken Duer",
+            " Greg Johnson",
+            " Jack Liang",
+            " Bill E. Miller",
+            " Reinard J. Palisoc",
+            " Shuzo John Shiota",
+            " Shiho Tanaka",
+            " Craig Kyle"
+        ],
+        "chi": [
+            "Ken Duer",
+            " Greg Johnson",
+            " Jack Liang",
+            " Bill E. Miller",
+            " Reinard J. Palisoc",
+            " Shuzo John Shiota",
+            " Shiho Tanaka",
+            " Craig Kyle"
+        ],
+        "tam": [
+            "Ken Duer",
+            " Greg Johnson",
+            " Jack Liang",
+            " Bill E. Miller",
+            " Reinard J. Palisoc",
+            " Shuzo John Shiota",
+            " Shiho Tanaka",
+            " Craig Kyle"
+        ],
+        "ind": [
+            "Ken Duer",
+            " Greg Johnson",
+            " Jack Liang",
+            " Bill E. Miller",
+            " Reinard J. Palisoc",
+            " Shuzo John Shiota",
+            " Shiho Tanaka",
+            " Craig Kyle"
+        ],
+        "tha": [
+            "Ken Duer",
+            " Greg Johnson",
+            " Jack Liang",
+            " Bill E. Miller",
+            " Reinard J. Palisoc",
+            " Shuzo John Shiota",
+            " Shiho Tanaka",
+            " Craig Kyle"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_fc3afc94-529c-5ce8-9112-9489a91aa162",
+    "seasonNumber": "2",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Pacific Rim The Black Season 2",
+            "may": "Pacific Rim The Black Season 2",
+            "chi": "Pacific Rim The Black Season 2",
+            "tam": "Pacific Rim The Black Season 2",
+            "ind": "Pacific Rim The Black Season 2",
+            "tha": "Pacific Rim The Black Season 2"
+        },
+        "long": {
+            "eng": "Pacific Rim The Black Season 2",
+            "may": "Pacific Rim The Black Season 2",
+            "chi": "Pacific Rim The Black Season 2",
+            "tam": "Pacific Rim The Black Season 2",
+            "ind": "Pacific Rim The Black Season 2",
+            "tha": "Pacific Rim The Black Season 2"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "may": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "chi": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "tam": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "ind": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "tha": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies."
+        },
+        "long": {
+            "eng": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "may": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "chi": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "tam": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "ind": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+            "tha": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PacificRimTheBlackSeason2_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PacificRimTheBlackSeason2_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/PacificRimTheBlackSeason2_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

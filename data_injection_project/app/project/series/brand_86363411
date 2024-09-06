@@ -1,0 +1,271 @@
+{
+    "externalId": "AggregatedSeries_f19d14c1-af76-5176-be87-d5227dab811d",
+    "clientContentId": "PACK0000000007972857",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Keep Breathing",
+            "may": "Keep Breathing",
+            "tam": "Keep Breathing",
+            "chi": "Keep Breathing",
+            "tha": "Keep Breathing",
+            "ind": "Keep Breathing"
+        },
+        "long": {
+            "eng": "Keep Breathing",
+            "may": "Keep Breathing",
+            "tam": "Keep Breathing",
+            "chi": "Keep Breathing",
+            "tha": "Keep Breathing",
+            "ind": "Keep Breathing"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "may": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "tam": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "chi": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "tha": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "ind": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive."
+        },
+        "long": {
+            "eng": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "may": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "tam": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "chi": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "tha": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive.",
+            "ind": "When a small plane crashes in the middle of the Canadian wilderness, a lone woman must battle the elements and odds to survive."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Melissa Barrera",
+            " Jeff Wilbusch",
+            " Florencia Lozano",
+            " Juan Pablo Espinosa",
+            " Joselyn Picard",
+            " Austin StowellGetenesh BerheMike DopudMichelle Choi-LeeRandy Lee"
+        ],
+        "may": [
+            "Melissa Barrera",
+            " Jeff Wilbusch",
+            " Florencia Lozano",
+            " Juan Pablo Espinosa",
+            " Joselyn Picard",
+            " Austin StowellGetenesh BerheMike DopudMichelle Choi-LeeRandy Lee"
+        ],
+        "tam": [
+            "Melissa Barrera",
+            " Jeff Wilbusch",
+            " Florencia Lozano",
+            " Juan Pablo Espinosa",
+            " Joselyn Picard",
+            " Austin StowellGetenesh BerheMike DopudMichelle Choi-LeeRandy Lee"
+        ],
+        "chi": [
+            "Melissa Barrera",
+            " Jeff Wilbusch",
+            " Florencia Lozano",
+            " Juan Pablo Espinosa",
+            " Joselyn Picard",
+            " Austin StowellGetenesh BerheMike DopudMichelle Choi-LeeRandy Lee"
+        ],
+        "tha": [
+            "Melissa Barrera",
+            " Jeff Wilbusch",
+            " Florencia Lozano",
+            " Juan Pablo Espinosa",
+            " Joselyn Picard",
+            " Austin StowellGetenesh BerheMike DopudMichelle Choi-LeeRandy Lee"
+        ],
+        "ind": [
+            "Melissa Barrera",
+            " Jeff Wilbusch",
+            " Florencia Lozano",
+            " Juan Pablo Espinosa",
+            " Joselyn Picard",
+            " Austin StowellGetenesh BerheMike DopudMichelle Choi-LeeRandy Lee"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Maggie Kiley",
+            " Rebecca Rodriguez"
+        ],
+        "may": [
+            "Maggie Kiley",
+            " Rebecca Rodriguez"
+        ],
+        "tam": [
+            "Maggie Kiley",
+            " Rebecca Rodriguez"
+        ],
+        "chi": [
+            "Maggie Kiley",
+            " Rebecca Rodriguez"
+        ],
+        "tha": [
+            "Maggie Kiley",
+            " Rebecca Rodriguez"
+        ],
+        "ind": [
+            "Maggie Kiley",
+            " Rebecca Rodriguez"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Colin Bright",
+            " Brendan Gall",
+            " Martin Gero",
+            " Maggie Kiley",
+            " Taja Perkins",
+            " Robert PetroviczRebecca RodriguezIturri Sosa"
+        ],
+        "may": [
+            "Colin Bright",
+            " Brendan Gall",
+            " Martin Gero",
+            " Maggie Kiley",
+            " Taja Perkins",
+            " Robert PetroviczRebecca RodriguezIturri Sosa"
+        ],
+        "tam": [
+            "Colin Bright",
+            " Brendan Gall",
+            " Martin Gero",
+            " Maggie Kiley",
+            " Taja Perkins",
+            " Robert PetroviczRebecca RodriguezIturri Sosa"
+        ],
+        "chi": [
+            "Colin Bright",
+            " Brendan Gall",
+            " Martin Gero",
+            " Maggie Kiley",
+            " Taja Perkins",
+            " Robert PetroviczRebecca RodriguezIturri Sosa"
+        ],
+        "tha": [
+            "Colin Bright",
+            " Brendan Gall",
+            " Martin Gero",
+            " Maggie Kiley",
+            " Taja Perkins",
+            " Robert PetroviczRebecca RodriguezIturri Sosa"
+        ],
+        "ind": [
+            "Colin Bright",
+            " Brendan Gall",
+            " Martin Gero",
+            " Maggie Kiley",
+            " Taja Perkins",
+            " Robert PetroviczRebecca RodriguezIturri Sosa"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Adventure",
+                    "may": "Adventure",
+                    "tam": "Adventure",
+                    "chi": "Adventure",
+                    "tha": "Adventure",
+                    "ind": "Adventure"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/KeepBreathingSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/KeepBreathingSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/KeepBreathingSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "10",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2022,
+    "maxConcurrentStreams": 0
+}

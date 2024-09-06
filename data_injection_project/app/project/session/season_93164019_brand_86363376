@@ -1,0 +1,377 @@
+{
+    "externalId": "AggregatedSeason_796fb555-2617-5127-879e-2989b1e32474",
+    "clientContentId": "PACK0000000005429134",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Mystery",
+                    "may": " Mystery",
+                    "chi": " Mystery",
+                    "tam": " Mystery",
+                    "ind": " Mystery",
+                    "tha": " Mystery"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2017,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Dylan Minnette",
+            " Christian Navarro",
+            " Alisha Boe",
+            " Brandon Flynn",
+            " Justin Prentice",
+            " Ross Butler",
+            " Devin Druid",
+            " Amy Hargreaves",
+            " Miles Heizer",
+            " Timothy Granaderos"
+        ],
+        "may": [
+            "Dylan Minnette",
+            " Christian Navarro",
+            " Alisha Boe",
+            " Brandon Flynn",
+            " Justin Prentice",
+            " Ross Butler",
+            " Devin Druid",
+            " Amy Hargreaves",
+            " Miles Heizer",
+            " Timothy Granaderos"
+        ],
+        "chi": [
+            "Dylan Minnette",
+            " Christian Navarro",
+            " Alisha Boe",
+            " Brandon Flynn",
+            " Justin Prentice",
+            " Ross Butler",
+            " Devin Druid",
+            " Amy Hargreaves",
+            " Miles Heizer",
+            " Timothy Granaderos"
+        ],
+        "tam": [
+            "Dylan Minnette",
+            " Christian Navarro",
+            " Alisha Boe",
+            " Brandon Flynn",
+            " Justin Prentice",
+            " Ross Butler",
+            " Devin Druid",
+            " Amy Hargreaves",
+            " Miles Heizer",
+            " Timothy Granaderos"
+        ],
+        "ind": [
+            "Dylan Minnette",
+            " Christian Navarro",
+            " Alisha Boe",
+            " Brandon Flynn",
+            " Justin Prentice",
+            " Ross Butler",
+            " Devin Druid",
+            " Amy Hargreaves",
+            " Miles Heizer",
+            " Timothy Granaderos"
+        ],
+        "tha": [
+            "Dylan Minnette",
+            " Christian Navarro",
+            " Alisha Boe",
+            " Brandon Flynn",
+            " Justin Prentice",
+            " Ross Butler",
+            " Devin Druid",
+            " Amy Hargreaves",
+            " Miles Heizer",
+            " Timothy Granaderos"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jessica Yu",
+            " Kyle Patrick Alvarez",
+            " Gregg Araki",
+            " Michael Morris",
+            " Kevin Dowling",
+            " Carl Franklin",
+            " Tom McCarthy",
+            " Helen Shaver",
+            " Kat Candler",
+            " Eliza Hittman"
+        ],
+        "may": [
+            "Jessica Yu",
+            " Kyle Patrick Alvarez",
+            " Gregg Araki",
+            " Michael Morris",
+            " Kevin Dowling",
+            " Carl Franklin",
+            " Tom McCarthy",
+            " Helen Shaver",
+            " Kat Candler",
+            " Eliza Hittman"
+        ],
+        "chi": [
+            "Jessica Yu",
+            " Kyle Patrick Alvarez",
+            " Gregg Araki",
+            " Michael Morris",
+            " Kevin Dowling",
+            " Carl Franklin",
+            " Tom McCarthy",
+            " Helen Shaver",
+            " Kat Candler",
+            " Eliza Hittman"
+        ],
+        "tam": [
+            "Jessica Yu",
+            " Kyle Patrick Alvarez",
+            " Gregg Araki",
+            " Michael Morris",
+            " Kevin Dowling",
+            " Carl Franklin",
+            " Tom McCarthy",
+            " Helen Shaver",
+            " Kat Candler",
+            " Eliza Hittman"
+        ],
+        "ind": [
+            "Jessica Yu",
+            " Kyle Patrick Alvarez",
+            " Gregg Araki",
+            " Michael Morris",
+            " Kevin Dowling",
+            " Carl Franklin",
+            " Tom McCarthy",
+            " Helen Shaver",
+            " Kat Candler",
+            " Eliza Hittman"
+        ],
+        "tha": [
+            "Jessica Yu",
+            " Kyle Patrick Alvarez",
+            " Gregg Araki",
+            " Michael Morris",
+            " Kevin Dowling",
+            " Carl Franklin",
+            " Tom McCarthy",
+            " Helen Shaver",
+            " Kat Candler",
+            " Eliza Hittman"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Kim M. Cybulski",
+            " Steve Golin",
+            " Selena Gomez",
+            " Thomas Higgins",
+            " Kristel Laiblin",
+            " Tom McCarthy",
+            " Michael Sugar",
+            " Mandy Teefey",
+            " Hayley Tyler",
+            " Joy Gorman Wettels"
+        ],
+        "may": [
+            "Kim M. Cybulski",
+            " Steve Golin",
+            " Selena Gomez",
+            " Thomas Higgins",
+            " Kristel Laiblin",
+            " Tom McCarthy",
+            " Michael Sugar",
+            " Mandy Teefey",
+            " Hayley Tyler",
+            " Joy Gorman Wettels"
+        ],
+        "chi": [
+            "Kim M. Cybulski",
+            " Steve Golin",
+            " Selena Gomez",
+            " Thomas Higgins",
+            " Kristel Laiblin",
+            " Tom McCarthy",
+            " Michael Sugar",
+            " Mandy Teefey",
+            " Hayley Tyler",
+            " Joy Gorman Wettels"
+        ],
+        "tam": [
+            "Kim M. Cybulski",
+            " Steve Golin",
+            " Selena Gomez",
+            " Thomas Higgins",
+            " Kristel Laiblin",
+            " Tom McCarthy",
+            " Michael Sugar",
+            " Mandy Teefey",
+            " Hayley Tyler",
+            " Joy Gorman Wettels"
+        ],
+        "ind": [
+            "Kim M. Cybulski",
+            " Steve Golin",
+            " Selena Gomez",
+            " Thomas Higgins",
+            " Kristel Laiblin",
+            " Tom McCarthy",
+            " Michael Sugar",
+            " Mandy Teefey",
+            " Hayley Tyler",
+            " Joy Gorman Wettels"
+        ],
+        "tha": [
+            "Kim M. Cybulski",
+            " Steve Golin",
+            " Selena Gomez",
+            " Thomas Higgins",
+            " Kristel Laiblin",
+            " Tom McCarthy",
+            " Michael Sugar",
+            " Mandy Teefey",
+            " Hayley Tyler",
+            " Joy Gorman Wettels"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_11e1427e-cfb7-5a6d-bda3-d7a5c0c776e0",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "13 REASONS WHY Season 1",
+            "may": "13 REASONS WHY Season 1",
+            "chi": "13 REASONS WHY Season 1",
+            "tam": "13 REASONS WHY Season 1",
+            "ind": "13 REASONS WHY Season 1",
+            "tha": "13 REASONS WHY Season 1"
+        },
+        "long": {
+            "eng": "13 REASONS WHY Season 1",
+            "may": "13 REASONS WHY Season 1",
+            "chi": "13 REASONS WHY Season 1",
+            "tam": "13 REASONS WHY Season 1",
+            "ind": "13 REASONS WHY Season 1",
+            "tha": "13 REASONS WHY Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.",
+            "may": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.",
+            "chi": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.",
+            "tam": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.",
+            "ind": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.",
+            "tha": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life."
+        },
+        "long": {
+            "eng": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.",
+            "may": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.",
+            "chi": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.",
+            "tam": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.",
+            "ind": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.",
+            "tha": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/13REASONSWHYSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/13REASONSWHYSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/13REASONSWHYSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

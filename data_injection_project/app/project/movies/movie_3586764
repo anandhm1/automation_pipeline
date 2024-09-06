@@ -1,0 +1,325 @@
+{
+    "externalId": "AggregatedMovie_2962e8f3-b960-51a0-bfd8-c70038979f8a",
+    "clientContentId": "PACK0000000002439503",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "NIGHT TRAIN (2023)",
+            "may": "NIGHT TRAIN (2023)",
+            "tam": "NIGHT TRAIN (2023)",
+            "chi": "NIGHT TRAIN (2023)",
+            "tha": "NIGHT TRAIN (2023)",
+            "ind": "NIGHT TRAIN (2023)"
+        },
+        "long": {
+            "eng": "NIGHT TRAIN (2023)",
+            "may": "NIGHT TRAIN (2023)",
+            "tam": "NIGHT TRAIN (2023)",
+            "chi": "NIGHT TRAIN (2023)",
+            "tha": "NIGHT TRAIN (2023)",
+            "ind": "NIGHT TRAIN (2023)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A single mom struggling to make ends meet as a Hollywood teamster evades capture by a ruthless FBI Agent while running black market medical supplies in her legendary souped-up pickup truck.",
+            "may": "A single mom struggling to make ends meet as a Hollywood teamster evades capture by a ruthless FBI Agent while running black market medical supplies in her legendary souped-up pickup truck.",
+            "tam": "A single mom struggling to make ends meet as a Hollywood teamster evades capture by a ruthless FBI Agent while running black market medical supplies in her legendary souped-up pickup truck.",
+            "chi": "A single mom struggling to make ends meet as a Hollywood teamster evades capture by a ruthless FBI Agent while running black market medical supplies in her legendary souped-up pickup truck.",
+            "tha": "A single mom struggling to make ends meet as a Hollywood teamster evades capture by a ruthless FBI Agent while running black market medical supplies in her legendary souped-up pickup truck.",
+            "ind": "A single mom struggling to make ends meet as a Hollywood teamster evades capture by a ruthless FBI Agent while running black market medical supplies in her legendary souped-up pickup truck."
+        },
+        "long": {
+            "eng": "A single mom struggling to make ends meet as a Hollywood teamster evades capture by a ruthless FBI Agent while running black market medical supplies in her legendary souped-up pickup truck.",
+            "may": "A single mom struggling to make ends meet as a Hollywood teamster evades capture by a ruthless FBI Agent while running black market medical supplies in her legendary souped-up pickup truck.",
+            "tam": "A single mom struggling to make ends meet as a Hollywood teamster evades capture by a ruthless FBI Agent while running black market medical supplies in her legendary souped-up pickup truck.",
+            "chi": "A single mom struggling to make ends meet as a Hollywood teamster evades capture by a ruthless FBI Agent while running black market medical supplies in her legendary souped-up pickup truck.",
+            "tha": "A single mom struggling to make ends meet as a Hollywood teamster evades capture by a ruthless FBI Agent while running black market medical supplies in her legendary souped-up pickup truck.",
+            "ind": "A single mom struggling to make ends meet as a Hollywood teamster evades capture by a ruthless FBI Agent while running black market medical supplies in her legendary souped-up pickup truck."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Reggie Austin",
+            " Brent Bailey",
+            " Diora Baird",
+            " Val Barri",
+            " Abraham Benrubi",
+            " Andrew Cahn",
+            " Lizette De La Rosa",
+            " Sean Dillingham",
+            " Nayeli Esparza",
+            " Shelly Fuentes"
+        ],
+        "may": [
+            "Reggie Austin",
+            " Brent Bailey",
+            " Diora Baird",
+            " Val Barri",
+            " Abraham Benrubi",
+            " Andrew Cahn",
+            " Lizette De La Rosa",
+            " Sean Dillingham",
+            " Nayeli Esparza",
+            " Shelly Fuentes"
+        ],
+        "tam": [
+            "Reggie Austin",
+            " Brent Bailey",
+            " Diora Baird",
+            " Val Barri",
+            " Abraham Benrubi",
+            " Andrew Cahn",
+            " Lizette De La Rosa",
+            " Sean Dillingham",
+            " Nayeli Esparza",
+            " Shelly Fuentes"
+        ],
+        "chi": [
+            "Reggie Austin",
+            " Brent Bailey",
+            " Diora Baird",
+            " Val Barri",
+            " Abraham Benrubi",
+            " Andrew Cahn",
+            " Lizette De La Rosa",
+            " Sean Dillingham",
+            " Nayeli Esparza",
+            " Shelly Fuentes"
+        ],
+        "tha": [
+            "Reggie Austin",
+            " Brent Bailey",
+            " Diora Baird",
+            " Val Barri",
+            " Abraham Benrubi",
+            " Andrew Cahn",
+            " Lizette De La Rosa",
+            " Sean Dillingham",
+            " Nayeli Esparza",
+            " Shelly Fuentes"
+        ],
+        "ind": [
+            "Reggie Austin",
+            " Brent Bailey",
+            " Diora Baird",
+            " Val Barri",
+            " Abraham Benrubi",
+            " Andrew Cahn",
+            " Lizette De La Rosa",
+            " Sean Dillingham",
+            " Nayeli Esparza",
+            " Shelly Fuentes"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Shane Stanley"
+        ],
+        "may": [
+            "Shane Stanley"
+        ],
+        "tam": [
+            "Shane Stanley"
+        ],
+        "chi": [
+            "Shane Stanley"
+        ],
+        "tha": [
+            "Shane Stanley"
+        ],
+        "ind": [
+            "Shane Stanley"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Neil Chisholm",
+            " Scott J. Jones",
+            " Jeff Pink",
+            " Mike Ryan",
+            " Shane Stanley",
+            " Levi Vincent",
+            " CJ Walley"
+        ],
+        "may": [
+            "Neil Chisholm",
+            " Scott J. Jones",
+            " Jeff Pink",
+            " Mike Ryan",
+            " Shane Stanley",
+            " Levi Vincent",
+            " CJ Walley"
+        ],
+        "tam": [
+            "Neil Chisholm",
+            " Scott J. Jones",
+            " Jeff Pink",
+            " Mike Ryan",
+            " Shane Stanley",
+            " Levi Vincent",
+            " CJ Walley"
+        ],
+        "chi": [
+            "Neil Chisholm",
+            " Scott J. Jones",
+            " Jeff Pink",
+            " Mike Ryan",
+            " Shane Stanley",
+            " Levi Vincent",
+            " CJ Walley"
+        ],
+        "tha": [
+            "Neil Chisholm",
+            " Scott J. Jones",
+            " Jeff Pink",
+            " Mike Ryan",
+            " Shane Stanley",
+            " Levi Vincent",
+            " CJ Walley"
+        ],
+        "ind": [
+            "Neil Chisholm",
+            " Scott J. Jones",
+            " Jeff Pink",
+            " Mike Ryan",
+            " Shane Stanley",
+            " Levi Vincent",
+            " CJ Walley"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Thriller",
+                    "may": " Thriller",
+                    "tam": " Thriller",
+                    "chi": " Thriller",
+                    "tha": " Thriller",
+                    "ind": " Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/NIGHTTRAIN_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/NIGHTTRAIN_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/NIGHTTRAIN_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2023,
+    "rating": "3.6",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

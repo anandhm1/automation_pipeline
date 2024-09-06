@@ -1,0 +1,331 @@
+{
+    "externalId": "AggregatedMovie_62ba84a7-b40a-57e0-a028-54938916ae36",
+    "clientContentId": "PACK0000000003381796",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Detective Knight Rogue (2022)",
+            "may": "Detective Knight Rogue (2022)",
+            "tam": "Detective Knight Rogue (2022)",
+            "chi": "Detective Knight Rogue (2022)",
+            "tha": "Detective Knight Rogue (2022)",
+            "ind": "Detective Knight Rogue (2022)"
+        },
+        "long": {
+            "eng": "Detective Knight Rogue (2022)",
+            "may": "Detective Knight Rogue (2022)",
+            "tam": "Detective Knight Rogue (2022)",
+            "chi": "Detective Knight Rogue (2022)",
+            "tha": "Detective Knight Rogue (2022)",
+            "ind": "Detective Knight Rogue (2022)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight's partner in a shootout following a heist.",
+            "may": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight's partner in a shootout following a heist.",
+            "tam": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight's partner in a shootout following a heist.",
+            "chi": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight's partner in a shootout following a heist.",
+            "tha": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight's partner in a shootout following a heist.",
+            "ind": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight's partner in a shootout following a heist."
+        },
+        "long": {
+            "eng": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight's partner in a shootout following a heist.",
+            "may": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight's partner in a shootout following a heist.",
+            "tam": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight's partner in a shootout following a heist.",
+            "chi": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight's partner in a shootout following a heist.",
+            "tha": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight's partner in a shootout following a heist.",
+            "ind": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight's partner in a shootout following a heist."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Bruce Willis",
+            " Jimmy Jean-Louis",
+            " Lochlyn Munro",
+            " Beau Mirchoff",
+            " Corey Large",
+            " Johnny Messner",
+            " Michael Eklund",
+            " Hunter Daily",
+            " Alice Comer",
+            " Cody Kearsley"
+        ],
+        "may": [
+            "Bruce Willis",
+            " Jimmy Jean-Louis",
+            " Lochlyn Munro",
+            " Beau Mirchoff",
+            " Corey Large",
+            " Johnny Messner",
+            " Michael Eklund",
+            " Hunter Daily",
+            " Alice Comer",
+            " Cody Kearsley"
+        ],
+        "tam": [
+            "Bruce Willis",
+            " Jimmy Jean-Louis",
+            " Lochlyn Munro",
+            " Beau Mirchoff",
+            " Corey Large",
+            " Johnny Messner",
+            " Michael Eklund",
+            " Hunter Daily",
+            " Alice Comer",
+            " Cody Kearsley"
+        ],
+        "chi": [
+            "Bruce Willis",
+            " Jimmy Jean-Louis",
+            " Lochlyn Munro",
+            " Beau Mirchoff",
+            " Corey Large",
+            " Johnny Messner",
+            " Michael Eklund",
+            " Hunter Daily",
+            " Alice Comer",
+            " Cody Kearsley"
+        ],
+        "tha": [
+            "Bruce Willis",
+            " Jimmy Jean-Louis",
+            " Lochlyn Munro",
+            " Beau Mirchoff",
+            " Corey Large",
+            " Johnny Messner",
+            " Michael Eklund",
+            " Hunter Daily",
+            " Alice Comer",
+            " Cody Kearsley"
+        ],
+        "ind": [
+            "Bruce Willis",
+            " Jimmy Jean-Louis",
+            " Lochlyn Munro",
+            " Beau Mirchoff",
+            " Corey Large",
+            " Johnny Messner",
+            " Michael Eklund",
+            " Hunter Daily",
+            " Alice Comer",
+            " Cody Kearsley"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Edward Drake"
+        ],
+        "may": [
+            "Edward Drake"
+        ],
+        "tam": [
+            "Edward Drake"
+        ],
+        "chi": [
+            "Edward Drake"
+        ],
+        "tha": [
+            "Edward Drake"
+        ],
+        "ind": [
+            "Edward Drake"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Mykel Denis",
+            " Stephen J. Eads",
+            " Bernie Gewissler",
+            " Matthew Helderman",
+            " Corey Large",
+            " Johnny Messner",
+            " Sean Patrick O'Reilly",
+            " Luke Taylor"
+        ],
+        "may": [
+            "Mykel Denis",
+            " Stephen J. Eads",
+            " Bernie Gewissler",
+            " Matthew Helderman",
+            " Corey Large",
+            " Johnny Messner",
+            " Sean Patrick O'Reilly",
+            " Luke Taylor"
+        ],
+        "tam": [
+            "Mykel Denis",
+            " Stephen J. Eads",
+            " Bernie Gewissler",
+            " Matthew Helderman",
+            " Corey Large",
+            " Johnny Messner",
+            " Sean Patrick O'Reilly",
+            " Luke Taylor"
+        ],
+        "chi": [
+            "Mykel Denis",
+            " Stephen J. Eads",
+            " Bernie Gewissler",
+            " Matthew Helderman",
+            " Corey Large",
+            " Johnny Messner",
+            " Sean Patrick O'Reilly",
+            " Luke Taylor"
+        ],
+        "tha": [
+            "Mykel Denis",
+            " Stephen J. Eads",
+            " Bernie Gewissler",
+            " Matthew Helderman",
+            " Corey Large",
+            " Johnny Messner",
+            " Sean Patrick O'Reilly",
+            " Luke Taylor"
+        ],
+        "ind": [
+            "Mykel Denis",
+            " Stephen J. Eads",
+            " Bernie Gewissler",
+            " Matthew Helderman",
+            " Corey Large",
+            " Johnny Messner",
+            " Sean Patrick O'Reilly",
+            " Luke Taylor"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Thriller",
+                    "may": " Thriller",
+                    "tam": " Thriller",
+                    "chi": " Thriller",
+                    "tha": " Thriller",
+                    "ind": " Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/DetectiveKnightRogue_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/DetectiveKnightRogue_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/DetectiveKnightRogue_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "3.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

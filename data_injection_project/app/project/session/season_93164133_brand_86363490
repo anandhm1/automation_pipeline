@@ -1,0 +1,335 @@
+{
+    "externalId": "AggregatedSeason_320825af-7450-558b-8fbe-3dddfd4994f0",
+    "clientContentId": "PACK0000000008477071",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "chi": "Documentary",
+                    "tam": "Documentary",
+                    "ind": "Documentary",
+                    "tha": "Documentary"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "chi": "Documentary",
+                    "tam": "Documentary",
+                    "ind": "Documentary",
+                    "tha": "Documentary"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2021,
+    "rating": "PG",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "David Attenborough",
+            " Toby Nowlan",
+            " Chadden Hunter",
+            " Rolf Steinmann",
+            " Matthew Aeberhard",
+            " Jeremy Rifkin",
+            " Cong Liu",
+            " Huw Cordey",
+            " Ed Charles",
+            " Sophie Lanfear"
+        ],
+        "may": [
+            "David Attenborough",
+            " Toby Nowlan",
+            " Chadden Hunter",
+            " Rolf Steinmann",
+            " Matthew Aeberhard",
+            " Jeremy Rifkin",
+            " Cong Liu",
+            " Huw Cordey",
+            " Ed Charles",
+            " Sophie Lanfear"
+        ],
+        "chi": [
+            "David Attenborough",
+            " Toby Nowlan",
+            " Chadden Hunter",
+            " Rolf Steinmann",
+            " Matthew Aeberhard",
+            " Jeremy Rifkin",
+            " Cong Liu",
+            " Huw Cordey",
+            " Ed Charles",
+            " Sophie Lanfear"
+        ],
+        "tam": [
+            "David Attenborough",
+            " Toby Nowlan",
+            " Chadden Hunter",
+            " Rolf Steinmann",
+            " Matthew Aeberhard",
+            " Jeremy Rifkin",
+            " Cong Liu",
+            " Huw Cordey",
+            " Ed Charles",
+            " Sophie Lanfear"
+        ],
+        "ind": [
+            "David Attenborough",
+            " Toby Nowlan",
+            " Chadden Hunter",
+            " Rolf Steinmann",
+            " Matthew Aeberhard",
+            " Jeremy Rifkin",
+            " Cong Liu",
+            " Huw Cordey",
+            " Ed Charles",
+            " Sophie Lanfear"
+        ],
+        "tha": [
+            "David Attenborough",
+            " Toby Nowlan",
+            " Chadden Hunter",
+            " Rolf Steinmann",
+            " Matthew Aeberhard",
+            " Jeremy Rifkin",
+            " Cong Liu",
+            " Huw Cordey",
+            " Ed Charles",
+            " Sophie Lanfear"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Ed Charles",
+            " Nick Shoolingin-Jordan",
+            " Huw Cordey"
+        ],
+        "may": [
+            "Ed Charles",
+            " Nick Shoolingin-Jordan",
+            " Huw Cordey"
+        ],
+        "chi": [
+            "Ed Charles",
+            " Nick Shoolingin-Jordan",
+            " Huw Cordey"
+        ],
+        "tam": [
+            "Ed Charles",
+            " Nick Shoolingin-Jordan",
+            " Huw Cordey"
+        ],
+        "ind": [
+            "Ed Charles",
+            " Nick Shoolingin-Jordan",
+            " Huw Cordey"
+        ],
+        "tha": [
+            "Ed Charles",
+            " Nick Shoolingin-Jordan",
+            " Huw Cordey"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Daniel Rasmussen",
+            " Ed Charles",
+            " Huw Cordey",
+            " Alastair Fothergill",
+            " Toby Nowlan",
+            " Keith Scholey",
+            " Darren Williams",
+            " Jonathan Hughes",
+            " Nick Shoolingin-Jordan",
+            " Nancy Daniels"
+        ],
+        "may": [
+            "Daniel Rasmussen",
+            " Ed Charles",
+            " Huw Cordey",
+            " Alastair Fothergill",
+            " Toby Nowlan",
+            " Keith Scholey",
+            " Darren Williams",
+            " Jonathan Hughes",
+            " Nick Shoolingin-Jordan",
+            " Nancy Daniels"
+        ],
+        "chi": [
+            "Daniel Rasmussen",
+            " Ed Charles",
+            " Huw Cordey",
+            " Alastair Fothergill",
+            " Toby Nowlan",
+            " Keith Scholey",
+            " Darren Williams",
+            " Jonathan Hughes",
+            " Nick Shoolingin-Jordan",
+            " Nancy Daniels"
+        ],
+        "tam": [
+            "Daniel Rasmussen",
+            " Ed Charles",
+            " Huw Cordey",
+            " Alastair Fothergill",
+            " Toby Nowlan",
+            " Keith Scholey",
+            " Darren Williams",
+            " Jonathan Hughes",
+            " Nick Shoolingin-Jordan",
+            " Nancy Daniels"
+        ],
+        "ind": [
+            "Daniel Rasmussen",
+            " Ed Charles",
+            " Huw Cordey",
+            " Alastair Fothergill",
+            " Toby Nowlan",
+            " Keith Scholey",
+            " Darren Williams",
+            " Jonathan Hughes",
+            " Nick Shoolingin-Jordan",
+            " Nancy Daniels"
+        ],
+        "tha": [
+            "Daniel Rasmussen",
+            " Ed Charles",
+            " Huw Cordey",
+            " Alastair Fothergill",
+            " Toby Nowlan",
+            " Keith Scholey",
+            " Darren Williams",
+            " Jonathan Hughes",
+            " Nick Shoolingin-Jordan",
+            " Nancy Daniels"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_a372a43e-5360-5cef-97ad-eee3f374de62",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "A Perfect Planet S01 Ep 01",
+            "may": "A Perfect Planet S01 Ep 01",
+            "chi": "A Perfect Planet S01 Ep 01",
+            "tam": "A Perfect Planet S01 Ep 01",
+            "ind": "A Perfect Planet S01 Ep 01",
+            "tha": "A Perfect Planet S01 Ep 01"
+        },
+        "long": {
+            "eng": "A Perfect Planet S01 Ep 01",
+            "may": "A Perfect Planet S01 Ep 01",
+            "chi": "A Perfect Planet S01 Ep 01",
+            "tam": "A Perfect Planet S01 Ep 01",
+            "ind": "A Perfect Planet S01 Ep 01",
+            "tha": "A Perfect Planet S01 Ep 01"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A look at how without volcanoes, there would be no life on Earth. Although destructive, magma from the planet's molten core builds land, and mineral-rich ash from eruptions fertilises the surface.",
+            "may": "A look at how without volcanoes, there would be no life on Earth. Although destructive, magma from the planet's molten core builds land, and mineral-rich ash from eruptions fertilises the surface.",
+            "chi": "A look at how without volcanoes, there would be no life on Earth. Although destructive, magma from the planet's molten core builds land, and mineral-rich ash from eruptions fertilises the surface.",
+            "tam": "A look at how without volcanoes, there would be no life on Earth. Although destructive, magma from the planet's molten core builds land, and mineral-rich ash from eruptions fertilises the surface.",
+            "ind": "A look at how without volcanoes, there would be no life on Earth. Although destructive, magma from the planet's molten core builds land, and mineral-rich ash from eruptions fertilises the surface.",
+            "tha": "A look at how without volcanoes, there would be no life on Earth. Although destructive, magma from the planet's molten core builds land, and mineral-rich ash from eruptions fertilises the surface."
+        },
+        "long": {
+            "eng": "A look at how without volcanoes, there would be no life on Earth. Although destructive, magma from the planet's molten core builds land, and mineral-rich ash from eruptions fertilises the surface.",
+            "may": "A look at how without volcanoes, there would be no life on Earth. Although destructive, magma from the planet's molten core builds land, and mineral-rich ash from eruptions fertilises the surface.",
+            "chi": "A look at how without volcanoes, there would be no life on Earth. Although destructive, magma from the planet's molten core builds land, and mineral-rich ash from eruptions fertilises the surface.",
+            "tam": "A look at how without volcanoes, there would be no life on Earth. Although destructive, magma from the planet's molten core builds land, and mineral-rich ash from eruptions fertilises the surface.",
+            "ind": "A look at how without volcanoes, there would be no life on Earth. Although destructive, magma from the planet's molten core builds land, and mineral-rich ash from eruptions fertilises the surface.",
+            "tha": "A look at how without volcanoes, there would be no life on Earth. Although destructive, magma from the planet's molten core builds land, and mineral-rich ash from eruptions fertilises the surface."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/APerfectPlanetS01Ep01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/APerfectPlanetS01Ep01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/APerfectPlanetS01Ep01_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

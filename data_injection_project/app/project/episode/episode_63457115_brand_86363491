@@ -1,0 +1,373 @@
+{
+    "externalId": "AggregatedTvShow_d5610431-5c71-5f22-a656-d71a9b2a6204",
+    "clientContentId": "PACK0000000009390535",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Mayor of Kingstown",
+            "may": "The Mayor of Kingstown",
+            "tam": "The Mayor of Kingstown",
+            "chi": "The Mayor of Kingstown",
+            "tha": "The Mayor of Kingstown",
+            "ind": "The Mayor of Kingstown"
+        },
+        "long": {
+            "eng": "The Mayor of Kingstown",
+            "may": "The Mayor of Kingstown",
+            "tam": "The Mayor of Kingstown",
+            "chi": "The Mayor of Kingstown",
+            "tha": "The Mayor of Kingstown",
+            "ind": "The Mayor of Kingstown"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "may": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "tam": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "chi": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "tha": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "ind": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice."
+        },
+        "long": {
+            "eng": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "may": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "tam": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "chi": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "tha": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice.",
+            "ind": "The prison system is being administered by the 2 McLusky brothers, Mitch and Mike. Side deals are the business each day, where prisoners safety is being bartered for amongst the prison gangs to avoid the McLusky brand of meted out justice."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jeremy Renner",
+            " Dianne Wiest",
+            " Hugh Dillon",
+            " Tobi Bamtefa",
+            " Taylor Handley",
+            " Emma Laird",
+            " Derek Webster",
+            " Hamish Allan-Headley",
+            " Aidan Gillen",
+            " Nishi Munshi"
+        ],
+        "may": [
+            "Jeremy Renner",
+            " Dianne Wiest",
+            " Hugh Dillon",
+            " Tobi Bamtefa",
+            " Taylor Handley",
+            " Emma Laird",
+            " Derek Webster",
+            " Hamish Allan-Headley",
+            " Aidan Gillen",
+            " Nishi Munshi"
+        ],
+        "tam": [
+            "Jeremy Renner",
+            " Dianne Wiest",
+            " Hugh Dillon",
+            " Tobi Bamtefa",
+            " Taylor Handley",
+            " Emma Laird",
+            " Derek Webster",
+            " Hamish Allan-Headley",
+            " Aidan Gillen",
+            " Nishi Munshi"
+        ],
+        "chi": [
+            "Jeremy Renner",
+            " Dianne Wiest",
+            " Hugh Dillon",
+            " Tobi Bamtefa",
+            " Taylor Handley",
+            " Emma Laird",
+            " Derek Webster",
+            " Hamish Allan-Headley",
+            " Aidan Gillen",
+            " Nishi Munshi"
+        ],
+        "tha": [
+            "Jeremy Renner",
+            " Dianne Wiest",
+            " Hugh Dillon",
+            " Tobi Bamtefa",
+            " Taylor Handley",
+            " Emma Laird",
+            " Derek Webster",
+            " Hamish Allan-Headley",
+            " Aidan Gillen",
+            " Nishi Munshi"
+        ],
+        "ind": [
+            "Jeremy Renner",
+            " Dianne Wiest",
+            " Hugh Dillon",
+            " Tobi Bamtefa",
+            " Taylor Handley",
+            " Emma Laird",
+            " Derek Webster",
+            " Hamish Allan-Headley",
+            " Aidan Gillen",
+            " Nishi Munshi"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Stephen Kay",
+            " Guy Ferland",
+            " Clark Johnson",
+            " Ben Richardson",
+            " Taylor Sheridan",
+            " Tasha Smith"
+        ],
+        "may": [
+            "Stephen Kay",
+            " Guy Ferland",
+            " Clark Johnson",
+            " Ben Richardson",
+            " Taylor Sheridan",
+            " Tasha Smith"
+        ],
+        "tam": [
+            "Stephen Kay",
+            " Guy Ferland",
+            " Clark Johnson",
+            " Ben Richardson",
+            " Taylor Sheridan",
+            " Tasha Smith"
+        ],
+        "chi": [
+            "Stephen Kay",
+            " Guy Ferland",
+            " Clark Johnson",
+            " Ben Richardson",
+            " Taylor Sheridan",
+            " Tasha Smith"
+        ],
+        "tha": [
+            "Stephen Kay",
+            " Guy Ferland",
+            " Clark Johnson",
+            " Ben Richardson",
+            " Taylor Sheridan",
+            " Tasha Smith"
+        ],
+        "ind": [
+            "Stephen Kay",
+            " Guy Ferland",
+            " Clark Johnson",
+            " Ben Richardson",
+            " Taylor Sheridan",
+            " Tasha Smith"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Michael Friedman",
+            " Ron Burkle",
+            " Hugh Dillon",
+            " Antoine Fuqua",
+            " David Glasser",
+            " Jeremy Renner",
+            " Taylor Sheridan",
+            " Bob Yari",
+            " Alex Jordan",
+            " Ben Richardson"
+        ],
+        "may": [
+            "Michael Friedman",
+            " Ron Burkle",
+            " Hugh Dillon",
+            " Antoine Fuqua",
+            " David Glasser",
+            " Jeremy Renner",
+            " Taylor Sheridan",
+            " Bob Yari",
+            " Alex Jordan",
+            " Ben Richardson"
+        ],
+        "tam": [
+            "Michael Friedman",
+            " Ron Burkle",
+            " Hugh Dillon",
+            " Antoine Fuqua",
+            " David Glasser",
+            " Jeremy Renner",
+            " Taylor Sheridan",
+            " Bob Yari",
+            " Alex Jordan",
+            " Ben Richardson"
+        ],
+        "chi": [
+            "Michael Friedman",
+            " Ron Burkle",
+            " Hugh Dillon",
+            " Antoine Fuqua",
+            " David Glasser",
+            " Jeremy Renner",
+            " Taylor Sheridan",
+            " Bob Yari",
+            " Alex Jordan",
+            " Ben Richardson"
+        ],
+        "tha": [
+            "Michael Friedman",
+            " Ron Burkle",
+            " Hugh Dillon",
+            " Antoine Fuqua",
+            " David Glasser",
+            " Jeremy Renner",
+            " Taylor Sheridan",
+            " Bob Yari",
+            " Alex Jordan",
+            " Ben Richardson"
+        ],
+        "ind": [
+            "Michael Friedman",
+            " Ron Burkle",
+            " Hugh Dillon",
+            " Antoine Fuqua",
+            " David Glasser",
+            " Jeremy Renner",
+            " Taylor Sheridan",
+            " Bob Yari",
+            " Alex Jordan",
+            " Ben Richardson"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "tam": "Documentary",
+                    "chi": "Documentary",
+                    "tha": "Documentary",
+                    "ind": "Documentary"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "tam": "Documentary",
+                    "chi": "Documentary",
+                    "tha": "Documentary",
+                    "ind": "Documentary"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MayorOfKingstownS01EP01_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MayorOfKingstownS01EP01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/MayorOfKingstownS01EP01_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_f89ff333-b6be-5820-88c0-7fec58ca47d5",
+    "seasonId": "AggregatedSeason_d2c75020-f15f-5924-a325-7e3c21424d1d",
+    "boxsetIds": [],
+    "episodeNumber": "2.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2021,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

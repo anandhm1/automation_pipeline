@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedSeries_9a68d9c8-b0de-5707-802a-23c126d99df6",
+    "clientContentId": "PACK0000000002575266",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Happy",
+            "may": "Happy",
+            "tam": "Happy",
+            "chi": "Happy",
+            "tha": "Happy",
+            "ind": "Happy"
+        },
+        "long": {
+            "eng": "Happy",
+            "may": "Happy",
+            "tam": "Happy",
+            "chi": "Happy",
+            "tha": "Happy",
+            "ind": "Happy"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "An injured hitman befriends his kidnapped daughter's imaginary friend; a perky blue flying unicorn.",
+            "may": "An injured hitman befriends his kidnapped daughter's imaginary friend; a perky blue flying unicorn.",
+            "tam": "An injured hitman befriends his kidnapped daughter's imaginary friend; a perky blue flying unicorn.",
+            "chi": "An injured hitman befriends his kidnapped daughter's imaginary friend; a perky blue flying unicorn.",
+            "tha": "An injured hitman befriends his kidnapped daughter's imaginary friend; a perky blue flying unicorn.",
+            "ind": "An injured hitman befriends his kidnapped daughter's imaginary friend; a perky blue flying unicorn."
+        },
+        "long": {
+            "eng": "An injured hitman befriends his kidnapped daughter's imaginary friend; a perky blue flying unicorn.",
+            "may": "An injured hitman befriends his kidnapped daughter's imaginary friend; a perky blue flying unicorn.",
+            "tam": "An injured hitman befriends his kidnapped daughter's imaginary friend; a perky blue flying unicorn.",
+            "chi": "An injured hitman befriends his kidnapped daughter's imaginary friend; a perky blue flying unicorn.",
+            "tha": "An injured hitman befriends his kidnapped daughter's imaginary friend; a perky blue flying unicorn.",
+            "ind": "An injured hitman befriends his kidnapped daughter's imaginary friend; a perky blue flying unicorn."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Christopher Meloni",
+            " Ritchie Coster",
+            " Lili Mirojnick",
+            " Patton Oswalt",
+            " Bryce Lorenzo",
+            " Medina Senghore",
+            " Patrick Fischler",
+            " Christopher Fitzgerald",
+            " Antonia Rey",
+            " Joseph D. Reitman"
+        ],
+        "may": [
+            "Christopher Meloni",
+            " Ritchie Coster",
+            " Lili Mirojnick",
+            " Patton Oswalt",
+            " Bryce Lorenzo",
+            " Medina Senghore",
+            " Patrick Fischler",
+            " Christopher Fitzgerald",
+            " Antonia Rey",
+            " Joseph D. Reitman"
+        ],
+        "tam": [
+            "Christopher Meloni",
+            " Ritchie Coster",
+            " Lili Mirojnick",
+            " Patton Oswalt",
+            " Bryce Lorenzo",
+            " Medina Senghore",
+            " Patrick Fischler",
+            " Christopher Fitzgerald",
+            " Antonia Rey",
+            " Joseph D. Reitman"
+        ],
+        "chi": [
+            "Christopher Meloni",
+            " Ritchie Coster",
+            " Lili Mirojnick",
+            " Patton Oswalt",
+            " Bryce Lorenzo",
+            " Medina Senghore",
+            " Patrick Fischler",
+            " Christopher Fitzgerald",
+            " Antonia Rey",
+            " Joseph D. Reitman"
+        ],
+        "tha": [
+            "Christopher Meloni",
+            " Ritchie Coster",
+            " Lili Mirojnick",
+            " Patton Oswalt",
+            " Bryce Lorenzo",
+            " Medina Senghore",
+            " Patrick Fischler",
+            " Christopher Fitzgerald",
+            " Antonia Rey",
+            " Joseph D. Reitman"
+        ],
+        "ind": [
+            "Christopher Meloni",
+            " Ritchie Coster",
+            " Lili Mirojnick",
+            " Patton Oswalt",
+            " Bryce Lorenzo",
+            " Medina Senghore",
+            " Patrick Fischler",
+            " Christopher Fitzgerald",
+            " Antonia Rey",
+            " Joseph D. Reitman"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Brian Taylor",
+            " Wayne Yip",
+            " Marianna Palka",
+            " David Petrarca",
+            " Joseph Kahn",
+            " Christopher Meloni"
+        ],
+        "may": [
+            "Brian Taylor",
+            " Wayne Yip",
+            " Marianna Palka",
+            " David Petrarca",
+            " Joseph Kahn",
+            " Christopher Meloni"
+        ],
+        "tam": [
+            "Brian Taylor",
+            " Wayne Yip",
+            " Marianna Palka",
+            " David Petrarca",
+            " Joseph Kahn",
+            " Christopher Meloni"
+        ],
+        "chi": [
+            "Brian Taylor",
+            " Wayne Yip",
+            " Marianna Palka",
+            " David Petrarca",
+            " Joseph Kahn",
+            " Christopher Meloni"
+        ],
+        "tha": [
+            "Brian Taylor",
+            " Wayne Yip",
+            " Marianna Palka",
+            " David Petrarca",
+            " Joseph Kahn",
+            " Christopher Meloni"
+        ],
+        "ind": [
+            "Brian Taylor",
+            " Wayne Yip",
+            " Marianna Palka",
+            " David Petrarca",
+            " Joseph Kahn",
+            " Christopher Meloni"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Russ Hammonds",
+            " Ashley Michel Hoban",
+            " Patrick Macmanus",
+            " Christopher Meloni",
+            " Grant Morrison",
+            " Pavun Shetty",
+            " Judson Schwartz",
+            " Noelle Valdivia",
+            " Neal H. Moritz",
+            " Toby Jaffe"
+        ],
+        "may": [
+            "Russ Hammonds",
+            " Ashley Michel Hoban",
+            " Patrick Macmanus",
+            " Christopher Meloni",
+            " Grant Morrison",
+            " Pavun Shetty",
+            " Judson Schwartz",
+            " Noelle Valdivia",
+            " Neal H. Moritz",
+            " Toby Jaffe"
+        ],
+        "tam": [
+            "Russ Hammonds",
+            " Ashley Michel Hoban",
+            " Patrick Macmanus",
+            " Christopher Meloni",
+            " Grant Morrison",
+            " Pavun Shetty",
+            " Judson Schwartz",
+            " Noelle Valdivia",
+            " Neal H. Moritz",
+            " Toby Jaffe"
+        ],
+        "chi": [
+            "Russ Hammonds",
+            " Ashley Michel Hoban",
+            " Patrick Macmanus",
+            " Christopher Meloni",
+            " Grant Morrison",
+            " Pavun Shetty",
+            " Judson Schwartz",
+            " Noelle Valdivia",
+            " Neal H. Moritz",
+            " Toby Jaffe"
+        ],
+        "tha": [
+            "Russ Hammonds",
+            " Ashley Michel Hoban",
+            " Patrick Macmanus",
+            " Christopher Meloni",
+            " Grant Morrison",
+            " Pavun Shetty",
+            " Judson Schwartz",
+            " Noelle Valdivia",
+            " Neal H. Moritz",
+            " Toby Jaffe"
+        ],
+        "ind": [
+            "Russ Hammonds",
+            " Ashley Michel Hoban",
+            " Patrick Macmanus",
+            " Christopher Meloni",
+            " Grant Morrison",
+            " Pavun Shetty",
+            " Judson Schwartz",
+            " Noelle Valdivia",
+            " Neal H. Moritz",
+            " Toby Jaffe"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Comedy",
+                    "may": " Comedy",
+                    "tam": " Comedy",
+                    "chi": " Comedy",
+                    "tha": " Comedy",
+                    "ind": " Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HappySeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HappySeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/HappySeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "7",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2018,
+    "maxConcurrentStreams": 0
+}

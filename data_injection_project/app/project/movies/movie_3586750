@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_4441b127-6941-5291-a12c-0aea5fed95d4",
+    "clientContentId": "PACK0000000007893150",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Hot Seat",
+            "may": "Hot Seat",
+            "tam": "Hot Seat",
+            "chi": "Hot Seat",
+            "tha": "Hot Seat",
+            "ind": "Hot Seat"
+        },
+        "long": {
+            "eng": "Hot Seat",
+            "may": "Hot Seat",
+            "tam": "Hot Seat",
+            "chi": "Hot Seat",
+            "tha": "Hot Seat",
+            "ind": "Hot Seat"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby trapped building to get the young man off the hot seat.",
+            "may": "An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby trapped building to get the young man off the hot seat.",
+            "tam": "An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby trapped building to get the young man off the hot seat.",
+            "chi": "An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby trapped building to get the young man off the hot seat.",
+            "tha": "An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby trapped building to get the young man off the hot seat.",
+            "ind": "An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby trapped building to get the young man off the hot seat."
+        },
+        "long": {
+            "eng": "An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby trapped building to get the young man off the hot seat.",
+            "may": "An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby trapped building to get the young man off the hot seat.",
+            "tam": "An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby trapped building to get the young man off the hot seat.",
+            "chi": "An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby trapped building to get the young man off the hot seat.",
+            "tha": "An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby trapped building to get the young man off the hot seat.",
+            "ind": "An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby trapped building to get the young man off the hot seat."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Mel Gibson",
+            " Shannen Doherty",
+            " Michael Welch",
+            " Kevin Dillon",
+            " Lydia Hull",
+            " Eddie Steeples",
+            " Sam Asghari",
+            " Kate Katzman",
+            " Jonathan Stoddard",
+            " Keith Jardine"
+        ],
+        "may": [
+            "Mel Gibson",
+            " Shannen Doherty",
+            " Michael Welch",
+            " Kevin Dillon",
+            " Lydia Hull",
+            " Eddie Steeples",
+            " Sam Asghari",
+            " Kate Katzman",
+            " Jonathan Stoddard",
+            " Keith Jardine"
+        ],
+        "tam": [
+            "Mel Gibson",
+            " Shannen Doherty",
+            " Michael Welch",
+            " Kevin Dillon",
+            " Lydia Hull",
+            " Eddie Steeples",
+            " Sam Asghari",
+            " Kate Katzman",
+            " Jonathan Stoddard",
+            " Keith Jardine"
+        ],
+        "chi": [
+            "Mel Gibson",
+            " Shannen Doherty",
+            " Michael Welch",
+            " Kevin Dillon",
+            " Lydia Hull",
+            " Eddie Steeples",
+            " Sam Asghari",
+            " Kate Katzman",
+            " Jonathan Stoddard",
+            " Keith Jardine"
+        ],
+        "tha": [
+            "Mel Gibson",
+            " Shannen Doherty",
+            " Michael Welch",
+            " Kevin Dillon",
+            " Lydia Hull",
+            " Eddie Steeples",
+            " Sam Asghari",
+            " Kate Katzman",
+            " Jonathan Stoddard",
+            " Keith Jardine"
+        ],
+        "ind": [
+            "Mel Gibson",
+            " Shannen Doherty",
+            " Michael Welch",
+            " Kevin Dillon",
+            " Lydia Hull",
+            " Eddie Steeples",
+            " Sam Asghari",
+            " Kate Katzman",
+            " Jonathan Stoddard",
+            " Keith Jardine"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "James Cullen Bressack"
+        ],
+        "may": [
+            "James Cullen Bressack"
+        ],
+        "tam": [
+            "James Cullen Bressack"
+        ],
+        "chi": [
+            "James Cullen Bressack"
+        ],
+        "tha": [
+            "James Cullen Bressack"
+        ],
+        "ind": [
+            "James Cullen Bressack"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Lee Broda",
+            " Barry Brooker",
+            " Alastair Burlingham",
+            " Robert Dean",
+            " Randall Emmett",
+            " George Furla",
+            " David Gendron",
+            " Bernie Gewissler",
+            " Matthew Helderman",
+            " Phil Hunt"
+        ],
+        "may": [
+            "Lee Broda",
+            " Barry Brooker",
+            " Alastair Burlingham",
+            " Robert Dean",
+            " Randall Emmett",
+            " George Furla",
+            " David Gendron",
+            " Bernie Gewissler",
+            " Matthew Helderman",
+            " Phil Hunt"
+        ],
+        "tam": [
+            "Lee Broda",
+            " Barry Brooker",
+            " Alastair Burlingham",
+            " Robert Dean",
+            " Randall Emmett",
+            " George Furla",
+            " David Gendron",
+            " Bernie Gewissler",
+            " Matthew Helderman",
+            " Phil Hunt"
+        ],
+        "chi": [
+            "Lee Broda",
+            " Barry Brooker",
+            " Alastair Burlingham",
+            " Robert Dean",
+            " Randall Emmett",
+            " George Furla",
+            " David Gendron",
+            " Bernie Gewissler",
+            " Matthew Helderman",
+            " Phil Hunt"
+        ],
+        "tha": [
+            "Lee Broda",
+            " Barry Brooker",
+            " Alastair Burlingham",
+            " Robert Dean",
+            " Randall Emmett",
+            " George Furla",
+            " David Gendron",
+            " Bernie Gewissler",
+            " Matthew Helderman",
+            " Phil Hunt"
+        ],
+        "ind": [
+            "Lee Broda",
+            " Barry Brooker",
+            " Alastair Burlingham",
+            " Robert Dean",
+            " Randall Emmett",
+            " George Furla",
+            " David Gendron",
+            " Bernie Gewissler",
+            " Matthew Helderman",
+            " Phil Hunt"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Thriller",
+                    "may": "Thriller",
+                    "tam": "Thriller",
+                    "chi": "Thriller",
+                    "tha": "Thriller",
+                    "ind": "Thriller"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Thriller",
+                    "may": "Thriller",
+                    "tam": "Thriller",
+                    "chi": "Thriller",
+                    "tha": "Thriller",
+                    "ind": "Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/HotSeat_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/HotSeat_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/HotSeat_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "4.3",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

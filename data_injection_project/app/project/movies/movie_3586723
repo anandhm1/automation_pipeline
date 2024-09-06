@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_c7fcb69f-ee99-5d7e-9c40-93723df087e8",
+    "clientContentId": "PACK0000000003905954",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Blood",
+            "may": "Blood",
+            "tam": "Blood",
+            "chi": "Blood",
+            "tha": "Blood",
+            "ind": "Blood"
+        },
+        "long": {
+            "eng": "Blood",
+            "may": "Blood",
+            "tam": "Blood",
+            "chi": "Blood",
+            "tha": "Blood",
+            "ind": "Blood"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Jess, a separated mother and nurse, moves with her daughter and young son Owen back into her old farmhouse. Shortly after settling in, Owen is bitten by the dog, resulting in a mysterious infection from the bite.",
+            "may": "Jess, a separated mother and nurse, moves with her daughter and young son Owen back into her old farmhouse. Shortly after settling in, Owen is bitten by the dog, resulting in a mysterious infection from the bite.",
+            "tam": "Jess, a separated mother and nurse, moves with her daughter and young son Owen back into her old farmhouse. Shortly after settling in, Owen is bitten by the dog, resulting in a mysterious infection from the bite.",
+            "chi": "Jess, a separated mother and nurse, moves with her daughter and young son Owen back into her old farmhouse. Shortly after settling in, Owen is bitten by the dog, resulting in a mysterious infection from the bite.",
+            "tha": "Jess, a separated mother and nurse, moves with her daughter and young son Owen back into her old farmhouse. Shortly after settling in, Owen is bitten by the dog, resulting in a mysterious infection from the bite.",
+            "ind": "Jess, a separated mother and nurse, moves with her daughter and young son Owen back into her old farmhouse. Shortly after settling in, Owen is bitten by the dog, resulting in a mysterious infection from the bite."
+        },
+        "long": {
+            "eng": "Jess, a separated mother and nurse, moves with her daughter and young son Owen back into her old farmhouse. Shortly after settling in, Owen is bitten by the dog, resulting in a mysterious infection from the bite.",
+            "may": "Jess, a separated mother and nurse, moves with her daughter and young son Owen back into her old farmhouse. Shortly after settling in, Owen is bitten by the dog, resulting in a mysterious infection from the bite.",
+            "tam": "Jess, a separated mother and nurse, moves with her daughter and young son Owen back into her old farmhouse. Shortly after settling in, Owen is bitten by the dog, resulting in a mysterious infection from the bite.",
+            "chi": "Jess, a separated mother and nurse, moves with her daughter and young son Owen back into her old farmhouse. Shortly after settling in, Owen is bitten by the dog, resulting in a mysterious infection from the bite.",
+            "tha": "Jess, a separated mother and nurse, moves with her daughter and young son Owen back into her old farmhouse. Shortly after settling in, Owen is bitten by the dog, resulting in a mysterious infection from the bite.",
+            "ind": "Jess, a separated mother and nurse, moves with her daughter and young son Owen back into her old farmhouse. Shortly after settling in, Owen is bitten by the dog, resulting in a mysterious infection from the bite."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Michelle Monaghan",
+            " Skeet Ulrich",
+            " Finlay Wojtak-Hissong",
+            " June B. Wilde",
+            " Skylar Morgan Jones",
+            " Danika Frederick",
+            " Jennifer Rose Garcia",
+            " Sarah Constible",
+            " Onalee Ames",
+            " Candace Smith"
+        ],
+        "may": [
+            "Michelle Monaghan",
+            " Skeet Ulrich",
+            " Finlay Wojtak-Hissong",
+            " June B. Wilde",
+            " Skylar Morgan Jones",
+            " Danika Frederick",
+            " Jennifer Rose Garcia",
+            " Sarah Constible",
+            " Onalee Ames",
+            " Candace Smith"
+        ],
+        "tam": [
+            "Michelle Monaghan",
+            " Skeet Ulrich",
+            " Finlay Wojtak-Hissong",
+            " June B. Wilde",
+            " Skylar Morgan Jones",
+            " Danika Frederick",
+            " Jennifer Rose Garcia",
+            " Sarah Constible",
+            " Onalee Ames",
+            " Candace Smith"
+        ],
+        "chi": [
+            "Michelle Monaghan",
+            " Skeet Ulrich",
+            " Finlay Wojtak-Hissong",
+            " June B. Wilde",
+            " Skylar Morgan Jones",
+            " Danika Frederick",
+            " Jennifer Rose Garcia",
+            " Sarah Constible",
+            " Onalee Ames",
+            " Candace Smith"
+        ],
+        "tha": [
+            "Michelle Monaghan",
+            " Skeet Ulrich",
+            " Finlay Wojtak-Hissong",
+            " June B. Wilde",
+            " Skylar Morgan Jones",
+            " Danika Frederick",
+            " Jennifer Rose Garcia",
+            " Sarah Constible",
+            " Onalee Ames",
+            " Candace Smith"
+        ],
+        "ind": [
+            "Michelle Monaghan",
+            " Skeet Ulrich",
+            " Finlay Wojtak-Hissong",
+            " June B. Wilde",
+            " Skylar Morgan Jones",
+            " Danika Frederick",
+            " Jennifer Rose Garcia",
+            " Sarah Constible",
+            " Onalee Ames",
+            " Candace Smith"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Brad Anderson"
+        ],
+        "may": [
+            "Brad Anderson"
+        ],
+        "tam": [
+            "Brad Anderson"
+        ],
+        "chi": [
+            "Brad Anderson"
+        ],
+        "tha": [
+            "Brad Anderson"
+        ],
+        "ind": [
+            "Brad Anderson"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Brad Anderson",
+            " Ryan Bartecki",
+            " Daniel Bekerman",
+            " Kyle Bornais",
+            " Jean-Luc De Fanti",
+            " Terry Dougas",
+            " Billy Hines",
+            " Paris Kassidokostas-Latsis",
+            " Scott Leary",
+            " Gary Levinsohn"
+        ],
+        "may": [
+            "Brad Anderson",
+            " Ryan Bartecki",
+            " Daniel Bekerman",
+            " Kyle Bornais",
+            " Jean-Luc De Fanti",
+            " Terry Dougas",
+            " Billy Hines",
+            " Paris Kassidokostas-Latsis",
+            " Scott Leary",
+            " Gary Levinsohn"
+        ],
+        "tam": [
+            "Brad Anderson",
+            " Ryan Bartecki",
+            " Daniel Bekerman",
+            " Kyle Bornais",
+            " Jean-Luc De Fanti",
+            " Terry Dougas",
+            " Billy Hines",
+            " Paris Kassidokostas-Latsis",
+            " Scott Leary",
+            " Gary Levinsohn"
+        ],
+        "chi": [
+            "Brad Anderson",
+            " Ryan Bartecki",
+            " Daniel Bekerman",
+            " Kyle Bornais",
+            " Jean-Luc De Fanti",
+            " Terry Dougas",
+            " Billy Hines",
+            " Paris Kassidokostas-Latsis",
+            " Scott Leary",
+            " Gary Levinsohn"
+        ],
+        "tha": [
+            "Brad Anderson",
+            " Ryan Bartecki",
+            " Daniel Bekerman",
+            " Kyle Bornais",
+            " Jean-Luc De Fanti",
+            " Terry Dougas",
+            " Billy Hines",
+            " Paris Kassidokostas-Latsis",
+            " Scott Leary",
+            " Gary Levinsohn"
+        ],
+        "ind": [
+            "Brad Anderson",
+            " Ryan Bartecki",
+            " Daniel Bekerman",
+            " Kyle Bornais",
+            " Jean-Luc De Fanti",
+            " Terry Dougas",
+            " Billy Hines",
+            " Paris Kassidokostas-Latsis",
+            " Scott Leary",
+            " Gary Levinsohn"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Horror",
+                    "may": "Horror",
+                    "tam": "Horror",
+                    "chi": "Horror",
+                    "tha": "Horror",
+                    "ind": "Horror"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Thriller",
+                    "may": " Thriller",
+                    "tam": " Thriller",
+                    "chi": " Thriller",
+                    "tha": " Thriller",
+                    "ind": " Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Blood_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Blood_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Blood_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2023,
+    "rating": "5.3",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

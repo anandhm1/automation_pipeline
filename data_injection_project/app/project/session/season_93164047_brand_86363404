@@ -1,0 +1,275 @@
+{
+    "externalId": "AggregatedSeason_6b70c581-add1-58e2-9a2a-bf621d2c64bc",
+    "clientContentId": "PACK0000000003309859",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Animation",
+                    "may": "Animation",
+                    "chi": "Animation",
+                    "tam": "Animation",
+                    "ind": "Animation",
+                    "tha": "Animation"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Short",
+                    "may": " Short",
+                    "chi": " Short",
+                    "tam": " Short",
+                    "ind": " Short",
+                    "tha": " Short"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-PG",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Vin Diesel",
+            " Fred Tatasciore",
+            " Kaitlyn Robrock",
+            " Terri Douglas",
+            " Bradley Cooper",
+            " James GunnBob BergenTrevor DevallScott MenvilleKari Wahlgren"
+        ],
+        "may": [
+            "Vin Diesel",
+            " Fred Tatasciore",
+            " Kaitlyn Robrock",
+            " Terri Douglas",
+            " Bradley Cooper",
+            " James GunnBob BergenTrevor DevallScott MenvilleKari Wahlgren"
+        ],
+        "chi": [
+            "Vin Diesel",
+            " Fred Tatasciore",
+            " Kaitlyn Robrock",
+            " Terri Douglas",
+            " Bradley Cooper",
+            " James GunnBob BergenTrevor DevallScott MenvilleKari Wahlgren"
+        ],
+        "tam": [
+            "Vin Diesel",
+            " Fred Tatasciore",
+            " Kaitlyn Robrock",
+            " Terri Douglas",
+            " Bradley Cooper",
+            " James GunnBob BergenTrevor DevallScott MenvilleKari Wahlgren"
+        ],
+        "ind": [
+            "Vin Diesel",
+            " Fred Tatasciore",
+            " Kaitlyn Robrock",
+            " Terri Douglas",
+            " Bradley Cooper",
+            " James GunnBob BergenTrevor DevallScott MenvilleKari Wahlgren"
+        ],
+        "tha": [
+            "Vin Diesel",
+            " Fred Tatasciore",
+            " Kaitlyn Robrock",
+            " Terri Douglas",
+            " Bradley Cooper",
+            " James GunnBob BergenTrevor DevallScott MenvilleKari Wahlgren"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Kirsten Lepore"
+        ],
+        "may": [
+            "Kirsten Lepore"
+        ],
+        "chi": [
+            "Kirsten Lepore"
+        ],
+        "tam": [
+            "Kirsten Lepore"
+        ],
+        "ind": [
+            "Kirsten Lepore"
+        ],
+        "tha": [
+            "Kirsten Lepore"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Kevin Feige",
+            " Victoria Alonso",
+            " Louis D'Esposito",
+            " James Gunn",
+            " Kirsten Lepore",
+            " Alex ScharfDana Vasquez-EberhardtBrad Winderbaum"
+        ],
+        "may": [
+            "Kevin Feige",
+            " Victoria Alonso",
+            " Louis D'Esposito",
+            " James Gunn",
+            " Kirsten Lepore",
+            " Alex ScharfDana Vasquez-EberhardtBrad Winderbaum"
+        ],
+        "chi": [
+            "Kevin Feige",
+            " Victoria Alonso",
+            " Louis D'Esposito",
+            " James Gunn",
+            " Kirsten Lepore",
+            " Alex ScharfDana Vasquez-EberhardtBrad Winderbaum"
+        ],
+        "tam": [
+            "Kevin Feige",
+            " Victoria Alonso",
+            " Louis D'Esposito",
+            " James Gunn",
+            " Kirsten Lepore",
+            " Alex ScharfDana Vasquez-EberhardtBrad Winderbaum"
+        ],
+        "ind": [
+            "Kevin Feige",
+            " Victoria Alonso",
+            " Louis D'Esposito",
+            " James Gunn",
+            " Kirsten Lepore",
+            " Alex ScharfDana Vasquez-EberhardtBrad Winderbaum"
+        ],
+        "tha": [
+            "Kevin Feige",
+            " Victoria Alonso",
+            " Louis D'Esposito",
+            " James Gunn",
+            " Kirsten Lepore",
+            " Alex ScharfDana Vasquez-EberhardtBrad Winderbaum"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_daab1619-d91f-5ba8-93f8-f893254d29da",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "I Am Groot Season 1",
+            "may": "I Am Groot Season 1",
+            "chi": "I Am Groot Season 1",
+            "tam": "I Am Groot Season 1",
+            "ind": "I Am Groot Season 1",
+            "tha": "I Am Groot Season 1"
+        },
+        "long": {
+            "eng": "I Am Groot Season 1",
+            "may": "I Am Groot Season 1",
+            "chi": "I Am Groot Season 1",
+            "tam": "I Am Groot Season 1",
+            "ind": "I Am Groot Season 1",
+            "tha": "I Am Groot Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "may": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "chi": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "tam": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "ind": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "tha": "A series of shorts featuring the seedling Groot along with several new and unusual characters."
+        },
+        "long": {
+            "eng": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "may": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "chi": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "tam": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "ind": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+            "tha": "A series of shorts featuring the seedling Groot along with several new and unusual characters."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/IAmGrootSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/IAmGrootSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/IAmGrootSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

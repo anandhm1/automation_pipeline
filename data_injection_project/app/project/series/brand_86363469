@@ -1,0 +1,217 @@
+{
+    "externalId": "AggregatedSeries_f948d897-c30c-50ee-93fb-dffdb7b4f936",
+    "clientContentId": "PACK0000000003681708",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Singapore Grip",
+            "may": "The Singapore Grip",
+            "tam": "The Singapore Grip",
+            "chi": "The Singapore Grip",
+            "tha": "The Singapore Grip",
+            "ind": "The Singapore Grip"
+        },
+        "long": {
+            "eng": "The Singapore Grip",
+            "may": "The Singapore Grip",
+            "tam": "The Singapore Grip",
+            "chi": "The Singapore Grip",
+            "tha": "The Singapore Grip",
+            "ind": "The Singapore Grip"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "may": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "tam": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "chi": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "tha": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "ind": "The son of a British family living in South East Asia becomes involved in a love triangle."
+        },
+        "long": {
+            "eng": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "may": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "tam": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "chi": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "tha": "The son of a British family living in South East Asia becomes involved in a love triangle.",
+            "ind": "The son of a British family living in South East Asia becomes involved in a love triangle."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Luke Treadaway",
+            " David Morrissey",
+            " Elizabeth Tan"
+        ],
+        "may": [
+            "Luke Treadaway",
+            " David Morrissey",
+            " Elizabeth Tan"
+        ],
+        "tam": [
+            "Luke Treadaway",
+            " David Morrissey",
+            " Elizabeth Tan"
+        ],
+        "chi": [
+            "Luke Treadaway",
+            " David Morrissey",
+            " Elizabeth Tan"
+        ],
+        "tha": [
+            "Luke Treadaway",
+            " David Morrissey",
+            " Elizabeth Tan"
+        ],
+        "ind": [
+            "Luke Treadaway",
+            " David Morrissey",
+            " Elizabeth Tan"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Tom Vaughan"
+        ],
+        "may": [
+            "Tom Vaughan"
+        ],
+        "tam": [
+            "Tom Vaughan"
+        ],
+        "chi": [
+            "Tom Vaughan"
+        ],
+        "tha": [
+            "Tom Vaughan"
+        ],
+        "ind": [
+            "Tom Vaughan"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Farah Abushwesha"
+        ],
+        "may": [
+            "Farah Abushwesha"
+        ],
+        "tam": [
+            "Farah Abushwesha"
+        ],
+        "chi": [
+            "Farah Abushwesha"
+        ],
+        "tha": [
+            "Farah Abushwesha"
+        ],
+        "ind": [
+            "Farah Abushwesha"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheSingaporeGrip_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheSingaporeGrip_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheSingaporeGrip_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "6",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2020,
+    "maxConcurrentStreams": 0
+}

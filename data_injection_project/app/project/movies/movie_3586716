@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_0dd74ded-ae9d-5734-b16a-f85c5d7b365b",
+    "clientContentId": "PACK0000000004595497",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "AXL",
+            "may": "AXL",
+            "tam": "AXL",
+            "chi": "AXL",
+            "tha": "AXL",
+            "ind": "AXL"
+        },
+        "long": {
+            "eng": "AXL",
+            "may": "AXL",
+            "tam": "AXL",
+            "chi": "AXL",
+            "tha": "AXL",
+            "ind": "AXL"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A.X.L. is a top-secret, robotic dog who develops a special friendship with Miles and will go to any length to protect his new companion.",
+            "may": "A.X.L. is a top-secret, robotic dog who develops a special friendship with Miles and will go to any length to protect his new companion.",
+            "tam": "A.X.L. is a top-secret, robotic dog who develops a special friendship with Miles and will go to any length to protect his new companion.",
+            "chi": "A.X.L. is a top-secret, robotic dog who develops a special friendship with Miles and will go to any length to protect his new companion.",
+            "tha": "A.X.L. is a top-secret, robotic dog who develops a special friendship with Miles and will go to any length to protect his new companion.",
+            "ind": "A.X.L. is a top-secret, robotic dog who develops a special friendship with Miles and will go to any length to protect his new companion."
+        },
+        "long": {
+            "eng": "A.X.L. is a top-secret, robotic dog who develops a special friendship with Miles and will go to any length to protect his new companion.",
+            "may": "A.X.L. is a top-secret, robotic dog who develops a special friendship with Miles and will go to any length to protect his new companion.",
+            "tam": "A.X.L. is a top-secret, robotic dog who develops a special friendship with Miles and will go to any length to protect his new companion.",
+            "chi": "A.X.L. is a top-secret, robotic dog who develops a special friendship with Miles and will go to any length to protect his new companion.",
+            "tha": "A.X.L. is a top-secret, robotic dog who develops a special friendship with Miles and will go to any length to protect his new companion.",
+            "ind": "A.X.L. is a top-secret, robotic dog who develops a special friendship with Miles and will go to any length to protect his new companion."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Alex Neustaedter",
+            " Becky G",
+            " Alex MacNicoll",
+            " Dominic Rains",
+            " Thomas Jane",
+            " Lou Taylor Pucci",
+            " Patricia De Leon",
+            " Niko Guardado",
+            " Marie-Fran\u00e7oise Theodore",
+            " Ted McGinley"
+        ],
+        "may": [
+            "Alex Neustaedter",
+            " Becky G",
+            " Alex MacNicoll",
+            " Dominic Rains",
+            " Thomas Jane",
+            " Lou Taylor Pucci",
+            " Patricia De Leon",
+            " Niko Guardado",
+            " Marie-Fran\u00e7oise Theodore",
+            " Ted McGinley"
+        ],
+        "tam": [
+            "Alex Neustaedter",
+            " Becky G",
+            " Alex MacNicoll",
+            " Dominic Rains",
+            " Thomas Jane",
+            " Lou Taylor Pucci",
+            " Patricia De Leon",
+            " Niko Guardado",
+            " Marie-Fran\u00e7oise Theodore",
+            " Ted McGinley"
+        ],
+        "chi": [
+            "Alex Neustaedter",
+            " Becky G",
+            " Alex MacNicoll",
+            " Dominic Rains",
+            " Thomas Jane",
+            " Lou Taylor Pucci",
+            " Patricia De Leon",
+            " Niko Guardado",
+            " Marie-Fran\u00e7oise Theodore",
+            " Ted McGinley"
+        ],
+        "tha": [
+            "Alex Neustaedter",
+            " Becky G",
+            " Alex MacNicoll",
+            " Dominic Rains",
+            " Thomas Jane",
+            " Lou Taylor Pucci",
+            " Patricia De Leon",
+            " Niko Guardado",
+            " Marie-Fran\u00e7oise Theodore",
+            " Ted McGinley"
+        ],
+        "ind": [
+            "Alex Neustaedter",
+            " Becky G",
+            " Alex MacNicoll",
+            " Dominic Rains",
+            " Thomas Jane",
+            " Lou Taylor Pucci",
+            " Patricia De Leon",
+            " Niko Guardado",
+            " Marie-Fran\u00e7oise Theodore",
+            " Ted McGinley"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Oliver Daly"
+        ],
+        "may": [
+            "Oliver Daly"
+        ],
+        "tam": [
+            "Oliver Daly"
+        ],
+        "chi": [
+            "Oliver Daly"
+        ],
+        "tha": [
+            "Oliver Daly"
+        ],
+        "ind": [
+            "Oliver Daly"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Elizabeth Gesas",
+            " David S. Goyer",
+            " David Kern",
+            " Gary Lucchesi",
+            " James McQuaide",
+            " Tom Ortenberg",
+            " Eric Reid",
+            " Tom Rosenberg",
+            " Adam P. Schneider",
+            " Jackie Shenoo"
+        ],
+        "may": [
+            "Elizabeth Gesas",
+            " David S. Goyer",
+            " David Kern",
+            " Gary Lucchesi",
+            " James McQuaide",
+            " Tom Ortenberg",
+            " Eric Reid",
+            " Tom Rosenberg",
+            " Adam P. Schneider",
+            " Jackie Shenoo"
+        ],
+        "tam": [
+            "Elizabeth Gesas",
+            " David S. Goyer",
+            " David Kern",
+            " Gary Lucchesi",
+            " James McQuaide",
+            " Tom Ortenberg",
+            " Eric Reid",
+            " Tom Rosenberg",
+            " Adam P. Schneider",
+            " Jackie Shenoo"
+        ],
+        "chi": [
+            "Elizabeth Gesas",
+            " David S. Goyer",
+            " David Kern",
+            " Gary Lucchesi",
+            " James McQuaide",
+            " Tom Ortenberg",
+            " Eric Reid",
+            " Tom Rosenberg",
+            " Adam P. Schneider",
+            " Jackie Shenoo"
+        ],
+        "tha": [
+            "Elizabeth Gesas",
+            " David S. Goyer",
+            " David Kern",
+            " Gary Lucchesi",
+            " James McQuaide",
+            " Tom Ortenberg",
+            " Eric Reid",
+            " Tom Rosenberg",
+            " Adam P. Schneider",
+            " Jackie Shenoo"
+        ],
+        "ind": [
+            "Elizabeth Gesas",
+            " David S. Goyer",
+            " David Kern",
+            " Gary Lucchesi",
+            " James McQuaide",
+            " Tom Ortenberg",
+            " Eric Reid",
+            " Tom Rosenberg",
+            " Adam P. Schneider",
+            " Jackie Shenoo"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AXL_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AXL_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AXL_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2018,
+    "rating": "5.3",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

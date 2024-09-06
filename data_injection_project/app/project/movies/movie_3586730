@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_d4e15b93-ecb8-50ed-b982-60f0a3c2a569",
+    "clientContentId": "PACK0000000002072708",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Cruella",
+            "may": "Cruella",
+            "tam": "Cruella",
+            "chi": "Cruella",
+            "tha": "Cruella",
+            "ind": "Cruella"
+        },
+        "long": {
+            "eng": "Cruella",
+            "may": "Cruella",
+            "tam": "Cruella",
+            "chi": "Cruella",
+            "tha": "Cruella",
+            "ind": "Cruella"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A live-action prequel feature film following a young Cruella de Vil.",
+            "may": "A live-action prequel feature film following a young Cruella de Vil.",
+            "tam": "A live-action prequel feature film following a young Cruella de Vil.",
+            "chi": "A live-action prequel feature film following a young Cruella de Vil.",
+            "tha": "A live-action prequel feature film following a young Cruella de Vil.",
+            "ind": "A live-action prequel feature film following a young Cruella de Vil."
+        },
+        "long": {
+            "eng": "A live-action prequel feature film following a young Cruella de Vil.",
+            "may": "A live-action prequel feature film following a young Cruella de Vil.",
+            "tam": "A live-action prequel feature film following a young Cruella de Vil.",
+            "chi": "A live-action prequel feature film following a young Cruella de Vil.",
+            "tha": "A live-action prequel feature film following a young Cruella de Vil.",
+            "ind": "A live-action prequel feature film following a young Cruella de Vil."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Emma Stone",
+            " Emma Thompson",
+            " Joel Fry",
+            " Paul Walter Hauser",
+            " John McCrea",
+            " Emily Beecham",
+            " Mark Strong",
+            " Kayvan Novak",
+            " Kirby",
+            " Jamie Demetriou"
+        ],
+        "may": [
+            "Emma Stone",
+            " Emma Thompson",
+            " Joel Fry",
+            " Paul Walter Hauser",
+            " John McCrea",
+            " Emily Beecham",
+            " Mark Strong",
+            " Kayvan Novak",
+            " Kirby",
+            " Jamie Demetriou"
+        ],
+        "tam": [
+            "Emma Stone",
+            " Emma Thompson",
+            " Joel Fry",
+            " Paul Walter Hauser",
+            " John McCrea",
+            " Emily Beecham",
+            " Mark Strong",
+            " Kayvan Novak",
+            " Kirby",
+            " Jamie Demetriou"
+        ],
+        "chi": [
+            "Emma Stone",
+            " Emma Thompson",
+            " Joel Fry",
+            " Paul Walter Hauser",
+            " John McCrea",
+            " Emily Beecham",
+            " Mark Strong",
+            " Kayvan Novak",
+            " Kirby",
+            " Jamie Demetriou"
+        ],
+        "tha": [
+            "Emma Stone",
+            " Emma Thompson",
+            " Joel Fry",
+            " Paul Walter Hauser",
+            " John McCrea",
+            " Emily Beecham",
+            " Mark Strong",
+            " Kayvan Novak",
+            " Kirby",
+            " Jamie Demetriou"
+        ],
+        "ind": [
+            "Emma Stone",
+            " Emma Thompson",
+            " Joel Fry",
+            " Paul Walter Hauser",
+            " John McCrea",
+            " Emily Beecham",
+            " Mark Strong",
+            " Kayvan Novak",
+            " Kirby",
+            " Jamie Demetriou"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Craig Gillespie"
+        ],
+        "may": [
+            "Craig Gillespie"
+        ],
+        "tam": [
+            "Craig Gillespie"
+        ],
+        "chi": [
+            "Craig Gillespie"
+        ],
+        "tha": [
+            "Craig Gillespie"
+        ],
+        "ind": [
+            "Craig Gillespie"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Kristin Burr",
+            " Glenn Close",
+            " Andrew Gunn",
+            " Lori Korngiebel",
+            " Jared LeBoff",
+            " Mark Mostyn",
+            " Marc Platt",
+            " Emma Stone",
+            " Michelle Wright",
+            " "
+        ],
+        "may": [
+            "Kristin Burr",
+            " Glenn Close",
+            " Andrew Gunn",
+            " Lori Korngiebel",
+            " Jared LeBoff",
+            " Mark Mostyn",
+            " Marc Platt",
+            " Emma Stone",
+            " Michelle Wright",
+            " "
+        ],
+        "tam": [
+            "Kristin Burr",
+            " Glenn Close",
+            " Andrew Gunn",
+            " Lori Korngiebel",
+            " Jared LeBoff",
+            " Mark Mostyn",
+            " Marc Platt",
+            " Emma Stone",
+            " Michelle Wright",
+            " "
+        ],
+        "chi": [
+            "Kristin Burr",
+            " Glenn Close",
+            " Andrew Gunn",
+            " Lori Korngiebel",
+            " Jared LeBoff",
+            " Mark Mostyn",
+            " Marc Platt",
+            " Emma Stone",
+            " Michelle Wright",
+            " "
+        ],
+        "tha": [
+            "Kristin Burr",
+            " Glenn Close",
+            " Andrew Gunn",
+            " Lori Korngiebel",
+            " Jared LeBoff",
+            " Mark Mostyn",
+            " Marc Platt",
+            " Emma Stone",
+            " Michelle Wright",
+            " "
+        ],
+        "ind": [
+            "Kristin Burr",
+            " Glenn Close",
+            " Andrew Gunn",
+            " Lori Korngiebel",
+            " Jared LeBoff",
+            " Mark Mostyn",
+            " Marc Platt",
+            " Emma Stone",
+            " Michelle Wright",
+            " "
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Adventure",
+                    "may": "Adventure",
+                    "tam": "Adventure",
+                    "chi": "Adventure",
+                    "tha": "Adventure",
+                    "ind": "Adventure"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Comedy",
+                    "may": " Comedy",
+                    "tam": " Comedy",
+                    "chi": " Comedy",
+                    "tha": " Comedy",
+                    "ind": " Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Cruella_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Cruella_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Cruella_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2021,
+    "rating": "7.3",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

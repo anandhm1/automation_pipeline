@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedMovie_82f22f7f-c164-5ed9-b9c0-abd49caa9f45",
+    "clientContentId": "PACK0000000009781847",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "RUBIKON (2022)",
+            "may": "RUBIKON (2022)",
+            "tam": "RUBIKON (2022)",
+            "chi": "RUBIKON (2022)",
+            "tha": "RUBIKON (2022)",
+            "ind": "RUBIKON (2022)"
+        },
+        "long": {
+            "eng": "RUBIKON (2022)",
+            "may": "RUBIKON (2022)",
+            "tam": "RUBIKON (2022)",
+            "chi": "RUBIKON (2022)",
+            "tha": "RUBIKON (2022)",
+            "ind": "RUBIKON (2022)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Following a catastrophe on Earth, the planet is covered in a toxic fog. The crew in the space station, must decide whether to risk their lives to get home and search for survivors, or stay safe in the station's algae symbiosis system.",
+            "may": "Following a catastrophe on Earth, the planet is covered in a toxic fog. The crew in the space station, must decide whether to risk their lives to get home and search for survivors, or stay safe in the station's algae symbiosis system.",
+            "tam": "Following a catastrophe on Earth, the planet is covered in a toxic fog. The crew in the space station, must decide whether to risk their lives to get home and search for survivors, or stay safe in the station's algae symbiosis system.",
+            "chi": "Following a catastrophe on Earth, the planet is covered in a toxic fog. The crew in the space station, must decide whether to risk their lives to get home and search for survivors, or stay safe in the station's algae symbiosis system.",
+            "tha": "Following a catastrophe on Earth, the planet is covered in a toxic fog. The crew in the space station, must decide whether to risk their lives to get home and search for survivors, or stay safe in the station's algae symbiosis system.",
+            "ind": "Following a catastrophe on Earth, the planet is covered in a toxic fog. The crew in the space station, must decide whether to risk their lives to get home and search for survivors, or stay safe in the station's algae symbiosis system."
+        },
+        "long": {
+            "eng": "Following a catastrophe on Earth, the planet is covered in a toxic fog. The crew in the space station, must decide whether to risk their lives to get home and search for survivors, or stay safe in the station's algae symbiosis system.",
+            "may": "Following a catastrophe on Earth, the planet is covered in a toxic fog. The crew in the space station, must decide whether to risk their lives to get home and search for survivors, or stay safe in the station's algae symbiosis system.",
+            "tam": "Following a catastrophe on Earth, the planet is covered in a toxic fog. The crew in the space station, must decide whether to risk their lives to get home and search for survivors, or stay safe in the station's algae symbiosis system.",
+            "chi": "Following a catastrophe on Earth, the planet is covered in a toxic fog. The crew in the space station, must decide whether to risk their lives to get home and search for survivors, or stay safe in the station's algae symbiosis system.",
+            "tha": "Following a catastrophe on Earth, the planet is covered in a toxic fog. The crew in the space station, must decide whether to risk their lives to get home and search for survivors, or stay safe in the station's algae symbiosis system.",
+            "ind": "Following a catastrophe on Earth, the planet is covered in a toxic fog. The crew in the space station, must decide whether to risk their lives to get home and search for survivors, or stay safe in the station's algae symbiosis system."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Julia Franz Richter",
+            " George Blagden",
+            " Mark Ivanir",
+            " Nicholas Monu",
+            " Daniela Kong",
+            " Konstantin FrolovHannah RangLjubisa GrujcicJonas Gerzabek"
+        ],
+        "may": [
+            "Julia Franz Richter",
+            " George Blagden",
+            " Mark Ivanir",
+            " Nicholas Monu",
+            " Daniela Kong",
+            " Konstantin FrolovHannah RangLjubisa GrujcicJonas Gerzabek"
+        ],
+        "tam": [
+            "Julia Franz Richter",
+            " George Blagden",
+            " Mark Ivanir",
+            " Nicholas Monu",
+            " Daniela Kong",
+            " Konstantin FrolovHannah RangLjubisa GrujcicJonas Gerzabek"
+        ],
+        "chi": [
+            "Julia Franz Richter",
+            " George Blagden",
+            " Mark Ivanir",
+            " Nicholas Monu",
+            " Daniela Kong",
+            " Konstantin FrolovHannah RangLjubisa GrujcicJonas Gerzabek"
+        ],
+        "tha": [
+            "Julia Franz Richter",
+            " George Blagden",
+            " Mark Ivanir",
+            " Nicholas Monu",
+            " Daniela Kong",
+            " Konstantin FrolovHannah RangLjubisa GrujcicJonas Gerzabek"
+        ],
+        "ind": [
+            "Julia Franz Richter",
+            " George Blagden",
+            " Mark Ivanir",
+            " Nicholas Monu",
+            " Daniela Kong",
+            " Konstantin FrolovHannah RangLjubisa GrujcicJonas Gerzabek"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Magdalena Lauritsch"
+        ],
+        "may": [
+            "Magdalena Lauritsch"
+        ],
+        "tam": [
+            "Magdalena Lauritsch"
+        ],
+        "chi": [
+            "Magdalena Lauritsch"
+        ],
+        "tha": [
+            "Magdalena Lauritsch"
+        ],
+        "ind": [
+            "Magdalena Lauritsch"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Stefanie Feodorow",
+            " Klaus Graf",
+            " Livia Graf",
+            " Annemarie Pilgram-Ribitsch",
+            " Loredana Rehekampff",
+            " Andreas Schmied"
+        ],
+        "may": [
+            "Stefanie Feodorow",
+            " Klaus Graf",
+            " Livia Graf",
+            " Annemarie Pilgram-Ribitsch",
+            " Loredana Rehekampff",
+            " Andreas Schmied"
+        ],
+        "tam": [
+            "Stefanie Feodorow",
+            " Klaus Graf",
+            " Livia Graf",
+            " Annemarie Pilgram-Ribitsch",
+            " Loredana Rehekampff",
+            " Andreas Schmied"
+        ],
+        "chi": [
+            "Stefanie Feodorow",
+            " Klaus Graf",
+            " Livia Graf",
+            " Annemarie Pilgram-Ribitsch",
+            " Loredana Rehekampff",
+            " Andreas Schmied"
+        ],
+        "tha": [
+            "Stefanie Feodorow",
+            " Klaus Graf",
+            " Livia Graf",
+            " Annemarie Pilgram-Ribitsch",
+            " Loredana Rehekampff",
+            " Andreas Schmied"
+        ],
+        "ind": [
+            "Stefanie Feodorow",
+            " Klaus Graf",
+            " Livia Graf",
+            " Annemarie Pilgram-Ribitsch",
+            " Loredana Rehekampff",
+            " Andreas Schmied"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Sci-Fi",
+                    "may": " Sci-Fi",
+                    "tam": " Sci-Fi",
+                    "chi": " Sci-Fi",
+                    "tha": " Sci-Fi",
+                    "ind": " Sci-Fi"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/RUBIKON_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/RUBIKON_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/RUBIKON_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "4.9",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

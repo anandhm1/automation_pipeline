@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_e8110257-6847-5829-91de-aed2331eb10b",
+    "clientContentId": "PACK0000000002085953",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "THE BATMAN",
+            "may": "THE BATMAN",
+            "tam": "THE BATMAN",
+            "chi": "THE BATMAN",
+            "tha": "THE BATMAN",
+            "ind": "THE BATMAN"
+        },
+        "long": {
+            "eng": "THE BATMAN",
+            "may": "THE BATMAN",
+            "tam": "THE BATMAN",
+            "chi": "THE BATMAN",
+            "tha": "THE BATMAN",
+            "ind": "THE BATMAN"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+            "may": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+            "tam": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+            "chi": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+            "tha": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+            "ind": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement."
+        },
+        "long": {
+            "eng": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+            "may": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+            "tam": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+            "chi": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+            "tha": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+            "ind": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Robert Pattinson",
+            " Zo\u00eb Kravitz",
+            " Jeffrey Wright",
+            " Colin Farrell",
+            " Paul Dano",
+            " John Turturro",
+            " Andy Serkis",
+            " Peter Sarsgaard",
+            " Barry Keoghan",
+            " Jayme Lawson"
+        ],
+        "may": [
+            "Robert Pattinson",
+            " Zo\u00eb Kravitz",
+            " Jeffrey Wright",
+            " Colin Farrell",
+            " Paul Dano",
+            " John Turturro",
+            " Andy Serkis",
+            " Peter Sarsgaard",
+            " Barry Keoghan",
+            " Jayme Lawson"
+        ],
+        "tam": [
+            "Robert Pattinson",
+            " Zo\u00eb Kravitz",
+            " Jeffrey Wright",
+            " Colin Farrell",
+            " Paul Dano",
+            " John Turturro",
+            " Andy Serkis",
+            " Peter Sarsgaard",
+            " Barry Keoghan",
+            " Jayme Lawson"
+        ],
+        "chi": [
+            "Robert Pattinson",
+            " Zo\u00eb Kravitz",
+            " Jeffrey Wright",
+            " Colin Farrell",
+            " Paul Dano",
+            " John Turturro",
+            " Andy Serkis",
+            " Peter Sarsgaard",
+            " Barry Keoghan",
+            " Jayme Lawson"
+        ],
+        "tha": [
+            "Robert Pattinson",
+            " Zo\u00eb Kravitz",
+            " Jeffrey Wright",
+            " Colin Farrell",
+            " Paul Dano",
+            " John Turturro",
+            " Andy Serkis",
+            " Peter Sarsgaard",
+            " Barry Keoghan",
+            " Jayme Lawson"
+        ],
+        "ind": [
+            "Robert Pattinson",
+            " Zo\u00eb Kravitz",
+            " Jeffrey Wright",
+            " Colin Farrell",
+            " Paul Dano",
+            " John Turturro",
+            " Andy Serkis",
+            " Peter Sarsgaard",
+            " Barry Keoghan",
+            " Jayme Lawson"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Matt Reeves"
+        ],
+        "may": [
+            "Matt Reeves"
+        ],
+        "tam": [
+            "Matt Reeves"
+        ],
+        "chi": [
+            "Matt Reeves"
+        ],
+        "tha": [
+            "Matt Reeves"
+        ],
+        "ind": [
+            "Matt Reeves"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Tina Anderson",
+            " Dylan Clark",
+            " Simon Emanuel",
+            " Walter Hamada",
+            " Toby Hefferman",
+            " Matt Reeves",
+            " Adam Sorin",
+            " Michael E. Uslan",
+            " Chantal Nong Vo",
+            " "
+        ],
+        "may": [
+            "Tina Anderson",
+            " Dylan Clark",
+            " Simon Emanuel",
+            " Walter Hamada",
+            " Toby Hefferman",
+            " Matt Reeves",
+            " Adam Sorin",
+            " Michael E. Uslan",
+            " Chantal Nong Vo",
+            " "
+        ],
+        "tam": [
+            "Tina Anderson",
+            " Dylan Clark",
+            " Simon Emanuel",
+            " Walter Hamada",
+            " Toby Hefferman",
+            " Matt Reeves",
+            " Adam Sorin",
+            " Michael E. Uslan",
+            " Chantal Nong Vo",
+            " "
+        ],
+        "chi": [
+            "Tina Anderson",
+            " Dylan Clark",
+            " Simon Emanuel",
+            " Walter Hamada",
+            " Toby Hefferman",
+            " Matt Reeves",
+            " Adam Sorin",
+            " Michael E. Uslan",
+            " Chantal Nong Vo",
+            " "
+        ],
+        "tha": [
+            "Tina Anderson",
+            " Dylan Clark",
+            " Simon Emanuel",
+            " Walter Hamada",
+            " Toby Hefferman",
+            " Matt Reeves",
+            " Adam Sorin",
+            " Michael E. Uslan",
+            " Chantal Nong Vo",
+            " "
+        ],
+        "ind": [
+            "Tina Anderson",
+            " Dylan Clark",
+            " Simon Emanuel",
+            " Walter Hamada",
+            " Toby Hefferman",
+            " Matt Reeves",
+            " Adam Sorin",
+            " Michael E. Uslan",
+            " Chantal Nong Vo",
+            " "
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/THEBATMAN_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/THEBATMAN_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/THEBATMAN_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "7.8",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

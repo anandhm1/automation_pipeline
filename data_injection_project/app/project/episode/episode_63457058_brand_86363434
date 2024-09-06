@@ -1,0 +1,361 @@
+{
+    "externalId": "AggregatedTvShow_e7a20489-ca55-5f31-80c1-05cceb109a45",
+    "clientContentId": "PACK0000000001121555",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Welcome to New Raccoon City",
+            "may": "Welcome to New Raccoon City",
+            "tam": "Welcome to New Raccoon City",
+            "chi": "Welcome to New Raccoon City",
+            "tha": "Welcome to New Raccoon City",
+            "ind": "Welcome to New Raccoon City"
+        },
+        "long": {
+            "eng": "Welcome to New Raccoon City",
+            "may": "Welcome to New Raccoon City",
+            "tam": "Welcome to New Raccoon City",
+            "chi": "Welcome to New Raccoon City",
+            "tha": "Welcome to New Raccoon City",
+            "ind": "Welcome to New Raccoon City"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "may": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "tam": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "chi": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "tha": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "ind": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything."
+        },
+        "long": {
+            "eng": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "may": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "tam": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "chi": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "tha": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "ind": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Ella Balinska",
+            " Tamara Smart",
+            " Siena Agudong",
+            " Adeline Rudolph",
+            " Paola N\u00fa\u00f1ez",
+            " Lance Reddick",
+            " Connor Gosatti",
+            " Anthony Oseyemi",
+            " Ahad Raza Mir",
+            " Pedro De Tavira"
+        ],
+        "may": [
+            "Ella Balinska",
+            " Tamara Smart",
+            " Siena Agudong",
+            " Adeline Rudolph",
+            " Paola N\u00fa\u00f1ez",
+            " Lance Reddick",
+            " Connor Gosatti",
+            " Anthony Oseyemi",
+            " Ahad Raza Mir",
+            " Pedro De Tavira"
+        ],
+        "tam": [
+            "Ella Balinska",
+            " Tamara Smart",
+            " Siena Agudong",
+            " Adeline Rudolph",
+            " Paola N\u00fa\u00f1ez",
+            " Lance Reddick",
+            " Connor Gosatti",
+            " Anthony Oseyemi",
+            " Ahad Raza Mir",
+            " Pedro De Tavira"
+        ],
+        "chi": [
+            "Ella Balinska",
+            " Tamara Smart",
+            " Siena Agudong",
+            " Adeline Rudolph",
+            " Paola N\u00fa\u00f1ez",
+            " Lance Reddick",
+            " Connor Gosatti",
+            " Anthony Oseyemi",
+            " Ahad Raza Mir",
+            " Pedro De Tavira"
+        ],
+        "tha": [
+            "Ella Balinska",
+            " Tamara Smart",
+            " Siena Agudong",
+            " Adeline Rudolph",
+            " Paola N\u00fa\u00f1ez",
+            " Lance Reddick",
+            " Connor Gosatti",
+            " Anthony Oseyemi",
+            " Ahad Raza Mir",
+            " Pedro De Tavira"
+        ],
+        "ind": [
+            "Ella Balinska",
+            " Tamara Smart",
+            " Siena Agudong",
+            " Adeline Rudolph",
+            " Paola N\u00fa\u00f1ez",
+            " Lance Reddick",
+            " Connor Gosatti",
+            " Anthony Oseyemi",
+            " Ahad Raza Mir",
+            " Pedro De Tavira"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Rachel Goldberg",
+            " Bronwen Hughes",
+            " Rob Seidenglanz",
+            " Batan Silva"
+        ],
+        "may": [
+            "Rachel Goldberg",
+            " Bronwen Hughes",
+            " Rob Seidenglanz",
+            " Batan Silva"
+        ],
+        "tam": [
+            "Rachel Goldberg",
+            " Bronwen Hughes",
+            " Rob Seidenglanz",
+            " Batan Silva"
+        ],
+        "chi": [
+            "Rachel Goldberg",
+            " Bronwen Hughes",
+            " Rob Seidenglanz",
+            " Batan Silva"
+        ],
+        "tha": [
+            "Rachel Goldberg",
+            " Bronwen Hughes",
+            " Rob Seidenglanz",
+            " Batan Silva"
+        ],
+        "ind": [
+            "Rachel Goldberg",
+            " Bronwen Hughes",
+            " Rob Seidenglanz",
+            " Batan Silva"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Oliver Berben",
+            " Andrew Dabb",
+            " Bronwen Hughes",
+            " Robert Kulzer",
+            " Martin Moszkowicz",
+            " Colin Scully",
+            " Mary Leah Sutton",
+            " Pablito Tancinco",
+            " Dylan Tarason",
+            " Alexander Hamilton Westmore"
+        ],
+        "may": [
+            "Oliver Berben",
+            " Andrew Dabb",
+            " Bronwen Hughes",
+            " Robert Kulzer",
+            " Martin Moszkowicz",
+            " Colin Scully",
+            " Mary Leah Sutton",
+            " Pablito Tancinco",
+            " Dylan Tarason",
+            " Alexander Hamilton Westmore"
+        ],
+        "tam": [
+            "Oliver Berben",
+            " Andrew Dabb",
+            " Bronwen Hughes",
+            " Robert Kulzer",
+            " Martin Moszkowicz",
+            " Colin Scully",
+            " Mary Leah Sutton",
+            " Pablito Tancinco",
+            " Dylan Tarason",
+            " Alexander Hamilton Westmore"
+        ],
+        "chi": [
+            "Oliver Berben",
+            " Andrew Dabb",
+            " Bronwen Hughes",
+            " Robert Kulzer",
+            " Martin Moszkowicz",
+            " Colin Scully",
+            " Mary Leah Sutton",
+            " Pablito Tancinco",
+            " Dylan Tarason",
+            " Alexander Hamilton Westmore"
+        ],
+        "tha": [
+            "Oliver Berben",
+            " Andrew Dabb",
+            " Bronwen Hughes",
+            " Robert Kulzer",
+            " Martin Moszkowicz",
+            " Colin Scully",
+            " Mary Leah Sutton",
+            " Pablito Tancinco",
+            " Dylan Tarason",
+            " Alexander Hamilton Westmore"
+        ],
+        "ind": [
+            "Oliver Berben",
+            " Andrew Dabb",
+            " Bronwen Hughes",
+            " Robert Kulzer",
+            " Martin Moszkowicz",
+            " Colin Scully",
+            " Mary Leah Sutton",
+            " Pablito Tancinco",
+            " Dylan Tarason",
+            " Alexander Hamilton Westmore"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "tam": " Horror",
+                    "chi": " Horror",
+                    "tha": " Horror",
+                    "ind": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ResidentEvilS01E01_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ResidentEvilS01E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ResidentEvilS01E01_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_991a38be-0d1d-5402-8002-395e7d0b72d9",
+    "seasonId": "AggregatedSeason_60b1f014-3bf0-5942-9eb1-b32adad73ead",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

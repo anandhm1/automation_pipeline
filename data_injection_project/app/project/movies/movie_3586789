@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_79abd251-b2de-5667-bfcf-c4b8748fe031",
+    "clientContentId": "PACK0000000003416489",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "UNWELCOME",
+            "may": "UNWELCOME",
+            "tam": "UNWELCOME",
+            "chi": "UNWELCOME",
+            "tha": "UNWELCOME",
+            "ind": "UNWELCOME"
+        },
+        "long": {
+            "eng": "UNWELCOME",
+            "may": "UNWELCOME",
+            "tam": "UNWELCOME",
+            "chi": "UNWELCOME",
+            "tha": "UNWELCOME",
+            "ind": "UNWELCOME"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Married couple Maya and Jamie escape their urban nightmare to the tranquility of rural Ireland only to discover malevolent and murderous goblins lurking in the gnarled, ancient wood at the foot of their new garden.",
+            "may": "Married couple Maya and Jamie escape their urban nightmare to the tranquility of rural Ireland only to discover malevolent and murderous goblins lurking in the gnarled, ancient wood at the foot of their new garden.",
+            "tam": "Married couple Maya and Jamie escape their urban nightmare to the tranquility of rural Ireland only to discover malevolent and murderous goblins lurking in the gnarled, ancient wood at the foot of their new garden.",
+            "chi": "Married couple Maya and Jamie escape their urban nightmare to the tranquility of rural Ireland only to discover malevolent and murderous goblins lurking in the gnarled, ancient wood at the foot of their new garden.",
+            "tha": "Married couple Maya and Jamie escape their urban nightmare to the tranquility of rural Ireland only to discover malevolent and murderous goblins lurking in the gnarled, ancient wood at the foot of their new garden.",
+            "ind": "Married couple Maya and Jamie escape their urban nightmare to the tranquility of rural Ireland only to discover malevolent and murderous goblins lurking in the gnarled, ancient wood at the foot of their new garden."
+        },
+        "long": {
+            "eng": "Married couple Maya and Jamie escape their urban nightmare to the tranquility of rural Ireland only to discover malevolent and murderous goblins lurking in the gnarled, ancient wood at the foot of their new garden.",
+            "may": "Married couple Maya and Jamie escape their urban nightmare to the tranquility of rural Ireland only to discover malevolent and murderous goblins lurking in the gnarled, ancient wood at the foot of their new garden.",
+            "tam": "Married couple Maya and Jamie escape their urban nightmare to the tranquility of rural Ireland only to discover malevolent and murderous goblins lurking in the gnarled, ancient wood at the foot of their new garden.",
+            "chi": "Married couple Maya and Jamie escape their urban nightmare to the tranquility of rural Ireland only to discover malevolent and murderous goblins lurking in the gnarled, ancient wood at the foot of their new garden.",
+            "tha": "Married couple Maya and Jamie escape their urban nightmare to the tranquility of rural Ireland only to discover malevolent and murderous goblins lurking in the gnarled, ancient wood at the foot of their new garden.",
+            "ind": "Married couple Maya and Jamie escape their urban nightmare to the tranquility of rural Ireland only to discover malevolent and murderous goblins lurking in the gnarled, ancient wood at the foot of their new garden."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Hannah John-Kamen",
+            " Douglas Booth",
+            " Colm Meaney",
+            " Kristian Nairn",
+            " Chris Walley",
+            " Niamh Cusack",
+            " Finbar Lynch",
+            " Rick Warden",
+            " Lalor Roddy",
+            " Rest of cast listed alphabetically:"
+        ],
+        "may": [
+            "Hannah John-Kamen",
+            " Douglas Booth",
+            " Colm Meaney",
+            " Kristian Nairn",
+            " Chris Walley",
+            " Niamh Cusack",
+            " Finbar Lynch",
+            " Rick Warden",
+            " Lalor Roddy",
+            " Rest of cast listed alphabetically:"
+        ],
+        "tam": [
+            "Hannah John-Kamen",
+            " Douglas Booth",
+            " Colm Meaney",
+            " Kristian Nairn",
+            " Chris Walley",
+            " Niamh Cusack",
+            " Finbar Lynch",
+            " Rick Warden",
+            " Lalor Roddy",
+            " Rest of cast listed alphabetically:"
+        ],
+        "chi": [
+            "Hannah John-Kamen",
+            " Douglas Booth",
+            " Colm Meaney",
+            " Kristian Nairn",
+            " Chris Walley",
+            " Niamh Cusack",
+            " Finbar Lynch",
+            " Rick Warden",
+            " Lalor Roddy",
+            " Rest of cast listed alphabetically:"
+        ],
+        "tha": [
+            "Hannah John-Kamen",
+            " Douglas Booth",
+            " Colm Meaney",
+            " Kristian Nairn",
+            " Chris Walley",
+            " Niamh Cusack",
+            " Finbar Lynch",
+            " Rick Warden",
+            " Lalor Roddy",
+            " Rest of cast listed alphabetically:"
+        ],
+        "ind": [
+            "Hannah John-Kamen",
+            " Douglas Booth",
+            " Colm Meaney",
+            " Kristian Nairn",
+            " Chris Walley",
+            " Niamh Cusack",
+            " Finbar Lynch",
+            " Rick Warden",
+            " Lalor Roddy",
+            " Rest of cast listed alphabetically:"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jon Wright"
+        ],
+        "may": [
+            "Jon Wright"
+        ],
+        "tam": [
+            "Jon Wright"
+        ],
+        "chi": [
+            "Jon Wright"
+        ],
+        "tha": [
+            "Jon Wright"
+        ],
+        "ind": [
+            "Jon Wright"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jo Bamford",
+            " Sebastian Barker",
+            " Lauren Cox",
+            " Mark Gooder",
+            " Jamie Jessop",
+            " Janine Modder",
+            " Doris Pfardrescher",
+            " Andrea Scarso",
+            " Piers Tempest",
+            " Alison Thompson"
+        ],
+        "may": [
+            "Jo Bamford",
+            " Sebastian Barker",
+            " Lauren Cox",
+            " Mark Gooder",
+            " Jamie Jessop",
+            " Janine Modder",
+            " Doris Pfardrescher",
+            " Andrea Scarso",
+            " Piers Tempest",
+            " Alison Thompson"
+        ],
+        "tam": [
+            "Jo Bamford",
+            " Sebastian Barker",
+            " Lauren Cox",
+            " Mark Gooder",
+            " Jamie Jessop",
+            " Janine Modder",
+            " Doris Pfardrescher",
+            " Andrea Scarso",
+            " Piers Tempest",
+            " Alison Thompson"
+        ],
+        "chi": [
+            "Jo Bamford",
+            " Sebastian Barker",
+            " Lauren Cox",
+            " Mark Gooder",
+            " Jamie Jessop",
+            " Janine Modder",
+            " Doris Pfardrescher",
+            " Andrea Scarso",
+            " Piers Tempest",
+            " Alison Thompson"
+        ],
+        "tha": [
+            "Jo Bamford",
+            " Sebastian Barker",
+            " Lauren Cox",
+            " Mark Gooder",
+            " Jamie Jessop",
+            " Janine Modder",
+            " Doris Pfardrescher",
+            " Andrea Scarso",
+            " Piers Tempest",
+            " Alison Thompson"
+        ],
+        "ind": [
+            "Jo Bamford",
+            " Sebastian Barker",
+            " Lauren Cox",
+            " Mark Gooder",
+            " Jamie Jessop",
+            " Janine Modder",
+            " Doris Pfardrescher",
+            " Andrea Scarso",
+            " Piers Tempest",
+            " Alison Thompson"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Horror",
+                    "may": "Horror",
+                    "tam": "Horror",
+                    "chi": "Horror",
+                    "tha": "Horror",
+                    "ind": "Horror"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Horror",
+                    "may": "Horror",
+                    "tam": "Horror",
+                    "chi": "Horror",
+                    "tha": "Horror",
+                    "ind": "Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/UNWELCOME_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/UNWELCOME_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/UNWELCOME_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2023,
+    "rating": "4.9",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

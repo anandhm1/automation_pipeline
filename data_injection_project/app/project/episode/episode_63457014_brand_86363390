@@ -1,0 +1,355 @@
+{
+    "externalId": "AggregatedTvShow_bbde2276-3017-5a44-9c09-27bb4cd55c0d",
+    "clientContentId": "PACK0000000004889067",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Daybreak - Trailer",
+            "may": "Daybreak - Trailer",
+            "tam": "Daybreak - Trailer",
+            "chi": "Daybreak - Trailer",
+            "tha": "Daybreak - Trailer",
+            "ind": "Daybreak - Trailer"
+        },
+        "long": {
+            "eng": "Daybreak - Trailer",
+            "may": "Daybreak - Trailer",
+            "tam": "Daybreak - Trailer",
+            "chi": "Daybreak - Trailer",
+            "tha": "Daybreak - Trailer",
+            "ind": "Daybreak - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "High school outcast Josh is searching for his missing girlfriend in post apocalyptic Glendale. He's joined by a group of misfits Angelica and his former bully Wesley. On the way they'll face many weird things.",
+            "may": "High school outcast Josh is searching for his missing girlfriend in post apocalyptic Glendale. He's joined by a group of misfits Angelica and his former bully Wesley. On the way they'll face many weird things.",
+            "tam": "High school outcast Josh is searching for his missing girlfriend in post apocalyptic Glendale. He's joined by a group of misfits Angelica and his former bully Wesley. On the way they'll face many weird things.",
+            "chi": "High school outcast Josh is searching for his missing girlfriend in post apocalyptic Glendale. He's joined by a group of misfits Angelica and his former bully Wesley. On the way they'll face many weird things.",
+            "tha": "High school outcast Josh is searching for his missing girlfriend in post apocalyptic Glendale. He's joined by a group of misfits Angelica and his former bully Wesley. On the way they'll face many weird things.",
+            "ind": "High school outcast Josh is searching for his missing girlfriend in post apocalyptic Glendale. He's joined by a group of misfits Angelica and his former bully Wesley. On the way they'll face many weird things."
+        },
+        "long": {
+            "eng": "High school outcast Josh is searching for his missing girlfriend in post apocalyptic Glendale. He's joined by a group of misfits Angelica and his former bully Wesley. On the way they'll face many weird things.",
+            "may": "High school outcast Josh is searching for his missing girlfriend in post apocalyptic Glendale. He's joined by a group of misfits Angelica and his former bully Wesley. On the way they'll face many weird things.",
+            "tam": "High school outcast Josh is searching for his missing girlfriend in post apocalyptic Glendale. He's joined by a group of misfits Angelica and his former bully Wesley. On the way they'll face many weird things.",
+            "chi": "High school outcast Josh is searching for his missing girlfriend in post apocalyptic Glendale. He's joined by a group of misfits Angelica and his former bully Wesley. On the way they'll face many weird things.",
+            "tha": "High school outcast Josh is searching for his missing girlfriend in post apocalyptic Glendale. He's joined by a group of misfits Angelica and his former bully Wesley. On the way they'll face many weird things.",
+            "ind": "High school outcast Josh is searching for his missing girlfriend in post apocalyptic Glendale. He's joined by a group of misfits Angelica and his former bully Wesley. On the way they'll face many weird things."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Colin Ford",
+            " Alyvia Alyn Lind",
+            " Sophie Simnett",
+            " Austin Crute",
+            " Cody Kearsley",
+            " Jeant\u00e9 Godlock",
+            " Greg Kasyan",
+            " Krysta Rodriguez",
+            " Matthew Broderick",
+            " Jon LeVert"
+        ],
+        "may": [
+            "Colin Ford",
+            " Alyvia Alyn Lind",
+            " Sophie Simnett",
+            " Austin Crute",
+            " Cody Kearsley",
+            " Jeant\u00e9 Godlock",
+            " Greg Kasyan",
+            " Krysta Rodriguez",
+            " Matthew Broderick",
+            " Jon LeVert"
+        ],
+        "tam": [
+            "Colin Ford",
+            " Alyvia Alyn Lind",
+            " Sophie Simnett",
+            " Austin Crute",
+            " Cody Kearsley",
+            " Jeant\u00e9 Godlock",
+            " Greg Kasyan",
+            " Krysta Rodriguez",
+            " Matthew Broderick",
+            " Jon LeVert"
+        ],
+        "chi": [
+            "Colin Ford",
+            " Alyvia Alyn Lind",
+            " Sophie Simnett",
+            " Austin Crute",
+            " Cody Kearsley",
+            " Jeant\u00e9 Godlock",
+            " Greg Kasyan",
+            " Krysta Rodriguez",
+            " Matthew Broderick",
+            " Jon LeVert"
+        ],
+        "tha": [
+            "Colin Ford",
+            " Alyvia Alyn Lind",
+            " Sophie Simnett",
+            " Austin Crute",
+            " Cody Kearsley",
+            " Jeant\u00e9 Godlock",
+            " Greg Kasyan",
+            " Krysta Rodriguez",
+            " Matthew Broderick",
+            " Jon LeVert"
+        ],
+        "ind": [
+            "Colin Ford",
+            " Alyvia Alyn Lind",
+            " Sophie Simnett",
+            " Austin Crute",
+            " Cody Kearsley",
+            " Jeant\u00e9 Godlock",
+            " Greg Kasyan",
+            " Krysta Rodriguez",
+            " Matthew Broderick",
+            " Jon LeVert"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Michael Patrick Jann",
+            " Brad Peyton",
+            " Sherwin Shilati",
+            " Kate Herron",
+            " Mark Tonderai"
+        ],
+        "may": [
+            "Michael Patrick Jann",
+            " Brad Peyton",
+            " Sherwin Shilati",
+            " Kate Herron",
+            " Mark Tonderai"
+        ],
+        "tam": [
+            "Michael Patrick Jann",
+            " Brad Peyton",
+            " Sherwin Shilati",
+            " Kate Herron",
+            " Mark Tonderai"
+        ],
+        "chi": [
+            "Michael Patrick Jann",
+            " Brad Peyton",
+            " Sherwin Shilati",
+            " Kate Herron",
+            " Mark Tonderai"
+        ],
+        "tha": [
+            "Michael Patrick Jann",
+            " Brad Peyton",
+            " Sherwin Shilati",
+            " Kate Herron",
+            " Mark Tonderai"
+        ],
+        "ind": [
+            "Michael Patrick Jann",
+            " Brad Peyton",
+            " Sherwin Shilati",
+            " Kate Herron",
+            " Mark Tonderai"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Andrew Black",
+            " Aron Eli Coleite",
+            " Bruce Dunn",
+            " Jeffrey Fierson",
+            " Emily Fox",
+            " Jenn Kao",
+            " Michael J. Malone",
+            " Brad Peyton"
+        ],
+        "may": [
+            "Andrew Black",
+            " Aron Eli Coleite",
+            " Bruce Dunn",
+            " Jeffrey Fierson",
+            " Emily Fox",
+            " Jenn Kao",
+            " Michael J. Malone",
+            " Brad Peyton"
+        ],
+        "tam": [
+            "Andrew Black",
+            " Aron Eli Coleite",
+            " Bruce Dunn",
+            " Jeffrey Fierson",
+            " Emily Fox",
+            " Jenn Kao",
+            " Michael J. Malone",
+            " Brad Peyton"
+        ],
+        "chi": [
+            "Andrew Black",
+            " Aron Eli Coleite",
+            " Bruce Dunn",
+            " Jeffrey Fierson",
+            " Emily Fox",
+            " Jenn Kao",
+            " Michael J. Malone",
+            " Brad Peyton"
+        ],
+        "tha": [
+            "Andrew Black",
+            " Aron Eli Coleite",
+            " Bruce Dunn",
+            " Jeffrey Fierson",
+            " Emily Fox",
+            " Jenn Kao",
+            " Michael J. Malone",
+            " Brad Peyton"
+        ],
+        "ind": [
+            "Andrew Black",
+            " Aron Eli Coleite",
+            " Bruce Dunn",
+            " Jeffrey Fierson",
+            " Emily Fox",
+            " Jenn Kao",
+            " Michael J. Malone",
+            " Brad Peyton"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DAYBREAK_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DAYBREAK_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DAYBREAK_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_7e3fb3a2-0850-5cb0-ab3b-5144ba6dd5ae",
+    "seasonId": "AggregatedSeason_445fb1f1-4c25-5b07-ab23-ad8cf1e1a3aa",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2019,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

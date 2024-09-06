@@ -1,0 +1,347 @@
+{
+    "externalId": "AggregatedSeason_9255584e-cc1f-5261-8785-ae751f7d2999",
+    "clientContentId": "PACK0000000004627992",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Adventure",
+                    "may": "Adventure",
+                    "chi": "Adventure",
+                    "tam": "Adventure",
+                    "ind": "Adventure",
+                    "tha": "Adventure"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2016,
+    "rating": "TV-14",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Austin Butler",
+            " Ivana Baquero",
+            " Manu Bennett",
+            " Aaron Jakubenko",
+            " Marcus Vanco",
+            " Poppy Drayton",
+            " Melise",
+            " Vanessa Morgan",
+            " Gentry White",
+            " Emilia Burns"
+        ],
+        "may": [
+            "Austin Butler",
+            " Ivana Baquero",
+            " Manu Bennett",
+            " Aaron Jakubenko",
+            " Marcus Vanco",
+            " Poppy Drayton",
+            " Melise",
+            " Vanessa Morgan",
+            " Gentry White",
+            " Emilia Burns"
+        ],
+        "chi": [
+            "Austin Butler",
+            " Ivana Baquero",
+            " Manu Bennett",
+            " Aaron Jakubenko",
+            " Marcus Vanco",
+            " Poppy Drayton",
+            " Melise",
+            " Vanessa Morgan",
+            " Gentry White",
+            " Emilia Burns"
+        ],
+        "tam": [
+            "Austin Butler",
+            " Ivana Baquero",
+            " Manu Bennett",
+            " Aaron Jakubenko",
+            " Marcus Vanco",
+            " Poppy Drayton",
+            " Melise",
+            " Vanessa Morgan",
+            " Gentry White",
+            " Emilia Burns"
+        ],
+        "ind": [
+            "Austin Butler",
+            " Ivana Baquero",
+            " Manu Bennett",
+            " Aaron Jakubenko",
+            " Marcus Vanco",
+            " Poppy Drayton",
+            " Melise",
+            " Vanessa Morgan",
+            " Gentry White",
+            " Emilia Burns"
+        ],
+        "tha": [
+            "Austin Butler",
+            " Ivana Baquero",
+            " Manu Bennett",
+            " Aaron Jakubenko",
+            " Marcus Vanco",
+            " Poppy Drayton",
+            " Melise",
+            " Vanessa Morgan",
+            " Gentry White",
+            " Emilia Burns"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Brad Turner",
+            " James Marshall",
+            " Jonathan Liebesman",
+            " Jesse Warn",
+            " Toa Fraser"
+        ],
+        "may": [
+            "Brad Turner",
+            " James Marshall",
+            " Jonathan Liebesman",
+            " Jesse Warn",
+            " Toa Fraser"
+        ],
+        "chi": [
+            "Brad Turner",
+            " James Marshall",
+            " Jonathan Liebesman",
+            " Jesse Warn",
+            " Toa Fraser"
+        ],
+        "tam": [
+            "Brad Turner",
+            " James Marshall",
+            " Jonathan Liebesman",
+            " Jesse Warn",
+            " Toa Fraser"
+        ],
+        "ind": [
+            "Brad Turner",
+            " James Marshall",
+            " Jonathan Liebesman",
+            " Jesse Warn",
+            " Toa Fraser"
+        ],
+        "tha": [
+            "Brad Turner",
+            " James Marshall",
+            " Jonathan Liebesman",
+            " Jesse Warn",
+            " Toa Fraser"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "David Blocker",
+            " Kimberly Boyd",
+            " Terry Brooks",
+            " Dan Farah",
+            " Jon Favreau",
+            " Alfred Gough",
+            " Jonathan Liebesman",
+            " Miles Millar",
+            " Jessica Petelle",
+            " Brad Turner"
+        ],
+        "may": [
+            "David Blocker",
+            " Kimberly Boyd",
+            " Terry Brooks",
+            " Dan Farah",
+            " Jon Favreau",
+            " Alfred Gough",
+            " Jonathan Liebesman",
+            " Miles Millar",
+            " Jessica Petelle",
+            " Brad Turner"
+        ],
+        "chi": [
+            "David Blocker",
+            " Kimberly Boyd",
+            " Terry Brooks",
+            " Dan Farah",
+            " Jon Favreau",
+            " Alfred Gough",
+            " Jonathan Liebesman",
+            " Miles Millar",
+            " Jessica Petelle",
+            " Brad Turner"
+        ],
+        "tam": [
+            "David Blocker",
+            " Kimberly Boyd",
+            " Terry Brooks",
+            " Dan Farah",
+            " Jon Favreau",
+            " Alfred Gough",
+            " Jonathan Liebesman",
+            " Miles Millar",
+            " Jessica Petelle",
+            " Brad Turner"
+        ],
+        "ind": [
+            "David Blocker",
+            " Kimberly Boyd",
+            " Terry Brooks",
+            " Dan Farah",
+            " Jon Favreau",
+            " Alfred Gough",
+            " Jonathan Liebesman",
+            " Miles Millar",
+            " Jessica Petelle",
+            " Brad Turner"
+        ],
+        "tha": [
+            "David Blocker",
+            " Kimberly Boyd",
+            " Terry Brooks",
+            " Dan Farah",
+            " Jon Favreau",
+            " Alfred Gough",
+            " Jonathan Liebesman",
+            " Miles Millar",
+            " Jessica Petelle",
+            " Brad Turner"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_ffd93921-d015-50ac-8d72-76abd9d3ec1b",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Shannara Chronicles Season 1",
+            "may": "The Shannara Chronicles Season 1",
+            "chi": "The Shannara Chronicles Season 1",
+            "tam": "The Shannara Chronicles Season 1",
+            "ind": "The Shannara Chronicles Season 1",
+            "tha": "The Shannara Chronicles Season 1"
+        },
+        "long": {
+            "eng": "The Shannara Chronicles Season 1",
+            "may": "The Shannara Chronicles Season 1",
+            "chi": "The Shannara Chronicles Season 1",
+            "tam": "The Shannara Chronicles Season 1",
+            "ind": "The Shannara Chronicles Season 1",
+            "tha": "The Shannara Chronicles Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "may": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "chi": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "tam": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "ind": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "tha": "Series of adventures, war, and evil that occur throughout the history of the Four Lands."
+        },
+        "long": {
+            "eng": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "may": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "chi": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "tam": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "ind": "Series of adventures, war, and evil that occur throughout the history of the Four Lands.",
+            "tha": "Series of adventures, war, and evil that occur throughout the history of the Four Lands."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheShannaraChroniclesSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheShannaraChroniclesSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheShannaraChroniclesSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

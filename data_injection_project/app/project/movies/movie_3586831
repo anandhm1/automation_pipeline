@@ -1,0 +1,349 @@
+{
+    "externalId": "AggregatedMovie_02a3a381-5106-52a4-b4b1-39df52d8d79f",
+    "clientContentId": "PACK0000000009373953",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Avengers Endgame",
+            "may": "Avengers Endgame",
+            "tam": "Avengers Endgame",
+            "chi": "Avengers Endgame",
+            "tha": "Avengers Endgame",
+            "ind": "Avengers Endgame"
+        },
+        "long": {
+            "eng": "Avengers Endgame",
+            "may": "Avengers Endgame",
+            "tam": "Avengers Endgame",
+            "chi": "Avengers Endgame",
+            "tha": "Avengers Endgame",
+            "ind": "Avengers Endgame"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "may": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "tam": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "chi": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "tha": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "ind": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
+        },
+        "long": {
+            "eng": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "may": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "tam": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "chi": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "tha": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "ind": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Robert Downey Jr.",
+            " Chris Evans",
+            " Mark Ruffalo",
+            " Chris Hemsworth",
+            " Scarlett Johansson",
+            " Jeremy Renner",
+            " Don Cheadle",
+            " Paul Rudd",
+            " Benedict Cumberbatch",
+            " Chadwick Boseman"
+        ],
+        "may": [
+            "Robert Downey Jr.",
+            " Chris Evans",
+            " Mark Ruffalo",
+            " Chris Hemsworth",
+            " Scarlett Johansson",
+            " Jeremy Renner",
+            " Don Cheadle",
+            " Paul Rudd",
+            " Benedict Cumberbatch",
+            " Chadwick Boseman"
+        ],
+        "tam": [
+            "Robert Downey Jr.",
+            " Chris Evans",
+            " Mark Ruffalo",
+            " Chris Hemsworth",
+            " Scarlett Johansson",
+            " Jeremy Renner",
+            " Don Cheadle",
+            " Paul Rudd",
+            " Benedict Cumberbatch",
+            " Chadwick Boseman"
+        ],
+        "chi": [
+            "Robert Downey Jr.",
+            " Chris Evans",
+            " Mark Ruffalo",
+            " Chris Hemsworth",
+            " Scarlett Johansson",
+            " Jeremy Renner",
+            " Don Cheadle",
+            " Paul Rudd",
+            " Benedict Cumberbatch",
+            " Chadwick Boseman"
+        ],
+        "tha": [
+            "Robert Downey Jr.",
+            " Chris Evans",
+            " Mark Ruffalo",
+            " Chris Hemsworth",
+            " Scarlett Johansson",
+            " Jeremy Renner",
+            " Don Cheadle",
+            " Paul Rudd",
+            " Benedict Cumberbatch",
+            " Chadwick Boseman"
+        ],
+        "ind": [
+            "Robert Downey Jr.",
+            " Chris Evans",
+            " Mark Ruffalo",
+            " Chris Hemsworth",
+            " Scarlett Johansson",
+            " Jeremy Renner",
+            " Don Cheadle",
+            " Paul Rudd",
+            " Benedict Cumberbatch",
+            " Chadwick Boseman"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Anthony Russo",
+            " Joe Russo"
+        ],
+        "may": [
+            "Anthony Russo",
+            " Joe Russo"
+        ],
+        "tam": [
+            "Anthony Russo",
+            " Joe Russo"
+        ],
+        "chi": [
+            "Anthony Russo",
+            " Joe Russo"
+        ],
+        "tha": [
+            "Anthony Russo",
+            " Joe Russo"
+        ],
+        "ind": [
+            "Anthony Russo",
+            " Joe Russo"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Victoria Alonso",
+            " Mitchell Bell",
+            " Ari Costa",
+            " Louis D'Esposito",
+            " Jon Favreau",
+            " Kevin Feige",
+            " Michael Grillo",
+            " James Gunn",
+            " Stan Lee",
+            " Christopher Markus"
+        ],
+        "may": [
+            "Victoria Alonso",
+            " Mitchell Bell",
+            " Ari Costa",
+            " Louis D'Esposito",
+            " Jon Favreau",
+            " Kevin Feige",
+            " Michael Grillo",
+            " James Gunn",
+            " Stan Lee",
+            " Christopher Markus"
+        ],
+        "tam": [
+            "Victoria Alonso",
+            " Mitchell Bell",
+            " Ari Costa",
+            " Louis D'Esposito",
+            " Jon Favreau",
+            " Kevin Feige",
+            " Michael Grillo",
+            " James Gunn",
+            " Stan Lee",
+            " Christopher Markus"
+        ],
+        "chi": [
+            "Victoria Alonso",
+            " Mitchell Bell",
+            " Ari Costa",
+            " Louis D'Esposito",
+            " Jon Favreau",
+            " Kevin Feige",
+            " Michael Grillo",
+            " James Gunn",
+            " Stan Lee",
+            " Christopher Markus"
+        ],
+        "tha": [
+            "Victoria Alonso",
+            " Mitchell Bell",
+            " Ari Costa",
+            " Louis D'Esposito",
+            " Jon Favreau",
+            " Kevin Feige",
+            " Michael Grillo",
+            " James Gunn",
+            " Stan Lee",
+            " Christopher Markus"
+        ],
+        "ind": [
+            "Victoria Alonso",
+            " Mitchell Bell",
+            " Ari Costa",
+            " Louis D'Esposito",
+            " Jon Favreau",
+            " Kevin Feige",
+            " Michael Grillo",
+            " James Gunn",
+            " Stan Lee",
+            " Christopher Markus"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AvengersEndgame_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AvengersEndgame_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AvengersEndgame_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2019,
+    "rating": "8.4",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

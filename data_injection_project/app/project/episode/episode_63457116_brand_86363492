@@ -1,0 +1,289 @@
+{
+    "externalId": "AggregatedTvShow_f17a8547-8d65-582b-a8b8-c55ef3db0ed5",
+    "clientContentId": "PACK0000000004492408",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Pilot",
+            "may": "The Pilot",
+            "tam": "The Pilot",
+            "chi": "The Pilot",
+            "tha": "The Pilot",
+            "ind": "The Pilot"
+        },
+        "long": {
+            "eng": "The Pilot",
+            "may": "The Pilot",
+            "tam": "The Pilot",
+            "chi": "The Pilot",
+            "tha": "The Pilot",
+            "ind": "The Pilot"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "may": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "tam": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "chi": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "tha": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "ind": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers."
+        },
+        "long": {
+            "eng": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "may": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "tam": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "chi": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "tha": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers.",
+            "ind": "Malaysia Airlines Flight MH370 heading for Beijing vanishes from radar shortly after takeoff. Early suspicion falls on the pilot as family members and the public frantically look for answers."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jeff Wise",
+            " Ghislain Wattrelos",
+            " Danica Weeks",
+            " Jiang Hui",
+            " Intan Othman",
+            " Mike Exner",
+            " Mark Dickinson",
+            " Florence de Changy",
+            " Blaine Gibson",
+            " Grace Nathan"
+        ],
+        "may": [
+            "Jeff Wise",
+            " Ghislain Wattrelos",
+            " Danica Weeks",
+            " Jiang Hui",
+            " Intan Othman",
+            " Mike Exner",
+            " Mark Dickinson",
+            " Florence de Changy",
+            " Blaine Gibson",
+            " Grace Nathan"
+        ],
+        "tam": [
+            "Jeff Wise",
+            " Ghislain Wattrelos",
+            " Danica Weeks",
+            " Jiang Hui",
+            " Intan Othman",
+            " Mike Exner",
+            " Mark Dickinson",
+            " Florence de Changy",
+            " Blaine Gibson",
+            " Grace Nathan"
+        ],
+        "chi": [
+            "Jeff Wise",
+            " Ghislain Wattrelos",
+            " Danica Weeks",
+            " Jiang Hui",
+            " Intan Othman",
+            " Mike Exner",
+            " Mark Dickinson",
+            " Florence de Changy",
+            " Blaine Gibson",
+            " Grace Nathan"
+        ],
+        "tha": [
+            "Jeff Wise",
+            " Ghislain Wattrelos",
+            " Danica Weeks",
+            " Jiang Hui",
+            " Intan Othman",
+            " Mike Exner",
+            " Mark Dickinson",
+            " Florence de Changy",
+            " Blaine Gibson",
+            " Grace Nathan"
+        ],
+        "ind": [
+            "Jeff Wise",
+            " Ghislain Wattrelos",
+            " Danica Weeks",
+            " Jiang Hui",
+            " Intan Othman",
+            " Mike Exner",
+            " Mark Dickinson",
+            " Florence de Changy",
+            " Blaine Gibson",
+            " Grace Nathan"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Louise Malkinson"
+        ],
+        "may": [
+            "Louise Malkinson"
+        ],
+        "tam": [
+            "Louise Malkinson"
+        ],
+        "chi": [
+            "Louise Malkinson"
+        ],
+        "tha": [
+            "Louise Malkinson"
+        ],
+        "ind": [
+            "Louise Malkinson"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Harry Hewland"
+        ],
+        "may": [
+            "Harry Hewland"
+        ],
+        "tam": [
+            "Harry Hewland"
+        ],
+        "chi": [
+            "Harry Hewland"
+        ],
+        "tha": [
+            "Harry Hewland"
+        ],
+        "ind": [
+            "Harry Hewland"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "tam": "Documentary",
+                    "chi": "Documentary",
+                    "tha": "Documentary",
+                    "ind": "Documentary"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Documentary",
+                    "may": "Documentary",
+                    "tam": "Documentary",
+                    "chi": "Documentary",
+                    "tha": "Documentary",
+                    "ind": "Documentary"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Mh370ThePlaneThatDisappearedS01Ep01_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Mh370ThePlaneThatDisappearedS01Ep01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Mh370ThePlaneThatDisappearedS01Ep01_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_797b7064-efe0-52b6-b059-0a02e7ed21dd",
+    "seasonId": "AggregatedSeason_75512506-6d3e-5d14-8425-c8162304c317",
+    "boxsetIds": [],
+    "episodeNumber": "2.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2023,
+    "rating": "12",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

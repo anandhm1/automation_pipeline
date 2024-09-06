@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_f0f56f3c-098a-594c-a942-6ad071b5bbe0",
+    "clientContentId": "PACK0000000007924691",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Last Victim",
+            "may": "The Last Victim",
+            "tam": "The Last Victim",
+            "chi": "The Last Victim",
+            "tha": "The Last Victim",
+            "ind": "The Last Victim"
+        },
+        "long": {
+            "eng": "The Last Victim",
+            "may": "The Last Victim",
+            "tam": "The Last Victim",
+            "chi": "The Last Victim",
+            "tha": "The Last Victim",
+            "ind": "The Last Victim"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The Last Victim is a Neo Western thriller set in the American southwest, following Sheriff Hickey trying to solve the worst case he has seen in his small town, likely caused by a violent local gang led by a fearsome criminal.",
+            "may": "The Last Victim is a Neo Western thriller set in the American southwest, following Sheriff Hickey trying to solve the worst case he has seen in his small town, likely caused by a violent local gang led by a fearsome criminal.",
+            "tam": "The Last Victim is a Neo Western thriller set in the American southwest, following Sheriff Hickey trying to solve the worst case he has seen in his small town, likely caused by a violent local gang led by a fearsome criminal.",
+            "chi": "The Last Victim is a Neo Western thriller set in the American southwest, following Sheriff Hickey trying to solve the worst case he has seen in his small town, likely caused by a violent local gang led by a fearsome criminal.",
+            "tha": "The Last Victim is a Neo Western thriller set in the American southwest, following Sheriff Hickey trying to solve the worst case he has seen in his small town, likely caused by a violent local gang led by a fearsome criminal.",
+            "ind": "The Last Victim is a Neo Western thriller set in the American southwest, following Sheriff Hickey trying to solve the worst case he has seen in his small town, likely caused by a violent local gang led by a fearsome criminal."
+        },
+        "long": {
+            "eng": "The Last Victim is a Neo Western thriller set in the American southwest, following Sheriff Hickey trying to solve the worst case he has seen in his small town, likely caused by a violent local gang led by a fearsome criminal.",
+            "may": "The Last Victim is a Neo Western thriller set in the American southwest, following Sheriff Hickey trying to solve the worst case he has seen in his small town, likely caused by a violent local gang led by a fearsome criminal.",
+            "tam": "The Last Victim is a Neo Western thriller set in the American southwest, following Sheriff Hickey trying to solve the worst case he has seen in his small town, likely caused by a violent local gang led by a fearsome criminal.",
+            "chi": "The Last Victim is a Neo Western thriller set in the American southwest, following Sheriff Hickey trying to solve the worst case he has seen in his small town, likely caused by a violent local gang led by a fearsome criminal.",
+            "tha": "The Last Victim is a Neo Western thriller set in the American southwest, following Sheriff Hickey trying to solve the worst case he has seen in his small town, likely caused by a violent local gang led by a fearsome criminal.",
+            "ind": "The Last Victim is a Neo Western thriller set in the American southwest, following Sheriff Hickey trying to solve the worst case he has seen in his small town, likely caused by a violent local gang led by a fearsome criminal."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Ali Larter",
+            " Ralph Ineson",
+            " Ron Perlman",
+            " Tahmoh Penikett",
+            " Kyle Schmid",
+            " Dakota Daulby",
+            " Camille Legg",
+            " Paul Belsito",
+            " Tom Stevens",
+            " Gregory Fawcett"
+        ],
+        "may": [
+            "Ali Larter",
+            " Ralph Ineson",
+            " Ron Perlman",
+            " Tahmoh Penikett",
+            " Kyle Schmid",
+            " Dakota Daulby",
+            " Camille Legg",
+            " Paul Belsito",
+            " Tom Stevens",
+            " Gregory Fawcett"
+        ],
+        "tam": [
+            "Ali Larter",
+            " Ralph Ineson",
+            " Ron Perlman",
+            " Tahmoh Penikett",
+            " Kyle Schmid",
+            " Dakota Daulby",
+            " Camille Legg",
+            " Paul Belsito",
+            " Tom Stevens",
+            " Gregory Fawcett"
+        ],
+        "chi": [
+            "Ali Larter",
+            " Ralph Ineson",
+            " Ron Perlman",
+            " Tahmoh Penikett",
+            " Kyle Schmid",
+            " Dakota Daulby",
+            " Camille Legg",
+            " Paul Belsito",
+            " Tom Stevens",
+            " Gregory Fawcett"
+        ],
+        "tha": [
+            "Ali Larter",
+            " Ralph Ineson",
+            " Ron Perlman",
+            " Tahmoh Penikett",
+            " Kyle Schmid",
+            " Dakota Daulby",
+            " Camille Legg",
+            " Paul Belsito",
+            " Tom Stevens",
+            " Gregory Fawcett"
+        ],
+        "ind": [
+            "Ali Larter",
+            " Ralph Ineson",
+            " Ron Perlman",
+            " Tahmoh Penikett",
+            " Kyle Schmid",
+            " Dakota Daulby",
+            " Camille Legg",
+            " Paul Belsito",
+            " Tom Stevens",
+            " Gregory Fawcett"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Naveen A. Chathapuram"
+        ],
+        "may": [
+            "Naveen A. Chathapuram"
+        ],
+        "tam": [
+            "Naveen A. Chathapuram"
+        ],
+        "chi": [
+            "Naveen A. Chathapuram"
+        ],
+        "tha": [
+            "Naveen A. Chathapuram"
+        ],
+        "ind": [
+            "Naveen A. Chathapuram"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Todd Berger",
+            " Nicholas Burnett",
+            " Naveen A. Chathapuram",
+            " Luke Daniels",
+            " Jared Goetz",
+            " Vicky Gong",
+            " Brenden Hubbard",
+            " Rian Danielle Johnson",
+            " Ryan R. Johnson",
+            " Joseph Lanius"
+        ],
+        "may": [
+            "Todd Berger",
+            " Nicholas Burnett",
+            " Naveen A. Chathapuram",
+            " Luke Daniels",
+            " Jared Goetz",
+            " Vicky Gong",
+            " Brenden Hubbard",
+            " Rian Danielle Johnson",
+            " Ryan R. Johnson",
+            " Joseph Lanius"
+        ],
+        "tam": [
+            "Todd Berger",
+            " Nicholas Burnett",
+            " Naveen A. Chathapuram",
+            " Luke Daniels",
+            " Jared Goetz",
+            " Vicky Gong",
+            " Brenden Hubbard",
+            " Rian Danielle Johnson",
+            " Ryan R. Johnson",
+            " Joseph Lanius"
+        ],
+        "chi": [
+            "Todd Berger",
+            " Nicholas Burnett",
+            " Naveen A. Chathapuram",
+            " Luke Daniels",
+            " Jared Goetz",
+            " Vicky Gong",
+            " Brenden Hubbard",
+            " Rian Danielle Johnson",
+            " Ryan R. Johnson",
+            " Joseph Lanius"
+        ],
+        "tha": [
+            "Todd Berger",
+            " Nicholas Burnett",
+            " Naveen A. Chathapuram",
+            " Luke Daniels",
+            " Jared Goetz",
+            " Vicky Gong",
+            " Brenden Hubbard",
+            " Rian Danielle Johnson",
+            " Ryan R. Johnson",
+            " Joseph Lanius"
+        ],
+        "ind": [
+            "Todd Berger",
+            " Nicholas Burnett",
+            " Naveen A. Chathapuram",
+            " Luke Daniels",
+            " Jared Goetz",
+            " Vicky Gong",
+            " Brenden Hubbard",
+            " Rian Danielle Johnson",
+            " Ryan R. Johnson",
+            " Joseph Lanius"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheLastVictim_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheLastVictim_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/TheLastVictim_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "4.9",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

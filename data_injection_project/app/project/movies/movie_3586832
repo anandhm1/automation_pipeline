@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_19ad8977-deba-5641-964c-35d6963e3ec7",
+    "clientContentId": "PACK0000000005771803",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Deadpool",
+            "may": "Deadpool",
+            "tam": "Deadpool",
+            "chi": "Deadpool",
+            "tha": "Deadpool",
+            "ind": "Deadpool"
+        },
+        "long": {
+            "eng": "Deadpool",
+            "may": "Deadpool",
+            "tam": "Deadpool",
+            "chi": "Deadpool",
+            "tha": "Deadpool",
+            "ind": "Deadpool"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+            "may": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+            "tam": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+            "chi": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+            "tha": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+            "ind": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks."
+        },
+        "long": {
+            "eng": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+            "may": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+            "tam": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+            "chi": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+            "tha": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+            "ind": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Ryan Reynolds",
+            " Karan Soni",
+            " Ed Skrein",
+            " Michael Benyaer",
+            " Stefan Kapicic",
+            " Brianna Hildebrand",
+            " Style Dayne",
+            " Kyle Cassie",
+            " Taylor Hickson",
+            " Ayzee"
+        ],
+        "may": [
+            "Ryan Reynolds",
+            " Karan Soni",
+            " Ed Skrein",
+            " Michael Benyaer",
+            " Stefan Kapicic",
+            " Brianna Hildebrand",
+            " Style Dayne",
+            " Kyle Cassie",
+            " Taylor Hickson",
+            " Ayzee"
+        ],
+        "tam": [
+            "Ryan Reynolds",
+            " Karan Soni",
+            " Ed Skrein",
+            " Michael Benyaer",
+            " Stefan Kapicic",
+            " Brianna Hildebrand",
+            " Style Dayne",
+            " Kyle Cassie",
+            " Taylor Hickson",
+            " Ayzee"
+        ],
+        "chi": [
+            "Ryan Reynolds",
+            " Karan Soni",
+            " Ed Skrein",
+            " Michael Benyaer",
+            " Stefan Kapicic",
+            " Brianna Hildebrand",
+            " Style Dayne",
+            " Kyle Cassie",
+            " Taylor Hickson",
+            " Ayzee"
+        ],
+        "tha": [
+            "Ryan Reynolds",
+            " Karan Soni",
+            " Ed Skrein",
+            " Michael Benyaer",
+            " Stefan Kapicic",
+            " Brianna Hildebrand",
+            " Style Dayne",
+            " Kyle Cassie",
+            " Taylor Hickson",
+            " Ayzee"
+        ],
+        "ind": [
+            "Ryan Reynolds",
+            " Karan Soni",
+            " Ed Skrein",
+            " Michael Benyaer",
+            " Stefan Kapicic",
+            " Brianna Hildebrand",
+            " Style Dayne",
+            " Kyle Cassie",
+            " Taylor Hickson",
+            " Ayzee"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Tim Miller"
+        ],
+        "may": [
+            "Tim Miller"
+        ],
+        "tam": [
+            "Tim Miller"
+        ],
+        "chi": [
+            "Tim Miller"
+        ],
+        "tha": [
+            "Tim Miller"
+        ],
+        "ind": [
+            "Tim Miller"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "John J. Kelly",
+            " Simon Kinberg",
+            " Stan Lee",
+            " Jonathon Komack Martin",
+            " Rhett Reese",
+            " Ryan Reynolds",
+            " Lauren Shuler Donner",
+            " Aditya Sood",
+            " Thane Watkins",
+            " Paul Wernick"
+        ],
+        "may": [
+            "John J. Kelly",
+            " Simon Kinberg",
+            " Stan Lee",
+            " Jonathon Komack Martin",
+            " Rhett Reese",
+            " Ryan Reynolds",
+            " Lauren Shuler Donner",
+            " Aditya Sood",
+            " Thane Watkins",
+            " Paul Wernick"
+        ],
+        "tam": [
+            "John J. Kelly",
+            " Simon Kinberg",
+            " Stan Lee",
+            " Jonathon Komack Martin",
+            " Rhett Reese",
+            " Ryan Reynolds",
+            " Lauren Shuler Donner",
+            " Aditya Sood",
+            " Thane Watkins",
+            " Paul Wernick"
+        ],
+        "chi": [
+            "John J. Kelly",
+            " Simon Kinberg",
+            " Stan Lee",
+            " Jonathon Komack Martin",
+            " Rhett Reese",
+            " Ryan Reynolds",
+            " Lauren Shuler Donner",
+            " Aditya Sood",
+            " Thane Watkins",
+            " Paul Wernick"
+        ],
+        "tha": [
+            "John J. Kelly",
+            " Simon Kinberg",
+            " Stan Lee",
+            " Jonathon Komack Martin",
+            " Rhett Reese",
+            " Ryan Reynolds",
+            " Lauren Shuler Donner",
+            " Aditya Sood",
+            " Thane Watkins",
+            " Paul Wernick"
+        ],
+        "ind": [
+            "John J. Kelly",
+            " Simon Kinberg",
+            " Stan Lee",
+            " Jonathon Komack Martin",
+            " Rhett Reese",
+            " Ryan Reynolds",
+            " Lauren Shuler Donner",
+            " Aditya Sood",
+            " Thane Watkins",
+            " Paul Wernick"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Comedy",
+                    "may": " Comedy",
+                    "tam": " Comedy",
+                    "chi": " Comedy",
+                    "tha": " Comedy",
+                    "ind": " Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Deadpool_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Deadpool_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Deadpool_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2016,
+    "rating": "8.0",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

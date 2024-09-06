@@ -1,0 +1,227 @@
+{
+    "externalId": "AggregatedSeason_319ed464-23c9-5934-9f2d-54c7a4e2d5ed",
+    "clientContentId": "PACK0000000006555457",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2021,
+    "rating": "8.2",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Lara Dutta",
+            " Prateik Babbar",
+            " Shinnova"
+        ],
+        "may": [
+            "Lara Dutta",
+            " Prateik Babbar",
+            " Shinnova"
+        ],
+        "chi": [
+            "Lara Dutta",
+            " Prateik Babbar",
+            " Shinnova"
+        ],
+        "tam": [
+            "Lara Dutta",
+            " Prateik Babbar",
+            " Shinnova"
+        ],
+        "ind": [
+            "Lara Dutta",
+            " Prateik Babbar",
+            " Shinnova"
+        ],
+        "tha": [
+            "Lara Dutta",
+            " Prateik Babbar",
+            " Shinnova"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Kunal Kohli"
+        ],
+        "may": [
+            "Kunal Kohli"
+        ],
+        "chi": [
+            "Kunal Kohli"
+        ],
+        "tam": [
+            "Kunal Kohli"
+        ],
+        "ind": [
+            "Kunal Kohli"
+        ],
+        "tha": [
+            "Kunal Kohli"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Kunal Kohli"
+        ],
+        "may": [
+            "Kunal Kohli"
+        ],
+        "chi": [
+            "Kunal Kohli"
+        ],
+        "tam": [
+            "Kunal Kohli"
+        ],
+        "ind": [
+            "Kunal Kohli"
+        ],
+        "tha": [
+            "Kunal Kohli"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_6790512f-c407-5122-a850-82baab8be30a",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Hiccups and Hookups S01 EP01",
+            "may": "Hiccups and Hookups S01 EP01",
+            "chi": "Hiccups and Hookups S01 EP01",
+            "tam": "Hiccups and Hookups S01 EP01",
+            "ind": "Hiccups and Hookups S01 EP01",
+            "tha": "Hiccups and Hookups S01 EP01"
+        },
+        "long": {
+            "eng": "Hiccups and Hookups S01 EP01",
+            "may": "Hiccups and Hookups S01 EP01",
+            "chi": "Hiccups and Hookups S01 EP01",
+            "tam": "Hiccups and Hookups S01 EP01",
+            "ind": "Hiccups and Hookups S01 EP01",
+            "tha": "Hiccups and Hookups S01 EP01"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "may": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "chi": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "tam": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "ind": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "tha": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life."
+        },
+        "long": {
+            "eng": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "may": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "chi": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "tam": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "ind": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life.",
+            "tha": "A recently separated single mother, her commitment-phobic younger brother, and her smart but confused teenage daughter - all of whom make a sweet, unconventional family of three try their best to handle dating, relationships, and life."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/Hiccups&Hookups_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/Hiccups&Hookups_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/Hiccups&Hookups_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

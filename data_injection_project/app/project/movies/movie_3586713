@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_16f55438-90e6-554e-a386-0c83cbf06ecd",
+    "clientContentId": "PACK0000000006317246",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Ant-Man",
+            "may": "Ant-Man",
+            "tam": "Ant-Man",
+            "chi": "Ant-Man",
+            "tha": "Ant-Man",
+            "ind": "Ant-Man"
+        },
+        "long": {
+            "eng": "Ant-Man",
+            "may": "Ant-Man",
+            "tam": "Ant-Man",
+            "chi": "Ant-Man",
+            "tha": "Ant-Man",
+            "ind": "Ant-Man"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.",
+            "may": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.",
+            "tam": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.",
+            "chi": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.",
+            "tha": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.",
+            "ind": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world."
+        },
+        "long": {
+            "eng": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.",
+            "may": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.",
+            "tam": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.",
+            "chi": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.",
+            "tha": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.",
+            "ind": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Paul Rudd",
+            " Michael Douglas",
+            " Evangeline Lilly",
+            " Corey Stoll",
+            " Bobby Cannavale",
+            " Anthony Mackie",
+            " Judy Greer",
+            " Abby Ryder Fortson",
+            " Michael Pe\u00f1a",
+            " David Dastmalchian"
+        ],
+        "may": [
+            "Paul Rudd",
+            " Michael Douglas",
+            " Evangeline Lilly",
+            " Corey Stoll",
+            " Bobby Cannavale",
+            " Anthony Mackie",
+            " Judy Greer",
+            " Abby Ryder Fortson",
+            " Michael Pe\u00f1a",
+            " David Dastmalchian"
+        ],
+        "tam": [
+            "Paul Rudd",
+            " Michael Douglas",
+            " Evangeline Lilly",
+            " Corey Stoll",
+            " Bobby Cannavale",
+            " Anthony Mackie",
+            " Judy Greer",
+            " Abby Ryder Fortson",
+            " Michael Pe\u00f1a",
+            " David Dastmalchian"
+        ],
+        "chi": [
+            "Paul Rudd",
+            " Michael Douglas",
+            " Evangeline Lilly",
+            " Corey Stoll",
+            " Bobby Cannavale",
+            " Anthony Mackie",
+            " Judy Greer",
+            " Abby Ryder Fortson",
+            " Michael Pe\u00f1a",
+            " David Dastmalchian"
+        ],
+        "tha": [
+            "Paul Rudd",
+            " Michael Douglas",
+            " Evangeline Lilly",
+            " Corey Stoll",
+            " Bobby Cannavale",
+            " Anthony Mackie",
+            " Judy Greer",
+            " Abby Ryder Fortson",
+            " Michael Pe\u00f1a",
+            " David Dastmalchian"
+        ],
+        "ind": [
+            "Paul Rudd",
+            " Michael Douglas",
+            " Evangeline Lilly",
+            " Corey Stoll",
+            " Bobby Cannavale",
+            " Anthony Mackie",
+            " Judy Greer",
+            " Abby Ryder Fortson",
+            " Michael Pe\u00f1a",
+            " David Dastmalchian"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Peyton Reed"
+        ],
+        "may": [
+            "Peyton Reed"
+        ],
+        "tam": [
+            "Peyton Reed"
+        ],
+        "chi": [
+            "Peyton Reed"
+        ],
+        "tha": [
+            "Peyton Reed"
+        ],
+        "ind": [
+            "Peyton Reed"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Victoria Alonso",
+            " Louis D'Esposito",
+            " Kevin Feige",
+            " Alan Fine",
+            " David J. Grant",
+            " Michael Grillo",
+            " Stan Lee",
+            " Brad Winderbaum",
+            " Lars P. Winther",
+            " Edgar Wright"
+        ],
+        "may": [
+            "Victoria Alonso",
+            " Louis D'Esposito",
+            " Kevin Feige",
+            " Alan Fine",
+            " David J. Grant",
+            " Michael Grillo",
+            " Stan Lee",
+            " Brad Winderbaum",
+            " Lars P. Winther",
+            " Edgar Wright"
+        ],
+        "tam": [
+            "Victoria Alonso",
+            " Louis D'Esposito",
+            " Kevin Feige",
+            " Alan Fine",
+            " David J. Grant",
+            " Michael Grillo",
+            " Stan Lee",
+            " Brad Winderbaum",
+            " Lars P. Winther",
+            " Edgar Wright"
+        ],
+        "chi": [
+            "Victoria Alonso",
+            " Louis D'Esposito",
+            " Kevin Feige",
+            " Alan Fine",
+            " David J. Grant",
+            " Michael Grillo",
+            " Stan Lee",
+            " Brad Winderbaum",
+            " Lars P. Winther",
+            " Edgar Wright"
+        ],
+        "tha": [
+            "Victoria Alonso",
+            " Louis D'Esposito",
+            " Kevin Feige",
+            " Alan Fine",
+            " David J. Grant",
+            " Michael Grillo",
+            " Stan Lee",
+            " Brad Winderbaum",
+            " Lars P. Winther",
+            " Edgar Wright"
+        ],
+        "ind": [
+            "Victoria Alonso",
+            " Louis D'Esposito",
+            " Kevin Feige",
+            " Alan Fine",
+            " David J. Grant",
+            " Michael Grillo",
+            " Stan Lee",
+            " Brad Winderbaum",
+            " Lars P. Winther",
+            " Edgar Wright"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Comedy",
+                    "may": " Comedy",
+                    "tam": " Comedy",
+                    "chi": " Comedy",
+                    "tha": " Comedy",
+                    "ind": " Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Ant-Man_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Ant-Man_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Ant-Man_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2015,
+    "rating": "7.3",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

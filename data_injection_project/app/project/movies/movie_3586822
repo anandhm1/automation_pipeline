@@ -1,0 +1,313 @@
+{
+    "externalId": "AggregatedMovie_11a9cac0-2642-5a45-a693-0cc5fdc8bfcb",
+    "clientContentId": "PACK0000000007658440",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "A Simple Favor",
+            "may": "A Simple Favor",
+            "tam": "A Simple Favor",
+            "chi": "A Simple Favor",
+            "tha": "A Simple Favor",
+            "ind": "A Simple Favor"
+        },
+        "long": {
+            "eng": "A Simple Favor",
+            "may": "A Simple Favor",
+            "tam": "A Simple Favor",
+            "chi": "A Simple Favor",
+            "tha": "A Simple Favor",
+            "ind": "A Simple Favor"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Stephanie is a single mother with a parenting vlog who befriends Emily, a secretive upper-class woman who has a child at the same elementary school. When Emily goes missing, Stephanie takes it upon herself to investigate.",
+            "may": "Stephanie is a single mother with a parenting vlog who befriends Emily, a secretive upper-class woman who has a child at the same elementary school. When Emily goes missing, Stephanie takes it upon herself to investigate.",
+            "tam": "Stephanie is a single mother with a parenting vlog who befriends Emily, a secretive upper-class woman who has a child at the same elementary school. When Emily goes missing, Stephanie takes it upon herself to investigate.",
+            "chi": "Stephanie is a single mother with a parenting vlog who befriends Emily, a secretive upper-class woman who has a child at the same elementary school. When Emily goes missing, Stephanie takes it upon herself to investigate.",
+            "tha": "Stephanie is a single mother with a parenting vlog who befriends Emily, a secretive upper-class woman who has a child at the same elementary school. When Emily goes missing, Stephanie takes it upon herself to investigate.",
+            "ind": "Stephanie is a single mother with a parenting vlog who befriends Emily, a secretive upper-class woman who has a child at the same elementary school. When Emily goes missing, Stephanie takes it upon herself to investigate."
+        },
+        "long": {
+            "eng": "Stephanie is a single mother with a parenting vlog who befriends Emily, a secretive upper-class woman who has a child at the same elementary school. When Emily goes missing, Stephanie takes it upon herself to investigate.",
+            "may": "Stephanie is a single mother with a parenting vlog who befriends Emily, a secretive upper-class woman who has a child at the same elementary school. When Emily goes missing, Stephanie takes it upon herself to investigate.",
+            "tam": "Stephanie is a single mother with a parenting vlog who befriends Emily, a secretive upper-class woman who has a child at the same elementary school. When Emily goes missing, Stephanie takes it upon herself to investigate.",
+            "chi": "Stephanie is a single mother with a parenting vlog who befriends Emily, a secretive upper-class woman who has a child at the same elementary school. When Emily goes missing, Stephanie takes it upon herself to investigate.",
+            "tha": "Stephanie is a single mother with a parenting vlog who befriends Emily, a secretive upper-class woman who has a child at the same elementary school. When Emily goes missing, Stephanie takes it upon herself to investigate.",
+            "ind": "Stephanie is a single mother with a parenting vlog who befriends Emily, a secretive upper-class woman who has a child at the same elementary school. When Emily goes missing, Stephanie takes it upon herself to investigate."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Anna Kendrick",
+            " Ian Ho",
+            " Joshua Satine",
+            " Glenda Braganza",
+            " Andrew Rannells",
+            " Kelly McCormack",
+            " Aparna Nancherla",
+            " Jiah Mavji",
+            " Ava LaFramboise",
+            " Blake Lively"
+        ],
+        "may": [
+            "Anna Kendrick",
+            " Ian Ho",
+            " Joshua Satine",
+            " Glenda Braganza",
+            " Andrew Rannells",
+            " Kelly McCormack",
+            " Aparna Nancherla",
+            " Jiah Mavji",
+            " Ava LaFramboise",
+            " Blake Lively"
+        ],
+        "tam": [
+            "Anna Kendrick",
+            " Ian Ho",
+            " Joshua Satine",
+            " Glenda Braganza",
+            " Andrew Rannells",
+            " Kelly McCormack",
+            " Aparna Nancherla",
+            " Jiah Mavji",
+            " Ava LaFramboise",
+            " Blake Lively"
+        ],
+        "chi": [
+            "Anna Kendrick",
+            " Ian Ho",
+            " Joshua Satine",
+            " Glenda Braganza",
+            " Andrew Rannells",
+            " Kelly McCormack",
+            " Aparna Nancherla",
+            " Jiah Mavji",
+            " Ava LaFramboise",
+            " Blake Lively"
+        ],
+        "tha": [
+            "Anna Kendrick",
+            " Ian Ho",
+            " Joshua Satine",
+            " Glenda Braganza",
+            " Andrew Rannells",
+            " Kelly McCormack",
+            " Aparna Nancherla",
+            " Jiah Mavji",
+            " Ava LaFramboise",
+            " Blake Lively"
+        ],
+        "ind": [
+            "Anna Kendrick",
+            " Ian Ho",
+            " Joshua Satine",
+            " Glenda Braganza",
+            " Andrew Rannells",
+            " Kelly McCormack",
+            " Aparna Nancherla",
+            " Jiah Mavji",
+            " Ava LaFramboise",
+            " Blake Lively"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Paul Feig"
+        ],
+        "may": [
+            "Paul Feig"
+        ],
+        "tam": [
+            "Paul Feig"
+        ],
+        "chi": [
+            "Paul Feig"
+        ],
+        "tha": [
+            "Paul Feig"
+        ],
+        "ind": [
+            "Paul Feig"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jason Cloth",
+            " Mike Drake",
+            " Paul Feig",
+            " Jessie Henderson",
+            " Paris Kassidokostas-Latsis"
+        ],
+        "may": [
+            "Jason Cloth",
+            " Mike Drake",
+            " Paul Feig",
+            " Jessie Henderson",
+            " Paris Kassidokostas-Latsis"
+        ],
+        "tam": [
+            "Jason Cloth",
+            " Mike Drake",
+            " Paul Feig",
+            " Jessie Henderson",
+            " Paris Kassidokostas-Latsis"
+        ],
+        "chi": [
+            "Jason Cloth",
+            " Mike Drake",
+            " Paul Feig",
+            " Jessie Henderson",
+            " Paris Kassidokostas-Latsis"
+        ],
+        "tha": [
+            "Jason Cloth",
+            " Mike Drake",
+            " Paul Feig",
+            " Jessie Henderson",
+            " Paris Kassidokostas-Latsis"
+        ],
+        "ind": [
+            "Jason Cloth",
+            " Mike Drake",
+            " Paul Feig",
+            " Jessie Henderson",
+            " Paris Kassidokostas-Latsis"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ASimpleFavor_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ASimpleFavor_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ASimpleFavor_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2018,
+    "rating": "6.8",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_d435c9e0-235e-5f65-bf54-996df64fcdd5",
+    "clientContentId": "PACK0000000008291217",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Prey for the Devil (2022)",
+            "may": "Prey for the Devil (2022)",
+            "tam": "Prey for the Devil (2022)",
+            "chi": "Prey for the Devil (2022)",
+            "tha": "Prey for the Devil (2022)",
+            "ind": "Prey for the Devil (2022)"
+        },
+        "long": {
+            "eng": "Prey for the Devil (2022)",
+            "may": "Prey for the Devil (2022)",
+            "tam": "Prey for the Devil (2022)",
+            "chi": "Prey for the Devil (2022)",
+            "tha": "Prey for the Devil (2022)",
+            "ind": "Prey for the Devil (2022)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A nun prepares to perform an exorcism and comes face to face with a demonic force with mysterious ties to her past.",
+            "may": "A nun prepares to perform an exorcism and comes face to face with a demonic force with mysterious ties to her past.",
+            "tam": "A nun prepares to perform an exorcism and comes face to face with a demonic force with mysterious ties to her past.",
+            "chi": "A nun prepares to perform an exorcism and comes face to face with a demonic force with mysterious ties to her past.",
+            "tha": "A nun prepares to perform an exorcism and comes face to face with a demonic force with mysterious ties to her past.",
+            "ind": "A nun prepares to perform an exorcism and comes face to face with a demonic force with mysterious ties to her past."
+        },
+        "long": {
+            "eng": "A nun prepares to perform an exorcism and comes face to face with a demonic force with mysterious ties to her past.",
+            "may": "A nun prepares to perform an exorcism and comes face to face with a demonic force with mysterious ties to her past.",
+            "tam": "A nun prepares to perform an exorcism and comes face to face with a demonic force with mysterious ties to her past.",
+            "chi": "A nun prepares to perform an exorcism and comes face to face with a demonic force with mysterious ties to her past.",
+            "tha": "A nun prepares to perform an exorcism and comes face to face with a demonic force with mysterious ties to her past.",
+            "ind": "A nun prepares to perform an exorcism and comes face to face with a demonic force with mysterious ties to her past."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jacqueline Byers",
+            " Debora Zhecheva",
+            " Christian Navarro",
+            " Posy Taylor",
+            " Colin Salmon",
+            " Nicholas Ralph",
+            " Ben Cross",
+            " Virginia Madsen",
+            " Lisa Palfrey",
+            " Koyna Ruseva"
+        ],
+        "may": [
+            "Jacqueline Byers",
+            " Debora Zhecheva",
+            " Christian Navarro",
+            " Posy Taylor",
+            " Colin Salmon",
+            " Nicholas Ralph",
+            " Ben Cross",
+            " Virginia Madsen",
+            " Lisa Palfrey",
+            " Koyna Ruseva"
+        ],
+        "tam": [
+            "Jacqueline Byers",
+            " Debora Zhecheva",
+            " Christian Navarro",
+            " Posy Taylor",
+            " Colin Salmon",
+            " Nicholas Ralph",
+            " Ben Cross",
+            " Virginia Madsen",
+            " Lisa Palfrey",
+            " Koyna Ruseva"
+        ],
+        "chi": [
+            "Jacqueline Byers",
+            " Debora Zhecheva",
+            " Christian Navarro",
+            " Posy Taylor",
+            " Colin Salmon",
+            " Nicholas Ralph",
+            " Ben Cross",
+            " Virginia Madsen",
+            " Lisa Palfrey",
+            " Koyna Ruseva"
+        ],
+        "tha": [
+            "Jacqueline Byers",
+            " Debora Zhecheva",
+            " Christian Navarro",
+            " Posy Taylor",
+            " Colin Salmon",
+            " Nicholas Ralph",
+            " Ben Cross",
+            " Virginia Madsen",
+            " Lisa Palfrey",
+            " Koyna Ruseva"
+        ],
+        "ind": [
+            "Jacqueline Byers",
+            " Debora Zhecheva",
+            " Christian Navarro",
+            " Posy Taylor",
+            " Colin Salmon",
+            " Nicholas Ralph",
+            " Ben Cross",
+            " Virginia Madsen",
+            " Lisa Palfrey",
+            " Koyna Ruseva"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Daniel Stamm"
+        ],
+        "may": [
+            "Daniel Stamm"
+        ],
+        "tam": [
+            "Daniel Stamm"
+        ],
+        "chi": [
+            "Daniel Stamm"
+        ],
+        "tha": [
+            "Daniel Stamm"
+        ],
+        "ind": [
+            "Daniel Stamm"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "David Brooks",
+            " Paul Brooks",
+            " Michael P. Flannigan",
+            " Earl Richey Jones",
+            " Todd R. Jones",
+            " Alexander Kenanov",
+            " Brad Kessell",
+            " Jeff Levine",
+            " Jessica Malanaphy",
+            " Scott Niemeyer"
+        ],
+        "may": [
+            "David Brooks",
+            " Paul Brooks",
+            " Michael P. Flannigan",
+            " Earl Richey Jones",
+            " Todd R. Jones",
+            " Alexander Kenanov",
+            " Brad Kessell",
+            " Jeff Levine",
+            " Jessica Malanaphy",
+            " Scott Niemeyer"
+        ],
+        "tam": [
+            "David Brooks",
+            " Paul Brooks",
+            " Michael P. Flannigan",
+            " Earl Richey Jones",
+            " Todd R. Jones",
+            " Alexander Kenanov",
+            " Brad Kessell",
+            " Jeff Levine",
+            " Jessica Malanaphy",
+            " Scott Niemeyer"
+        ],
+        "chi": [
+            "David Brooks",
+            " Paul Brooks",
+            " Michael P. Flannigan",
+            " Earl Richey Jones",
+            " Todd R. Jones",
+            " Alexander Kenanov",
+            " Brad Kessell",
+            " Jeff Levine",
+            " Jessica Malanaphy",
+            " Scott Niemeyer"
+        ],
+        "tha": [
+            "David Brooks",
+            " Paul Brooks",
+            " Michael P. Flannigan",
+            " Earl Richey Jones",
+            " Todd R. Jones",
+            " Alexander Kenanov",
+            " Brad Kessell",
+            " Jeff Levine",
+            " Jessica Malanaphy",
+            " Scott Niemeyer"
+        ],
+        "ind": [
+            "David Brooks",
+            " Paul Brooks",
+            " Michael P. Flannigan",
+            " Earl Richey Jones",
+            " Todd R. Jones",
+            " Alexander Kenanov",
+            " Brad Kessell",
+            " Jeff Levine",
+            " Jessica Malanaphy",
+            " Scott Niemeyer"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Horror",
+                    "may": "Horror",
+                    "tam": "Horror",
+                    "chi": "Horror",
+                    "tha": "Horror",
+                    "ind": "Horror"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Thriller",
+                    "may": " Thriller",
+                    "tam": " Thriller",
+                    "chi": " Thriller",
+                    "tha": " Thriller",
+                    "ind": " Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/PreyfortheDevil_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/PreyfortheDevil_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/PreyfortheDevil_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "5.2",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

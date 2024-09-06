@@ -1,0 +1,301 @@
+{
+    "externalId": "AggregatedMovie_6ae710d0-3f7b-5810-bb7d-97911b789727",
+    "clientContentId": "PACK0000000006732309",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Detective Knight Independence (2023)",
+            "may": "Detective Knight Independence (2023)",
+            "tam": "Detective Knight Independence (2023)",
+            "chi": "Detective Knight Independence (2023)",
+            "tha": "Detective Knight Independence (2023)",
+            "ind": "Detective Knight Independence (2023)"
+        },
+        "long": {
+            "eng": "Detective Knight Independence (2023)",
+            "may": "Detective Knight Independence (2023)",
+            "tam": "Detective Knight Independence (2023)",
+            "chi": "Detective Knight Independence (2023)",
+            "tha": "Detective Knight Independence (2023)",
+            "ind": "Detective Knight Independence (2023)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Detective James Knight's last-minute assignment to the Independence Day shift turns into a race against time to stop an unbalanced EMT worker who's posing as a cop.",
+            "may": "Detective James Knight's last-minute assignment to the Independence Day shift turns into a race against time to stop an unbalanced EMT worker who's posing as a cop.",
+            "tam": "Detective James Knight's last-minute assignment to the Independence Day shift turns into a race against time to stop an unbalanced EMT worker who's posing as a cop.",
+            "chi": "Detective James Knight's last-minute assignment to the Independence Day shift turns into a race against time to stop an unbalanced EMT worker who's posing as a cop.",
+            "tha": "Detective James Knight's last-minute assignment to the Independence Day shift turns into a race against time to stop an unbalanced EMT worker who's posing as a cop.",
+            "ind": "Detective James Knight's last-minute assignment to the Independence Day shift turns into a race against time to stop an unbalanced EMT worker who's posing as a cop."
+        },
+        "long": {
+            "eng": "Detective James Knight's last-minute assignment to the Independence Day shift turns into a race against time to stop an unbalanced EMT worker who's posing as a cop.",
+            "may": "Detective James Knight's last-minute assignment to the Independence Day shift turns into a race against time to stop an unbalanced EMT worker who's posing as a cop.",
+            "tam": "Detective James Knight's last-minute assignment to the Independence Day shift turns into a race against time to stop an unbalanced EMT worker who's posing as a cop.",
+            "chi": "Detective James Knight's last-minute assignment to the Independence Day shift turns into a race against time to stop an unbalanced EMT worker who's posing as a cop.",
+            "tha": "Detective James Knight's last-minute assignment to the Independence Day shift turns into a race against time to stop an unbalanced EMT worker who's posing as a cop.",
+            "ind": "Detective James Knight's last-minute assignment to the Independence Day shift turns into a race against time to stop an unbalanced EMT worker who's posing as a cop."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Lorenzo Antonucci",
+            " Dax Campbell",
+            " Scott Cargle",
+            " Audra Charity",
+            " Kaleb Clifton",
+            " Francis Cronin",
+            " Lexi Dali",
+            " Xzavier Estrada",
+            " Nadine Leon Gobet",
+            " Jimmy Jean-Louis"
+        ],
+        "may": [
+            "Lorenzo Antonucci",
+            " Dax Campbell",
+            " Scott Cargle",
+            " Audra Charity",
+            " Kaleb Clifton",
+            " Francis Cronin",
+            " Lexi Dali",
+            " Xzavier Estrada",
+            " Nadine Leon Gobet",
+            " Jimmy Jean-Louis"
+        ],
+        "tam": [
+            "Lorenzo Antonucci",
+            " Dax Campbell",
+            " Scott Cargle",
+            " Audra Charity",
+            " Kaleb Clifton",
+            " Francis Cronin",
+            " Lexi Dali",
+            " Xzavier Estrada",
+            " Nadine Leon Gobet",
+            " Jimmy Jean-Louis"
+        ],
+        "chi": [
+            "Lorenzo Antonucci",
+            " Dax Campbell",
+            " Scott Cargle",
+            " Audra Charity",
+            " Kaleb Clifton",
+            " Francis Cronin",
+            " Lexi Dali",
+            " Xzavier Estrada",
+            " Nadine Leon Gobet",
+            " Jimmy Jean-Louis"
+        ],
+        "tha": [
+            "Lorenzo Antonucci",
+            " Dax Campbell",
+            " Scott Cargle",
+            " Audra Charity",
+            " Kaleb Clifton",
+            " Francis Cronin",
+            " Lexi Dali",
+            " Xzavier Estrada",
+            " Nadine Leon Gobet",
+            " Jimmy Jean-Louis"
+        ],
+        "ind": [
+            "Lorenzo Antonucci",
+            " Dax Campbell",
+            " Scott Cargle",
+            " Audra Charity",
+            " Kaleb Clifton",
+            " Francis Cronin",
+            " Lexi Dali",
+            " Xzavier Estrada",
+            " Nadine Leon Gobet",
+            " Jimmy Jean-Louis"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Edward Drake"
+        ],
+        "may": [
+            "Edward Drake"
+        ],
+        "tam": [
+            "Edward Drake"
+        ],
+        "chi": [
+            "Edward Drake"
+        ],
+        "tha": [
+            "Edward Drake"
+        ],
+        "ind": [
+            "Edward Drake"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Robert Dean",
+            " Mykel Denis",
+            " Sean Patrick O'Reilly"
+        ],
+        "may": [
+            "Robert Dean",
+            " Mykel Denis",
+            " Sean Patrick O'Reilly"
+        ],
+        "tam": [
+            "Robert Dean",
+            " Mykel Denis",
+            " Sean Patrick O'Reilly"
+        ],
+        "chi": [
+            "Robert Dean",
+            " Mykel Denis",
+            " Sean Patrick O'Reilly"
+        ],
+        "tha": [
+            "Robert Dean",
+            " Mykel Denis",
+            " Sean Patrick O'Reilly"
+        ],
+        "ind": [
+            "Robert Dean",
+            " Mykel Denis",
+            " Sean Patrick O'Reilly"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/DetectiveKnightIndependence_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/DetectiveKnightIndependence_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/DetectiveKnightIndependence_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2023,
+    "rating": "3.6",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

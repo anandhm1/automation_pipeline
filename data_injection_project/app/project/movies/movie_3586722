@@ -1,0 +1,331 @@
+{
+    "externalId": "AggregatedMovie_ee154a54-94db-510f-9c9b-4f2bc0f8e13b",
+    "clientContentId": "PACK0000000009058754",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Black Panther Wakanda Forever",
+            "may": "Black Panther Wakanda Forever",
+            "tam": "Black Panther Wakanda Forever",
+            "chi": "Black Panther Wakanda Forever",
+            "tha": "Black Panther Wakanda Forever",
+            "ind": "Black Panther Wakanda Forever"
+        },
+        "long": {
+            "eng": "Black Panther Wakanda Forever",
+            "may": "Black Panther Wakanda Forever",
+            "tam": "Black Panther Wakanda Forever",
+            "chi": "Black Panther Wakanda Forever",
+            "tha": "Black Panther Wakanda Forever",
+            "ind": "Black Panther Wakanda Forever"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+            "may": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+            "tam": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+            "chi": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+            "tha": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+            "ind": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa."
+        },
+        "long": {
+            "eng": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+            "may": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+            "tam": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+            "chi": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+            "tha": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+            "ind": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Letitia Wright",
+            " Lupita Nyong'o",
+            " Danai Gurira",
+            " Winston Duke",
+            " Angela Bassett",
+            " Tenoch Huerta",
+            " Martin Freeman",
+            " Julia Louis-Dreyfus",
+            " Dominique Thorne",
+            " Florence Kasumba"
+        ],
+        "may": [
+            "Letitia Wright",
+            " Lupita Nyong'o",
+            " Danai Gurira",
+            " Winston Duke",
+            " Angela Bassett",
+            " Tenoch Huerta",
+            " Martin Freeman",
+            " Julia Louis-Dreyfus",
+            " Dominique Thorne",
+            " Florence Kasumba"
+        ],
+        "tam": [
+            "Letitia Wright",
+            " Lupita Nyong'o",
+            " Danai Gurira",
+            " Winston Duke",
+            " Angela Bassett",
+            " Tenoch Huerta",
+            " Martin Freeman",
+            " Julia Louis-Dreyfus",
+            " Dominique Thorne",
+            " Florence Kasumba"
+        ],
+        "chi": [
+            "Letitia Wright",
+            " Lupita Nyong'o",
+            " Danai Gurira",
+            " Winston Duke",
+            " Angela Bassett",
+            " Tenoch Huerta",
+            " Martin Freeman",
+            " Julia Louis-Dreyfus",
+            " Dominique Thorne",
+            " Florence Kasumba"
+        ],
+        "tha": [
+            "Letitia Wright",
+            " Lupita Nyong'o",
+            " Danai Gurira",
+            " Winston Duke",
+            " Angela Bassett",
+            " Tenoch Huerta",
+            " Martin Freeman",
+            " Julia Louis-Dreyfus",
+            " Dominique Thorne",
+            " Florence Kasumba"
+        ],
+        "ind": [
+            "Letitia Wright",
+            " Lupita Nyong'o",
+            " Danai Gurira",
+            " Winston Duke",
+            " Angela Bassett",
+            " Tenoch Huerta",
+            " Martin Freeman",
+            " Julia Louis-Dreyfus",
+            " Dominique Thorne",
+            " Florence Kasumba"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Ryan Coogler"
+        ],
+        "may": [
+            "Ryan Coogler"
+        ],
+        "tam": [
+            "Ryan Coogler"
+        ],
+        "chi": [
+            "Ryan Coogler"
+        ],
+        "tha": [
+            "Ryan Coogler"
+        ],
+        "ind": [
+            "Ryan Coogler"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Victoria Alonso",
+            " Louis D'Esposito",
+            " Kyana F. Davidson",
+            " Kevin Feige",
+            " David J. Grant",
+            " Nate Moore",
+            " Helen Pollak",
+            " Barry H. Waldman"
+        ],
+        "may": [
+            "Victoria Alonso",
+            " Louis D'Esposito",
+            " Kyana F. Davidson",
+            " Kevin Feige",
+            " David J. Grant",
+            " Nate Moore",
+            " Helen Pollak",
+            " Barry H. Waldman"
+        ],
+        "tam": [
+            "Victoria Alonso",
+            " Louis D'Esposito",
+            " Kyana F. Davidson",
+            " Kevin Feige",
+            " David J. Grant",
+            " Nate Moore",
+            " Helen Pollak",
+            " Barry H. Waldman"
+        ],
+        "chi": [
+            "Victoria Alonso",
+            " Louis D'Esposito",
+            " Kyana F. Davidson",
+            " Kevin Feige",
+            " David J. Grant",
+            " Nate Moore",
+            " Helen Pollak",
+            " Barry H. Waldman"
+        ],
+        "tha": [
+            "Victoria Alonso",
+            " Louis D'Esposito",
+            " Kyana F. Davidson",
+            " Kevin Feige",
+            " David J. Grant",
+            " Nate Moore",
+            " Helen Pollak",
+            " Barry H. Waldman"
+        ],
+        "ind": [
+            "Victoria Alonso",
+            " Louis D'Esposito",
+            " Kyana F. Davidson",
+            " Kevin Feige",
+            " David J. Grant",
+            " Nate Moore",
+            " Helen Pollak",
+            " Barry H. Waldman"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/BlackPantherWakandaForever_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/BlackPantherWakandaForever_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/BlackPantherWakandaForever_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "6.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

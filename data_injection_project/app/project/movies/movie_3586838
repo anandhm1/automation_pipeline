@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_555ed8ef-0662-5b80-ba11-10e5d3092bfc",
+    "clientContentId": "PACK0000000004396726",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Extraction",
+            "may": "Extraction",
+            "tam": "Extraction",
+            "chi": "Extraction",
+            "tha": "Extraction",
+            "ind": "Extraction"
+        },
+        "long": {
+            "eng": "Extraction",
+            "may": "Extraction",
+            "tam": "Extraction",
+            "chi": "Extraction",
+            "tha": "Extraction",
+            "ind": "Extraction"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+            "may": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+            "tam": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+            "chi": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+            "tha": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+            "ind": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord."
+        },
+        "long": {
+            "eng": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+            "may": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+            "tam": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+            "chi": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+            "tha": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+            "ind": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Chris Hemsworth",
+            " Bryon Lerum",
+            " Ryder Lerum",
+            " Rudhraksh Jaiswal",
+            " Shivam Vichare",
+            " Piyush Khati",
+            " Sara Rumao",
+            " Randeep Hooda",
+            " Aarti Kulkarni",
+            " Umakant Patil"
+        ],
+        "may": [
+            "Chris Hemsworth",
+            " Bryon Lerum",
+            " Ryder Lerum",
+            " Rudhraksh Jaiswal",
+            " Shivam Vichare",
+            " Piyush Khati",
+            " Sara Rumao",
+            " Randeep Hooda",
+            " Aarti Kulkarni",
+            " Umakant Patil"
+        ],
+        "tam": [
+            "Chris Hemsworth",
+            " Bryon Lerum",
+            " Ryder Lerum",
+            " Rudhraksh Jaiswal",
+            " Shivam Vichare",
+            " Piyush Khati",
+            " Sara Rumao",
+            " Randeep Hooda",
+            " Aarti Kulkarni",
+            " Umakant Patil"
+        ],
+        "chi": [
+            "Chris Hemsworth",
+            " Bryon Lerum",
+            " Ryder Lerum",
+            " Rudhraksh Jaiswal",
+            " Shivam Vichare",
+            " Piyush Khati",
+            " Sara Rumao",
+            " Randeep Hooda",
+            " Aarti Kulkarni",
+            " Umakant Patil"
+        ],
+        "tha": [
+            "Chris Hemsworth",
+            " Bryon Lerum",
+            " Ryder Lerum",
+            " Rudhraksh Jaiswal",
+            " Shivam Vichare",
+            " Piyush Khati",
+            " Sara Rumao",
+            " Randeep Hooda",
+            " Aarti Kulkarni",
+            " Umakant Patil"
+        ],
+        "ind": [
+            "Chris Hemsworth",
+            " Bryon Lerum",
+            " Ryder Lerum",
+            " Rudhraksh Jaiswal",
+            " Shivam Vichare",
+            " Piyush Khati",
+            " Sara Rumao",
+            " Randeep Hooda",
+            " Aarti Kulkarni",
+            " Umakant Patil"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Sam Hargrave"
+        ],
+        "may": [
+            "Sam Hargrave"
+        ],
+        "tam": [
+            "Sam Hargrave"
+        ],
+        "chi": [
+            "Sam Hargrave"
+        ],
+        "tha": [
+            "Sam Hargrave"
+        ],
+        "ind": [
+            "Sam Hargrave"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ari Costa",
+            " Kelly Gallagher",
+            " Eric Gitter",
+            " Fred Goodman",
+            " Benjamin Grayson",
+            " David Guillod",
+            " Eric Hedayat",
+            " Chris Hemsworth",
+            " Junyi Hu",
+            " Benoit Jaubert"
+        ],
+        "may": [
+            "Ari Costa",
+            " Kelly Gallagher",
+            " Eric Gitter",
+            " Fred Goodman",
+            " Benjamin Grayson",
+            " David Guillod",
+            " Eric Hedayat",
+            " Chris Hemsworth",
+            " Junyi Hu",
+            " Benoit Jaubert"
+        ],
+        "tam": [
+            "Ari Costa",
+            " Kelly Gallagher",
+            " Eric Gitter",
+            " Fred Goodman",
+            " Benjamin Grayson",
+            " David Guillod",
+            " Eric Hedayat",
+            " Chris Hemsworth",
+            " Junyi Hu",
+            " Benoit Jaubert"
+        ],
+        "chi": [
+            "Ari Costa",
+            " Kelly Gallagher",
+            " Eric Gitter",
+            " Fred Goodman",
+            " Benjamin Grayson",
+            " David Guillod",
+            " Eric Hedayat",
+            " Chris Hemsworth",
+            " Junyi Hu",
+            " Benoit Jaubert"
+        ],
+        "tha": [
+            "Ari Costa",
+            " Kelly Gallagher",
+            " Eric Gitter",
+            " Fred Goodman",
+            " Benjamin Grayson",
+            " David Guillod",
+            " Eric Hedayat",
+            " Chris Hemsworth",
+            " Junyi Hu",
+            " Benoit Jaubert"
+        ],
+        "ind": [
+            "Ari Costa",
+            " Kelly Gallagher",
+            " Eric Gitter",
+            " Fred Goodman",
+            " Benjamin Grayson",
+            " David Guillod",
+            " Eric Hedayat",
+            " Chris Hemsworth",
+            " Junyi Hu",
+            " Benoit Jaubert"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Thriller",
+                    "may": " Thriller",
+                    "tam": " Thriller",
+                    "chi": " Thriller",
+                    "tha": " Thriller",
+                    "ind": " Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Extraction_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Extraction_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Extraction_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2020,
+    "rating": "6.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

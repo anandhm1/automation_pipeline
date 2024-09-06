@@ -1,0 +1,235 @@
+{
+    "externalId": "AggregatedMovie_381a5d37-aef8-511c-9428-410bf51d257d",
+    "clientContentId": "PACK0000000007794574",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Cubicle",
+            "may": "Cubicle",
+            "tam": "Cubicle",
+            "chi": "Cubicle",
+            "tha": "Cubicle",
+            "ind": "Cubicle"
+        },
+        "long": {
+            "eng": "Cubicle",
+            "may": "Cubicle",
+            "tam": "Cubicle",
+            "chi": "Cubicle",
+            "tha": "Cubicle",
+            "ind": "Cubicle"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "This is a story of Piyush Prajapati, fresh out of college and recruited  into an Indian IT company. From the time he gets his first salary to all kinds of highs and lows, the show follows many firsts and chronicles the life of Piyush",
+            "may": "This is a story of Piyush Prajapati, fresh out of college and recruited  into an Indian IT company. From the time he gets his first salary to all kinds of highs and lows, the show follows many firsts and chronicles the life of Piyush",
+            "tam": "This is a story of Piyush Prajapati, fresh out of college and recruited  into an Indian IT company. From the time he gets his first salary to all kinds of highs and lows, the show follows many firsts and chronicles the life of Piyush",
+            "chi": "This is a story of Piyush Prajapati, fresh out of college and recruited  into an Indian IT company. From the time he gets his first salary to all kinds of highs and lows, the show follows many firsts and chronicles the life of Piyush",
+            "tha": "This is a story of Piyush Prajapati, fresh out of college and recruited  into an Indian IT company. From the time he gets his first salary to all kinds of highs and lows, the show follows many firsts and chronicles the life of Piyush",
+            "ind": "This is a story of Piyush Prajapati, fresh out of college and recruited  into an Indian IT company. From the time he gets his first salary to all kinds of highs and lows, the show follows many firsts and chronicles the life of Piyush"
+        },
+        "long": {
+            "eng": "This is a story of Piyush Prajapati, fresh out of college and recruited  into an Indian IT company. From the time he gets his first salary to all kinds of highs and lows, the show follows many firsts and chronicles the life of Piyush",
+            "may": "This is a story of Piyush Prajapati, fresh out of college and recruited  into an Indian IT company. From the time he gets his first salary to all kinds of highs and lows, the show follows many firsts and chronicles the life of Piyush",
+            "tam": "This is a story of Piyush Prajapati, fresh out of college and recruited  into an Indian IT company. From the time he gets his first salary to all kinds of highs and lows, the show follows many firsts and chronicles the life of Piyush",
+            "chi": "This is a story of Piyush Prajapati, fresh out of college and recruited  into an Indian IT company. From the time he gets his first salary to all kinds of highs and lows, the show follows many firsts and chronicles the life of Piyush",
+            "tha": "This is a story of Piyush Prajapati, fresh out of college and recruited  into an Indian IT company. From the time he gets his first salary to all kinds of highs and lows, the show follows many firsts and chronicles the life of Piyush",
+            "ind": "This is a story of Piyush Prajapati, fresh out of college and recruited  into an Indian IT company. From the time he gets his first salary to all kinds of highs and lows, the show follows many firsts and chronicles the life of Piyush"
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Abhishek Chauhan"
+        ],
+        "may": [
+            "Abhishek Chauhan"
+        ],
+        "tam": [
+            "Abhishek Chauhan"
+        ],
+        "chi": [
+            "Abhishek Chauhan"
+        ],
+        "tha": [
+            "Abhishek Chauhan"
+        ],
+        "ind": [
+            "Abhishek Chauhan"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Amit Golani"
+        ],
+        "may": [
+            "Amit Golani"
+        ],
+        "tam": [
+            "Amit Golani"
+        ],
+        "chi": [
+            "Amit Golani"
+        ],
+        "tha": [
+            "Amit Golani"
+        ],
+        "ind": [
+            "Amit Golani"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Abhishake Jha"
+        ],
+        "may": [
+            "Abhishake Jha"
+        ],
+        "tam": [
+            "Abhishake Jha"
+        ],
+        "chi": [
+            "Abhishake Jha"
+        ],
+        "tha": [
+            "Abhishake Jha"
+        ],
+        "ind": [
+            "Abhishake Jha"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Family",
+                    "may": "Family",
+                    "tam": "Family",
+                    "chi": "Family",
+                    "tha": "Family",
+                    "ind": "Family"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Musical",
+                    "may": " Musical",
+                    "tam": " Musical",
+                    "chi": " Musical",
+                    "tha": " Musical",
+                    "ind": " Musical"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/content/1680762582432-1659677821611-TVFCubiclesS2_2_Landscape_Thumb.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/content/1680762581647-1661859927986-Group_9967Cubiclesx.png"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/content/1680762582432-1659677821611-TVFCubiclesS2_2_Landscape_Thumb.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2021,
+    "rating": "7.0",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

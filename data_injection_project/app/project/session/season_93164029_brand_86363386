@@ -1,0 +1,341 @@
+{
+    "externalId": "AggregatedSeason_3d299505-fa37-54a8-8628-61e53c1d2328",
+    "clientContentId": "PACK0000000004840295",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "chi": "Comedy",
+                    "tam": "Comedy",
+                    "ind": "Comedy",
+                    "tha": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "chi": "Comedy",
+                    "tam": "Comedy",
+                    "ind": "Comedy",
+                    "tha": "Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-14",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Randall Park",
+            " Melissa Fumero",
+            " Olga Merediz",
+            " Tyler Alvarez",
+            " Madeleine Arthur",
+            " J.B. Smoove",
+            " Kamaia Fairburn",
+            " Dan Shea",
+            " Keegan Connor Tracy",
+            " Leonard Robinson"
+        ],
+        "may": [
+            "Randall Park",
+            " Melissa Fumero",
+            " Olga Merediz",
+            " Tyler Alvarez",
+            " Madeleine Arthur",
+            " J.B. Smoove",
+            " Kamaia Fairburn",
+            " Dan Shea",
+            " Keegan Connor Tracy",
+            " Leonard Robinson"
+        ],
+        "chi": [
+            "Randall Park",
+            " Melissa Fumero",
+            " Olga Merediz",
+            " Tyler Alvarez",
+            " Madeleine Arthur",
+            " J.B. Smoove",
+            " Kamaia Fairburn",
+            " Dan Shea",
+            " Keegan Connor Tracy",
+            " Leonard Robinson"
+        ],
+        "tam": [
+            "Randall Park",
+            " Melissa Fumero",
+            " Olga Merediz",
+            " Tyler Alvarez",
+            " Madeleine Arthur",
+            " J.B. Smoove",
+            " Kamaia Fairburn",
+            " Dan Shea",
+            " Keegan Connor Tracy",
+            " Leonard Robinson"
+        ],
+        "ind": [
+            "Randall Park",
+            " Melissa Fumero",
+            " Olga Merediz",
+            " Tyler Alvarez",
+            " Madeleine Arthur",
+            " J.B. Smoove",
+            " Kamaia Fairburn",
+            " Dan Shea",
+            " Keegan Connor Tracy",
+            " Leonard Robinson"
+        ],
+        "tha": [
+            "Randall Park",
+            " Melissa Fumero",
+            " Olga Merediz",
+            " Tyler Alvarez",
+            " Madeleine Arthur",
+            " J.B. Smoove",
+            " Kamaia Fairburn",
+            " Dan Shea",
+            " Keegan Connor Tracy",
+            " Leonard Robinson"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Payman Benz",
+            " Jackie Clarke",
+            " Katie Locke O'Brien",
+            " Aleysa Young"
+        ],
+        "may": [
+            "Payman Benz",
+            " Jackie Clarke",
+            " Katie Locke O'Brien",
+            " Aleysa Young"
+        ],
+        "chi": [
+            "Payman Benz",
+            " Jackie Clarke",
+            " Katie Locke O'Brien",
+            " Aleysa Young"
+        ],
+        "tam": [
+            "Payman Benz",
+            " Jackie Clarke",
+            " Katie Locke O'Brien",
+            " Aleysa Young"
+        ],
+        "ind": [
+            "Payman Benz",
+            " Jackie Clarke",
+            " Katie Locke O'Brien",
+            " Aleysa Young"
+        ],
+        "tha": [
+            "Payman Benz",
+            " Jackie Clarke",
+            " Katie Locke O'Brien",
+            " Aleysa Young"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "David Caspe",
+            " Jackie Clarke",
+            " John Davis",
+            " John Fox",
+            " Adam Haracz",
+            " Randall Park",
+            " Rachel Pegram",
+            " Robert Petrovicz",
+            " Vanessa Ramos",
+            " Frank Sackett"
+        ],
+        "may": [
+            "David Caspe",
+            " Jackie Clarke",
+            " John Davis",
+            " John Fox",
+            " Adam Haracz",
+            " Randall Park",
+            " Rachel Pegram",
+            " Robert Petrovicz",
+            " Vanessa Ramos",
+            " Frank Sackett"
+        ],
+        "chi": [
+            "David Caspe",
+            " Jackie Clarke",
+            " John Davis",
+            " John Fox",
+            " Adam Haracz",
+            " Randall Park",
+            " Rachel Pegram",
+            " Robert Petrovicz",
+            " Vanessa Ramos",
+            " Frank Sackett"
+        ],
+        "tam": [
+            "David Caspe",
+            " Jackie Clarke",
+            " John Davis",
+            " John Fox",
+            " Adam Haracz",
+            " Randall Park",
+            " Rachel Pegram",
+            " Robert Petrovicz",
+            " Vanessa Ramos",
+            " Frank Sackett"
+        ],
+        "ind": [
+            "David Caspe",
+            " Jackie Clarke",
+            " John Davis",
+            " John Fox",
+            " Adam Haracz",
+            " Randall Park",
+            " Rachel Pegram",
+            " Robert Petrovicz",
+            " Vanessa Ramos",
+            " Frank Sackett"
+        ],
+        "tha": [
+            "David Caspe",
+            " Jackie Clarke",
+            " John Davis",
+            " John Fox",
+            " Adam Haracz",
+            " Randall Park",
+            " Rachel Pegram",
+            " Robert Petrovicz",
+            " Vanessa Ramos",
+            " Frank Sackett"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_7b977e37-88f2-5bd3-9da8-4c0791ed98e0",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Blockbuster Season 1",
+            "may": "Blockbuster Season 1",
+            "chi": "Blockbuster Season 1",
+            "tam": "Blockbuster Season 1",
+            "ind": "Blockbuster Season 1",
+            "tha": "Blockbuster Season 1"
+        },
+        "long": {
+            "eng": "Blockbuster Season 1",
+            "may": "Blockbuster Season 1",
+            "chi": "Blockbuster Season 1",
+            "tam": "Blockbuster Season 1",
+            "ind": "Blockbuster Season 1",
+            "tha": "Blockbuster Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "may": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "chi": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "tam": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "ind": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "tha": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed."
+        },
+        "long": {
+            "eng": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "may": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "chi": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "tam": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "ind": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed.",
+            "tha": "This comedy set in the last Blockbuster Video in America explores what, and who, makes a small business succeed."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BlockbusterSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BlockbusterSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/BlockbusterSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

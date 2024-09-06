@@ -1,0 +1,377 @@
+{
+    "externalId": "AggregatedSeason_40650d60-c842-5d73-83a2-fe2a92364df9",
+    "clientContentId": "PACK0000000008401847",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "chi": "Action",
+                    "tam": "Action",
+                    "ind": "Action",
+                    "tha": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "18",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Alexander Dreymon",
+            " Eliza Butterworth",
+            " Arnas Fedaravicius",
+            " Mark Rowley",
+            " Emily Cox",
+            " James Northcote",
+            " Millie Brady",
+            " Timothy Innes",
+            " Cavan Clerkin",
+            " Ian Hart"
+        ],
+        "may": [
+            "Alexander Dreymon",
+            " Eliza Butterworth",
+            " Arnas Fedaravicius",
+            " Mark Rowley",
+            " Emily Cox",
+            " James Northcote",
+            " Millie Brady",
+            " Timothy Innes",
+            " Cavan Clerkin",
+            " Ian Hart"
+        ],
+        "chi": [
+            "Alexander Dreymon",
+            " Eliza Butterworth",
+            " Arnas Fedaravicius",
+            " Mark Rowley",
+            " Emily Cox",
+            " James Northcote",
+            " Millie Brady",
+            " Timothy Innes",
+            " Cavan Clerkin",
+            " Ian Hart"
+        ],
+        "tam": [
+            "Alexander Dreymon",
+            " Eliza Butterworth",
+            " Arnas Fedaravicius",
+            " Mark Rowley",
+            " Emily Cox",
+            " James Northcote",
+            " Millie Brady",
+            " Timothy Innes",
+            " Cavan Clerkin",
+            " Ian Hart"
+        ],
+        "ind": [
+            "Alexander Dreymon",
+            " Eliza Butterworth",
+            " Arnas Fedaravicius",
+            " Mark Rowley",
+            " Emily Cox",
+            " James Northcote",
+            " Millie Brady",
+            " Timothy Innes",
+            " Cavan Clerkin",
+            " Ian Hart"
+        ],
+        "tha": [
+            "Alexander Dreymon",
+            " Eliza Butterworth",
+            " Arnas Fedaravicius",
+            " Mark Rowley",
+            " Emily Cox",
+            " James Northcote",
+            " Millie Brady",
+            " Timothy Innes",
+            " Cavan Clerkin",
+            " Ian Hart"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jon East",
+            " Edward Bazalgette",
+            " Peter Hoar",
+            " Andy Hay",
+            " Paul Wilmshurst",
+            " Anthony Byrne",
+            " Ben Chanan",
+            " Nick Murphy",
+            " Jamie Donoughue",
+            " Richard Senior"
+        ],
+        "may": [
+            "Jon East",
+            " Edward Bazalgette",
+            " Peter Hoar",
+            " Andy Hay",
+            " Paul Wilmshurst",
+            " Anthony Byrne",
+            " Ben Chanan",
+            " Nick Murphy",
+            " Jamie Donoughue",
+            " Richard Senior"
+        ],
+        "chi": [
+            "Jon East",
+            " Edward Bazalgette",
+            " Peter Hoar",
+            " Andy Hay",
+            " Paul Wilmshurst",
+            " Anthony Byrne",
+            " Ben Chanan",
+            " Nick Murphy",
+            " Jamie Donoughue",
+            " Richard Senior"
+        ],
+        "tam": [
+            "Jon East",
+            " Edward Bazalgette",
+            " Peter Hoar",
+            " Andy Hay",
+            " Paul Wilmshurst",
+            " Anthony Byrne",
+            " Ben Chanan",
+            " Nick Murphy",
+            " Jamie Donoughue",
+            " Richard Senior"
+        ],
+        "ind": [
+            "Jon East",
+            " Edward Bazalgette",
+            " Peter Hoar",
+            " Andy Hay",
+            " Paul Wilmshurst",
+            " Anthony Byrne",
+            " Ben Chanan",
+            " Nick Murphy",
+            " Jamie Donoughue",
+            " Richard Senior"
+        ],
+        "tha": [
+            "Jon East",
+            " Edward Bazalgette",
+            " Peter Hoar",
+            " Andy Hay",
+            " Paul Wilmshurst",
+            " Anthony Byrne",
+            " Ben Chanan",
+            " Nick Murphy",
+            " Jamie Donoughue",
+            " Richard Senior"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Howard Ellis",
+            " Adam Goodman",
+            " Nigel Marchant",
+            " Gareth Neame",
+            " David O'Donoghue",
+            " Alexander Dreymon",
+            " Stephen Butchard",
+            " Chrissy Skinns",
+            " Martha Hillier",
+            " Cait Collins"
+        ],
+        "may": [
+            "Howard Ellis",
+            " Adam Goodman",
+            " Nigel Marchant",
+            " Gareth Neame",
+            " David O'Donoghue",
+            " Alexander Dreymon",
+            " Stephen Butchard",
+            " Chrissy Skinns",
+            " Martha Hillier",
+            " Cait Collins"
+        ],
+        "chi": [
+            "Howard Ellis",
+            " Adam Goodman",
+            " Nigel Marchant",
+            " Gareth Neame",
+            " David O'Donoghue",
+            " Alexander Dreymon",
+            " Stephen Butchard",
+            " Chrissy Skinns",
+            " Martha Hillier",
+            " Cait Collins"
+        ],
+        "tam": [
+            "Howard Ellis",
+            " Adam Goodman",
+            " Nigel Marchant",
+            " Gareth Neame",
+            " David O'Donoghue",
+            " Alexander Dreymon",
+            " Stephen Butchard",
+            " Chrissy Skinns",
+            " Martha Hillier",
+            " Cait Collins"
+        ],
+        "ind": [
+            "Howard Ellis",
+            " Adam Goodman",
+            " Nigel Marchant",
+            " Gareth Neame",
+            " David O'Donoghue",
+            " Alexander Dreymon",
+            " Stephen Butchard",
+            " Chrissy Skinns",
+            " Martha Hillier",
+            " Cait Collins"
+        ],
+        "tha": [
+            "Howard Ellis",
+            " Adam Goodman",
+            " Nigel Marchant",
+            " Gareth Neame",
+            " David O'Donoghue",
+            " Alexander Dreymon",
+            " Stephen Butchard",
+            " Chrissy Skinns",
+            " Martha Hillier",
+            " Cait Collins"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_0aab82f1-8eb1-53c0-b9ae-7be29b68f2e0",
+    "seasonNumber": "5",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Last Kingdom Season 5",
+            "may": "The Last Kingdom Season 5",
+            "chi": "The Last Kingdom Season 5",
+            "tam": "The Last Kingdom Season 5",
+            "ind": "The Last Kingdom Season 5",
+            "tha": "The Last Kingdom Season 5"
+        },
+        "long": {
+            "eng": "The Last Kingdom Season 5",
+            "may": "The Last Kingdom Season 5",
+            "chi": "The Last Kingdom Season 5",
+            "tam": "The Last Kingdom Season 5",
+            "ind": "The Last Kingdom Season 5",
+            "tha": "The Last Kingdom Season 5"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "As Alfred the Great defends his kingdom from Norse invaders, Uhtred--born a Saxon but raised by Vikings--seeks to claim his ancestral birthright.",
+            "may": "As Alfred the Great defends his kingdom from Norse invaders, Uhtred--born a Saxon but raised by Vikings--seeks to claim his ancestral birthright.",
+            "chi": "As Alfred the Great defends his kingdom from Norse invaders, Uhtred--born a Saxon but raised by Vikings--seeks to claim his ancestral birthright.",
+            "tam": "As Alfred the Great defends his kingdom from Norse invaders, Uhtred--born a Saxon but raised by Vikings--seeks to claim his ancestral birthright.",
+            "ind": "As Alfred the Great defends his kingdom from Norse invaders, Uhtred--born a Saxon but raised by Vikings--seeks to claim his ancestral birthright.",
+            "tha": "As Alfred the Great defends his kingdom from Norse invaders, Uhtred--born a Saxon but raised by Vikings--seeks to claim his ancestral birthright."
+        },
+        "long": {
+            "eng": "As Alfred the Great defends his kingdom from Norse invaders, Uhtred--born a Saxon but raised by Vikings--seeks to claim his ancestral birthright.",
+            "may": "As Alfred the Great defends his kingdom from Norse invaders, Uhtred--born a Saxon but raised by Vikings--seeks to claim his ancestral birthright.",
+            "chi": "As Alfred the Great defends his kingdom from Norse invaders, Uhtred--born a Saxon but raised by Vikings--seeks to claim his ancestral birthright.",
+            "tam": "As Alfred the Great defends his kingdom from Norse invaders, Uhtred--born a Saxon but raised by Vikings--seeks to claim his ancestral birthright.",
+            "ind": "As Alfred the Great defends his kingdom from Norse invaders, Uhtred--born a Saxon but raised by Vikings--seeks to claim his ancestral birthright.",
+            "tha": "As Alfred the Great defends his kingdom from Norse invaders, Uhtred--born a Saxon but raised by Vikings--seeks to claim his ancestral birthright."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheLastKingdomSeason5_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheLastKingdomSeason5_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheLastKingdomSeason5_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

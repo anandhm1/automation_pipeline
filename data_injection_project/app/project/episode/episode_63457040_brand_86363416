@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedTvShow_689517fc-a7c6-54f1-affe-c15bc5f57fb9",
+    "clientContentId": "PACK0000000002240170",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Lost Ollie - Trailer",
+            "may": "Lost Ollie - Trailer",
+            "tam": "Lost Ollie - Trailer",
+            "chi": "Lost Ollie - Trailer",
+            "tha": "Lost Ollie - Trailer",
+            "ind": "Lost Ollie - Trailer"
+        },
+        "long": {
+            "eng": "Lost Ollie - Trailer",
+            "may": "Lost Ollie - Trailer",
+            "tam": "Lost Ollie - Trailer",
+            "chi": "Lost Ollie - Trailer",
+            "tha": "Lost Ollie - Trailer",
+            "ind": "Lost Ollie - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "may": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "tam": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "chi": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "tha": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "ind": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend."
+        },
+        "long": {
+            "eng": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "may": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "tam": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "chi": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "tha": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend.",
+            "ind": "A lost toy, searching across the countryside for the boy who lost him, and the story of the boy who lost more than a best friend."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jake Johnson",
+            " Gina Rodriguez",
+            " Kesler Talbot",
+            " Jonathan Groff",
+            " Tim Blake Nelson",
+            " Mary J. BligeBJ HarrisonEverett AndresPaul AnthonyZo\u00eb Noelle Baker"
+        ],
+        "may": [
+            "Jake Johnson",
+            " Gina Rodriguez",
+            " Kesler Talbot",
+            " Jonathan Groff",
+            " Tim Blake Nelson",
+            " Mary J. BligeBJ HarrisonEverett AndresPaul AnthonyZo\u00eb Noelle Baker"
+        ],
+        "tam": [
+            "Jake Johnson",
+            " Gina Rodriguez",
+            " Kesler Talbot",
+            " Jonathan Groff",
+            " Tim Blake Nelson",
+            " Mary J. BligeBJ HarrisonEverett AndresPaul AnthonyZo\u00eb Noelle Baker"
+        ],
+        "chi": [
+            "Jake Johnson",
+            " Gina Rodriguez",
+            " Kesler Talbot",
+            " Jonathan Groff",
+            " Tim Blake Nelson",
+            " Mary J. BligeBJ HarrisonEverett AndresPaul AnthonyZo\u00eb Noelle Baker"
+        ],
+        "tha": [
+            "Jake Johnson",
+            " Gina Rodriguez",
+            " Kesler Talbot",
+            " Jonathan Groff",
+            " Tim Blake Nelson",
+            " Mary J. BligeBJ HarrisonEverett AndresPaul AnthonyZo\u00eb Noelle Baker"
+        ],
+        "ind": [
+            "Jake Johnson",
+            " Gina Rodriguez",
+            " Kesler Talbot",
+            " Jonathan Groff",
+            " Tim Blake Nelson",
+            " Mary J. BligeBJ HarrisonEverett AndresPaul AnthonyZo\u00eb Noelle Baker"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Peter Ramsey"
+        ],
+        "may": [
+            "Peter Ramsey"
+        ],
+        "tam": [
+            "Peter Ramsey"
+        ],
+        "chi": [
+            "Peter Ramsey"
+        ],
+        "tha": [
+            "Peter Ramsey"
+        ],
+        "ind": [
+            "Peter Ramsey"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Josh S. Barry",
+            " Brent Crowell",
+            " Lampton Enochs",
+            " Kate Gersten",
+            " Ebony P. Jones",
+            " Shawn LevyEmily MorrisBrandon OldenburgShannon TindleLaury Christensen"
+        ],
+        "may": [
+            "Josh S. Barry",
+            " Brent Crowell",
+            " Lampton Enochs",
+            " Kate Gersten",
+            " Ebony P. Jones",
+            " Shawn LevyEmily MorrisBrandon OldenburgShannon TindleLaury Christensen"
+        ],
+        "tam": [
+            "Josh S. Barry",
+            " Brent Crowell",
+            " Lampton Enochs",
+            " Kate Gersten",
+            " Ebony P. Jones",
+            " Shawn LevyEmily MorrisBrandon OldenburgShannon TindleLaury Christensen"
+        ],
+        "chi": [
+            "Josh S. Barry",
+            " Brent Crowell",
+            " Lampton Enochs",
+            " Kate Gersten",
+            " Ebony P. Jones",
+            " Shawn LevyEmily MorrisBrandon OldenburgShannon TindleLaury Christensen"
+        ],
+        "tha": [
+            "Josh S. Barry",
+            " Brent Crowell",
+            " Lampton Enochs",
+            " Kate Gersten",
+            " Ebony P. Jones",
+            " Shawn LevyEmily MorrisBrandon OldenburgShannon TindleLaury Christensen"
+        ],
+        "ind": [
+            "Josh S. Barry",
+            " Brent Crowell",
+            " Lampton Enochs",
+            " Kate Gersten",
+            " Ebony P. Jones",
+            " Shawn LevyEmily MorrisBrandon OldenburgShannon TindleLaury Christensen"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Animation",
+                    "may": "Animation",
+                    "tam": "Animation",
+                    "chi": "Animation",
+                    "tha": "Animation",
+                    "ind": "Animation"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LostOllieSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LostOllieSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LostOllieSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_a1b3565a-7506-5594-848a-59b9825748e6",
+    "seasonId": "AggregatedSeason_70e48947-b8ea-5358-b603-1d3e8e79e46a",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "TV-PG",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

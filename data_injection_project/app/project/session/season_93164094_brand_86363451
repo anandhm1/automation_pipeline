@@ -1,0 +1,305 @@
+{
+    "externalId": "AggregatedSeason_d577cbdb-cdf0-5c8b-b4e8-a853e8ef550b",
+    "clientContentId": "PACK0000000004487553",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Thriller",
+                    "may": " Thriller",
+                    "chi": " Thriller",
+                    "tam": " Thriller",
+                    "ind": " Thriller",
+                    "tha": " Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Jessica Raine",
+            " Peter Capaldi",
+            " Nikesh Patel",
+            " Benjamin Chivers",
+            " Phil Dunster",
+            " Talia Walker Bassols",
+            " Rhiannon Harper-Rafferty",
+            " Alex Ferns",
+            " Meera Syal",
+            " Thomas Dominique"
+        ],
+        "may": [
+            "Jessica Raine",
+            " Peter Capaldi",
+            " Nikesh Patel",
+            " Benjamin Chivers",
+            " Phil Dunster",
+            " Talia Walker Bassols",
+            " Rhiannon Harper-Rafferty",
+            " Alex Ferns",
+            " Meera Syal",
+            " Thomas Dominique"
+        ],
+        "chi": [
+            "Jessica Raine",
+            " Peter Capaldi",
+            " Nikesh Patel",
+            " Benjamin Chivers",
+            " Phil Dunster",
+            " Talia Walker Bassols",
+            " Rhiannon Harper-Rafferty",
+            " Alex Ferns",
+            " Meera Syal",
+            " Thomas Dominique"
+        ],
+        "tam": [
+            "Jessica Raine",
+            " Peter Capaldi",
+            " Nikesh Patel",
+            " Benjamin Chivers",
+            " Phil Dunster",
+            " Talia Walker Bassols",
+            " Rhiannon Harper-Rafferty",
+            " Alex Ferns",
+            " Meera Syal",
+            " Thomas Dominique"
+        ],
+        "ind": [
+            "Jessica Raine",
+            " Peter Capaldi",
+            " Nikesh Patel",
+            " Benjamin Chivers",
+            " Phil Dunster",
+            " Talia Walker Bassols",
+            " Rhiannon Harper-Rafferty",
+            " Alex Ferns",
+            " Meera Syal",
+            " Thomas Dominique"
+        ],
+        "tha": [
+            "Jessica Raine",
+            " Peter Capaldi",
+            " Nikesh Patel",
+            " Benjamin Chivers",
+            " Phil Dunster",
+            " Talia Walker Bassols",
+            " Rhiannon Harper-Rafferty",
+            " Alex Ferns",
+            " Meera Syal",
+            " Thomas Dominique"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Johnny Allan",
+            " Isabelle Sieb"
+        ],
+        "may": [
+            "Johnny Allan",
+            " Isabelle Sieb"
+        ],
+        "chi": [
+            "Johnny Allan",
+            " Isabelle Sieb"
+        ],
+        "tam": [
+            "Johnny Allan",
+            " Isabelle Sieb"
+        ],
+        "ind": [
+            "Johnny Allan",
+            " Isabelle Sieb"
+        ],
+        "tha": [
+            "Johnny Allan",
+            " Isabelle Sieb"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ken Horn",
+            " Menzies Kennedy",
+            " Steven Moffat",
+            " Tom Moran",
+            " Helena Murphy",
+            " Sue Vertue"
+        ],
+        "may": [
+            "Ken Horn",
+            " Menzies Kennedy",
+            " Steven Moffat",
+            " Tom Moran",
+            " Helena Murphy",
+            " Sue Vertue"
+        ],
+        "chi": [
+            "Ken Horn",
+            " Menzies Kennedy",
+            " Steven Moffat",
+            " Tom Moran",
+            " Helena Murphy",
+            " Sue Vertue"
+        ],
+        "tam": [
+            "Ken Horn",
+            " Menzies Kennedy",
+            " Steven Moffat",
+            " Tom Moran",
+            " Helena Murphy",
+            " Sue Vertue"
+        ],
+        "ind": [
+            "Ken Horn",
+            " Menzies Kennedy",
+            " Steven Moffat",
+            " Tom Moran",
+            " Helena Murphy",
+            " Sue Vertue"
+        ],
+        "tha": [
+            "Ken Horn",
+            " Menzies Kennedy",
+            " Steven Moffat",
+            " Tom Moran",
+            " Helena Murphy",
+            " Sue Vertue"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_e7314c14-1031-5263-9980-5fe6a2e65582",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Devil's Hour Season 1",
+            "may": "The Devil's Hour Season 1",
+            "chi": "The Devil's Hour Season 1",
+            "tam": "The Devil's Hour Season 1",
+            "ind": "The Devil's Hour Season 1",
+            "tha": "The Devil's Hour Season 1"
+        },
+        "long": {
+            "eng": "The Devil's Hour Season 1",
+            "may": "The Devil's Hour Season 1",
+            "chi": "The Devil's Hour Season 1",
+            "tam": "The Devil's Hour Season 1",
+            "ind": "The Devil's Hour Season 1",
+            "tha": "The Devil's Hour Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "may": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "chi": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "tam": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "ind": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "tha": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM."
+        },
+        "long": {
+            "eng": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "may": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "chi": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "tam": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "ind": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM.",
+            "tha": "A woman who wakes up every night at exactly 3.33AM, in the middle of the so-called devil's hour between 3AM and 4AM."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheDevil'sHourSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheDevil'sHourSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheDevil'sHourSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

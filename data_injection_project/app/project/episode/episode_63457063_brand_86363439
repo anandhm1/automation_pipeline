@@ -1,0 +1,373 @@
+{
+    "externalId": "AggregatedTvShow_a7f84130-469f-5ca6-928e-9f215e7b2c47",
+    "clientContentId": "PACK0000000005707612",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Soundtrack - Trailer",
+            "may": "Soundtrack - Trailer",
+            "tam": "Soundtrack - Trailer",
+            "chi": "Soundtrack - Trailer",
+            "tha": "Soundtrack - Trailer",
+            "ind": "Soundtrack - Trailer"
+        },
+        "long": {
+            "eng": "Soundtrack - Trailer",
+            "may": "Soundtrack - Trailer",
+            "tam": "Soundtrack - Trailer",
+            "chi": "Soundtrack - Trailer",
+            "tha": "Soundtrack - Trailer",
+            "ind": "Soundtrack - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Music connects the lives of random people living in Los Angeles.",
+            "may": "Music connects the lives of random people living in Los Angeles.",
+            "tam": "Music connects the lives of random people living in Los Angeles.",
+            "chi": "Music connects the lives of random people living in Los Angeles.",
+            "tha": "Music connects the lives of random people living in Los Angeles.",
+            "ind": "Music connects the lives of random people living in Los Angeles."
+        },
+        "long": {
+            "eng": "Music connects the lives of random people living in Los Angeles.",
+            "may": "Music connects the lives of random people living in Los Angeles.",
+            "tam": "Music connects the lives of random people living in Los Angeles.",
+            "chi": "Music connects the lives of random people living in Los Angeles.",
+            "tha": "Music connects the lives of random people living in Los Angeles.",
+            "ind": "Music connects the lives of random people living in Los Angeles."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Paul James",
+            " Callie Hernandez",
+            " Marianne Jean-Baptiste",
+            " Jenna Dewan",
+            " Jahmil French",
+            " Megan Ferguson",
+            " Isaiah Givens",
+            " Madeleine Stowe",
+            " Campbell Scott",
+            " Juliet G. James"
+        ],
+        "may": [
+            "Paul James",
+            " Callie Hernandez",
+            " Marianne Jean-Baptiste",
+            " Jenna Dewan",
+            " Jahmil French",
+            " Megan Ferguson",
+            " Isaiah Givens",
+            " Madeleine Stowe",
+            " Campbell Scott",
+            " Juliet G. James"
+        ],
+        "tam": [
+            "Paul James",
+            " Callie Hernandez",
+            " Marianne Jean-Baptiste",
+            " Jenna Dewan",
+            " Jahmil French",
+            " Megan Ferguson",
+            " Isaiah Givens",
+            " Madeleine Stowe",
+            " Campbell Scott",
+            " Juliet G. James"
+        ],
+        "chi": [
+            "Paul James",
+            " Callie Hernandez",
+            " Marianne Jean-Baptiste",
+            " Jenna Dewan",
+            " Jahmil French",
+            " Megan Ferguson",
+            " Isaiah Givens",
+            " Madeleine Stowe",
+            " Campbell Scott",
+            " Juliet G. James"
+        ],
+        "tha": [
+            "Paul James",
+            " Callie Hernandez",
+            " Marianne Jean-Baptiste",
+            " Jenna Dewan",
+            " Jahmil French",
+            " Megan Ferguson",
+            " Isaiah Givens",
+            " Madeleine Stowe",
+            " Campbell Scott",
+            " Juliet G. James"
+        ],
+        "ind": [
+            "Paul James",
+            " Callie Hernandez",
+            " Marianne Jean-Baptiste",
+            " Jenna Dewan",
+            " Jahmil French",
+            " Megan Ferguson",
+            " Isaiah Givens",
+            " Madeleine Stowe",
+            " Campbell Scott",
+            " Juliet G. James"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Karen Gaviola",
+            " Darren Grant",
+            " Joe Swanberg",
+            " Ti West",
+            " Jesse Peretz",
+            " Joshua Safran"
+        ],
+        "may": [
+            "Karen Gaviola",
+            " Darren Grant",
+            " Joe Swanberg",
+            " Ti West",
+            " Jesse Peretz",
+            " Joshua Safran"
+        ],
+        "tam": [
+            "Karen Gaviola",
+            " Darren Grant",
+            " Joe Swanberg",
+            " Ti West",
+            " Jesse Peretz",
+            " Joshua Safran"
+        ],
+        "chi": [
+            "Karen Gaviola",
+            " Darren Grant",
+            " Joe Swanberg",
+            " Ti West",
+            " Jesse Peretz",
+            " Joshua Safran"
+        ],
+        "tha": [
+            "Karen Gaviola",
+            " Darren Grant",
+            " Joe Swanberg",
+            " Ti West",
+            " Jesse Peretz",
+            " Joshua Safran"
+        ],
+        "ind": [
+            "Karen Gaviola",
+            " Darren Grant",
+            " Joe Swanberg",
+            " Ti West",
+            " Jesse Peretz",
+            " Joshua Safran"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ellen Marie Blum",
+            " Megan Ellison",
+            " Richard Kramer",
+            " Ali Krug",
+            " Sue Naegle",
+            " Joshua Safran",
+            " Beth Schacter",
+            " Garfield Whitman",
+            " Chip Vucelich",
+            " Matt Woodall"
+        ],
+        "may": [
+            "Ellen Marie Blum",
+            " Megan Ellison",
+            " Richard Kramer",
+            " Ali Krug",
+            " Sue Naegle",
+            " Joshua Safran",
+            " Beth Schacter",
+            " Garfield Whitman",
+            " Chip Vucelich",
+            " Matt Woodall"
+        ],
+        "tam": [
+            "Ellen Marie Blum",
+            " Megan Ellison",
+            " Richard Kramer",
+            " Ali Krug",
+            " Sue Naegle",
+            " Joshua Safran",
+            " Beth Schacter",
+            " Garfield Whitman",
+            " Chip Vucelich",
+            " Matt Woodall"
+        ],
+        "chi": [
+            "Ellen Marie Blum",
+            " Megan Ellison",
+            " Richard Kramer",
+            " Ali Krug",
+            " Sue Naegle",
+            " Joshua Safran",
+            " Beth Schacter",
+            " Garfield Whitman",
+            " Chip Vucelich",
+            " Matt Woodall"
+        ],
+        "tha": [
+            "Ellen Marie Blum",
+            " Megan Ellison",
+            " Richard Kramer",
+            " Ali Krug",
+            " Sue Naegle",
+            " Joshua Safran",
+            " Beth Schacter",
+            " Garfield Whitman",
+            " Chip Vucelich",
+            " Matt Woodall"
+        ],
+        "ind": [
+            "Ellen Marie Blum",
+            " Megan Ellison",
+            " Richard Kramer",
+            " Ali Krug",
+            " Sue Naegle",
+            " Joshua Safran",
+            " Beth Schacter",
+            " Garfield Whitman",
+            " Chip Vucelich",
+            " Matt Woodall"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Musical",
+                    "may": " Musical",
+                    "tam": " Musical",
+                    "chi": " Musical",
+                    "tha": " Musical",
+                    "ind": " Musical"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/SoundtrackSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/SoundtrackSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/SoundtrackSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_22428a48-cbe4-5eaa-bc4d-b622c8b5317d",
+    "seasonId": "AggregatedSeason_ac7058a3-5a61-5974-96ba-386fba5ac43e",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2019,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

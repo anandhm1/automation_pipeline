@@ -1,0 +1,379 @@
+{
+    "externalId": "AggregatedTvShow_073d0085-6aad-55c6-8e7b-e5ee3b0c68b3",
+    "clientContentId": "PACK0000000003819469",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "\u200bShadow And Bone - Trailer",
+            "may": "\u200bShadow And Bone - Trailer",
+            "tam": "\u200bShadow And Bone - Trailer",
+            "chi": "\u200bShadow And Bone - Trailer",
+            "tha": "\u200bShadow And Bone - Trailer",
+            "ind": "\u200bShadow And Bone - Trailer"
+        },
+        "long": {
+            "eng": "\u200bShadow And Bone - Trailer",
+            "may": "\u200bShadow And Bone - Trailer",
+            "tam": "\u200bShadow And Bone - Trailer",
+            "chi": "\u200bShadow And Bone - Trailer",
+            "tha": "\u200bShadow And Bone - Trailer",
+            "ind": "\u200bShadow And Bone - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "may": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "tam": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "chi": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "tha": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "ind": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world."
+        },
+        "long": {
+            "eng": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "may": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "tam": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "chi": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "tha": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+            "ind": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jessie Mei Li",
+            " Archie Renaux",
+            " Freddy Carter",
+            " Amita Suman",
+            " Kit Young",
+            " Ben Barnes",
+            " Danielle Galligan",
+            " Sujaya Dasgupta",
+            " Daisy Head",
+            " Calahan Skogman"
+        ],
+        "may": [
+            "Jessie Mei Li",
+            " Archie Renaux",
+            " Freddy Carter",
+            " Amita Suman",
+            " Kit Young",
+            " Ben Barnes",
+            " Danielle Galligan",
+            " Sujaya Dasgupta",
+            " Daisy Head",
+            " Calahan Skogman"
+        ],
+        "tam": [
+            "Jessie Mei Li",
+            " Archie Renaux",
+            " Freddy Carter",
+            " Amita Suman",
+            " Kit Young",
+            " Ben Barnes",
+            " Danielle Galligan",
+            " Sujaya Dasgupta",
+            " Daisy Head",
+            " Calahan Skogman"
+        ],
+        "chi": [
+            "Jessie Mei Li",
+            " Archie Renaux",
+            " Freddy Carter",
+            " Amita Suman",
+            " Kit Young",
+            " Ben Barnes",
+            " Danielle Galligan",
+            " Sujaya Dasgupta",
+            " Daisy Head",
+            " Calahan Skogman"
+        ],
+        "tha": [
+            "Jessie Mei Li",
+            " Archie Renaux",
+            " Freddy Carter",
+            " Amita Suman",
+            " Kit Young",
+            " Ben Barnes",
+            " Danielle Galligan",
+            " Sujaya Dasgupta",
+            " Daisy Head",
+            " Calahan Skogman"
+        ],
+        "ind": [
+            "Jessie Mei Li",
+            " Archie Renaux",
+            " Freddy Carter",
+            " Amita Suman",
+            " Kit Young",
+            " Ben Barnes",
+            " Danielle Galligan",
+            " Sujaya Dasgupta",
+            " Daisy Head",
+            " Calahan Skogman"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Mairzee Almas",
+            " Lee Toland Krieger",
+            " Dan Liu",
+            " Jeremy Webb",
+            " Laura Belsey",
+            " Karen Gaviola",
+            " Bola Ogun"
+        ],
+        "may": [
+            "Mairzee Almas",
+            " Lee Toland Krieger",
+            " Dan Liu",
+            " Jeremy Webb",
+            " Laura Belsey",
+            " Karen Gaviola",
+            " Bola Ogun"
+        ],
+        "tam": [
+            "Mairzee Almas",
+            " Lee Toland Krieger",
+            " Dan Liu",
+            " Jeremy Webb",
+            " Laura Belsey",
+            " Karen Gaviola",
+            " Bola Ogun"
+        ],
+        "chi": [
+            "Mairzee Almas",
+            " Lee Toland Krieger",
+            " Dan Liu",
+            " Jeremy Webb",
+            " Laura Belsey",
+            " Karen Gaviola",
+            " Bola Ogun"
+        ],
+        "tha": [
+            "Mairzee Almas",
+            " Lee Toland Krieger",
+            " Dan Liu",
+            " Jeremy Webb",
+            " Laura Belsey",
+            " Karen Gaviola",
+            " Bola Ogun"
+        ],
+        "ind": [
+            "Mairzee Almas",
+            " Lee Toland Krieger",
+            " Dan Liu",
+            " Jeremy Webb",
+            " Laura Belsey",
+            " Karen Gaviola",
+            " Bola Ogun"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Leigh Bardugo",
+            " Josh S. Barry",
+            " Dan Cohen",
+            " Daegan Fryklind",
+            " Rand Geiger",
+            " Eric Heisserer",
+            " Dan Levine",
+            " Shawn Levy",
+            " Shelley Meals",
+            " Pouya Shahbazian"
+        ],
+        "may": [
+            "Leigh Bardugo",
+            " Josh S. Barry",
+            " Dan Cohen",
+            " Daegan Fryklind",
+            " Rand Geiger",
+            " Eric Heisserer",
+            " Dan Levine",
+            " Shawn Levy",
+            " Shelley Meals",
+            " Pouya Shahbazian"
+        ],
+        "tam": [
+            "Leigh Bardugo",
+            " Josh S. Barry",
+            " Dan Cohen",
+            " Daegan Fryklind",
+            " Rand Geiger",
+            " Eric Heisserer",
+            " Dan Levine",
+            " Shawn Levy",
+            " Shelley Meals",
+            " Pouya Shahbazian"
+        ],
+        "chi": [
+            "Leigh Bardugo",
+            " Josh S. Barry",
+            " Dan Cohen",
+            " Daegan Fryklind",
+            " Rand Geiger",
+            " Eric Heisserer",
+            " Dan Levine",
+            " Shawn Levy",
+            " Shelley Meals",
+            " Pouya Shahbazian"
+        ],
+        "tha": [
+            "Leigh Bardugo",
+            " Josh S. Barry",
+            " Dan Cohen",
+            " Daegan Fryklind",
+            " Rand Geiger",
+            " Eric Heisserer",
+            " Dan Levine",
+            " Shawn Levy",
+            " Shelley Meals",
+            " Pouya Shahbazian"
+        ],
+        "ind": [
+            "Leigh Bardugo",
+            " Josh S. Barry",
+            " Dan Cohen",
+            " Daegan Fryklind",
+            " Rand Geiger",
+            " Eric Heisserer",
+            " Dan Levine",
+            " Shawn Levy",
+            " Shelley Meals",
+            " Pouya Shahbazian"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/\u200bShadowandBoneSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/\u200bShadowandBoneSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/\u200bShadowandBoneSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_d6c0cbf9-d8e3-543e-8148-c52a6430c6fe",
+    "seasonId": "AggregatedSeason_1842e872-1982-5da1-9d03-b5a47b768064",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2021,
+    "rating": "TV-14",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

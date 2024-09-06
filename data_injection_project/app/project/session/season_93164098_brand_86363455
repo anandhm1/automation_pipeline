@@ -1,0 +1,335 @@
+{
+    "externalId": "AggregatedSeason_64f34120-6aef-528b-8172-308e06f5c6fb",
+    "clientContentId": "PACK0000000008972918",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Adventure",
+                    "may": "Adventure",
+                    "chi": "Adventure",
+                    "tam": "Adventure",
+                    "ind": "Adventure",
+                    "tha": "Adventure"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Natalie Martinez",
+            " Kate Bosworth",
+            " Ronald Peet",
+            " Sibylla Deen",
+            " Gilles Geary",
+            " Kyle Schmid",
+            " Anthony Lee Medina",
+            " Kota Eberhardt",
+            " KeiLyn Durrel Jones",
+            " Maria Conchita Alonso"
+        ],
+        "may": [
+            "Natalie Martinez",
+            " Kate Bosworth",
+            " Ronald Peet",
+            " Sibylla Deen",
+            " Gilles Geary",
+            " Kyle Schmid",
+            " Anthony Lee Medina",
+            " Kota Eberhardt",
+            " KeiLyn Durrel Jones",
+            " Maria Conchita Alonso"
+        ],
+        "chi": [
+            "Natalie Martinez",
+            " Kate Bosworth",
+            " Ronald Peet",
+            " Sibylla Deen",
+            " Gilles Geary",
+            " Kyle Schmid",
+            " Anthony Lee Medina",
+            " Kota Eberhardt",
+            " KeiLyn Durrel Jones",
+            " Maria Conchita Alonso"
+        ],
+        "tam": [
+            "Natalie Martinez",
+            " Kate Bosworth",
+            " Ronald Peet",
+            " Sibylla Deen",
+            " Gilles Geary",
+            " Kyle Schmid",
+            " Anthony Lee Medina",
+            " Kota Eberhardt",
+            " KeiLyn Durrel Jones",
+            " Maria Conchita Alonso"
+        ],
+        "ind": [
+            "Natalie Martinez",
+            " Kate Bosworth",
+            " Ronald Peet",
+            " Sibylla Deen",
+            " Gilles Geary",
+            " Kyle Schmid",
+            " Anthony Lee Medina",
+            " Kota Eberhardt",
+            " KeiLyn Durrel Jones",
+            " Maria Conchita Alonso"
+        ],
+        "tha": [
+            "Natalie Martinez",
+            " Kate Bosworth",
+            " Ronald Peet",
+            " Sibylla Deen",
+            " Gilles Geary",
+            " Kyle Schmid",
+            " Anthony Lee Medina",
+            " Kota Eberhardt",
+            " KeiLyn Durrel Jones",
+            " Maria Conchita Alonso"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jonathan Scarfe",
+            " Darnell Martin",
+            " Neil LaBute"
+        ],
+        "may": [
+            "Jonathan Scarfe",
+            " Darnell Martin",
+            " Neil LaBute"
+        ],
+        "chi": [
+            "Jonathan Scarfe",
+            " Darnell Martin",
+            " Neil LaBute"
+        ],
+        "tam": [
+            "Jonathan Scarfe",
+            " Darnell Martin",
+            " Neil LaBute"
+        ],
+        "ind": [
+            "Jonathan Scarfe",
+            " Darnell Martin",
+            " Neil LaBute"
+        ],
+        "tha": [
+            "Jonathan Scarfe",
+            " Darnell Martin",
+            " Neil LaBute"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jay Daniel Beechinor",
+            " Kate Bosworth",
+            " Morris Chapdelaine",
+            " Petros Danabassis",
+            " Sally Dixon",
+            " Michael Frislev",
+            " Neil LaBute",
+            " Natalie Martinez",
+            " Chad Oakes",
+            " Jonathan Scarfe"
+        ],
+        "may": [
+            "Jay Daniel Beechinor",
+            " Kate Bosworth",
+            " Morris Chapdelaine",
+            " Petros Danabassis",
+            " Sally Dixon",
+            " Michael Frislev",
+            " Neil LaBute",
+            " Natalie Martinez",
+            " Chad Oakes",
+            " Jonathan Scarfe"
+        ],
+        "chi": [
+            "Jay Daniel Beechinor",
+            " Kate Bosworth",
+            " Morris Chapdelaine",
+            " Petros Danabassis",
+            " Sally Dixon",
+            " Michael Frislev",
+            " Neil LaBute",
+            " Natalie Martinez",
+            " Chad Oakes",
+            " Jonathan Scarfe"
+        ],
+        "tam": [
+            "Jay Daniel Beechinor",
+            " Kate Bosworth",
+            " Morris Chapdelaine",
+            " Petros Danabassis",
+            " Sally Dixon",
+            " Michael Frislev",
+            " Neil LaBute",
+            " Natalie Martinez",
+            " Chad Oakes",
+            " Jonathan Scarfe"
+        ],
+        "ind": [
+            "Jay Daniel Beechinor",
+            " Kate Bosworth",
+            " Morris Chapdelaine",
+            " Petros Danabassis",
+            " Sally Dixon",
+            " Michael Frislev",
+            " Neil LaBute",
+            " Natalie Martinez",
+            " Chad Oakes",
+            " Jonathan Scarfe"
+        ],
+        "tha": [
+            "Jay Daniel Beechinor",
+            " Kate Bosworth",
+            " Morris Chapdelaine",
+            " Petros Danabassis",
+            " Sally Dixon",
+            " Michael Frislev",
+            " Neil LaBute",
+            " Natalie Martinez",
+            " Chad Oakes",
+            " Jonathan Scarfe"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_c8cd3105-d698-57b6-bdc9-17c10d90ac01",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "THE I LAND Season 1",
+            "may": "THE I LAND Season 1",
+            "chi": "THE I LAND Season 1",
+            "tam": "THE I LAND Season 1",
+            "ind": "THE I LAND Season 1",
+            "tha": "THE I LAND Season 1"
+        },
+        "long": {
+            "eng": "THE I LAND Season 1",
+            "may": "THE I LAND Season 1",
+            "chi": "THE I LAND Season 1",
+            "tam": "THE I LAND Season 1",
+            "ind": "THE I LAND Season 1",
+            "tha": "THE I LAND Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "When ten people wake up on a treacherous island with no memory of who they are and how they got there, they set off on a trek to try to get back home, only to discover the world is not as it seems.",
+            "may": "When ten people wake up on a treacherous island with no memory of who they are and how they got there, they set off on a trek to try to get back home, only to discover the world is not as it seems.",
+            "chi": "When ten people wake up on a treacherous island with no memory of who they are and how they got there, they set off on a trek to try to get back home, only to discover the world is not as it seems.",
+            "tam": "When ten people wake up on a treacherous island with no memory of who they are and how they got there, they set off on a trek to try to get back home, only to discover the world is not as it seems.",
+            "ind": "When ten people wake up on a treacherous island with no memory of who they are and how they got there, they set off on a trek to try to get back home, only to discover the world is not as it seems.",
+            "tha": "When ten people wake up on a treacherous island with no memory of who they are and how they got there, they set off on a trek to try to get back home, only to discover the world is not as it seems."
+        },
+        "long": {
+            "eng": "When ten people wake up on a treacherous island with no memory of who they are and how they got there, they set off on a trek to try to get back home, only to discover the world is not as it seems.",
+            "may": "When ten people wake up on a treacherous island with no memory of who they are and how they got there, they set off on a trek to try to get back home, only to discover the world is not as it seems.",
+            "chi": "When ten people wake up on a treacherous island with no memory of who they are and how they got there, they set off on a trek to try to get back home, only to discover the world is not as it seems.",
+            "tam": "When ten people wake up on a treacherous island with no memory of who they are and how they got there, they set off on a trek to try to get back home, only to discover the world is not as it seems.",
+            "ind": "When ten people wake up on a treacherous island with no memory of who they are and how they got there, they set off on a trek to try to get back home, only to discover the world is not as it seems.",
+            "tha": "When ten people wake up on a treacherous island with no memory of who they are and how they got there, they set off on a trek to try to get back home, only to discover the world is not as it seems."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/THEILANDSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/THEILANDSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/THEILANDSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

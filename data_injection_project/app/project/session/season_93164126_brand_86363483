@@ -1,0 +1,329 @@
+{
+    "externalId": "AggregatedSeason_8538c802-d31a-5c7c-a1bb-435a86dca4dd",
+    "clientContentId": "PACK0000000006263951",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "chi": "Crime",
+                    "tam": "Crime",
+                    "ind": "Crime",
+                    "tha": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2021,
+    "rating": "15",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Suranne Jones",
+            " Rose Leslie",
+            " Shaun Evans",
+            " Paterson Joseph",
+            " Adam James",
+            " Gary Lewis",
+            " Lolita Chakrabarti",
+            " Anjli Mohindra",
+            " Connor Swindells",
+            " Lorne MacFadyen"
+        ],
+        "may": [
+            "Suranne Jones",
+            " Rose Leslie",
+            " Shaun Evans",
+            " Paterson Joseph",
+            " Adam James",
+            " Gary Lewis",
+            " Lolita Chakrabarti",
+            " Anjli Mohindra",
+            " Connor Swindells",
+            " Lorne MacFadyen"
+        ],
+        "chi": [
+            "Suranne Jones",
+            " Rose Leslie",
+            " Shaun Evans",
+            " Paterson Joseph",
+            " Adam James",
+            " Gary Lewis",
+            " Lolita Chakrabarti",
+            " Anjli Mohindra",
+            " Connor Swindells",
+            " Lorne MacFadyen"
+        ],
+        "tam": [
+            "Suranne Jones",
+            " Rose Leslie",
+            " Shaun Evans",
+            " Paterson Joseph",
+            " Adam James",
+            " Gary Lewis",
+            " Lolita Chakrabarti",
+            " Anjli Mohindra",
+            " Connor Swindells",
+            " Lorne MacFadyen"
+        ],
+        "ind": [
+            "Suranne Jones",
+            " Rose Leslie",
+            " Shaun Evans",
+            " Paterson Joseph",
+            " Adam James",
+            " Gary Lewis",
+            " Lolita Chakrabarti",
+            " Anjli Mohindra",
+            " Connor Swindells",
+            " Lorne MacFadyen"
+        ],
+        "tha": [
+            "Suranne Jones",
+            " Rose Leslie",
+            " Shaun Evans",
+            " Paterson Joseph",
+            " Adam James",
+            " Gary Lewis",
+            " Lolita Chakrabarti",
+            " Anjli Mohindra",
+            " Connor Swindells",
+            " Lorne MacFadyen"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Isabelle Sieb",
+            " James Strong"
+        ],
+        "may": [
+            "Isabelle Sieb",
+            " James Strong"
+        ],
+        "chi": [
+            "Isabelle Sieb",
+            " James Strong"
+        ],
+        "tam": [
+            "Isabelle Sieb",
+            " James Strong"
+        ],
+        "ind": [
+            "Isabelle Sieb",
+            " James Strong"
+        ],
+        "tha": [
+            "Isabelle Sieb",
+            " James Strong"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "George Aza-Selinger",
+            " Elizabeth Binns",
+            " Eric Coulter",
+            " Angie Daniell",
+            " Tom Edge",
+            " Leslie Finlay",
+            " Simon Heath",
+            " Gaynor Holmes",
+            " Jake Lushington",
+            " Donald MacKinnon"
+        ],
+        "may": [
+            "George Aza-Selinger",
+            " Elizabeth Binns",
+            " Eric Coulter",
+            " Angie Daniell",
+            " Tom Edge",
+            " Leslie Finlay",
+            " Simon Heath",
+            " Gaynor Holmes",
+            " Jake Lushington",
+            " Donald MacKinnon"
+        ],
+        "chi": [
+            "George Aza-Selinger",
+            " Elizabeth Binns",
+            " Eric Coulter",
+            " Angie Daniell",
+            " Tom Edge",
+            " Leslie Finlay",
+            " Simon Heath",
+            " Gaynor Holmes",
+            " Jake Lushington",
+            " Donald MacKinnon"
+        ],
+        "tam": [
+            "George Aza-Selinger",
+            " Elizabeth Binns",
+            " Eric Coulter",
+            " Angie Daniell",
+            " Tom Edge",
+            " Leslie Finlay",
+            " Simon Heath",
+            " Gaynor Holmes",
+            " Jake Lushington",
+            " Donald MacKinnon"
+        ],
+        "ind": [
+            "George Aza-Selinger",
+            " Elizabeth Binns",
+            " Eric Coulter",
+            " Angie Daniell",
+            " Tom Edge",
+            " Leslie Finlay",
+            " Simon Heath",
+            " Gaynor Holmes",
+            " Jake Lushington",
+            " Donald MacKinnon"
+        ],
+        "tha": [
+            "George Aza-Selinger",
+            " Elizabeth Binns",
+            " Eric Coulter",
+            " Angie Daniell",
+            " Tom Edge",
+            " Leslie Finlay",
+            " Simon Heath",
+            " Gaynor Holmes",
+            " Jake Lushington",
+            " Donald MacKinnon"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_de8925d6-498d-554c-8eb2-e9ef628ec51c",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Vigil Season 1",
+            "may": "Vigil Season 1",
+            "chi": "Vigil Season 1",
+            "tam": "Vigil Season 1",
+            "ind": "Vigil Season 1",
+            "tha": "Vigil Season 1"
+        },
+        "long": {
+            "eng": "Vigil Season 1",
+            "may": "Vigil Season 1",
+            "chi": "Vigil Season 1",
+            "tam": "Vigil Season 1",
+            "ind": "Vigil Season 1",
+            "tha": "Vigil Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "may": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "chi": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "tam": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "ind": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "tha": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services."
+        },
+        "long": {
+            "eng": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "may": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "chi": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "tam": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "ind": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+            "tha": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VigilSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VigilSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VigilSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

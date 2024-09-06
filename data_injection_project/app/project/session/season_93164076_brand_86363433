@@ -1,0 +1,359 @@
+{
+    "externalId": "AggregatedSeason_c083563a-75f6-5ffd-bff2-ebecd387b1cf",
+    "clientContentId": "PACK0000000002055762",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Sci-Fi",
+                    "may": " Sci-Fi",
+                    "chi": " Sci-Fi",
+                    "tam": " Sci-Fi",
+                    "ind": " Sci-Fi",
+                    "tha": " Sci-Fi"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "TV-G",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Alisha Wainwright",
+            " Ja'Siah Young",
+            " Jason Ritter",
+            " Sammi Haney",
+            " Ali Ahn",
+            " Gavin Munn",
+            " Jazmyn Simon",
+            " Griffin Robert Faulkner",
+            " Deirdre Lovejoy",
+            " Rome Flynn"
+        ],
+        "may": [
+            "Alisha Wainwright",
+            " Ja'Siah Young",
+            " Jason Ritter",
+            " Sammi Haney",
+            " Ali Ahn",
+            " Gavin Munn",
+            " Jazmyn Simon",
+            " Griffin Robert Faulkner",
+            " Deirdre Lovejoy",
+            " Rome Flynn"
+        ],
+        "chi": [
+            "Alisha Wainwright",
+            " Ja'Siah Young",
+            " Jason Ritter",
+            " Sammi Haney",
+            " Ali Ahn",
+            " Gavin Munn",
+            " Jazmyn Simon",
+            " Griffin Robert Faulkner",
+            " Deirdre Lovejoy",
+            " Rome Flynn"
+        ],
+        "tam": [
+            "Alisha Wainwright",
+            " Ja'Siah Young",
+            " Jason Ritter",
+            " Sammi Haney",
+            " Ali Ahn",
+            " Gavin Munn",
+            " Jazmyn Simon",
+            " Griffin Robert Faulkner",
+            " Deirdre Lovejoy",
+            " Rome Flynn"
+        ],
+        "ind": [
+            "Alisha Wainwright",
+            " Ja'Siah Young",
+            " Jason Ritter",
+            " Sammi Haney",
+            " Ali Ahn",
+            " Gavin Munn",
+            " Jazmyn Simon",
+            " Griffin Robert Faulkner",
+            " Deirdre Lovejoy",
+            " Rome Flynn"
+        ],
+        "tha": [
+            "Alisha Wainwright",
+            " Ja'Siah Young",
+            " Jason Ritter",
+            " Sammi Haney",
+            " Ali Ahn",
+            " Gavin Munn",
+            " Jazmyn Simon",
+            " Griffin Robert Faulkner",
+            " Deirdre Lovejoy",
+            " Rome Flynn"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Seith Mann",
+            " Dennis A. Liu",
+            " Neema Barnette",
+            " Rachel Goldberg",
+            " Janice Cooke",
+            " Darren Grant",
+            " Bola Ogun"
+        ],
+        "may": [
+            "Seith Mann",
+            " Dennis A. Liu",
+            " Neema Barnette",
+            " Rachel Goldberg",
+            " Janice Cooke",
+            " Darren Grant",
+            " Bola Ogun"
+        ],
+        "chi": [
+            "Seith Mann",
+            " Dennis A. Liu",
+            " Neema Barnette",
+            " Rachel Goldberg",
+            " Janice Cooke",
+            " Darren Grant",
+            " Bola Ogun"
+        ],
+        "tam": [
+            "Seith Mann",
+            " Dennis A. Liu",
+            " Neema Barnette",
+            " Rachel Goldberg",
+            " Janice Cooke",
+            " Darren Grant",
+            " Bola Ogun"
+        ],
+        "ind": [
+            "Seith Mann",
+            " Dennis A. Liu",
+            " Neema Barnette",
+            " Rachel Goldberg",
+            " Janice Cooke",
+            " Darren Grant",
+            " Bola Ogun"
+        ],
+        "tha": [
+            "Seith Mann",
+            " Dennis A. Liu",
+            " Neema Barnette",
+            " Rachel Goldberg",
+            " Janice Cooke",
+            " Darren Grant",
+            " Bola Ogun"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Juanita Diana Feeney",
+            " Leigh Dana Jackson",
+            " Dennis A. Liu",
+            " Edward Ricourt",
+            " Poppy Hanks",
+            " Charles D. King",
+            " Amy Libowsky",
+            " Seith Mann",
+            " Carol Barbee",
+            " Kenny Goodman"
+        ],
+        "may": [
+            "Juanita Diana Feeney",
+            " Leigh Dana Jackson",
+            " Dennis A. Liu",
+            " Edward Ricourt",
+            " Poppy Hanks",
+            " Charles D. King",
+            " Amy Libowsky",
+            " Seith Mann",
+            " Carol Barbee",
+            " Kenny Goodman"
+        ],
+        "chi": [
+            "Juanita Diana Feeney",
+            " Leigh Dana Jackson",
+            " Dennis A. Liu",
+            " Edward Ricourt",
+            " Poppy Hanks",
+            " Charles D. King",
+            " Amy Libowsky",
+            " Seith Mann",
+            " Carol Barbee",
+            " Kenny Goodman"
+        ],
+        "tam": [
+            "Juanita Diana Feeney",
+            " Leigh Dana Jackson",
+            " Dennis A. Liu",
+            " Edward Ricourt",
+            " Poppy Hanks",
+            " Charles D. King",
+            " Amy Libowsky",
+            " Seith Mann",
+            " Carol Barbee",
+            " Kenny Goodman"
+        ],
+        "ind": [
+            "Juanita Diana Feeney",
+            " Leigh Dana Jackson",
+            " Dennis A. Liu",
+            " Edward Ricourt",
+            " Poppy Hanks",
+            " Charles D. King",
+            " Amy Libowsky",
+            " Seith Mann",
+            " Carol Barbee",
+            " Kenny Goodman"
+        ],
+        "tha": [
+            "Juanita Diana Feeney",
+            " Leigh Dana Jackson",
+            " Dennis A. Liu",
+            " Edward Ricourt",
+            " Poppy Hanks",
+            " Charles D. King",
+            " Amy Libowsky",
+            " Seith Mann",
+            " Carol Barbee",
+            " Kenny Goodman"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_7d113dc0-0fa7-5533-855f-a31e2c580c09",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Raising Dion Season 1",
+            "may": "Raising Dion Season 1",
+            "chi": "Raising Dion Season 1",
+            "tam": "Raising Dion Season 1",
+            "ind": "Raising Dion Season 1",
+            "tha": "Raising Dion Season 1"
+        },
+        "long": {
+            "eng": "Raising Dion Season 1",
+            "may": "Raising Dion Season 1",
+            "chi": "Raising Dion Season 1",
+            "tam": "Raising Dion Season 1",
+            "ind": "Raising Dion Season 1",
+            "tha": "Raising Dion Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A widowed single mom discovers that her son has super powers and tries to figure out how to raise him safely and responsibly.",
+            "may": "A widowed single mom discovers that her son has super powers and tries to figure out how to raise him safely and responsibly.",
+            "chi": "A widowed single mom discovers that her son has super powers and tries to figure out how to raise him safely and responsibly.",
+            "tam": "A widowed single mom discovers that her son has super powers and tries to figure out how to raise him safely and responsibly.",
+            "ind": "A widowed single mom discovers that her son has super powers and tries to figure out how to raise him safely and responsibly.",
+            "tha": "A widowed single mom discovers that her son has super powers and tries to figure out how to raise him safely and responsibly."
+        },
+        "long": {
+            "eng": "A widowed single mom discovers that her son has super powers and tries to figure out how to raise him safely and responsibly.",
+            "may": "A widowed single mom discovers that her son has super powers and tries to figure out how to raise him safely and responsibly.",
+            "chi": "A widowed single mom discovers that her son has super powers and tries to figure out how to raise him safely and responsibly.",
+            "tam": "A widowed single mom discovers that her son has super powers and tries to figure out how to raise him safely and responsibly.",
+            "ind": "A widowed single mom discovers that her son has super powers and tries to figure out how to raise him safely and responsibly.",
+            "tha": "A widowed single mom discovers that her son has super powers and tries to figure out how to raise him safely and responsibly."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/RaisingDionSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/RaisingDionSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/RaisingDionSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

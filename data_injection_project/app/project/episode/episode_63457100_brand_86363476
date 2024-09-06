@@ -1,0 +1,397 @@
+{
+    "externalId": "AggregatedTvShow_ac4ac262-fe1a-588b-8a06-479f7981d1ef",
+    "clientContentId": "PACK0000000004041939",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Titans - Trailer",
+            "may": "Titans - Trailer",
+            "tam": "Titans - Trailer",
+            "chi": "Titans - Trailer",
+            "tha": "Titans - Trailer",
+            "ind": "Titans - Trailer"
+        },
+        "long": {
+            "eng": "Titans - Trailer",
+            "may": "Titans - Trailer",
+            "tam": "Titans - Trailer",
+            "chi": "Titans - Trailer",
+            "tha": "Titans - Trailer",
+            "ind": "Titans - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A team of young superheroes combat evil and other perils.",
+            "may": "A team of young superheroes combat evil and other perils.",
+            "tam": "A team of young superheroes combat evil and other perils.",
+            "chi": "A team of young superheroes combat evil and other perils.",
+            "tha": "A team of young superheroes combat evil and other perils.",
+            "ind": "A team of young superheroes combat evil and other perils."
+        },
+        "long": {
+            "eng": "A team of young superheroes combat evil and other perils.",
+            "may": "A team of young superheroes combat evil and other perils.",
+            "tam": "A team of young superheroes combat evil and other perils.",
+            "chi": "A team of young superheroes combat evil and other perils.",
+            "tha": "A team of young superheroes combat evil and other perils.",
+            "ind": "A team of young superheroes combat evil and other perils."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Brenton Thwaites",
+            " Anna Diop",
+            " Ryan Potter",
+            " Teagan Croft",
+            " Curran Walters",
+            " Joshua Orpin",
+            " Conor Leslie",
+            " Minka Kelly",
+            " Alan Ritchson",
+            " Jay Lycurgo"
+        ],
+        "may": [
+            "Brenton Thwaites",
+            " Anna Diop",
+            " Ryan Potter",
+            " Teagan Croft",
+            " Curran Walters",
+            " Joshua Orpin",
+            " Conor Leslie",
+            " Minka Kelly",
+            " Alan Ritchson",
+            " Jay Lycurgo"
+        ],
+        "tam": [
+            "Brenton Thwaites",
+            " Anna Diop",
+            " Ryan Potter",
+            " Teagan Croft",
+            " Curran Walters",
+            " Joshua Orpin",
+            " Conor Leslie",
+            " Minka Kelly",
+            " Alan Ritchson",
+            " Jay Lycurgo"
+        ],
+        "chi": [
+            "Brenton Thwaites",
+            " Anna Diop",
+            " Ryan Potter",
+            " Teagan Croft",
+            " Curran Walters",
+            " Joshua Orpin",
+            " Conor Leslie",
+            " Minka Kelly",
+            " Alan Ritchson",
+            " Jay Lycurgo"
+        ],
+        "tha": [
+            "Brenton Thwaites",
+            " Anna Diop",
+            " Ryan Potter",
+            " Teagan Croft",
+            " Curran Walters",
+            " Joshua Orpin",
+            " Conor Leslie",
+            " Minka Kelly",
+            " Alan Ritchson",
+            " Jay Lycurgo"
+        ],
+        "ind": [
+            "Brenton Thwaites",
+            " Anna Diop",
+            " Ryan Potter",
+            " Teagan Croft",
+            " Curran Walters",
+            " Joshua Orpin",
+            " Conor Leslie",
+            " Minka Kelly",
+            " Alan Ritchson",
+            " Jay Lycurgo"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Carol Banker",
+            " Boris Mojsovski",
+            " Nick Copus",
+            " Nick Gomez",
+            " Millicent Shelton",
+            " Larnell Stovall",
+            " Akiva Goldsman",
+            " Alex Kalymnios",
+            " Kevin Rodney Sullivan",
+            " Glen Winter"
+        ],
+        "may": [
+            "Carol Banker",
+            " Boris Mojsovski",
+            " Nick Copus",
+            " Nick Gomez",
+            " Millicent Shelton",
+            " Larnell Stovall",
+            " Akiva Goldsman",
+            " Alex Kalymnios",
+            " Kevin Rodney Sullivan",
+            " Glen Winter"
+        ],
+        "tam": [
+            "Carol Banker",
+            " Boris Mojsovski",
+            " Nick Copus",
+            " Nick Gomez",
+            " Millicent Shelton",
+            " Larnell Stovall",
+            " Akiva Goldsman",
+            " Alex Kalymnios",
+            " Kevin Rodney Sullivan",
+            " Glen Winter"
+        ],
+        "chi": [
+            "Carol Banker",
+            " Boris Mojsovski",
+            " Nick Copus",
+            " Nick Gomez",
+            " Millicent Shelton",
+            " Larnell Stovall",
+            " Akiva Goldsman",
+            " Alex Kalymnios",
+            " Kevin Rodney Sullivan",
+            " Glen Winter"
+        ],
+        "tha": [
+            "Carol Banker",
+            " Boris Mojsovski",
+            " Nick Copus",
+            " Nick Gomez",
+            " Millicent Shelton",
+            " Larnell Stovall",
+            " Akiva Goldsman",
+            " Alex Kalymnios",
+            " Kevin Rodney Sullivan",
+            " Glen Winter"
+        ],
+        "ind": [
+            "Carol Banker",
+            " Boris Mojsovski",
+            " Nick Copus",
+            " Nick Gomez",
+            " Millicent Shelton",
+            " Larnell Stovall",
+            " Akiva Goldsman",
+            " Alex Kalymnios",
+            " Kevin Rodney Sullivan",
+            " Glen Winter"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Tom Flores",
+            " Greg Berlanti",
+            " Akiva Goldsman",
+            " Richard Hatem",
+            " Geoff Johns",
+            " Sarah Schechter",
+            " Greg Walker",
+            " Jamie Gorenberg",
+            " Michael Wray",
+            " Carol Banker"
+        ],
+        "may": [
+            "Tom Flores",
+            " Greg Berlanti",
+            " Akiva Goldsman",
+            " Richard Hatem",
+            " Geoff Johns",
+            " Sarah Schechter",
+            " Greg Walker",
+            " Jamie Gorenberg",
+            " Michael Wray",
+            " Carol Banker"
+        ],
+        "tam": [
+            "Tom Flores",
+            " Greg Berlanti",
+            " Akiva Goldsman",
+            " Richard Hatem",
+            " Geoff Johns",
+            " Sarah Schechter",
+            " Greg Walker",
+            " Jamie Gorenberg",
+            " Michael Wray",
+            " Carol Banker"
+        ],
+        "chi": [
+            "Tom Flores",
+            " Greg Berlanti",
+            " Akiva Goldsman",
+            " Richard Hatem",
+            " Geoff Johns",
+            " Sarah Schechter",
+            " Greg Walker",
+            " Jamie Gorenberg",
+            " Michael Wray",
+            " Carol Banker"
+        ],
+        "tha": [
+            "Tom Flores",
+            " Greg Berlanti",
+            " Akiva Goldsman",
+            " Richard Hatem",
+            " Geoff Johns",
+            " Sarah Schechter",
+            " Greg Walker",
+            " Jamie Gorenberg",
+            " Michael Wray",
+            " Carol Banker"
+        ],
+        "ind": [
+            "Tom Flores",
+            " Greg Berlanti",
+            " Akiva Goldsman",
+            " Richard Hatem",
+            " Geoff Johns",
+            " Sarah Schechter",
+            " Greg Walker",
+            " Jamie Gorenberg",
+            " Michael Wray",
+            " Carol Banker"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TitansSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TitansSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TitansSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_90399ea1-16d4-5e14-baf5-c5ea2c16e70a",
+    "seasonId": "AggregatedSeason_d0d25a42-6e84-57bc-9aa4-7081414a00af",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2018,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

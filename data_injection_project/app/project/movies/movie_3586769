@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_b22f3b8d-8994-5430-8834-b10fd58355a0",
+    "clientContentId": "PACK0000000003654424",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "RENEGADES",
+            "may": "RENEGADES",
+            "tam": "RENEGADES",
+            "chi": "RENEGADES",
+            "tha": "RENEGADES",
+            "ind": "RENEGADES"
+        },
+        "long": {
+            "eng": "RENEGADES",
+            "may": "RENEGADES",
+            "tam": "RENEGADES",
+            "chi": "RENEGADES",
+            "tha": "RENEGADES",
+            "ind": "RENEGADES"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "When a retired Green Beret soldier is murdered by an international drug gang in London, four of his veteran SAS comrades set out to avenge him, dispensing their own brand of justice on the streets of London.",
+            "may": "When a retired Green Beret soldier is murdered by an international drug gang in London, four of his veteran SAS comrades set out to avenge him, dispensing their own brand of justice on the streets of London.",
+            "tam": "When a retired Green Beret soldier is murdered by an international drug gang in London, four of his veteran SAS comrades set out to avenge him, dispensing their own brand of justice on the streets of London.",
+            "chi": "When a retired Green Beret soldier is murdered by an international drug gang in London, four of his veteran SAS comrades set out to avenge him, dispensing their own brand of justice on the streets of London.",
+            "tha": "When a retired Green Beret soldier is murdered by an international drug gang in London, four of his veteran SAS comrades set out to avenge him, dispensing their own brand of justice on the streets of London.",
+            "ind": "When a retired Green Beret soldier is murdered by an international drug gang in London, four of his veteran SAS comrades set out to avenge him, dispensing their own brand of justice on the streets of London."
+        },
+        "long": {
+            "eng": "When a retired Green Beret soldier is murdered by an international drug gang in London, four of his veteran SAS comrades set out to avenge him, dispensing their own brand of justice on the streets of London.",
+            "may": "When a retired Green Beret soldier is murdered by an international drug gang in London, four of his veteran SAS comrades set out to avenge him, dispensing their own brand of justice on the streets of London.",
+            "tam": "When a retired Green Beret soldier is murdered by an international drug gang in London, four of his veteran SAS comrades set out to avenge him, dispensing their own brand of justice on the streets of London.",
+            "chi": "When a retired Green Beret soldier is murdered by an international drug gang in London, four of his veteran SAS comrades set out to avenge him, dispensing their own brand of justice on the streets of London.",
+            "tha": "When a retired Green Beret soldier is murdered by an international drug gang in London, four of his veteran SAS comrades set out to avenge him, dispensing their own brand of justice on the streets of London.",
+            "ind": "When a retired Green Beret soldier is murdered by an international drug gang in London, four of his veteran SAS comrades set out to avenge him, dispensing their own brand of justice on the streets of London."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Danny Trejo",
+            " Patsy Kensit",
+            " Lee Majors",
+            " Michael Par\u00e9",
+            " Louis Mandylor",
+            " Tom Lister Jr.",
+            " Nick Moran",
+            " Stephanie Beacham",
+            " Ian Ogilvy",
+            " Michael Brandon"
+        ],
+        "may": [
+            "Danny Trejo",
+            " Patsy Kensit",
+            " Lee Majors",
+            " Michael Par\u00e9",
+            " Louis Mandylor",
+            " Tom Lister Jr.",
+            " Nick Moran",
+            " Stephanie Beacham",
+            " Ian Ogilvy",
+            " Michael Brandon"
+        ],
+        "tam": [
+            "Danny Trejo",
+            " Patsy Kensit",
+            " Lee Majors",
+            " Michael Par\u00e9",
+            " Louis Mandylor",
+            " Tom Lister Jr.",
+            " Nick Moran",
+            " Stephanie Beacham",
+            " Ian Ogilvy",
+            " Michael Brandon"
+        ],
+        "chi": [
+            "Danny Trejo",
+            " Patsy Kensit",
+            " Lee Majors",
+            " Michael Par\u00e9",
+            " Louis Mandylor",
+            " Tom Lister Jr.",
+            " Nick Moran",
+            " Stephanie Beacham",
+            " Ian Ogilvy",
+            " Michael Brandon"
+        ],
+        "tha": [
+            "Danny Trejo",
+            " Patsy Kensit",
+            " Lee Majors",
+            " Michael Par\u00e9",
+            " Louis Mandylor",
+            " Tom Lister Jr.",
+            " Nick Moran",
+            " Stephanie Beacham",
+            " Ian Ogilvy",
+            " Michael Brandon"
+        ],
+        "ind": [
+            "Danny Trejo",
+            " Patsy Kensit",
+            " Lee Majors",
+            " Michael Par\u00e9",
+            " Louis Mandylor",
+            " Tom Lister Jr.",
+            " Nick Moran",
+            " Stephanie Beacham",
+            " Ian Ogilvy",
+            " Michael Brandon"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Daniel Zirilli"
+        ],
+        "may": [
+            "Daniel Zirilli"
+        ],
+        "tam": [
+            "Daniel Zirilli"
+        ],
+        "chi": [
+            "Daniel Zirilli"
+        ],
+        "tha": [
+            "Daniel Zirilli"
+        ],
+        "ind": [
+            "Daniel Zirilli"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Mark Anthonisz",
+            " Mario Antoniou",
+            " Greg Baker",
+            " Nicholas C. Bennett",
+            " Bob Clarke",
+            " Andrew Green",
+            " Warren Hicks",
+            " Nigel Hughes",
+            " Gareth Jones",
+            " R. Michael Jones"
+        ],
+        "may": [
+            "Mark Anthonisz",
+            " Mario Antoniou",
+            " Greg Baker",
+            " Nicholas C. Bennett",
+            " Bob Clarke",
+            " Andrew Green",
+            " Warren Hicks",
+            " Nigel Hughes",
+            " Gareth Jones",
+            " R. Michael Jones"
+        ],
+        "tam": [
+            "Mark Anthonisz",
+            " Mario Antoniou",
+            " Greg Baker",
+            " Nicholas C. Bennett",
+            " Bob Clarke",
+            " Andrew Green",
+            " Warren Hicks",
+            " Nigel Hughes",
+            " Gareth Jones",
+            " R. Michael Jones"
+        ],
+        "chi": [
+            "Mark Anthonisz",
+            " Mario Antoniou",
+            " Greg Baker",
+            " Nicholas C. Bennett",
+            " Bob Clarke",
+            " Andrew Green",
+            " Warren Hicks",
+            " Nigel Hughes",
+            " Gareth Jones",
+            " R. Michael Jones"
+        ],
+        "tha": [
+            "Mark Anthonisz",
+            " Mario Antoniou",
+            " Greg Baker",
+            " Nicholas C. Bennett",
+            " Bob Clarke",
+            " Andrew Green",
+            " Warren Hicks",
+            " Nigel Hughes",
+            " Gareth Jones",
+            " R. Michael Jones"
+        ],
+        "ind": [
+            "Mark Anthonisz",
+            " Mario Antoniou",
+            " Greg Baker",
+            " Nicholas C. Bennett",
+            " Bob Clarke",
+            " Andrew Green",
+            " Warren Hicks",
+            " Nigel Hughes",
+            " Gareth Jones",
+            " R. Michael Jones"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/RENEGADES_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/RENEGADES_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/RENEGADES_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "4.3",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

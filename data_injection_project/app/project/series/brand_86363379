@@ -1,0 +1,367 @@
+{
+    "externalId": "AggregatedSeries_3ef77796-5014-5db7-a1a3-d61f61d23c66",
+    "clientContentId": "PACK0000000002322669",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "American Horror Stories",
+            "may": "American Horror Stories",
+            "tam": "American Horror Stories",
+            "chi": "American Horror Stories",
+            "tha": "American Horror Stories",
+            "ind": "American Horror Stories"
+        },
+        "long": {
+            "eng": "American Horror Stories",
+            "may": "American Horror Stories",
+            "tam": "American Horror Stories",
+            "chi": "American Horror Stories",
+            "tha": "American Horror Stories",
+            "ind": "American Horror Stories"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "An anthology series of stand-alone episodes delving into horror myths, legends and lore.",
+            "may": "An anthology series of stand-alone episodes delving into horror myths, legends and lore.",
+            "tam": "An anthology series of stand-alone episodes delving into horror myths, legends and lore.",
+            "chi": "An anthology series of stand-alone episodes delving into horror myths, legends and lore.",
+            "tha": "An anthology series of stand-alone episodes delving into horror myths, legends and lore.",
+            "ind": "An anthology series of stand-alone episodes delving into horror myths, legends and lore."
+        },
+        "long": {
+            "eng": "An anthology series of stand-alone episodes delving into horror myths, legends and lore.",
+            "may": "An anthology series of stand-alone episodes delving into horror myths, legends and lore.",
+            "tam": "An anthology series of stand-alone episodes delving into horror myths, legends and lore.",
+            "chi": "An anthology series of stand-alone episodes delving into horror myths, legends and lore.",
+            "tha": "An anthology series of stand-alone episodes delving into horror myths, legends and lore.",
+            "ind": "An anthology series of stand-alone episodes delving into horror myths, legends and lore."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Sierra McCormick",
+            " Paris Jackson",
+            " Merrin Dungey",
+            " Selena Sloan",
+            " Ashley Carter",
+            " Valerie Loo",
+            " Devyn LaBella",
+            " Troy Castaneda",
+            " Cody Fern",
+            " Matt Bomer"
+        ],
+        "may": [
+            "Sierra McCormick",
+            " Paris Jackson",
+            " Merrin Dungey",
+            " Selena Sloan",
+            " Ashley Carter",
+            " Valerie Loo",
+            " Devyn LaBella",
+            " Troy Castaneda",
+            " Cody Fern",
+            " Matt Bomer"
+        ],
+        "tam": [
+            "Sierra McCormick",
+            " Paris Jackson",
+            " Merrin Dungey",
+            " Selena Sloan",
+            " Ashley Carter",
+            " Valerie Loo",
+            " Devyn LaBella",
+            " Troy Castaneda",
+            " Cody Fern",
+            " Matt Bomer"
+        ],
+        "chi": [
+            "Sierra McCormick",
+            " Paris Jackson",
+            " Merrin Dungey",
+            " Selena Sloan",
+            " Ashley Carter",
+            " Valerie Loo",
+            " Devyn LaBella",
+            " Troy Castaneda",
+            " Cody Fern",
+            " Matt Bomer"
+        ],
+        "tha": [
+            "Sierra McCormick",
+            " Paris Jackson",
+            " Merrin Dungey",
+            " Selena Sloan",
+            " Ashley Carter",
+            " Valerie Loo",
+            " Devyn LaBella",
+            " Troy Castaneda",
+            " Cody Fern",
+            " Matt Bomer"
+        ],
+        "ind": [
+            "Sierra McCormick",
+            " Paris Jackson",
+            " Merrin Dungey",
+            " Selena Sloan",
+            " Ashley Carter",
+            " Valerie Loo",
+            " Devyn LaBella",
+            " Troy Castaneda",
+            " Cody Fern",
+            " Matt Bomer"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Loni Peristere",
+            " Max Winkler",
+            " Manny Coto",
+            " Liz Friedlander",
+            " Sanaa Hamri",
+            " Eduardo S\u00e1nchez",
+            " Alonso Alvarez",
+            " Tessa Blake",
+            " Yangzom Brauen",
+            " Logan Kibens"
+        ],
+        "may": [
+            "Loni Peristere",
+            " Max Winkler",
+            " Manny Coto",
+            " Liz Friedlander",
+            " Sanaa Hamri",
+            " Eduardo S\u00e1nchez",
+            " Alonso Alvarez",
+            " Tessa Blake",
+            " Yangzom Brauen",
+            " Logan Kibens"
+        ],
+        "tam": [
+            "Loni Peristere",
+            " Max Winkler",
+            " Manny Coto",
+            " Liz Friedlander",
+            " Sanaa Hamri",
+            " Eduardo S\u00e1nchez",
+            " Alonso Alvarez",
+            " Tessa Blake",
+            " Yangzom Brauen",
+            " Logan Kibens"
+        ],
+        "chi": [
+            "Loni Peristere",
+            " Max Winkler",
+            " Manny Coto",
+            " Liz Friedlander",
+            " Sanaa Hamri",
+            " Eduardo S\u00e1nchez",
+            " Alonso Alvarez",
+            " Tessa Blake",
+            " Yangzom Brauen",
+            " Logan Kibens"
+        ],
+        "tha": [
+            "Loni Peristere",
+            " Max Winkler",
+            " Manny Coto",
+            " Liz Friedlander",
+            " Sanaa Hamri",
+            " Eduardo S\u00e1nchez",
+            " Alonso Alvarez",
+            " Tessa Blake",
+            " Yangzom Brauen",
+            " Logan Kibens"
+        ],
+        "ind": [
+            "Loni Peristere",
+            " Max Winkler",
+            " Manny Coto",
+            " Liz Friedlander",
+            " Sanaa Hamri",
+            " Eduardo S\u00e1nchez",
+            " Alonso Alvarez",
+            " Tessa Blake",
+            " Yangzom Brauen",
+            " Logan Kibens"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Lou Eyrich",
+            " Brad Falchuk",
+            " John J. Gray",
+            " Eryn Krueger Mekash",
+            " Todd Kubrak",
+            " Alexis Martin Woodall",
+            " Susan V. McConnell",
+            " Ryan Murphy",
+            " Todd Nenninger",
+            " Tanase Popa"
+        ],
+        "may": [
+            "Lou Eyrich",
+            " Brad Falchuk",
+            " John J. Gray",
+            " Eryn Krueger Mekash",
+            " Todd Kubrak",
+            " Alexis Martin Woodall",
+            " Susan V. McConnell",
+            " Ryan Murphy",
+            " Todd Nenninger",
+            " Tanase Popa"
+        ],
+        "tam": [
+            "Lou Eyrich",
+            " Brad Falchuk",
+            " John J. Gray",
+            " Eryn Krueger Mekash",
+            " Todd Kubrak",
+            " Alexis Martin Woodall",
+            " Susan V. McConnell",
+            " Ryan Murphy",
+            " Todd Nenninger",
+            " Tanase Popa"
+        ],
+        "chi": [
+            "Lou Eyrich",
+            " Brad Falchuk",
+            " John J. Gray",
+            " Eryn Krueger Mekash",
+            " Todd Kubrak",
+            " Alexis Martin Woodall",
+            " Susan V. McConnell",
+            " Ryan Murphy",
+            " Todd Nenninger",
+            " Tanase Popa"
+        ],
+        "tha": [
+            "Lou Eyrich",
+            " Brad Falchuk",
+            " John J. Gray",
+            " Eryn Krueger Mekash",
+            " Todd Kubrak",
+            " Alexis Martin Woodall",
+            " Susan V. McConnell",
+            " Ryan Murphy",
+            " Todd Nenninger",
+            " Tanase Popa"
+        ],
+        "ind": [
+            "Lou Eyrich",
+            " Brad Falchuk",
+            " John J. Gray",
+            " Eryn Krueger Mekash",
+            " Todd Kubrak",
+            " Alexis Martin Woodall",
+            " Susan V. McConnell",
+            " Ryan Murphy",
+            " Todd Nenninger",
+            " Tanase Popa"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "tam": " Horror",
+                    "chi": " Horror",
+                    "tha": " Horror",
+                    "ind": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/AmericanHorrorStoriesSeason2_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/AmericanHorrorStoriesSeason2_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/AmericanHorrorStoriesSeason2_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "10",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2021,
+    "maxConcurrentStreams": 0
+}

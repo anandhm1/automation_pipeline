@@ -1,0 +1,329 @@
+{
+    "externalId": "AggregatedSeason_5d0dc9d3-99ab-5b95-9428-3bf91d12e61f",
+    "clientContentId": "PACK0000000003441403",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "chi": "Comedy",
+                    "tam": "Comedy",
+                    "ind": "Comedy",
+                    "tha": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "chi": "Comedy",
+                    "tam": "Comedy",
+                    "ind": "Comedy",
+                    "tha": "Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2021,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Rose Matafeo",
+            " Nikesh Patel",
+            " Emma Sidi",
+            " Al Roberts",
+            " Joe Barnes",
+            " Nic Sampson",
+            " Lola-Rose Maxwell",
+            " Ambreen Razia",
+            " Minnie Driver",
+            " Sindhu Vee"
+        ],
+        "may": [
+            "Rose Matafeo",
+            " Nikesh Patel",
+            " Emma Sidi",
+            " Al Roberts",
+            " Joe Barnes",
+            " Nic Sampson",
+            " Lola-Rose Maxwell",
+            " Ambreen Razia",
+            " Minnie Driver",
+            " Sindhu Vee"
+        ],
+        "chi": [
+            "Rose Matafeo",
+            " Nikesh Patel",
+            " Emma Sidi",
+            " Al Roberts",
+            " Joe Barnes",
+            " Nic Sampson",
+            " Lola-Rose Maxwell",
+            " Ambreen Razia",
+            " Minnie Driver",
+            " Sindhu Vee"
+        ],
+        "tam": [
+            "Rose Matafeo",
+            " Nikesh Patel",
+            " Emma Sidi",
+            " Al Roberts",
+            " Joe Barnes",
+            " Nic Sampson",
+            " Lola-Rose Maxwell",
+            " Ambreen Razia",
+            " Minnie Driver",
+            " Sindhu Vee"
+        ],
+        "ind": [
+            "Rose Matafeo",
+            " Nikesh Patel",
+            " Emma Sidi",
+            " Al Roberts",
+            " Joe Barnes",
+            " Nic Sampson",
+            " Lola-Rose Maxwell",
+            " Ambreen Razia",
+            " Minnie Driver",
+            " Sindhu Vee"
+        ],
+        "tha": [
+            "Rose Matafeo",
+            " Nikesh Patel",
+            " Emma Sidi",
+            " Al Roberts",
+            " Joe Barnes",
+            " Nic Sampson",
+            " Lola-Rose Maxwell",
+            " Ambreen Razia",
+            " Minnie Driver",
+            " Sindhu Vee"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Karen Maine",
+            " Jamie Jay Johnson"
+        ],
+        "may": [
+            "Karen Maine",
+            " Jamie Jay Johnson"
+        ],
+        "chi": [
+            "Karen Maine",
+            " Jamie Jay Johnson"
+        ],
+        "tam": [
+            "Karen Maine",
+            " Jamie Jay Johnson"
+        ],
+        "ind": [
+            "Karen Maine",
+            " Jamie Jay Johnson"
+        ],
+        "tha": [
+            "Karen Maine",
+            " Jamie Jay Johnson"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Toby Welch",
+            " Richard Allen-Turner",
+            " Rob Aslett",
+            " Rose Matafeo",
+            " Jon Thoday",
+            " Wendy Wright",
+            " Claire McCarthy",
+            " Bridget Goodman",
+            " Gregor Sharp",
+            " Alice Snedden"
+        ],
+        "may": [
+            "Toby Welch",
+            " Richard Allen-Turner",
+            " Rob Aslett",
+            " Rose Matafeo",
+            " Jon Thoday",
+            " Wendy Wright",
+            " Claire McCarthy",
+            " Bridget Goodman",
+            " Gregor Sharp",
+            " Alice Snedden"
+        ],
+        "chi": [
+            "Toby Welch",
+            " Richard Allen-Turner",
+            " Rob Aslett",
+            " Rose Matafeo",
+            " Jon Thoday",
+            " Wendy Wright",
+            " Claire McCarthy",
+            " Bridget Goodman",
+            " Gregor Sharp",
+            " Alice Snedden"
+        ],
+        "tam": [
+            "Toby Welch",
+            " Richard Allen-Turner",
+            " Rob Aslett",
+            " Rose Matafeo",
+            " Jon Thoday",
+            " Wendy Wright",
+            " Claire McCarthy",
+            " Bridget Goodman",
+            " Gregor Sharp",
+            " Alice Snedden"
+        ],
+        "ind": [
+            "Toby Welch",
+            " Richard Allen-Turner",
+            " Rob Aslett",
+            " Rose Matafeo",
+            " Jon Thoday",
+            " Wendy Wright",
+            " Claire McCarthy",
+            " Bridget Goodman",
+            " Gregor Sharp",
+            " Alice Snedden"
+        ],
+        "tha": [
+            "Toby Welch",
+            " Richard Allen-Turner",
+            " Rob Aslett",
+            " Rose Matafeo",
+            " Jon Thoday",
+            " Wendy Wright",
+            " Claire McCarthy",
+            " Bridget Goodman",
+            " Gregor Sharp",
+            " Alice Snedden"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_23758d98-7d17-5f11-81fe-d6f66e0ba683",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Starstruck Season 1",
+            "may": "Starstruck Season 1",
+            "chi": "Starstruck Season 1",
+            "tam": "Starstruck Season 1",
+            "ind": "Starstruck Season 1",
+            "tha": "Starstruck Season 1"
+        },
+        "long": {
+            "eng": "Starstruck Season 1",
+            "may": "Starstruck Season 1",
+            "chi": "Starstruck Season 1",
+            "tam": "Starstruck Season 1",
+            "ind": "Starstruck Season 1",
+            "tha": "Starstruck Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "may": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "chi": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "tam": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "ind": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "tha": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star."
+        },
+        "long": {
+            "eng": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "may": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "chi": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "tam": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "ind": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star.",
+            "tha": "A millennial in London is juggling two dead-end jobs and navigating the awkward morning-after-the-night-before when she discovers the complications of accidentally sleeping with a film star."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StarstruckSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StarstruckSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StarstruckSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

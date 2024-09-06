@@ -1,0 +1,227 @@
+{
+    "externalId": "AggregatedSeason_2193666a-89f6-5a07-81ab-43d8e60f6077",
+    "clientContentId": "PACK0000000005534500",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Game-Show",
+                    "may": "Game-Show",
+                    "chi": "Game-Show",
+                    "tam": "Game-Show",
+                    "ind": "Game-Show",
+                    "tha": "Game-Show"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Reality-TV",
+                    "may": " Reality-TV",
+                    "chi": " Reality-TV",
+                    "tam": " Reality-TV",
+                    "ind": " Reality-TV",
+                    "tha": " Reality-TV"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2021,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Iain Stirling",
+            " Caroline Flack",
+            " Laura Whitmore"
+        ],
+        "may": [
+            "Iain Stirling",
+            " Caroline Flack",
+            " Laura Whitmore"
+        ],
+        "chi": [
+            "Iain Stirling",
+            " Caroline Flack",
+            " Laura Whitmore"
+        ],
+        "tam": [
+            "Iain Stirling",
+            " Caroline Flack",
+            " Laura Whitmore"
+        ],
+        "ind": [
+            "Iain Stirling",
+            " Caroline Flack",
+            " Laura Whitmore"
+        ],
+        "tha": [
+            "Iain Stirling",
+            " Caroline Flack",
+            " Laura Whitmore"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Hayley MacFarlane"
+        ],
+        "may": [
+            "Hayley MacFarlane"
+        ],
+        "chi": [
+            "Hayley MacFarlane"
+        ],
+        "tam": [
+            "Hayley MacFarlane"
+        ],
+        "ind": [
+            "Hayley MacFarlane"
+        ],
+        "tha": [
+            "Hayley MacFarlane"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Andy Cadman"
+        ],
+        "may": [
+            "Andy Cadman"
+        ],
+        "chi": [
+            "Andy Cadman"
+        ],
+        "tam": [
+            "Andy Cadman"
+        ],
+        "ind": [
+            "Andy Cadman"
+        ],
+        "tha": [
+            "Andy Cadman"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_fa2b82f8-9adb-5d08-a315-b12ae5933507",
+    "seasonNumber": "7",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Love Island UK Season 7",
+            "may": "Love Island UK Season 7",
+            "chi": "Love Island UK Season 7",
+            "tam": "Love Island UK Season 7",
+            "ind": "Love Island UK Season 7",
+            "tha": "Love Island UK Season 7"
+        },
+        "long": {
+            "eng": "Love Island UK Season 7",
+            "may": "Love Island UK Season 7",
+            "chi": "Love Island UK Season 7",
+            "tam": "Love Island UK Season 7",
+            "ind": "Love Island UK Season 7",
+            "tha": "Love Island UK Season 7"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "may": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "chi": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "tam": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "ind": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "tha": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama."
+        },
+        "long": {
+            "eng": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "may": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "chi": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "tam": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "ind": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama.",
+            "tha": "Single hopefuls looking for love complete tasks, couple off and get voted out week by week. Packed full of drama."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LoveIslandUKSeason7_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LoveIslandUKSeason7_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LoveIslandUKSeason7_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

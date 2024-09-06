@@ -1,0 +1,329 @@
+{
+    "externalId": "AggregatedSeason_f2ffc0a7-84cf-5b5d-b7ee-af9320c2b633",
+    "clientContentId": "PACK0000000006210859",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "chi": "Comedy",
+                    "tam": "Comedy",
+                    "ind": "Comedy",
+                    "tha": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Paul Rudd",
+            " Aisling Bea",
+            " Ali Akbar Sepahi",
+            " Desmin Borges",
+            " Karen Pittman",
+            " Zoe Chao",
+            " Zach Cherry",
+            " James Seol",
+            " Gene Jones",
+            " Rob Yang"
+        ],
+        "may": [
+            "Paul Rudd",
+            " Aisling Bea",
+            " Ali Akbar Sepahi",
+            " Desmin Borges",
+            " Karen Pittman",
+            " Zoe Chao",
+            " Zach Cherry",
+            " James Seol",
+            " Gene Jones",
+            " Rob Yang"
+        ],
+        "chi": [
+            "Paul Rudd",
+            " Aisling Bea",
+            " Ali Akbar Sepahi",
+            " Desmin Borges",
+            " Karen Pittman",
+            " Zoe Chao",
+            " Zach Cherry",
+            " James Seol",
+            " Gene Jones",
+            " Rob Yang"
+        ],
+        "tam": [
+            "Paul Rudd",
+            " Aisling Bea",
+            " Ali Akbar Sepahi",
+            " Desmin Borges",
+            " Karen Pittman",
+            " Zoe Chao",
+            " Zach Cherry",
+            " James Seol",
+            " Gene Jones",
+            " Rob Yang"
+        ],
+        "ind": [
+            "Paul Rudd",
+            " Aisling Bea",
+            " Ali Akbar Sepahi",
+            " Desmin Borges",
+            " Karen Pittman",
+            " Zoe Chao",
+            " Zach Cherry",
+            " James Seol",
+            " Gene Jones",
+            " Rob Yang"
+        ],
+        "tha": [
+            "Paul Rudd",
+            " Aisling Bea",
+            " Ali Akbar Sepahi",
+            " Desmin Borges",
+            " Karen Pittman",
+            " Zoe Chao",
+            " Zach Cherry",
+            " James Seol",
+            " Gene Jones",
+            " Rob Yang"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jonathan Dayton",
+            " Valerie Faris"
+        ],
+        "may": [
+            "Jonathan Dayton",
+            " Valerie Faris"
+        ],
+        "chi": [
+            "Jonathan Dayton",
+            " Valerie Faris"
+        ],
+        "tam": [
+            "Jonathan Dayton",
+            " Valerie Faris"
+        ],
+        "ind": [
+            "Jonathan Dayton",
+            " Valerie Faris"
+        ],
+        "tha": [
+            "Jonathan Dayton",
+            " Valerie Faris"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Michael Amodio",
+            " Jeffrey Blitz",
+            " Anthony Bregman",
+            " Lilly Burns",
+            " Jonathan Dayton",
+            " Valerie Faris",
+            " Karl Frankenfield",
+            " Timothy Greenberg",
+            " Tony Hernandez",
+            " Isabel Richardson"
+        ],
+        "may": [
+            "Michael Amodio",
+            " Jeffrey Blitz",
+            " Anthony Bregman",
+            " Lilly Burns",
+            " Jonathan Dayton",
+            " Valerie Faris",
+            " Karl Frankenfield",
+            " Timothy Greenberg",
+            " Tony Hernandez",
+            " Isabel Richardson"
+        ],
+        "chi": [
+            "Michael Amodio",
+            " Jeffrey Blitz",
+            " Anthony Bregman",
+            " Lilly Burns",
+            " Jonathan Dayton",
+            " Valerie Faris",
+            " Karl Frankenfield",
+            " Timothy Greenberg",
+            " Tony Hernandez",
+            " Isabel Richardson"
+        ],
+        "tam": [
+            "Michael Amodio",
+            " Jeffrey Blitz",
+            " Anthony Bregman",
+            " Lilly Burns",
+            " Jonathan Dayton",
+            " Valerie Faris",
+            " Karl Frankenfield",
+            " Timothy Greenberg",
+            " Tony Hernandez",
+            " Isabel Richardson"
+        ],
+        "ind": [
+            "Michael Amodio",
+            " Jeffrey Blitz",
+            " Anthony Bregman",
+            " Lilly Burns",
+            " Jonathan Dayton",
+            " Valerie Faris",
+            " Karl Frankenfield",
+            " Timothy Greenberg",
+            " Tony Hernandez",
+            " Isabel Richardson"
+        ],
+        "tha": [
+            "Michael Amodio",
+            " Jeffrey Blitz",
+            " Anthony Bregman",
+            " Lilly Burns",
+            " Jonathan Dayton",
+            " Valerie Faris",
+            " Karl Frankenfield",
+            " Timothy Greenberg",
+            " Tony Hernandez",
+            " Isabel Richardson"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_add9e481-f408-5f39-aa46-3c44401fc7a5",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Living With Yourself Season 1",
+            "may": "Living With Yourself Season 1",
+            "chi": "Living With Yourself Season 1",
+            "tam": "Living With Yourself Season 1",
+            "ind": "Living With Yourself Season 1",
+            "tha": "Living With Yourself Season 1"
+        },
+        "long": {
+            "eng": "Living With Yourself Season 1",
+            "may": "Living With Yourself Season 1",
+            "chi": "Living With Yourself Season 1",
+            "tam": "Living With Yourself Season 1",
+            "ind": "Living With Yourself Season 1",
+            "tha": "Living With Yourself Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "An existential comedy about a man struggling in life who undergoes a new treatment to become a better person, only to find that he's been replaced by a new and improved version of himself.",
+            "may": "An existential comedy about a man struggling in life who undergoes a new treatment to become a better person, only to find that he's been replaced by a new and improved version of himself.",
+            "chi": "An existential comedy about a man struggling in life who undergoes a new treatment to become a better person, only to find that he's been replaced by a new and improved version of himself.",
+            "tam": "An existential comedy about a man struggling in life who undergoes a new treatment to become a better person, only to find that he's been replaced by a new and improved version of himself.",
+            "ind": "An existential comedy about a man struggling in life who undergoes a new treatment to become a better person, only to find that he's been replaced by a new and improved version of himself.",
+            "tha": "An existential comedy about a man struggling in life who undergoes a new treatment to become a better person, only to find that he's been replaced by a new and improved version of himself."
+        },
+        "long": {
+            "eng": "An existential comedy about a man struggling in life who undergoes a new treatment to become a better person, only to find that he's been replaced by a new and improved version of himself.",
+            "may": "An existential comedy about a man struggling in life who undergoes a new treatment to become a better person, only to find that he's been replaced by a new and improved version of himself.",
+            "chi": "An existential comedy about a man struggling in life who undergoes a new treatment to become a better person, only to find that he's been replaced by a new and improved version of himself.",
+            "tam": "An existential comedy about a man struggling in life who undergoes a new treatment to become a better person, only to find that he's been replaced by a new and improved version of himself.",
+            "ind": "An existential comedy about a man struggling in life who undergoes a new treatment to become a better person, only to find that he's been replaced by a new and improved version of himself.",
+            "tha": "An existential comedy about a man struggling in life who undergoes a new treatment to become a better person, only to find that he's been replaced by a new and improved version of himself."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LivingWithYourselfSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LivingWithYourselfSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LivingWithYourselfSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

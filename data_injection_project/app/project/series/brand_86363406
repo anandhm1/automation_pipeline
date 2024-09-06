@@ -1,0 +1,277 @@
+{
+    "externalId": "AggregatedSeries_ecd3fc34-aaff-5ec4-94ef-615123c3370e",
+    "clientContentId": "PACK0000000007070876",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Inside Man",
+            "may": "Inside Man",
+            "tam": "Inside Man",
+            "chi": "Inside Man",
+            "tha": "Inside Man",
+            "ind": "Inside Man"
+        },
+        "long": {
+            "eng": "Inside Man",
+            "may": "Inside Man",
+            "tam": "Inside Man",
+            "chi": "Inside Man",
+            "tha": "Inside Man",
+            "ind": "Inside Man"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "may": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "tam": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "chi": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "tha": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "ind": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way."
+        },
+        "long": {
+            "eng": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "may": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "tam": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "chi": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "tha": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way.",
+            "ind": "A prisoner on death row in the US and a woman trapped in a cellar under an English vicarage, cross paths in the most unexpected way."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "David Tennant",
+            " Stanley Tucci",
+            " Dolly Wells",
+            " Lydia West",
+            " Lyndsey Marshal",
+            " Louis Oliver",
+            " Atkins Estimond",
+            " Dylan Baker",
+            " Eke Chukwu",
+            " Kate Dickie"
+        ],
+        "may": [
+            "David Tennant",
+            " Stanley Tucci",
+            " Dolly Wells",
+            " Lydia West",
+            " Lyndsey Marshal",
+            " Louis Oliver",
+            " Atkins Estimond",
+            " Dylan Baker",
+            " Eke Chukwu",
+            " Kate Dickie"
+        ],
+        "tam": [
+            "David Tennant",
+            " Stanley Tucci",
+            " Dolly Wells",
+            " Lydia West",
+            " Lyndsey Marshal",
+            " Louis Oliver",
+            " Atkins Estimond",
+            " Dylan Baker",
+            " Eke Chukwu",
+            " Kate Dickie"
+        ],
+        "chi": [
+            "David Tennant",
+            " Stanley Tucci",
+            " Dolly Wells",
+            " Lydia West",
+            " Lyndsey Marshal",
+            " Louis Oliver",
+            " Atkins Estimond",
+            " Dylan Baker",
+            " Eke Chukwu",
+            " Kate Dickie"
+        ],
+        "tha": [
+            "David Tennant",
+            " Stanley Tucci",
+            " Dolly Wells",
+            " Lydia West",
+            " Lyndsey Marshal",
+            " Louis Oliver",
+            " Atkins Estimond",
+            " Dylan Baker",
+            " Eke Chukwu",
+            " Kate Dickie"
+        ],
+        "ind": [
+            "David Tennant",
+            " Stanley Tucci",
+            " Dolly Wells",
+            " Lydia West",
+            " Lyndsey Marshal",
+            " Louis Oliver",
+            " Atkins Estimond",
+            " Dylan Baker",
+            " Eke Chukwu",
+            " Kate Dickie"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Paul McGuigan"
+        ],
+        "may": [
+            "Paul McGuigan"
+        ],
+        "tam": [
+            "Paul McGuigan"
+        ],
+        "chi": [
+            "Paul McGuigan"
+        ],
+        "tha": [
+            "Paul McGuigan"
+        ],
+        "ind": [
+            "Paul McGuigan"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ben Irving",
+            " Paul McGuigan",
+            " Alex Mercer",
+            " Sue Vertue"
+        ],
+        "may": [
+            "Ben Irving",
+            " Paul McGuigan",
+            " Alex Mercer",
+            " Sue Vertue"
+        ],
+        "tam": [
+            "Ben Irving",
+            " Paul McGuigan",
+            " Alex Mercer",
+            " Sue Vertue"
+        ],
+        "chi": [
+            "Ben Irving",
+            " Paul McGuigan",
+            " Alex Mercer",
+            " Sue Vertue"
+        ],
+        "tha": [
+            "Ben Irving",
+            " Paul McGuigan",
+            " Alex Mercer",
+            " Sue Vertue"
+        ],
+        "ind": [
+            "Ben Irving",
+            " Paul McGuigan",
+            " Alex Mercer",
+            " Sue Vertue"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/InsideManSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/InsideManSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/InsideManSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "8",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2022,
+    "maxConcurrentStreams": 0
+}

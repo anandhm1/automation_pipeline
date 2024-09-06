@@ -1,0 +1,377 @@
+{
+    "externalId": "AggregatedSeason_98169b5f-a4a3-589f-abb8-fc4588ac1190",
+    "clientContentId": "PACK0000000001376795",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Romance",
+                    "may": " Romance",
+                    "chi": " Romance",
+                    "tam": " Romance",
+                    "ind": " Romance",
+                    "tha": " Romance"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "TV-14",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Martin Henderson",
+            " Tim Matheson",
+            " Alexandra Breckenridge",
+            " Colin Lawrence",
+            " Benjamin Hollingsworth",
+            " Grayson Maxwell Gurnsey",
+            " Annette O'Toole",
+            " Lauren Hammersley",
+            " Nicola Cavendish",
+            " Sarah Dugdale"
+        ],
+        "may": [
+            "Martin Henderson",
+            " Tim Matheson",
+            " Alexandra Breckenridge",
+            " Colin Lawrence",
+            " Benjamin Hollingsworth",
+            " Grayson Maxwell Gurnsey",
+            " Annette O'Toole",
+            " Lauren Hammersley",
+            " Nicola Cavendish",
+            " Sarah Dugdale"
+        ],
+        "chi": [
+            "Martin Henderson",
+            " Tim Matheson",
+            " Alexandra Breckenridge",
+            " Colin Lawrence",
+            " Benjamin Hollingsworth",
+            " Grayson Maxwell Gurnsey",
+            " Annette O'Toole",
+            " Lauren Hammersley",
+            " Nicola Cavendish",
+            " Sarah Dugdale"
+        ],
+        "tam": [
+            "Martin Henderson",
+            " Tim Matheson",
+            " Alexandra Breckenridge",
+            " Colin Lawrence",
+            " Benjamin Hollingsworth",
+            " Grayson Maxwell Gurnsey",
+            " Annette O'Toole",
+            " Lauren Hammersley",
+            " Nicola Cavendish",
+            " Sarah Dugdale"
+        ],
+        "ind": [
+            "Martin Henderson",
+            " Tim Matheson",
+            " Alexandra Breckenridge",
+            " Colin Lawrence",
+            " Benjamin Hollingsworth",
+            " Grayson Maxwell Gurnsey",
+            " Annette O'Toole",
+            " Lauren Hammersley",
+            " Nicola Cavendish",
+            " Sarah Dugdale"
+        ],
+        "tha": [
+            "Martin Henderson",
+            " Tim Matheson",
+            " Alexandra Breckenridge",
+            " Colin Lawrence",
+            " Benjamin Hollingsworth",
+            " Grayson Maxwell Gurnsey",
+            " Annette O'Toole",
+            " Lauren Hammersley",
+            " Nicola Cavendish",
+            " Sarah Dugdale"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Martin Wood",
+            " Andy Mikita",
+            " Gail Harvey",
+            " Monika Mitchell",
+            " Tim Matheson",
+            " Jann Turner",
+            " Siobhan Devine",
+            " Nimisha Mukerji",
+            " Felipe Rodriguez",
+            " "
+        ],
+        "may": [
+            "Martin Wood",
+            " Andy Mikita",
+            " Gail Harvey",
+            " Monika Mitchell",
+            " Tim Matheson",
+            " Jann Turner",
+            " Siobhan Devine",
+            " Nimisha Mukerji",
+            " Felipe Rodriguez",
+            " "
+        ],
+        "chi": [
+            "Martin Wood",
+            " Andy Mikita",
+            " Gail Harvey",
+            " Monika Mitchell",
+            " Tim Matheson",
+            " Jann Turner",
+            " Siobhan Devine",
+            " Nimisha Mukerji",
+            " Felipe Rodriguez",
+            " "
+        ],
+        "tam": [
+            "Martin Wood",
+            " Andy Mikita",
+            " Gail Harvey",
+            " Monika Mitchell",
+            " Tim Matheson",
+            " Jann Turner",
+            " Siobhan Devine",
+            " Nimisha Mukerji",
+            " Felipe Rodriguez",
+            " "
+        ],
+        "ind": [
+            "Martin Wood",
+            " Andy Mikita",
+            " Gail Harvey",
+            " Monika Mitchell",
+            " Tim Matheson",
+            " Jann Turner",
+            " Siobhan Devine",
+            " Nimisha Mukerji",
+            " Felipe Rodriguez",
+            " "
+        ],
+        "tha": [
+            "Martin Wood",
+            " Andy Mikita",
+            " Gail Harvey",
+            " Monika Mitchell",
+            " Tim Matheson",
+            " Jann Turner",
+            " Siobhan Devine",
+            " Nimisha Mukerji",
+            " Felipe Rodriguez",
+            " "
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ian Hay",
+            " Sue Tenney",
+            " Jocelyn Freid",
+            " Sally Dixon",
+            " Roma Roth",
+            " Christopher E. Perry",
+            " Robyn Carr",
+            " Amy Palmer Robertson",
+            " Lisa Marie Petersen",
+            " Lana Gudlaugson"
+        ],
+        "may": [
+            "Ian Hay",
+            " Sue Tenney",
+            " Jocelyn Freid",
+            " Sally Dixon",
+            " Roma Roth",
+            " Christopher E. Perry",
+            " Robyn Carr",
+            " Amy Palmer Robertson",
+            " Lisa Marie Petersen",
+            " Lana Gudlaugson"
+        ],
+        "chi": [
+            "Ian Hay",
+            " Sue Tenney",
+            " Jocelyn Freid",
+            " Sally Dixon",
+            " Roma Roth",
+            " Christopher E. Perry",
+            " Robyn Carr",
+            " Amy Palmer Robertson",
+            " Lisa Marie Petersen",
+            " Lana Gudlaugson"
+        ],
+        "tam": [
+            "Ian Hay",
+            " Sue Tenney",
+            " Jocelyn Freid",
+            " Sally Dixon",
+            " Roma Roth",
+            " Christopher E. Perry",
+            " Robyn Carr",
+            " Amy Palmer Robertson",
+            " Lisa Marie Petersen",
+            " Lana Gudlaugson"
+        ],
+        "ind": [
+            "Ian Hay",
+            " Sue Tenney",
+            " Jocelyn Freid",
+            " Sally Dixon",
+            " Roma Roth",
+            " Christopher E. Perry",
+            " Robyn Carr",
+            " Amy Palmer Robertson",
+            " Lisa Marie Petersen",
+            " Lana Gudlaugson"
+        ],
+        "tha": [
+            "Ian Hay",
+            " Sue Tenney",
+            " Jocelyn Freid",
+            " Sally Dixon",
+            " Roma Roth",
+            " Christopher E. Perry",
+            " Robyn Carr",
+            " Amy Palmer Robertson",
+            " Lisa Marie Petersen",
+            " Lana Gudlaugson"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_02ac9617-81d5-553b-949c-aa711e3e0dbd",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Virgin River Season 1",
+            "may": "Virgin River Season 1",
+            "chi": "Virgin River Season 1",
+            "tam": "Virgin River Season 1",
+            "ind": "Virgin River Season 1",
+            "tha": "Virgin River Season 1"
+        },
+        "long": {
+            "eng": "Virgin River Season 1",
+            "may": "Virgin River Season 1",
+            "chi": "Virgin River Season 1",
+            "tam": "Virgin River Season 1",
+            "ind": "Virgin River Season 1",
+            "tha": "Virgin River Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "may": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "chi": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "tam": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "ind": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "tha": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds."
+        },
+        "long": {
+            "eng": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "may": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "chi": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "tam": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "ind": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
+            "tha": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VirginRiverSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VirginRiverSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/VirginRiverSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

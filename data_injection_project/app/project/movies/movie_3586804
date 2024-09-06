@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_6db05898-7a68-536a-afec-aa95a772ce38",
+    "clientContentId": "PACK0000000008759432",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Operation Fortune Ruse De Guerre 2023",
+            "may": "Operation Fortune Ruse De Guerre 2023",
+            "tam": "Operation Fortune Ruse De Guerre 2023",
+            "chi": "Operation Fortune Ruse De Guerre 2023",
+            "tha": "Operation Fortune Ruse De Guerre 2023",
+            "ind": "Operation Fortune Ruse De Guerre 2023"
+        },
+        "long": {
+            "eng": "Operation Fortune Ruse De Guerre 2023",
+            "may": "Operation Fortune Ruse De Guerre 2023",
+            "tam": "Operation Fortune Ruse De Guerre 2023",
+            "chi": "Operation Fortune Ruse De Guerre 2023",
+            "tha": "Operation Fortune Ruse De Guerre 2023",
+            "ind": "Operation Fortune Ruse De Guerre 2023"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
+            "may": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
+            "tam": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
+            "chi": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
+            "tha": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
+            "ind": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order."
+        },
+        "long": {
+            "eng": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
+            "may": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
+            "tam": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
+            "chi": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
+            "tha": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
+            "ind": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jason Statham",
+            " Aubrey Plaza",
+            " Cary Elwes",
+            " Hugh Grant",
+            " Josh Hartnett",
+            " Bugzy Malone",
+            " Eddie Marsan",
+            " Peter Ferdinando",
+            " Nicholas Facey",
+            " Lourdes Faberes"
+        ],
+        "may": [
+            "Jason Statham",
+            " Aubrey Plaza",
+            " Cary Elwes",
+            " Hugh Grant",
+            " Josh Hartnett",
+            " Bugzy Malone",
+            " Eddie Marsan",
+            " Peter Ferdinando",
+            " Nicholas Facey",
+            " Lourdes Faberes"
+        ],
+        "tam": [
+            "Jason Statham",
+            " Aubrey Plaza",
+            " Cary Elwes",
+            " Hugh Grant",
+            " Josh Hartnett",
+            " Bugzy Malone",
+            " Eddie Marsan",
+            " Peter Ferdinando",
+            " Nicholas Facey",
+            " Lourdes Faberes"
+        ],
+        "chi": [
+            "Jason Statham",
+            " Aubrey Plaza",
+            " Cary Elwes",
+            " Hugh Grant",
+            " Josh Hartnett",
+            " Bugzy Malone",
+            " Eddie Marsan",
+            " Peter Ferdinando",
+            " Nicholas Facey",
+            " Lourdes Faberes"
+        ],
+        "tha": [
+            "Jason Statham",
+            " Aubrey Plaza",
+            " Cary Elwes",
+            " Hugh Grant",
+            " Josh Hartnett",
+            " Bugzy Malone",
+            " Eddie Marsan",
+            " Peter Ferdinando",
+            " Nicholas Facey",
+            " Lourdes Faberes"
+        ],
+        "ind": [
+            "Jason Statham",
+            " Aubrey Plaza",
+            " Cary Elwes",
+            " Hugh Grant",
+            " Josh Hartnett",
+            " Bugzy Malone",
+            " Eddie Marsan",
+            " Peter Ferdinando",
+            " Nicholas Facey",
+            " Lourdes Faberes"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Guy Ritchie"
+        ],
+        "may": [
+            "Guy Ritchie"
+        ],
+        "tam": [
+            "Guy Ritchie"
+        ],
+        "chi": [
+            "Guy Ritchie"
+        ],
+        "tha": [
+            "Guy Ritchie"
+        ],
+        "ind": [
+            "Guy Ritchie"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Ivan Atkinson",
+            " Bill Block",
+            " Siobhan Boyes",
+            " Samuel J. Brown",
+            " Steven Chasman",
+            " Adam Fogelson",
+            " John Friedberg",
+            " Andrew Golov",
+            " Peter Heslop",
+            " Max Keene"
+        ],
+        "may": [
+            "Ivan Atkinson",
+            " Bill Block",
+            " Siobhan Boyes",
+            " Samuel J. Brown",
+            " Steven Chasman",
+            " Adam Fogelson",
+            " John Friedberg",
+            " Andrew Golov",
+            " Peter Heslop",
+            " Max Keene"
+        ],
+        "tam": [
+            "Ivan Atkinson",
+            " Bill Block",
+            " Siobhan Boyes",
+            " Samuel J. Brown",
+            " Steven Chasman",
+            " Adam Fogelson",
+            " John Friedberg",
+            " Andrew Golov",
+            " Peter Heslop",
+            " Max Keene"
+        ],
+        "chi": [
+            "Ivan Atkinson",
+            " Bill Block",
+            " Siobhan Boyes",
+            " Samuel J. Brown",
+            " Steven Chasman",
+            " Adam Fogelson",
+            " John Friedberg",
+            " Andrew Golov",
+            " Peter Heslop",
+            " Max Keene"
+        ],
+        "tha": [
+            "Ivan Atkinson",
+            " Bill Block",
+            " Siobhan Boyes",
+            " Samuel J. Brown",
+            " Steven Chasman",
+            " Adam Fogelson",
+            " John Friedberg",
+            " Andrew Golov",
+            " Peter Heslop",
+            " Max Keene"
+        ],
+        "ind": [
+            "Ivan Atkinson",
+            " Bill Block",
+            " Siobhan Boyes",
+            " Samuel J. Brown",
+            " Steven Chasman",
+            " Adam Fogelson",
+            " John Friedberg",
+            " Andrew Golov",
+            " Peter Heslop",
+            " Max Keene"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Comedy",
+                    "may": " Comedy",
+                    "tam": " Comedy",
+                    "chi": " Comedy",
+                    "tha": " Comedy",
+                    "ind": " Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/OperationFortuneRuseDeGuerre_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/OperationFortuneRuseDeGuerre_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/OperationFortuneRuseDeGuerre_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2023,
+    "rating": "6.5",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

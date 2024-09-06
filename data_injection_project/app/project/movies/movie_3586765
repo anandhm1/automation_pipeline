@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedMovie_35dd2af6-367f-5771-ad03-809668aa8bcb",
+    "clientContentId": "PACK0000000009610964",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Paradise City (2022)",
+            "may": "Paradise City (2022)",
+            "tam": "Paradise City (2022)",
+            "chi": "Paradise City (2022)",
+            "tha": "Paradise City (2022)",
+            "ind": "Paradise City (2022)"
+        },
+        "long": {
+            "eng": "Paradise City (2022)",
+            "may": "Paradise City (2022)",
+            "tam": "Paradise City (2022)",
+            "chi": "Paradise City (2022)",
+            "tha": "Paradise City (2022)",
+            "ind": "Paradise City (2022)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Ryan Swan must carve his way through the Hawaiian crime world to wreak vengeance on the kingpin who murdered his father.",
+            "may": "Ryan Swan must carve his way through the Hawaiian crime world to wreak vengeance on the kingpin who murdered his father.",
+            "tam": "Ryan Swan must carve his way through the Hawaiian crime world to wreak vengeance on the kingpin who murdered his father.",
+            "chi": "Ryan Swan must carve his way through the Hawaiian crime world to wreak vengeance on the kingpin who murdered his father.",
+            "tha": "Ryan Swan must carve his way through the Hawaiian crime world to wreak vengeance on the kingpin who murdered his father.",
+            "ind": "Ryan Swan must carve his way through the Hawaiian crime world to wreak vengeance on the kingpin who murdered his father."
+        },
+        "long": {
+            "eng": "Ryan Swan must carve his way through the Hawaiian crime world to wreak vengeance on the kingpin who murdered his father.",
+            "may": "Ryan Swan must carve his way through the Hawaiian crime world to wreak vengeance on the kingpin who murdered his father.",
+            "tam": "Ryan Swan must carve his way through the Hawaiian crime world to wreak vengeance on the kingpin who murdered his father.",
+            "chi": "Ryan Swan must carve his way through the Hawaiian crime world to wreak vengeance on the kingpin who murdered his father.",
+            "tha": "Ryan Swan must carve his way through the Hawaiian crime world to wreak vengeance on the kingpin who murdered his father.",
+            "ind": "Ryan Swan must carve his way through the Hawaiian crime world to wreak vengeance on the kingpin who murdered his father."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Bruce Willis",
+            " John Travolta",
+            " Stephen Dorff",
+            " Noel Gugliemi",
+            " Blake Jenner",
+            " Branscombe RichmondKate KatzmanPraya LundbergLorenzo AntonucciAmber Abara"
+        ],
+        "may": [
+            "Bruce Willis",
+            " John Travolta",
+            " Stephen Dorff",
+            " Noel Gugliemi",
+            " Blake Jenner",
+            " Branscombe RichmondKate KatzmanPraya LundbergLorenzo AntonucciAmber Abara"
+        ],
+        "tam": [
+            "Bruce Willis",
+            " John Travolta",
+            " Stephen Dorff",
+            " Noel Gugliemi",
+            " Blake Jenner",
+            " Branscombe RichmondKate KatzmanPraya LundbergLorenzo AntonucciAmber Abara"
+        ],
+        "chi": [
+            "Bruce Willis",
+            " John Travolta",
+            " Stephen Dorff",
+            " Noel Gugliemi",
+            " Blake Jenner",
+            " Branscombe RichmondKate KatzmanPraya LundbergLorenzo AntonucciAmber Abara"
+        ],
+        "tha": [
+            "Bruce Willis",
+            " John Travolta",
+            " Stephen Dorff",
+            " Noel Gugliemi",
+            " Blake Jenner",
+            " Branscombe RichmondKate KatzmanPraya LundbergLorenzo AntonucciAmber Abara"
+        ],
+        "ind": [
+            "Bruce Willis",
+            " John Travolta",
+            " Stephen Dorff",
+            " Noel Gugliemi",
+            " Blake Jenner",
+            " Branscombe RichmondKate KatzmanPraya LundbergLorenzo AntonucciAmber Abara"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Chuck Russell"
+        ],
+        "may": [
+            "Chuck Russell"
+        ],
+        "tam": [
+            "Chuck Russell"
+        ],
+        "chi": [
+            "Chuck Russell"
+        ],
+        "tha": [
+            "Chuck Russell"
+        ],
+        "ind": [
+            "Chuck Russell"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Lorenzo Antonucci",
+            " Richard Barner",
+            " Jordan Beckerman",
+            " Gordon Bijelonic",
+            " Jas Boparai",
+            " Lee BrodaAshley ColemanGrady CraigStephen J. EadsBernie Gewissler"
+        ],
+        "may": [
+            "Lorenzo Antonucci",
+            " Richard Barner",
+            " Jordan Beckerman",
+            " Gordon Bijelonic",
+            " Jas Boparai",
+            " Lee BrodaAshley ColemanGrady CraigStephen J. EadsBernie Gewissler"
+        ],
+        "tam": [
+            "Lorenzo Antonucci",
+            " Richard Barner",
+            " Jordan Beckerman",
+            " Gordon Bijelonic",
+            " Jas Boparai",
+            " Lee BrodaAshley ColemanGrady CraigStephen J. EadsBernie Gewissler"
+        ],
+        "chi": [
+            "Lorenzo Antonucci",
+            " Richard Barner",
+            " Jordan Beckerman",
+            " Gordon Bijelonic",
+            " Jas Boparai",
+            " Lee BrodaAshley ColemanGrady CraigStephen J. EadsBernie Gewissler"
+        ],
+        "tha": [
+            "Lorenzo Antonucci",
+            " Richard Barner",
+            " Jordan Beckerman",
+            " Gordon Bijelonic",
+            " Jas Boparai",
+            " Lee BrodaAshley ColemanGrady CraigStephen J. EadsBernie Gewissler"
+        ],
+        "ind": [
+            "Lorenzo Antonucci",
+            " Richard Barner",
+            " Jordan Beckerman",
+            " Gordon Bijelonic",
+            " Jas Boparai",
+            " Lee BrodaAshley ColemanGrady CraigStephen J. EadsBernie Gewissler"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Thriller",
+                    "may": " Thriller",
+                    "tam": " Thriller",
+                    "chi": " Thriller",
+                    "tha": " Thriller",
+                    "ind": " Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ParadiseCity_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ParadiseCity_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/ParadiseCity_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "3.6",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

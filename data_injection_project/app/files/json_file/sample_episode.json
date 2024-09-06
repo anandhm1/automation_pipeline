@@ -1,0 +1,235 @@
+{
+    "externalId": "AggregatedTvShow_c4eb95cf-dd2f-48e3-9b5b-a76c0403a511",
+    "clientContentId": "PACK0000000001012125",
+    "provider": null,
+    "title": {
+      "short": {
+        "eng": "Ely Test - FREE Open Series 3 Ep02 (BillingId=SVOD; PCT=FREE)",
+        "may": "Ely Test - FREE Open Series 3 Ep02 (BillingId=SVOD; PCT=FREE)",
+        "tam": "Ely Test - FREE Open Series 3 Ep02 (BillingId=SVOD; PCT=FREE)",
+        "chi": "Ely Test - FREE Open Series 3 Ep02 (BillingId=SVOD; PCT=FREE)",
+        "tha": "Ely Test - FREE Open Series 3 Ep02 (BillingId=SVOD; PCT=FREE)",
+        "ind": "Ely Test - FREE Open Series 3 Ep02 (BillingId=SVOD; PCT=FREE)"
+      },
+      "long": {
+        "eng": "Ely Test - FREE Open Series 3 Ep02 (BillingId=SVOD; PCT=FREE)",
+        "may": "Ely Test - FREE Open Series 3 Ep02 (BillingId=SVOD; PCT=FREE)",
+        "tam": "Ely Test - FREE Open Series 3 Ep02 (BillingId=SVOD; PCT=FREE)",
+        "chi": "Ely Test - FREE Open Series 3 Ep02 (BillingId=SVOD; PCT=FREE)",
+        "tha": "Ely Test - FREE Open Series 3 Ep02 (BillingId=SVOD; PCT=FREE)",
+        "ind": "Ely Test - FREE Open Series 3 Ep02 (BillingId=SVOD; PCT=FREE)"
+      }
+    },
+    "description": {
+      "short": {
+        "eng": "Ep02 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31; FREE Open Series 3 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31;",
+        "may": "Ep02 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31; FREE Open Series 3 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31;",
+        "tam": "Ep02 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31; FREE Open Series 3 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31;",
+        "chi": "Ep02 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31; FREE Open Series 3 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31;",
+        "tha": "Ep02 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31; FREE Open Series 3 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31;",
+        "ind": "Ep02 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31; FREE Open Series 3 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31;"
+      },
+      "long": {
+        "eng": "Ep02 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31; FREE Open Series 3 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31; Long Synopsis",
+        "may": "Ep02 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31; FREE Open Series 3 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31; Long Synopsis",
+        "tam": "Ep02 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31; FREE Open Series 3 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31; Long Synopsis",
+        "chi": "Ep02 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31; FREE Open Series 3 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31; Long Synopsis",
+        "tha": "Ep02 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31; FREE Open Series 3 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31; Long Synopsis",
+        "ind": "Ep02 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31; FREE Open Series 3 (BillingId=SVOD; PCT=FREE) - Offer Start=2023-05-01; Offer End = 2033-12-31; Long Synopsis"
+      }
+    },
+    "offers": [
+      {
+        "contractType": "SVOD",
+        "offerStartDate": "2023-05-01T00:00:00Z",
+        "offerEndDate": "2033-12-31T00:00:00Z",
+        "offerRegion": "Malaysia",
+        "rentalExpiry": 0,
+        "entitlements": [
+          "dummy_entitlement1",
+          "dummy_entitlement2"
+        ],
+        "adsEnabled": false,
+        "adsType": {
+          "adsPreRoll": null,
+          "adsMidRoll": null,
+          "adsPostRoll": null
+        },
+        "adsSupplier": null,
+        "allowedOnApplicationDevices": {
+          "sooka": [
+            "Mobile",
+            "Web",
+            "SmartTV",
+            "Dongle"
+          ],
+          "astroGo": null
+        }
+      }
+    ],
+    "playUrls": [
+      {
+        "contentType": "Full Asset",
+        "duration": 2475,
+        "hls": {
+          "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-preint/output/PACK0000000001012125/PACK0000000001012125/index.m3u8"
+        },
+        "dash": {
+          "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-preint/output/PACK0000000001012125/PACK0000000001012125/index.mpd",
+          "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-preint/output/PACK0000000001012125/PACK0000000001012125/index.mpd"
+        },
+        "licenseAcquisitionUrl": {
+          "playready": "https://irexp-preint.test.ott.irdeto.com/licenseServer/playready/v1/irexp-preint/license?contentId=PACK0000000001012125",
+          "widevine": "https://irexp-preint.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-preint/license?contentId=PACK0000000001012125"
+        }
+      }
+    ],
+    "actor": {
+      "eng": [
+        "Ely T"
+      ],
+      "may": [
+        "Ely T"
+      ],
+      "tam": [
+        "Ely T"
+      ],
+      "chi": [
+        "Ely T"
+      ],
+      "tha": [
+        "Ely T"
+      ],
+      "ind": [
+        "Ely T"
+      ],
+      "image": null
+    },
+    "director": {
+      "eng": [
+        "Tubigan"
+      ],
+      "may": [
+        "Tubigan"
+      ],
+      "tam": [
+        "Tubigan"
+      ],
+      "chi": [
+        "Tubigan"
+      ],
+      "tha": [
+        "Tubigan"
+      ],
+      "ind": [
+        "Tubigan"
+      ],
+      "image": null
+    },
+    "producer": {
+      "eng": [
+        "E. T."
+      ],
+      "may": [
+        "E. T."
+      ],
+      "tam": [
+        "E. T."
+      ],
+      "chi": [
+        "E. T."
+      ],
+      "tha": [
+        "E. T."
+      ],
+      "ind": [
+        "E. T."
+      ],
+      "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+      "eng": [
+        "ind"
+      ],
+      "may": [
+        "ind"
+      ],
+      "tam": [
+        "ind"
+      ],
+      "chi": [
+        "ind"
+      ],
+      "tha": [
+        "ind"
+      ],
+      "ind": [
+        "ind"
+      ]
+    },
+    "genre": {
+      "primary": [
+        {
+          "name": {
+            "eng": "TV Show",
+            "may": "TV Show",
+            "tam": "TV Show",
+            "chi": "TV Show",
+            "tha": "TV Show",
+            "ind": "TV Show"
+          },
+          "image": null
+        }
+      ],
+      "secondary": [
+        {
+          "name": {
+            "eng": "TV Shows (General)",
+            "may": "TV Shows (General)",
+            "tam": "TV Shows (General)",
+            "chi": "TV Shows (General)",
+            "tha": "TV Shows (General)",
+            "ind": "TV Shows (General)"
+          },
+          "image": null
+        }
+      ]
+    },
+    "images": [
+      {
+        "type": "boxcover",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/ams-astro-tvp-nonprod/staging/images/elytestOpenSeriesFreeEp02Free.jpg"
+      },
+      {
+        "type": "poster",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/ams-astro-tvp-nonprod/staging/images/elytestOpenSeriesFreeEp02Free.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/ams-astro-tvp-nonprod/staging/images/elytestOpenSeriesFreeEp02Free.jpg"
+      }
+    ],
+    "seriesId": "AggregatedSeries_47652aa0-a2db-436d-866c-856d75e8cdrt",
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": "2",
+    "seasonNumber": null,
+    "yearOfRelease": 2025,
+    "rating": "13",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+  }

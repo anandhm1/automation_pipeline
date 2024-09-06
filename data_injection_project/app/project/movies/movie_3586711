@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_519c192f-8b69-56ca-a8b3-205e734b51c1",
+    "clientContentId": "PACK0000000005877863",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "AFTERSUN",
+            "may": "AFTERSUN",
+            "tam": "AFTERSUN",
+            "chi": "AFTERSUN",
+            "tha": "AFTERSUN",
+            "ind": "AFTERSUN"
+        },
+        "long": {
+            "eng": "AFTERSUN",
+            "may": "AFTERSUN",
+            "tam": "AFTERSUN",
+            "chi": "AFTERSUN",
+            "tha": "AFTERSUN",
+            "ind": "AFTERSUN"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between as she tries to reconcile the father she knew with the man she didn't...",
+            "may": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between as she tries to reconcile the father she knew with the man she didn't...",
+            "tam": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between as she tries to reconcile the father she knew with the man she didn't...",
+            "chi": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between as she tries to reconcile the father she knew with the man she didn't...",
+            "tha": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between as she tries to reconcile the father she knew with the man she didn't...",
+            "ind": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between as she tries to reconcile the father she knew with the man she didn't..."
+        },
+        "long": {
+            "eng": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between as she tries to reconcile the father she knew with the man she didn't...",
+            "may": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between as she tries to reconcile the father she knew with the man she didn't...",
+            "tam": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between as she tries to reconcile the father she knew with the man she didn't...",
+            "chi": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between as she tries to reconcile the father she knew with the man she didn't...",
+            "tha": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between as she tries to reconcile the father she knew with the man she didn't...",
+            "ind": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between as she tries to reconcile the father she knew with the man she didn't..."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Paul Mescal",
+            " Frankie Corio",
+            " Celia Rowlson-Hall",
+            " Sally Messham",
+            " Ayse Parlak",
+            " Sophia Lamanova",
+            " Brooklyn Toulson",
+            " Spike Fearn",
+            " Harry Perdios",
+            " Frank Corio"
+        ],
+        "may": [
+            "Paul Mescal",
+            " Frankie Corio",
+            " Celia Rowlson-Hall",
+            " Sally Messham",
+            " Ayse Parlak",
+            " Sophia Lamanova",
+            " Brooklyn Toulson",
+            " Spike Fearn",
+            " Harry Perdios",
+            " Frank Corio"
+        ],
+        "tam": [
+            "Paul Mescal",
+            " Frankie Corio",
+            " Celia Rowlson-Hall",
+            " Sally Messham",
+            " Ayse Parlak",
+            " Sophia Lamanova",
+            " Brooklyn Toulson",
+            " Spike Fearn",
+            " Harry Perdios",
+            " Frank Corio"
+        ],
+        "chi": [
+            "Paul Mescal",
+            " Frankie Corio",
+            " Celia Rowlson-Hall",
+            " Sally Messham",
+            " Ayse Parlak",
+            " Sophia Lamanova",
+            " Brooklyn Toulson",
+            " Spike Fearn",
+            " Harry Perdios",
+            " Frank Corio"
+        ],
+        "tha": [
+            "Paul Mescal",
+            " Frankie Corio",
+            " Celia Rowlson-Hall",
+            " Sally Messham",
+            " Ayse Parlak",
+            " Sophia Lamanova",
+            " Brooklyn Toulson",
+            " Spike Fearn",
+            " Harry Perdios",
+            " Frank Corio"
+        ],
+        "ind": [
+            "Paul Mescal",
+            " Frankie Corio",
+            " Celia Rowlson-Hall",
+            " Sally Messham",
+            " Ayse Parlak",
+            " Sophia Lamanova",
+            " Brooklyn Toulson",
+            " Spike Fearn",
+            " Harry Perdios",
+            " Frank Corio"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Charlotte Wells"
+        ],
+        "may": [
+            "Charlotte Wells"
+        ],
+        "tam": [
+            "Charlotte Wells"
+        ],
+        "chi": [
+            "Charlotte Wells"
+        ],
+        "tha": [
+            "Charlotte Wells"
+        ],
+        "ind": [
+            "Charlotte Wells"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Lia Buman",
+            " Mark Ceryak",
+            " Kelly Duffell",
+            " Ipek Erden",
+            " Lizzie Francke",
+            " Kieran Hannigan",
+            " Tim Headington",
+            " Amy Jackson",
+            " Barry Jenkins",
+            " Ana Leocha"
+        ],
+        "may": [
+            "Lia Buman",
+            " Mark Ceryak",
+            " Kelly Duffell",
+            " Ipek Erden",
+            " Lizzie Francke",
+            " Kieran Hannigan",
+            " Tim Headington",
+            " Amy Jackson",
+            " Barry Jenkins",
+            " Ana Leocha"
+        ],
+        "tam": [
+            "Lia Buman",
+            " Mark Ceryak",
+            " Kelly Duffell",
+            " Ipek Erden",
+            " Lizzie Francke",
+            " Kieran Hannigan",
+            " Tim Headington",
+            " Amy Jackson",
+            " Barry Jenkins",
+            " Ana Leocha"
+        ],
+        "chi": [
+            "Lia Buman",
+            " Mark Ceryak",
+            " Kelly Duffell",
+            " Ipek Erden",
+            " Lizzie Francke",
+            " Kieran Hannigan",
+            " Tim Headington",
+            " Amy Jackson",
+            " Barry Jenkins",
+            " Ana Leocha"
+        ],
+        "tha": [
+            "Lia Buman",
+            " Mark Ceryak",
+            " Kelly Duffell",
+            " Ipek Erden",
+            " Lizzie Francke",
+            " Kieran Hannigan",
+            " Tim Headington",
+            " Amy Jackson",
+            " Barry Jenkins",
+            " Ana Leocha"
+        ],
+        "ind": [
+            "Lia Buman",
+            " Mark Ceryak",
+            " Kelly Duffell",
+            " Ipek Erden",
+            " Lizzie Francke",
+            " Kieran Hannigan",
+            " Tim Headington",
+            " Amy Jackson",
+            " Barry Jenkins",
+            " Ana Leocha"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AFTERSUN_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AFTERSUN_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/AFTERSUN_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "7.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

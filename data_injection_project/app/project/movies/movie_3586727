@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedMovie_8f75b18d-0bcd-5886-8c48-c2a547e7974c",
+    "clientContentId": "PACK0000000008402405",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Causeway",
+            "may": "Causeway",
+            "tam": "Causeway",
+            "chi": "Causeway",
+            "tha": "Causeway",
+            "ind": "Causeway"
+        },
+        "long": {
+            "eng": "Causeway",
+            "may": "Causeway",
+            "tam": "Causeway",
+            "chi": "Causeway",
+            "tha": "Causeway",
+            "ind": "Causeway"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home.",
+            "may": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home.",
+            "tam": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home.",
+            "chi": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home.",
+            "tha": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home.",
+            "ind": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home."
+        },
+        "long": {
+            "eng": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home.",
+            "may": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home.",
+            "tam": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home.",
+            "chi": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home.",
+            "tha": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home.",
+            "ind": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Jennifer Lawrence",
+            " Danny Wolohan",
+            " Jayne Houdyshell",
+            " Neal Huff",
+            " Han Soto",
+            " Natalie PilieLinda EmondFrederick WellerBrian Tyree HenrySean Carvajal"
+        ],
+        "may": [
+            "Jennifer Lawrence",
+            " Danny Wolohan",
+            " Jayne Houdyshell",
+            " Neal Huff",
+            " Han Soto",
+            " Natalie PilieLinda EmondFrederick WellerBrian Tyree HenrySean Carvajal"
+        ],
+        "tam": [
+            "Jennifer Lawrence",
+            " Danny Wolohan",
+            " Jayne Houdyshell",
+            " Neal Huff",
+            " Han Soto",
+            " Natalie PilieLinda EmondFrederick WellerBrian Tyree HenrySean Carvajal"
+        ],
+        "chi": [
+            "Jennifer Lawrence",
+            " Danny Wolohan",
+            " Jayne Houdyshell",
+            " Neal Huff",
+            " Han Soto",
+            " Natalie PilieLinda EmondFrederick WellerBrian Tyree HenrySean Carvajal"
+        ],
+        "tha": [
+            "Jennifer Lawrence",
+            " Danny Wolohan",
+            " Jayne Houdyshell",
+            " Neal Huff",
+            " Han Soto",
+            " Natalie PilieLinda EmondFrederick WellerBrian Tyree HenrySean Carvajal"
+        ],
+        "ind": [
+            "Jennifer Lawrence",
+            " Danny Wolohan",
+            " Jayne Houdyshell",
+            " Neal Huff",
+            " Han Soto",
+            " Natalie PilieLinda EmondFrederick WellerBrian Tyree HenrySean Carvajal"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Lila Neugebauer"
+        ],
+        "may": [
+            "Lila Neugebauer"
+        ],
+        "tam": [
+            "Lila Neugebauer"
+        ],
+        "chi": [
+            "Lila Neugebauer"
+        ],
+        "tha": [
+            "Lila Neugebauer"
+        ],
+        "ind": [
+            "Lila Neugebauer"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Justine Ciarrocchi",
+            " Patricia Clarkson",
+            " Kirk Michael Fellows",
+            " Luke Goebel",
+            " Jacob Jaffke",
+            " Jennifer LawrenceSophia LinLouise LovegroveOttessa MoshfeghLila Neugebauer"
+        ],
+        "may": [
+            "Justine Ciarrocchi",
+            " Patricia Clarkson",
+            " Kirk Michael Fellows",
+            " Luke Goebel",
+            " Jacob Jaffke",
+            " Jennifer LawrenceSophia LinLouise LovegroveOttessa MoshfeghLila Neugebauer"
+        ],
+        "tam": [
+            "Justine Ciarrocchi",
+            " Patricia Clarkson",
+            " Kirk Michael Fellows",
+            " Luke Goebel",
+            " Jacob Jaffke",
+            " Jennifer LawrenceSophia LinLouise LovegroveOttessa MoshfeghLila Neugebauer"
+        ],
+        "chi": [
+            "Justine Ciarrocchi",
+            " Patricia Clarkson",
+            " Kirk Michael Fellows",
+            " Luke Goebel",
+            " Jacob Jaffke",
+            " Jennifer LawrenceSophia LinLouise LovegroveOttessa MoshfeghLila Neugebauer"
+        ],
+        "tha": [
+            "Justine Ciarrocchi",
+            " Patricia Clarkson",
+            " Kirk Michael Fellows",
+            " Luke Goebel",
+            " Jacob Jaffke",
+            " Jennifer LawrenceSophia LinLouise LovegroveOttessa MoshfeghLila Neugebauer"
+        ],
+        "ind": [
+            "Justine Ciarrocchi",
+            " Patricia Clarkson",
+            " Kirk Michael Fellows",
+            " Luke Goebel",
+            " Jacob Jaffke",
+            " Jennifer LawrenceSophia LinLouise LovegroveOttessa MoshfeghLila Neugebauer"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Causeway_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Causeway_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Causeway_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "6.6",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

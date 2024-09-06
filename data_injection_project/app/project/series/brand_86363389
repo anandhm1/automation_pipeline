@@ -1,0 +1,367 @@
+{
+    "externalId": "AggregatedSeries_b4ab07b1-4490-5a1e-8cc2-53954dacf4b4",
+    "clientContentId": "PACK0000000004784448",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Daredevil",
+            "may": "Daredevil",
+            "tam": "Daredevil",
+            "chi": "Daredevil",
+            "tha": "Daredevil",
+            "ind": "Daredevil"
+        },
+        "long": {
+            "eng": "Daredevil",
+            "may": "Daredevil",
+            "tam": "Daredevil",
+            "chi": "Daredevil",
+            "tha": "Daredevil",
+            "ind": "Daredevil"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil.",
+            "may": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil.",
+            "tam": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil.",
+            "chi": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil.",
+            "tha": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil.",
+            "ind": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil."
+        },
+        "long": {
+            "eng": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil.",
+            "may": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil.",
+            "tam": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil.",
+            "chi": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil.",
+            "tha": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil.",
+            "ind": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Charlie Cox",
+            " Deborah Ann Woll",
+            " Elden Henson",
+            " Vincent D'Onofrio",
+            " Royce Johnson",
+            " Geoffrey Cantor",
+            " Jay Ali",
+            " Jon Bernthal",
+            " Stephen Rider",
+            " Wilson Bethel"
+        ],
+        "may": [
+            "Charlie Cox",
+            " Deborah Ann Woll",
+            " Elden Henson",
+            " Vincent D'Onofrio",
+            " Royce Johnson",
+            " Geoffrey Cantor",
+            " Jay Ali",
+            " Jon Bernthal",
+            " Stephen Rider",
+            " Wilson Bethel"
+        ],
+        "tam": [
+            "Charlie Cox",
+            " Deborah Ann Woll",
+            " Elden Henson",
+            " Vincent D'Onofrio",
+            " Royce Johnson",
+            " Geoffrey Cantor",
+            " Jay Ali",
+            " Jon Bernthal",
+            " Stephen Rider",
+            " Wilson Bethel"
+        ],
+        "chi": [
+            "Charlie Cox",
+            " Deborah Ann Woll",
+            " Elden Henson",
+            " Vincent D'Onofrio",
+            " Royce Johnson",
+            " Geoffrey Cantor",
+            " Jay Ali",
+            " Jon Bernthal",
+            " Stephen Rider",
+            " Wilson Bethel"
+        ],
+        "tha": [
+            "Charlie Cox",
+            " Deborah Ann Woll",
+            " Elden Henson",
+            " Vincent D'Onofrio",
+            " Royce Johnson",
+            " Geoffrey Cantor",
+            " Jay Ali",
+            " Jon Bernthal",
+            " Stephen Rider",
+            " Wilson Bethel"
+        ],
+        "ind": [
+            "Charlie Cox",
+            " Deborah Ann Woll",
+            " Elden Henson",
+            " Vincent D'Onofrio",
+            " Royce Johnson",
+            " Geoffrey Cantor",
+            " Jay Ali",
+            " Jon Bernthal",
+            " Stephen Rider",
+            " Wilson Bethel"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Phil Abraham",
+            " Stephen Surjik",
+            " Peter Hoar",
+            " Ken Girotti",
+            " Euros Lyn",
+            " Farren Blackburn",
+            " Marc Jobst",
+            " Alex Garcia Lopez",
+            " Steven S. DeKnight",
+            " Guy Ferland"
+        ],
+        "may": [
+            "Phil Abraham",
+            " Stephen Surjik",
+            " Peter Hoar",
+            " Ken Girotti",
+            " Euros Lyn",
+            " Farren Blackburn",
+            " Marc Jobst",
+            " Alex Garcia Lopez",
+            " Steven S. DeKnight",
+            " Guy Ferland"
+        ],
+        "tam": [
+            "Phil Abraham",
+            " Stephen Surjik",
+            " Peter Hoar",
+            " Ken Girotti",
+            " Euros Lyn",
+            " Farren Blackburn",
+            " Marc Jobst",
+            " Alex Garcia Lopez",
+            " Steven S. DeKnight",
+            " Guy Ferland"
+        ],
+        "chi": [
+            "Phil Abraham",
+            " Stephen Surjik",
+            " Peter Hoar",
+            " Ken Girotti",
+            " Euros Lyn",
+            " Farren Blackburn",
+            " Marc Jobst",
+            " Alex Garcia Lopez",
+            " Steven S. DeKnight",
+            " Guy Ferland"
+        ],
+        "tha": [
+            "Phil Abraham",
+            " Stephen Surjik",
+            " Peter Hoar",
+            " Ken Girotti",
+            " Euros Lyn",
+            " Farren Blackburn",
+            " Marc Jobst",
+            " Alex Garcia Lopez",
+            " Steven S. DeKnight",
+            " Guy Ferland"
+        ],
+        "ind": [
+            "Phil Abraham",
+            " Stephen Surjik",
+            " Peter Hoar",
+            " Ken Girotti",
+            " Euros Lyn",
+            " Farren Blackburn",
+            " Marc Jobst",
+            " Alex Garcia Lopez",
+            " Steven S. DeKnight",
+            " Guy Ferland"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jim Chory",
+            " Alan Fine",
+            " Drew Goddard",
+            " Stan Lee",
+            " Jeph Loeb",
+            " Erik Oleson",
+            " Joe Quesada",
+            " Dan Buckley",
+            " Allie Goss",
+            " Kris Henigman"
+        ],
+        "may": [
+            "Jim Chory",
+            " Alan Fine",
+            " Drew Goddard",
+            " Stan Lee",
+            " Jeph Loeb",
+            " Erik Oleson",
+            " Joe Quesada",
+            " Dan Buckley",
+            " Allie Goss",
+            " Kris Henigman"
+        ],
+        "tam": [
+            "Jim Chory",
+            " Alan Fine",
+            " Drew Goddard",
+            " Stan Lee",
+            " Jeph Loeb",
+            " Erik Oleson",
+            " Joe Quesada",
+            " Dan Buckley",
+            " Allie Goss",
+            " Kris Henigman"
+        ],
+        "chi": [
+            "Jim Chory",
+            " Alan Fine",
+            " Drew Goddard",
+            " Stan Lee",
+            " Jeph Loeb",
+            " Erik Oleson",
+            " Joe Quesada",
+            " Dan Buckley",
+            " Allie Goss",
+            " Kris Henigman"
+        ],
+        "tha": [
+            "Jim Chory",
+            " Alan Fine",
+            " Drew Goddard",
+            " Stan Lee",
+            " Jeph Loeb",
+            " Erik Oleson",
+            " Joe Quesada",
+            " Dan Buckley",
+            " Allie Goss",
+            " Kris Henigman"
+        ],
+        "ind": [
+            "Jim Chory",
+            " Alan Fine",
+            " Drew Goddard",
+            " Stan Lee",
+            " Jeph Loeb",
+            " Erik Oleson",
+            " Joe Quesada",
+            " Dan Buckley",
+            " Allie Goss",
+            " Kris Henigman"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DaredevilSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DaredevilSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/DaredevilSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "10",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2015,
+    "maxConcurrentStreams": 0
+}

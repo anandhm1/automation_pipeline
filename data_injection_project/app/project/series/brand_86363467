@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedSeries_fdd26fe9-5a6d-5d3e-ab7f-592e65b55492",
+    "clientContentId": "PACK0000000005101775",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Sandman",
+            "may": "The Sandman",
+            "tam": "The Sandman",
+            "chi": "The Sandman",
+            "tha": "The Sandman",
+            "ind": "The Sandman"
+        },
+        "long": {
+            "eng": "The Sandman",
+            "may": "The Sandman",
+            "tam": "The Sandman",
+            "chi": "The Sandman",
+            "tha": "The Sandman",
+            "ind": "The Sandman"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "may": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "tam": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "chi": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "tha": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "ind": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment."
+        },
+        "long": {
+            "eng": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "may": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "tam": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "chi": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "tha": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+            "ind": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Tom Sturridge",
+            " Boyd Holbrook",
+            " Patton Oswalt",
+            " Vivienne Acheampong",
+            " Vanesu Samunyai",
+            " Mason Alexander ParkRazane JammalSandra James-YoungDavid ThewlisEddie Karanja"
+        ],
+        "may": [
+            "Tom Sturridge",
+            " Boyd Holbrook",
+            " Patton Oswalt",
+            " Vivienne Acheampong",
+            " Vanesu Samunyai",
+            " Mason Alexander ParkRazane JammalSandra James-YoungDavid ThewlisEddie Karanja"
+        ],
+        "tam": [
+            "Tom Sturridge",
+            " Boyd Holbrook",
+            " Patton Oswalt",
+            " Vivienne Acheampong",
+            " Vanesu Samunyai",
+            " Mason Alexander ParkRazane JammalSandra James-YoungDavid ThewlisEddie Karanja"
+        ],
+        "chi": [
+            "Tom Sturridge",
+            " Boyd Holbrook",
+            " Patton Oswalt",
+            " Vivienne Acheampong",
+            " Vanesu Samunyai",
+            " Mason Alexander ParkRazane JammalSandra James-YoungDavid ThewlisEddie Karanja"
+        ],
+        "tha": [
+            "Tom Sturridge",
+            " Boyd Holbrook",
+            " Patton Oswalt",
+            " Vivienne Acheampong",
+            " Vanesu Samunyai",
+            " Mason Alexander ParkRazane JammalSandra James-YoungDavid ThewlisEddie Karanja"
+        ],
+        "ind": [
+            "Tom Sturridge",
+            " Boyd Holbrook",
+            " Patton Oswalt",
+            " Vivienne Acheampong",
+            " Vanesu Samunyai",
+            " Mason Alexander ParkRazane JammalSandra James-YoungDavid ThewlisEddie Karanja"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Jamie Childs",
+            " Andr\u00e9s Baiz",
+            " Louise Hooper",
+            " Mairzee Almas",
+            " Mike Barker",
+            " Coralie FargeatHisko Hulsing"
+        ],
+        "may": [
+            "Jamie Childs",
+            " Andr\u00e9s Baiz",
+            " Louise Hooper",
+            " Mairzee Almas",
+            " Mike Barker",
+            " Coralie FargeatHisko Hulsing"
+        ],
+        "tam": [
+            "Jamie Childs",
+            " Andr\u00e9s Baiz",
+            " Louise Hooper",
+            " Mairzee Almas",
+            " Mike Barker",
+            " Coralie FargeatHisko Hulsing"
+        ],
+        "chi": [
+            "Jamie Childs",
+            " Andr\u00e9s Baiz",
+            " Louise Hooper",
+            " Mairzee Almas",
+            " Mike Barker",
+            " Coralie FargeatHisko Hulsing"
+        ],
+        "tha": [
+            "Jamie Childs",
+            " Andr\u00e9s Baiz",
+            " Louise Hooper",
+            " Mairzee Almas",
+            " Mike Barker",
+            " Coralie FargeatHisko Hulsing"
+        ],
+        "ind": [
+            "Jamie Childs",
+            " Andr\u00e9s Baiz",
+            " Louise Hooper",
+            " Mairzee Almas",
+            " Mike Barker",
+            " Coralie FargeatHisko Hulsing"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Vanya Asher",
+            " Heather Bellson",
+            " Jim Campolongo",
+            " Andrew Cholerton",
+            " Anya Dubble Olson",
+            " Neil GaimanDavid S. GoyerAustin GuzmanAllan HeinbergSamson Mucke"
+        ],
+        "may": [
+            "Vanya Asher",
+            " Heather Bellson",
+            " Jim Campolongo",
+            " Andrew Cholerton",
+            " Anya Dubble Olson",
+            " Neil GaimanDavid S. GoyerAustin GuzmanAllan HeinbergSamson Mucke"
+        ],
+        "tam": [
+            "Vanya Asher",
+            " Heather Bellson",
+            " Jim Campolongo",
+            " Andrew Cholerton",
+            " Anya Dubble Olson",
+            " Neil GaimanDavid S. GoyerAustin GuzmanAllan HeinbergSamson Mucke"
+        ],
+        "chi": [
+            "Vanya Asher",
+            " Heather Bellson",
+            " Jim Campolongo",
+            " Andrew Cholerton",
+            " Anya Dubble Olson",
+            " Neil GaimanDavid S. GoyerAustin GuzmanAllan HeinbergSamson Mucke"
+        ],
+        "tha": [
+            "Vanya Asher",
+            " Heather Bellson",
+            " Jim Campolongo",
+            " Andrew Cholerton",
+            " Anya Dubble Olson",
+            " Neil GaimanDavid S. GoyerAustin GuzmanAllan HeinbergSamson Mucke"
+        ],
+        "ind": [
+            "Vanya Asher",
+            " Heather Bellson",
+            " Jim Campolongo",
+            " Andrew Cholerton",
+            " Anya Dubble Olson",
+            " Neil GaimanDavid S. GoyerAustin GuzmanAllan HeinbergSamson Mucke"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Fantasy",
+                    "may": " Fantasy",
+                    "tam": " Fantasy",
+                    "chi": " Fantasy",
+                    "tha": " Fantasy",
+                    "ind": " Fantasy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheSandmanSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheSandmanSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheSandmanSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "9",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2022,
+    "maxConcurrentStreams": 0
+}

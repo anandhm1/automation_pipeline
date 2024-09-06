@@ -1,0 +1,367 @@
+{
+    "externalId": "AggregatedSeries_6af6ebd8-d978-504e-a1f6-8d1bae5590af",
+    "clientContentId": "PACK0000000005719509",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Jessica Jones",
+            "may": "Jessica Jones",
+            "tam": "Jessica Jones",
+            "chi": "Jessica Jones",
+            "tha": "Jessica Jones",
+            "ind": "Jessica Jones"
+        },
+        "long": {
+            "eng": "Jessica Jones",
+            "may": "Jessica Jones",
+            "tam": "Jessica Jones",
+            "chi": "Jessica Jones",
+            "tha": "Jessica Jones",
+            "ind": "Jessica Jones"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Following the tragic end of her brief superhero career, Jessica Jones tries to rebuild her life as a private investigator, dealing with cases involving people with remarkable abilities in New York City.",
+            "may": "Following the tragic end of her brief superhero career, Jessica Jones tries to rebuild her life as a private investigator, dealing with cases involving people with remarkable abilities in New York City.",
+            "tam": "Following the tragic end of her brief superhero career, Jessica Jones tries to rebuild her life as a private investigator, dealing with cases involving people with remarkable abilities in New York City.",
+            "chi": "Following the tragic end of her brief superhero career, Jessica Jones tries to rebuild her life as a private investigator, dealing with cases involving people with remarkable abilities in New York City.",
+            "tha": "Following the tragic end of her brief superhero career, Jessica Jones tries to rebuild her life as a private investigator, dealing with cases involving people with remarkable abilities in New York City.",
+            "ind": "Following the tragic end of her brief superhero career, Jessica Jones tries to rebuild her life as a private investigator, dealing with cases involving people with remarkable abilities in New York City."
+        },
+        "long": {
+            "eng": "Following the tragic end of her brief superhero career, Jessica Jones tries to rebuild her life as a private investigator, dealing with cases involving people with remarkable abilities in New York City.",
+            "may": "Following the tragic end of her brief superhero career, Jessica Jones tries to rebuild her life as a private investigator, dealing with cases involving people with remarkable abilities in New York City.",
+            "tam": "Following the tragic end of her brief superhero career, Jessica Jones tries to rebuild her life as a private investigator, dealing with cases involving people with remarkable abilities in New York City.",
+            "chi": "Following the tragic end of her brief superhero career, Jessica Jones tries to rebuild her life as a private investigator, dealing with cases involving people with remarkable abilities in New York City.",
+            "tha": "Following the tragic end of her brief superhero career, Jessica Jones tries to rebuild her life as a private investigator, dealing with cases involving people with remarkable abilities in New York City.",
+            "ind": "Following the tragic end of her brief superhero career, Jessica Jones tries to rebuild her life as a private investigator, dealing with cases involving people with remarkable abilities in New York City."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Krysten Ritter",
+            " Rachael Taylor",
+            " Eka Darville",
+            " Carrie-Anne Moss",
+            " John Ventimiglia",
+            " David Tennant",
+            " Rebecca De Mornay",
+            " J.R. Ramirez",
+            " Janet McTeer",
+            " Wil Traval"
+        ],
+        "may": [
+            "Krysten Ritter",
+            " Rachael Taylor",
+            " Eka Darville",
+            " Carrie-Anne Moss",
+            " John Ventimiglia",
+            " David Tennant",
+            " Rebecca De Mornay",
+            " J.R. Ramirez",
+            " Janet McTeer",
+            " Wil Traval"
+        ],
+        "tam": [
+            "Krysten Ritter",
+            " Rachael Taylor",
+            " Eka Darville",
+            " Carrie-Anne Moss",
+            " John Ventimiglia",
+            " David Tennant",
+            " Rebecca De Mornay",
+            " J.R. Ramirez",
+            " Janet McTeer",
+            " Wil Traval"
+        ],
+        "chi": [
+            "Krysten Ritter",
+            " Rachael Taylor",
+            " Eka Darville",
+            " Carrie-Anne Moss",
+            " John Ventimiglia",
+            " David Tennant",
+            " Rebecca De Mornay",
+            " J.R. Ramirez",
+            " Janet McTeer",
+            " Wil Traval"
+        ],
+        "tha": [
+            "Krysten Ritter",
+            " Rachael Taylor",
+            " Eka Darville",
+            " Carrie-Anne Moss",
+            " John Ventimiglia",
+            " David Tennant",
+            " Rebecca De Mornay",
+            " J.R. Ramirez",
+            " Janet McTeer",
+            " Wil Traval"
+        ],
+        "ind": [
+            "Krysten Ritter",
+            " Rachael Taylor",
+            " Eka Darville",
+            " Carrie-Anne Moss",
+            " John Ventimiglia",
+            " David Tennant",
+            " Rebecca De Mornay",
+            " J.R. Ramirez",
+            " Janet McTeer",
+            " Wil Traval"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Stephen Surjik",
+            " Jennifer Getzinger",
+            " Uta Briesewitz",
+            " Rosemary Rodriguez",
+            " Simon Cellan Jones",
+            " S.J. Clarkson",
+            " David Petrarca",
+            " Mairzee Almas",
+            " Neasa Hardiman",
+            " John Dahl"
+        ],
+        "may": [
+            "Stephen Surjik",
+            " Jennifer Getzinger",
+            " Uta Briesewitz",
+            " Rosemary Rodriguez",
+            " Simon Cellan Jones",
+            " S.J. Clarkson",
+            " David Petrarca",
+            " Mairzee Almas",
+            " Neasa Hardiman",
+            " John Dahl"
+        ],
+        "tam": [
+            "Stephen Surjik",
+            " Jennifer Getzinger",
+            " Uta Briesewitz",
+            " Rosemary Rodriguez",
+            " Simon Cellan Jones",
+            " S.J. Clarkson",
+            " David Petrarca",
+            " Mairzee Almas",
+            " Neasa Hardiman",
+            " John Dahl"
+        ],
+        "chi": [
+            "Stephen Surjik",
+            " Jennifer Getzinger",
+            " Uta Briesewitz",
+            " Rosemary Rodriguez",
+            " Simon Cellan Jones",
+            " S.J. Clarkson",
+            " David Petrarca",
+            " Mairzee Almas",
+            " Neasa Hardiman",
+            " John Dahl"
+        ],
+        "tha": [
+            "Stephen Surjik",
+            " Jennifer Getzinger",
+            " Uta Briesewitz",
+            " Rosemary Rodriguez",
+            " Simon Cellan Jones",
+            " S.J. Clarkson",
+            " David Petrarca",
+            " Mairzee Almas",
+            " Neasa Hardiman",
+            " John Dahl"
+        ],
+        "ind": [
+            "Stephen Surjik",
+            " Jennifer Getzinger",
+            " Uta Briesewitz",
+            " Rosemary Rodriguez",
+            " Simon Cellan Jones",
+            " S.J. Clarkson",
+            " David Petrarca",
+            " Mairzee Almas",
+            " Neasa Hardiman",
+            " John Dahl"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Tim Iacofano",
+            " Jeph Loeb",
+            " Melissa Rosenberg",
+            " Samantha Thomas",
+            " Brian Michael Bendis",
+            " Alan Fine",
+            " Hilly Hicks Jr.",
+            " Howard Klein",
+            " Stan Lee",
+            " Joe Quesada"
+        ],
+        "may": [
+            "Tim Iacofano",
+            " Jeph Loeb",
+            " Melissa Rosenberg",
+            " Samantha Thomas",
+            " Brian Michael Bendis",
+            " Alan Fine",
+            " Hilly Hicks Jr.",
+            " Howard Klein",
+            " Stan Lee",
+            " Joe Quesada"
+        ],
+        "tam": [
+            "Tim Iacofano",
+            " Jeph Loeb",
+            " Melissa Rosenberg",
+            " Samantha Thomas",
+            " Brian Michael Bendis",
+            " Alan Fine",
+            " Hilly Hicks Jr.",
+            " Howard Klein",
+            " Stan Lee",
+            " Joe Quesada"
+        ],
+        "chi": [
+            "Tim Iacofano",
+            " Jeph Loeb",
+            " Melissa Rosenberg",
+            " Samantha Thomas",
+            " Brian Michael Bendis",
+            " Alan Fine",
+            " Hilly Hicks Jr.",
+            " Howard Klein",
+            " Stan Lee",
+            " Joe Quesada"
+        ],
+        "tha": [
+            "Tim Iacofano",
+            " Jeph Loeb",
+            " Melissa Rosenberg",
+            " Samantha Thomas",
+            " Brian Michael Bendis",
+            " Alan Fine",
+            " Hilly Hicks Jr.",
+            " Howard Klein",
+            " Stan Lee",
+            " Joe Quesada"
+        ],
+        "ind": [
+            "Tim Iacofano",
+            " Jeph Loeb",
+            " Melissa Rosenberg",
+            " Samantha Thomas",
+            " Brian Michael Bendis",
+            " Alan Fine",
+            " Hilly Hicks Jr.",
+            " Howard Klein",
+            " Stan Lee",
+            " Joe Quesada"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/JessicaJonesSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/JessicaJonesSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/JessicaJonesSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "9",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2015,
+    "maxConcurrentStreams": 0
+}

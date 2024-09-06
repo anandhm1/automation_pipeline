@@ -1,0 +1,397 @@
+{
+    "externalId": "AggregatedTvShow_b7b49a5d-fce8-51c8-a731-1b9ac62c2e4c",
+    "clientContentId": "PACK0000000001691456",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Love Life - Trailer",
+            "may": "Love Life - Trailer",
+            "tam": "Love Life - Trailer",
+            "chi": "Love Life - Trailer",
+            "tha": "Love Life - Trailer",
+            "ind": "Love Life - Trailer"
+        },
+        "long": {
+            "eng": "Love Life - Trailer",
+            "may": "Love Life - Trailer",
+            "tam": "Love Life - Trailer",
+            "chi": "Love Life - Trailer",
+            "tha": "Love Life - Trailer",
+            "ind": "Love Life - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Anna Kendrick stars in a fresh take on a romantic comedy anthology series about the journey from first love to lasting",
+            "may": "Anna Kendrick stars in a fresh take on a romantic comedy anthology series about the journey from first love to lasting",
+            "tam": "Anna Kendrick stars in a fresh take on a romantic comedy anthology series about the journey from first love to lasting",
+            "chi": "Anna Kendrick stars in a fresh take on a romantic comedy anthology series about the journey from first love to lasting",
+            "tha": "Anna Kendrick stars in a fresh take on a romantic comedy anthology series about the journey from first love to lasting",
+            "ind": "Anna Kendrick stars in a fresh take on a romantic comedy anthology series about the journey from first love to lasting"
+        },
+        "long": {
+            "eng": "Anna Kendrick stars in a fresh take on a romantic comedy anthology series about the journey from first love to lasting",
+            "may": "Anna Kendrick stars in a fresh take on a romantic comedy anthology series about the journey from first love to lasting",
+            "tam": "Anna Kendrick stars in a fresh take on a romantic comedy anthology series about the journey from first love to lasting",
+            "chi": "Anna Kendrick stars in a fresh take on a romantic comedy anthology series about the journey from first love to lasting",
+            "tha": "Anna Kendrick stars in a fresh take on a romantic comedy anthology series about the journey from first love to lasting",
+            "ind": "Anna Kendrick stars in a fresh take on a romantic comedy anthology series about the journey from first love to lasting"
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Anna Kendrick",
+            " Zoe Chao",
+            " Peter Vack",
+            " Sasha Comp\u00e8re",
+            " William Jackson Harper",
+            " Jessica Williams",
+            " Christopher Powell",
+            " Punkie Johnson",
+            " Keith David",
+            " Lesley Manville"
+        ],
+        "may": [
+            "Anna Kendrick",
+            " Zoe Chao",
+            " Peter Vack",
+            " Sasha Comp\u00e8re",
+            " William Jackson Harper",
+            " Jessica Williams",
+            " Christopher Powell",
+            " Punkie Johnson",
+            " Keith David",
+            " Lesley Manville"
+        ],
+        "tam": [
+            "Anna Kendrick",
+            " Zoe Chao",
+            " Peter Vack",
+            " Sasha Comp\u00e8re",
+            " William Jackson Harper",
+            " Jessica Williams",
+            " Christopher Powell",
+            " Punkie Johnson",
+            " Keith David",
+            " Lesley Manville"
+        ],
+        "chi": [
+            "Anna Kendrick",
+            " Zoe Chao",
+            " Peter Vack",
+            " Sasha Comp\u00e8re",
+            " William Jackson Harper",
+            " Jessica Williams",
+            " Christopher Powell",
+            " Punkie Johnson",
+            " Keith David",
+            " Lesley Manville"
+        ],
+        "tha": [
+            "Anna Kendrick",
+            " Zoe Chao",
+            " Peter Vack",
+            " Sasha Comp\u00e8re",
+            " William Jackson Harper",
+            " Jessica Williams",
+            " Christopher Powell",
+            " Punkie Johnson",
+            " Keith David",
+            " Lesley Manville"
+        ],
+        "ind": [
+            "Anna Kendrick",
+            " Zoe Chao",
+            " Peter Vack",
+            " Sasha Comp\u00e8re",
+            " William Jackson Harper",
+            " Jessica Williams",
+            " Christopher Powell",
+            " Punkie Johnson",
+            " Keith David",
+            " Lesley Manville"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Sam Boyd",
+            " Stephanie Laing",
+            " Craig Johnson",
+            " Pete Chatmon",
+            " Natalia Leite",
+            " Stacey Muhammad",
+            " Tricia Brock",
+            " Jennifer Kaytin Robinson",
+            " Anu Valia",
+            " Thembi Banks"
+        ],
+        "may": [
+            "Sam Boyd",
+            " Stephanie Laing",
+            " Craig Johnson",
+            " Pete Chatmon",
+            " Natalia Leite",
+            " Stacey Muhammad",
+            " Tricia Brock",
+            " Jennifer Kaytin Robinson",
+            " Anu Valia",
+            " Thembi Banks"
+        ],
+        "tam": [
+            "Sam Boyd",
+            " Stephanie Laing",
+            " Craig Johnson",
+            " Pete Chatmon",
+            " Natalia Leite",
+            " Stacey Muhammad",
+            " Tricia Brock",
+            " Jennifer Kaytin Robinson",
+            " Anu Valia",
+            " Thembi Banks"
+        ],
+        "chi": [
+            "Sam Boyd",
+            " Stephanie Laing",
+            " Craig Johnson",
+            " Pete Chatmon",
+            " Natalia Leite",
+            " Stacey Muhammad",
+            " Tricia Brock",
+            " Jennifer Kaytin Robinson",
+            " Anu Valia",
+            " Thembi Banks"
+        ],
+        "tha": [
+            "Sam Boyd",
+            " Stephanie Laing",
+            " Craig Johnson",
+            " Pete Chatmon",
+            " Natalia Leite",
+            " Stacey Muhammad",
+            " Tricia Brock",
+            " Jennifer Kaytin Robinson",
+            " Anu Valia",
+            " Thembi Banks"
+        ],
+        "ind": [
+            "Sam Boyd",
+            " Stephanie Laing",
+            " Craig Johnson",
+            " Pete Chatmon",
+            " Natalia Leite",
+            " Stacey Muhammad",
+            " Tricia Brock",
+            " Jennifer Kaytin Robinson",
+            " Anu Valia",
+            " Thembi Banks"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Sam Boyd",
+            " Denise Pinckley",
+            " Bridget Bedard",
+            " Paul Feig",
+            " Anna Kendrick",
+            " Dan Magnante",
+            " Franklin Hardy",
+            " Jessie Henderson",
+            " Ali Liebegott",
+            " Jaclyn Moore"
+        ],
+        "may": [
+            "Sam Boyd",
+            " Denise Pinckley",
+            " Bridget Bedard",
+            " Paul Feig",
+            " Anna Kendrick",
+            " Dan Magnante",
+            " Franklin Hardy",
+            " Jessie Henderson",
+            " Ali Liebegott",
+            " Jaclyn Moore"
+        ],
+        "tam": [
+            "Sam Boyd",
+            " Denise Pinckley",
+            " Bridget Bedard",
+            " Paul Feig",
+            " Anna Kendrick",
+            " Dan Magnante",
+            " Franklin Hardy",
+            " Jessie Henderson",
+            " Ali Liebegott",
+            " Jaclyn Moore"
+        ],
+        "chi": [
+            "Sam Boyd",
+            " Denise Pinckley",
+            " Bridget Bedard",
+            " Paul Feig",
+            " Anna Kendrick",
+            " Dan Magnante",
+            " Franklin Hardy",
+            " Jessie Henderson",
+            " Ali Liebegott",
+            " Jaclyn Moore"
+        ],
+        "tha": [
+            "Sam Boyd",
+            " Denise Pinckley",
+            " Bridget Bedard",
+            " Paul Feig",
+            " Anna Kendrick",
+            " Dan Magnante",
+            " Franklin Hardy",
+            " Jessie Henderson",
+            " Ali Liebegott",
+            " Jaclyn Moore"
+        ],
+        "ind": [
+            "Sam Boyd",
+            " Denise Pinckley",
+            " Bridget Bedard",
+            " Paul Feig",
+            " Anna Kendrick",
+            " Dan Magnante",
+            " Franklin Hardy",
+            " Jessie Henderson",
+            " Ali Liebegott",
+            " Jaclyn Moore"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Romance",
+                    "may": " Romance",
+                    "tam": " Romance",
+                    "chi": " Romance",
+                    "tha": " Romance",
+                    "ind": " Romance"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LoveLifeSeason2_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LoveLifeSeason2_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LoveLifeSeason2_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_cb7f137a-3972-5558-b9da-4677d3170404",
+    "seasonId": "AggregatedSeason_15699184-7b47-50d6-9260-3a6be913580f",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "2",
+    "yearOfRelease": 2020,
+    "rating": "TV-MA",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

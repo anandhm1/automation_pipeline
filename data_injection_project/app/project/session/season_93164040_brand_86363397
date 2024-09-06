@@ -1,0 +1,323 @@
+{
+    "externalId": "AggregatedSeason_d7b3175b-fca5-5ef2-89a2-de5061f1bb63",
+    "clientContentId": "PACK0000000006181338",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Biography",
+                    "may": "Biography",
+                    "chi": "Biography",
+                    "tam": "Biography",
+                    "ind": "Biography",
+                    "tha": "Biography"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "chi": " Drama",
+                    "tam": " Drama",
+                    "ind": " Drama",
+                    "tha": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Julia Roberts",
+            " Sean Penn",
+            " Dan Stevens",
+            " Betty Gilpin",
+            " Shea Whigham",
+            " Darby Camp",
+            " Hamish Linklater",
+            " Allison Tolman",
+            " Chris Bauer",
+            " J.C. MacKenzie"
+        ],
+        "may": [
+            "Julia Roberts",
+            " Sean Penn",
+            " Dan Stevens",
+            " Betty Gilpin",
+            " Shea Whigham",
+            " Darby Camp",
+            " Hamish Linklater",
+            " Allison Tolman",
+            " Chris Bauer",
+            " J.C. MacKenzie"
+        ],
+        "chi": [
+            "Julia Roberts",
+            " Sean Penn",
+            " Dan Stevens",
+            " Betty Gilpin",
+            " Shea Whigham",
+            " Darby Camp",
+            " Hamish Linklater",
+            " Allison Tolman",
+            " Chris Bauer",
+            " J.C. MacKenzie"
+        ],
+        "tam": [
+            "Julia Roberts",
+            " Sean Penn",
+            " Dan Stevens",
+            " Betty Gilpin",
+            " Shea Whigham",
+            " Darby Camp",
+            " Hamish Linklater",
+            " Allison Tolman",
+            " Chris Bauer",
+            " J.C. MacKenzie"
+        ],
+        "ind": [
+            "Julia Roberts",
+            " Sean Penn",
+            " Dan Stevens",
+            " Betty Gilpin",
+            " Shea Whigham",
+            " Darby Camp",
+            " Hamish Linklater",
+            " Allison Tolman",
+            " Chris Bauer",
+            " J.C. MacKenzie"
+        ],
+        "tha": [
+            "Julia Roberts",
+            " Sean Penn",
+            " Dan Stevens",
+            " Betty Gilpin",
+            " Shea Whigham",
+            " Darby Camp",
+            " Hamish Linklater",
+            " Allison Tolman",
+            " Chris Bauer",
+            " J.C. MacKenzie"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Matt Ross"
+        ],
+        "may": [
+            "Matt Ross"
+        ],
+        "chi": [
+            "Matt Ross"
+        ],
+        "tam": [
+            "Matt Ross"
+        ],
+        "ind": [
+            "Matt Ross"
+        ],
+        "tha": [
+            "Matt Ross"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Sam Esmail",
+            " Gina Fattore",
+            " Marisa Yeres Gill",
+            " Lisa Roberts Gillan",
+            " Amelia Gray",
+            " Chad Hamilton",
+            " Caroline James",
+            " Josh Levin",
+            " Sarah Matte",
+            " Leon Neyfakh"
+        ],
+        "may": [
+            "Sam Esmail",
+            " Gina Fattore",
+            " Marisa Yeres Gill",
+            " Lisa Roberts Gillan",
+            " Amelia Gray",
+            " Chad Hamilton",
+            " Caroline James",
+            " Josh Levin",
+            " Sarah Matte",
+            " Leon Neyfakh"
+        ],
+        "chi": [
+            "Sam Esmail",
+            " Gina Fattore",
+            " Marisa Yeres Gill",
+            " Lisa Roberts Gillan",
+            " Amelia Gray",
+            " Chad Hamilton",
+            " Caroline James",
+            " Josh Levin",
+            " Sarah Matte",
+            " Leon Neyfakh"
+        ],
+        "tam": [
+            "Sam Esmail",
+            " Gina Fattore",
+            " Marisa Yeres Gill",
+            " Lisa Roberts Gillan",
+            " Amelia Gray",
+            " Chad Hamilton",
+            " Caroline James",
+            " Josh Levin",
+            " Sarah Matte",
+            " Leon Neyfakh"
+        ],
+        "ind": [
+            "Sam Esmail",
+            " Gina Fattore",
+            " Marisa Yeres Gill",
+            " Lisa Roberts Gillan",
+            " Amelia Gray",
+            " Chad Hamilton",
+            " Caroline James",
+            " Josh Levin",
+            " Sarah Matte",
+            " Leon Neyfakh"
+        ],
+        "tha": [
+            "Sam Esmail",
+            " Gina Fattore",
+            " Marisa Yeres Gill",
+            " Lisa Roberts Gillan",
+            " Amelia Gray",
+            " Chad Hamilton",
+            " Caroline James",
+            " Josh Levin",
+            " Sarah Matte",
+            " Leon Neyfakh"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_daf4d81e-2ed4-5d16-a874-2b624c1d89e3",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Gaslit Season 1",
+            "may": "Gaslit Season 1",
+            "chi": "Gaslit Season 1",
+            "tam": "Gaslit Season 1",
+            "ind": "Gaslit Season 1",
+            "tha": "Gaslit Season 1"
+        },
+        "long": {
+            "eng": "Gaslit Season 1",
+            "may": "Gaslit Season 1",
+            "chi": "Gaslit Season 1",
+            "tam": "Gaslit Season 1",
+            "ind": "Gaslit Season 1",
+            "tha": "Gaslit Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "may": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "chi": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "tam": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "ind": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "tha": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time."
+        },
+        "long": {
+            "eng": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "may": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "chi": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "tam": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "ind": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+            "tha": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/GaslitSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/GaslitSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/GaslitSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

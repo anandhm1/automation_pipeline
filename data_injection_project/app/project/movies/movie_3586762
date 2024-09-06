@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_41264976-97e3-57fe-aa84-bdfb2900afef",
+    "clientContentId": "PACK0000000005696543",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "MORTAL KOMBAT",
+            "may": "MORTAL KOMBAT",
+            "tam": "MORTAL KOMBAT",
+            "chi": "MORTAL KOMBAT",
+            "tha": "MORTAL KOMBAT",
+            "ind": "MORTAL KOMBAT"
+        },
+        "long": {
+            "eng": "MORTAL KOMBAT",
+            "may": "MORTAL KOMBAT",
+            "tam": "MORTAL KOMBAT",
+            "chi": "MORTAL KOMBAT",
+            "tha": "MORTAL KOMBAT",
+            "ind": "MORTAL KOMBAT"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.",
+            "may": "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.",
+            "tam": "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.",
+            "chi": "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.",
+            "tha": "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.",
+            "ind": "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe."
+        },
+        "long": {
+            "eng": "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.",
+            "may": "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.",
+            "tam": "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.",
+            "chi": "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.",
+            "tha": "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.",
+            "ind": "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Lewis Tan",
+            " Jessica McNamee",
+            " Josh Lawson",
+            " Joe Taslim",
+            " Mehcad Brooks",
+            " Matilda Kimber",
+            " Laura Brent",
+            " Tadanobu Asano",
+            " Hiroyuki Sanada",
+            " Chin Han"
+        ],
+        "may": [
+            "Lewis Tan",
+            " Jessica McNamee",
+            " Josh Lawson",
+            " Joe Taslim",
+            " Mehcad Brooks",
+            " Matilda Kimber",
+            " Laura Brent",
+            " Tadanobu Asano",
+            " Hiroyuki Sanada",
+            " Chin Han"
+        ],
+        "tam": [
+            "Lewis Tan",
+            " Jessica McNamee",
+            " Josh Lawson",
+            " Joe Taslim",
+            " Mehcad Brooks",
+            " Matilda Kimber",
+            " Laura Brent",
+            " Tadanobu Asano",
+            " Hiroyuki Sanada",
+            " Chin Han"
+        ],
+        "chi": [
+            "Lewis Tan",
+            " Jessica McNamee",
+            " Josh Lawson",
+            " Joe Taslim",
+            " Mehcad Brooks",
+            " Matilda Kimber",
+            " Laura Brent",
+            " Tadanobu Asano",
+            " Hiroyuki Sanada",
+            " Chin Han"
+        ],
+        "tha": [
+            "Lewis Tan",
+            " Jessica McNamee",
+            " Josh Lawson",
+            " Joe Taslim",
+            " Mehcad Brooks",
+            " Matilda Kimber",
+            " Laura Brent",
+            " Tadanobu Asano",
+            " Hiroyuki Sanada",
+            " Chin Han"
+        ],
+        "ind": [
+            "Lewis Tan",
+            " Jessica McNamee",
+            " Josh Lawson",
+            " Joe Taslim",
+            " Mehcad Brooks",
+            " Matilda Kimber",
+            " Laura Brent",
+            " Tadanobu Asano",
+            " Hiroyuki Sanada",
+            " Chin Han"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Simon McQuoid"
+        ],
+        "may": [
+            "Simon McQuoid"
+        ],
+        "tam": [
+            "Simon McQuoid"
+        ],
+        "chi": [
+            "Simon McQuoid"
+        ],
+        "tha": [
+            "Simon McQuoid"
+        ],
+        "ind": [
+            "Simon McQuoid"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Richard Brener",
+            " Michael Clear",
+            " Todd Garner",
+            " Lawrence Kasanoff",
+            " Simon McQuoid",
+            " Dave Neustadter",
+            " Victoria Palmeri",
+            " Sean Robins",
+            " Jeremy Stein",
+            " E. Bennett Walsh"
+        ],
+        "may": [
+            "Richard Brener",
+            " Michael Clear",
+            " Todd Garner",
+            " Lawrence Kasanoff",
+            " Simon McQuoid",
+            " Dave Neustadter",
+            " Victoria Palmeri",
+            " Sean Robins",
+            " Jeremy Stein",
+            " E. Bennett Walsh"
+        ],
+        "tam": [
+            "Richard Brener",
+            " Michael Clear",
+            " Todd Garner",
+            " Lawrence Kasanoff",
+            " Simon McQuoid",
+            " Dave Neustadter",
+            " Victoria Palmeri",
+            " Sean Robins",
+            " Jeremy Stein",
+            " E. Bennett Walsh"
+        ],
+        "chi": [
+            "Richard Brener",
+            " Michael Clear",
+            " Todd Garner",
+            " Lawrence Kasanoff",
+            " Simon McQuoid",
+            " Dave Neustadter",
+            " Victoria Palmeri",
+            " Sean Robins",
+            " Jeremy Stein",
+            " E. Bennett Walsh"
+        ],
+        "tha": [
+            "Richard Brener",
+            " Michael Clear",
+            " Todd Garner",
+            " Lawrence Kasanoff",
+            " Simon McQuoid",
+            " Dave Neustadter",
+            " Victoria Palmeri",
+            " Sean Robins",
+            " Jeremy Stein",
+            " E. Bennett Walsh"
+        ],
+        "ind": [
+            "Richard Brener",
+            " Michael Clear",
+            " Todd Garner",
+            " Lawrence Kasanoff",
+            " Simon McQuoid",
+            " Dave Neustadter",
+            " Victoria Palmeri",
+            " Sean Robins",
+            " Jeremy Stein",
+            " E. Bennett Walsh"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/MORTALKOMBAT_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/MORTALKOMBAT_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/MORTALKOMBAT_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2021,
+    "rating": "6.0",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

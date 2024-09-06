@@ -1,0 +1,349 @@
+{
+    "externalId": "AggregatedTvShow_3b26a71c-2d4c-5443-8327-78e7967b2137",
+    "clientContentId": "PACK0000000001548368",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "She-Hulk Attorney At Law - Trailer",
+            "may": "She-Hulk Attorney At Law - Trailer",
+            "tam": "She-Hulk Attorney At Law - Trailer",
+            "chi": "She-Hulk Attorney At Law - Trailer",
+            "tha": "She-Hulk Attorney At Law - Trailer",
+            "ind": "She-Hulk Attorney At Law - Trailer"
+        },
+        "long": {
+            "eng": "She-Hulk Attorney At Law - Trailer",
+            "may": "She-Hulk Attorney At Law - Trailer",
+            "tam": "She-Hulk Attorney At Law - Trailer",
+            "chi": "She-Hulk Attorney At Law - Trailer",
+            "tha": "She-Hulk Attorney At Law - Trailer",
+            "ind": "She-Hulk Attorney At Law - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "may": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "tam": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "chi": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "tha": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "ind": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk."
+        },
+        "long": {
+            "eng": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "may": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "tam": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "chi": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "tha": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+            "ind": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5261,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013747/PACK0000000001013747/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013747",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013747"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Tatiana Maslany",
+            " Ginger Gonzaga",
+            " Malia Arrayah",
+            " Jameela Jamil",
+            " Steve Coulter",
+            " Ren\u00e9e Elise Goldsberry",
+            " Josh Segarra",
+            " Tim Roth",
+            " Mark Linn-Baker",
+            " Jon Bass"
+        ],
+        "may": [
+            "Tatiana Maslany",
+            " Ginger Gonzaga",
+            " Malia Arrayah",
+            " Jameela Jamil",
+            " Steve Coulter",
+            " Ren\u00e9e Elise Goldsberry",
+            " Josh Segarra",
+            " Tim Roth",
+            " Mark Linn-Baker",
+            " Jon Bass"
+        ],
+        "tam": [
+            "Tatiana Maslany",
+            " Ginger Gonzaga",
+            " Malia Arrayah",
+            " Jameela Jamil",
+            " Steve Coulter",
+            " Ren\u00e9e Elise Goldsberry",
+            " Josh Segarra",
+            " Tim Roth",
+            " Mark Linn-Baker",
+            " Jon Bass"
+        ],
+        "chi": [
+            "Tatiana Maslany",
+            " Ginger Gonzaga",
+            " Malia Arrayah",
+            " Jameela Jamil",
+            " Steve Coulter",
+            " Ren\u00e9e Elise Goldsberry",
+            " Josh Segarra",
+            " Tim Roth",
+            " Mark Linn-Baker",
+            " Jon Bass"
+        ],
+        "tha": [
+            "Tatiana Maslany",
+            " Ginger Gonzaga",
+            " Malia Arrayah",
+            " Jameela Jamil",
+            " Steve Coulter",
+            " Ren\u00e9e Elise Goldsberry",
+            " Josh Segarra",
+            " Tim Roth",
+            " Mark Linn-Baker",
+            " Jon Bass"
+        ],
+        "ind": [
+            "Tatiana Maslany",
+            " Ginger Gonzaga",
+            " Malia Arrayah",
+            " Jameela Jamil",
+            " Steve Coulter",
+            " Ren\u00e9e Elise Goldsberry",
+            " Josh Segarra",
+            " Tim Roth",
+            " Mark Linn-Baker",
+            " Jon Bass"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Kat Coiro",
+            " Anu Valia"
+        ],
+        "may": [
+            "Kat Coiro",
+            " Anu Valia"
+        ],
+        "tam": [
+            "Kat Coiro",
+            " Anu Valia"
+        ],
+        "chi": [
+            "Kat Coiro",
+            " Anu Valia"
+        ],
+        "tha": [
+            "Kat Coiro",
+            " Anu Valia"
+        ],
+        "ind": [
+            "Kat Coiro",
+            " Anu Valia"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Victoria Alonso",
+            " Jennifer Booth",
+            " Kara Brown",
+            " Kat Coiro",
+            " Barbara Curry",
+            " Louis D'Esposito",
+            " Ken Farrington",
+            " Kevin Feige",
+            " Sarah Finn",
+            " Jessica Gao"
+        ],
+        "may": [
+            "Victoria Alonso",
+            " Jennifer Booth",
+            " Kara Brown",
+            " Kat Coiro",
+            " Barbara Curry",
+            " Louis D'Esposito",
+            " Ken Farrington",
+            " Kevin Feige",
+            " Sarah Finn",
+            " Jessica Gao"
+        ],
+        "tam": [
+            "Victoria Alonso",
+            " Jennifer Booth",
+            " Kara Brown",
+            " Kat Coiro",
+            " Barbara Curry",
+            " Louis D'Esposito",
+            " Ken Farrington",
+            " Kevin Feige",
+            " Sarah Finn",
+            " Jessica Gao"
+        ],
+        "chi": [
+            "Victoria Alonso",
+            " Jennifer Booth",
+            " Kara Brown",
+            " Kat Coiro",
+            " Barbara Curry",
+            " Louis D'Esposito",
+            " Ken Farrington",
+            " Kevin Feige",
+            " Sarah Finn",
+            " Jessica Gao"
+        ],
+        "tha": [
+            "Victoria Alonso",
+            " Jennifer Booth",
+            " Kara Brown",
+            " Kat Coiro",
+            " Barbara Curry",
+            " Louis D'Esposito",
+            " Ken Farrington",
+            " Kevin Feige",
+            " Sarah Finn",
+            " Jessica Gao"
+        ],
+        "ind": [
+            "Victoria Alonso",
+            " Jennifer Booth",
+            " Kara Brown",
+            " Kat Coiro",
+            " Barbara Curry",
+            " Louis D'Esposito",
+            " Ken Farrington",
+            " Kevin Feige",
+            " Sarah Finn",
+            " Jessica Gao"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "tam": " Adventure",
+                    "chi": " Adventure",
+                    "tha": " Adventure",
+                    "ind": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/She-HulkAttorneyatLawSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/She-HulkAttorneyatLawSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/She-HulkAttorneyatLawSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_4d151638-6082-56d5-b1fa-d968930749fa",
+    "seasonId": "AggregatedSeason_d3ecf3e5-9716-5ba1-b0f2-20bce40fed3b",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2022,
+    "rating": "TV-14",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

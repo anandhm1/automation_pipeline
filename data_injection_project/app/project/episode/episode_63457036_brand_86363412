@@ -1,0 +1,337 @@
+{
+    "externalId": "AggregatedTvShow_fab0773e-ba17-5fe5-8452-c20389273f46",
+    "clientContentId": "PACK0000000007842712",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Little Birds - Trailer",
+            "may": "Little Birds - Trailer",
+            "tam": "Little Birds - Trailer",
+            "chi": "Little Birds - Trailer",
+            "tha": "Little Birds - Trailer",
+            "ind": "Little Birds - Trailer"
+        },
+        "long": {
+            "eng": "Little Birds - Trailer",
+            "may": "Little Birds - Trailer",
+            "tam": "Little Birds - Trailer",
+            "chi": "Little Birds - Trailer",
+            "tha": "Little Birds - Trailer",
+            "ind": "Little Birds - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "may": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "tam": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "chi": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "tha": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "ind": "TV adaptation of Anais Nin's infamous collection of erotic short stories."
+        },
+        "long": {
+            "eng": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "may": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "tam": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "chi": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "tha": "TV adaptation of Anais Nin's infamous collection of erotic short stories.",
+            "ind": "TV adaptation of Anais Nin's infamous collection of erotic short stories."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Juno Temple",
+            " Yumna Marwan",
+            " Hugh Skinner",
+            " Raphael Acloque",
+            " Jean-Marc Barr",
+            " Nina Sosanya",
+            " Kamel Labroudi",
+            " Barbara Fernandes Sabate",
+            " Lara V\u00e9liz",
+            " Matt Lauria"
+        ],
+        "may": [
+            "Juno Temple",
+            " Yumna Marwan",
+            " Hugh Skinner",
+            " Raphael Acloque",
+            " Jean-Marc Barr",
+            " Nina Sosanya",
+            " Kamel Labroudi",
+            " Barbara Fernandes Sabate",
+            " Lara V\u00e9liz",
+            " Matt Lauria"
+        ],
+        "tam": [
+            "Juno Temple",
+            " Yumna Marwan",
+            " Hugh Skinner",
+            " Raphael Acloque",
+            " Jean-Marc Barr",
+            " Nina Sosanya",
+            " Kamel Labroudi",
+            " Barbara Fernandes Sabate",
+            " Lara V\u00e9liz",
+            " Matt Lauria"
+        ],
+        "chi": [
+            "Juno Temple",
+            " Yumna Marwan",
+            " Hugh Skinner",
+            " Raphael Acloque",
+            " Jean-Marc Barr",
+            " Nina Sosanya",
+            " Kamel Labroudi",
+            " Barbara Fernandes Sabate",
+            " Lara V\u00e9liz",
+            " Matt Lauria"
+        ],
+        "tha": [
+            "Juno Temple",
+            " Yumna Marwan",
+            " Hugh Skinner",
+            " Raphael Acloque",
+            " Jean-Marc Barr",
+            " Nina Sosanya",
+            " Kamel Labroudi",
+            " Barbara Fernandes Sabate",
+            " Lara V\u00e9liz",
+            " Matt Lauria"
+        ],
+        "ind": [
+            "Juno Temple",
+            " Yumna Marwan",
+            " Hugh Skinner",
+            " Raphael Acloque",
+            " Jean-Marc Barr",
+            " Nina Sosanya",
+            " Kamel Labroudi",
+            " Barbara Fernandes Sabate",
+            " Lara V\u00e9liz",
+            " Matt Lauria"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Stacie Passon"
+        ],
+        "may": [
+            "Stacie Passon"
+        ],
+        "tam": [
+            "Stacie Passon"
+        ],
+        "chi": [
+            "Stacie Passon"
+        ],
+        "tha": [
+            "Stacie Passon"
+        ],
+        "ind": [
+            "Stacie Passon"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Peter Carlton",
+            " Jos\u00e9 Mar\u00eda Gonz\u00e1lez Sinde",
+            " Mark Herbert",
+            " Karl Liegis",
+            " Kara Manley",
+            " Ruth McCance",
+            " Stacie Passon",
+            " Peter Welter Soler",
+            " Carmen Torres"
+        ],
+        "may": [
+            "Peter Carlton",
+            " Jos\u00e9 Mar\u00eda Gonz\u00e1lez Sinde",
+            " Mark Herbert",
+            " Karl Liegis",
+            " Kara Manley",
+            " Ruth McCance",
+            " Stacie Passon",
+            " Peter Welter Soler",
+            " Carmen Torres"
+        ],
+        "tam": [
+            "Peter Carlton",
+            " Jos\u00e9 Mar\u00eda Gonz\u00e1lez Sinde",
+            " Mark Herbert",
+            " Karl Liegis",
+            " Kara Manley",
+            " Ruth McCance",
+            " Stacie Passon",
+            " Peter Welter Soler",
+            " Carmen Torres"
+        ],
+        "chi": [
+            "Peter Carlton",
+            " Jos\u00e9 Mar\u00eda Gonz\u00e1lez Sinde",
+            " Mark Herbert",
+            " Karl Liegis",
+            " Kara Manley",
+            " Ruth McCance",
+            " Stacie Passon",
+            " Peter Welter Soler",
+            " Carmen Torres"
+        ],
+        "tha": [
+            "Peter Carlton",
+            " Jos\u00e9 Mar\u00eda Gonz\u00e1lez Sinde",
+            " Mark Herbert",
+            " Karl Liegis",
+            " Kara Manley",
+            " Ruth McCance",
+            " Stacie Passon",
+            " Peter Welter Soler",
+            " Carmen Torres"
+        ],
+        "ind": [
+            "Peter Carlton",
+            " Jos\u00e9 Mar\u00eda Gonz\u00e1lez Sinde",
+            " Mark Herbert",
+            " Karl Liegis",
+            " Kara Manley",
+            " Ruth McCance",
+            " Stacie Passon",
+            " Peter Welter Soler",
+            " Carmen Torres"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Romance",
+                    "may": " Romance",
+                    "tam": " Romance",
+                    "chi": " Romance",
+                    "tha": " Romance",
+                    "ind": " Romance"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LittleBirdsSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LittleBirdsSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/LittleBirdsSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_d50359e3-88be-54b6-9aaf-512d53748c5f",
+    "seasonId": "AggregatedSeason_1ada88ab-7a7c-5b45-bc1e-20f2199515fb",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2020,
+    "rating": "18",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,377 @@
+{
+    "externalId": "AggregatedSeason_b6c3ab0c-f190-53d7-9d63-168609a9c30b",
+    "clientContentId": "PACK0000000003620364",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "chi": "Action",
+                    "tam": "Action",
+                    "ind": "Action",
+                    "tha": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "chi": " Adventure",
+                    "tam": " Adventure",
+                    "ind": " Adventure",
+                    "tha": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-PG",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Brec Bassinger",
+            " Trae Romano",
+            " Amy Smart",
+            " Luke Wilson",
+            " Anjelika Washington",
+            " Yvette Monreal",
+            " Cameron Gellman",
+            " Meg DeLacy",
+            " Hunter Sansone",
+            " Gilbert Glenn Brown"
+        ],
+        "may": [
+            "Brec Bassinger",
+            " Trae Romano",
+            " Amy Smart",
+            " Luke Wilson",
+            " Anjelika Washington",
+            " Yvette Monreal",
+            " Cameron Gellman",
+            " Meg DeLacy",
+            " Hunter Sansone",
+            " Gilbert Glenn Brown"
+        ],
+        "chi": [
+            "Brec Bassinger",
+            " Trae Romano",
+            " Amy Smart",
+            " Luke Wilson",
+            " Anjelika Washington",
+            " Yvette Monreal",
+            " Cameron Gellman",
+            " Meg DeLacy",
+            " Hunter Sansone",
+            " Gilbert Glenn Brown"
+        ],
+        "tam": [
+            "Brec Bassinger",
+            " Trae Romano",
+            " Amy Smart",
+            " Luke Wilson",
+            " Anjelika Washington",
+            " Yvette Monreal",
+            " Cameron Gellman",
+            " Meg DeLacy",
+            " Hunter Sansone",
+            " Gilbert Glenn Brown"
+        ],
+        "ind": [
+            "Brec Bassinger",
+            " Trae Romano",
+            " Amy Smart",
+            " Luke Wilson",
+            " Anjelika Washington",
+            " Yvette Monreal",
+            " Cameron Gellman",
+            " Meg DeLacy",
+            " Hunter Sansone",
+            " Gilbert Glenn Brown"
+        ],
+        "tha": [
+            "Brec Bassinger",
+            " Trae Romano",
+            " Amy Smart",
+            " Luke Wilson",
+            " Anjelika Washington",
+            " Yvette Monreal",
+            " Cameron Gellman",
+            " Meg DeLacy",
+            " Hunter Sansone",
+            " Gilbert Glenn Brown"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Andi Armaganian",
+            " Lea Thompson",
+            " Greg Beeman",
+            " Walter Garcia",
+            " Sheelin Choksey",
+            " Jennifer Phang",
+            " Glen Winter",
+            " Tamra Davis",
+            " Toa Fraser",
+            " Rob Hardy"
+        ],
+        "may": [
+            "Andi Armaganian",
+            " Lea Thompson",
+            " Greg Beeman",
+            " Walter Garcia",
+            " Sheelin Choksey",
+            " Jennifer Phang",
+            " Glen Winter",
+            " Tamra Davis",
+            " Toa Fraser",
+            " Rob Hardy"
+        ],
+        "chi": [
+            "Andi Armaganian",
+            " Lea Thompson",
+            " Greg Beeman",
+            " Walter Garcia",
+            " Sheelin Choksey",
+            " Jennifer Phang",
+            " Glen Winter",
+            " Tamra Davis",
+            " Toa Fraser",
+            " Rob Hardy"
+        ],
+        "tam": [
+            "Andi Armaganian",
+            " Lea Thompson",
+            " Greg Beeman",
+            " Walter Garcia",
+            " Sheelin Choksey",
+            " Jennifer Phang",
+            " Glen Winter",
+            " Tamra Davis",
+            " Toa Fraser",
+            " Rob Hardy"
+        ],
+        "ind": [
+            "Andi Armaganian",
+            " Lea Thompson",
+            " Greg Beeman",
+            " Walter Garcia",
+            " Sheelin Choksey",
+            " Jennifer Phang",
+            " Glen Winter",
+            " Tamra Davis",
+            " Toa Fraser",
+            " Rob Hardy"
+        ],
+        "tha": [
+            "Andi Armaganian",
+            " Lea Thompson",
+            " Greg Beeman",
+            " Walter Garcia",
+            " Sheelin Choksey",
+            " Jennifer Phang",
+            " Glen Winter",
+            " Tamra Davis",
+            " Toa Fraser",
+            " Rob Hardy"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Greg Berlanti",
+            " Geoff Johns",
+            " Jennifer Lence",
+            " Colleen McGuinness",
+            " Christina Northrup",
+            " Carl Ogawa",
+            " Trina Renee",
+            " James Robinson",
+            " Tom Root",
+            " Sarah Schechter"
+        ],
+        "may": [
+            "Greg Berlanti",
+            " Geoff Johns",
+            " Jennifer Lence",
+            " Colleen McGuinness",
+            " Christina Northrup",
+            " Carl Ogawa",
+            " Trina Renee",
+            " James Robinson",
+            " Tom Root",
+            " Sarah Schechter"
+        ],
+        "chi": [
+            "Greg Berlanti",
+            " Geoff Johns",
+            " Jennifer Lence",
+            " Colleen McGuinness",
+            " Christina Northrup",
+            " Carl Ogawa",
+            " Trina Renee",
+            " James Robinson",
+            " Tom Root",
+            " Sarah Schechter"
+        ],
+        "tam": [
+            "Greg Berlanti",
+            " Geoff Johns",
+            " Jennifer Lence",
+            " Colleen McGuinness",
+            " Christina Northrup",
+            " Carl Ogawa",
+            " Trina Renee",
+            " James Robinson",
+            " Tom Root",
+            " Sarah Schechter"
+        ],
+        "ind": [
+            "Greg Berlanti",
+            " Geoff Johns",
+            " Jennifer Lence",
+            " Colleen McGuinness",
+            " Christina Northrup",
+            " Carl Ogawa",
+            " Trina Renee",
+            " James Robinson",
+            " Tom Root",
+            " Sarah Schechter"
+        ],
+        "tha": [
+            "Greg Berlanti",
+            " Geoff Johns",
+            " Jennifer Lence",
+            " Colleen McGuinness",
+            " Christina Northrup",
+            " Carl Ogawa",
+            " Trina Renee",
+            " James Robinson",
+            " Tom Root",
+            " Sarah Schechter"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_7e6558f2-e97b-543b-a2bb-3ad1e8ed68fc",
+    "seasonNumber": "3",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Stargirl Season 3",
+            "may": "Stargirl Season 3",
+            "chi": "Stargirl Season 3",
+            "tam": "Stargirl Season 3",
+            "ind": "Stargirl Season 3",
+            "tha": "Stargirl Season 3"
+        },
+        "long": {
+            "eng": "Stargirl Season 3",
+            "may": "Stargirl Season 3",
+            "chi": "Stargirl Season 3",
+            "tam": "Stargirl Season 3",
+            "ind": "Stargirl Season 3",
+            "tha": "Stargirl Season 3"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Teenager Courtney Whitmore joins the Justice Society of America. Based on the character from DC Comics.",
+            "may": "Teenager Courtney Whitmore joins the Justice Society of America. Based on the character from DC Comics.",
+            "chi": "Teenager Courtney Whitmore joins the Justice Society of America. Based on the character from DC Comics.",
+            "tam": "Teenager Courtney Whitmore joins the Justice Society of America. Based on the character from DC Comics.",
+            "ind": "Teenager Courtney Whitmore joins the Justice Society of America. Based on the character from DC Comics.",
+            "tha": "Teenager Courtney Whitmore joins the Justice Society of America. Based on the character from DC Comics."
+        },
+        "long": {
+            "eng": "Teenager Courtney Whitmore joins the Justice Society of America. Based on the character from DC Comics.",
+            "may": "Teenager Courtney Whitmore joins the Justice Society of America. Based on the character from DC Comics.",
+            "chi": "Teenager Courtney Whitmore joins the Justice Society of America. Based on the character from DC Comics.",
+            "tam": "Teenager Courtney Whitmore joins the Justice Society of America. Based on the character from DC Comics.",
+            "ind": "Teenager Courtney Whitmore joins the Justice Society of America. Based on the character from DC Comics.",
+            "tha": "Teenager Courtney Whitmore joins the Justice Society of America. Based on the character from DC Comics."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StargirlSeason3_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StargirlSeason3_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/StargirlSeason3_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

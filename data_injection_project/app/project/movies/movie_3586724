@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedMovie_f1166a01-c487-59cd-b1f3-2ef87a30d6ce",
+    "clientContentId": "PACK0000000001439254",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "BONES AND ALL",
+            "may": "BONES AND ALL",
+            "tam": "BONES AND ALL",
+            "chi": "BONES AND ALL",
+            "tha": "BONES AND ALL",
+            "ind": "BONES AND ALL"
+        },
+        "long": {
+            "eng": "BONES AND ALL",
+            "may": "BONES AND ALL",
+            "tam": "BONES AND ALL",
+            "chi": "BONES AND ALL",
+            "tha": "BONES AND ALL",
+            "ind": "BONES AND ALL"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Maren, a young woman, learns how to survive on the margins of society.",
+            "may": "Maren, a young woman, learns how to survive on the margins of society.",
+            "tam": "Maren, a young woman, learns how to survive on the margins of society.",
+            "chi": "Maren, a young woman, learns how to survive on the margins of society.",
+            "tha": "Maren, a young woman, learns how to survive on the margins of society.",
+            "ind": "Maren, a young woman, learns how to survive on the margins of society."
+        },
+        "long": {
+            "eng": "Maren, a young woman, learns how to survive on the margins of society.",
+            "may": "Maren, a young woman, learns how to survive on the margins of society.",
+            "tam": "Maren, a young woman, learns how to survive on the margins of society.",
+            "chi": "Maren, a young woman, learns how to survive on the margins of society.",
+            "tha": "Maren, a young woman, learns how to survive on the margins of society.",
+            "ind": "Maren, a young woman, learns how to survive on the margins of society."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Kendle Coffey",
+            " Taylor Russell",
+            " Andr\u00e9 Holland",
+            " Ellie Parker",
+            " Madeleine Hall",
+            " Christine DyeMark RylanceTimoth\u00e9e ChalametSean BridgersAnna Cobb"
+        ],
+        "may": [
+            "Kendle Coffey",
+            " Taylor Russell",
+            " Andr\u00e9 Holland",
+            " Ellie Parker",
+            " Madeleine Hall",
+            " Christine DyeMark RylanceTimoth\u00e9e ChalametSean BridgersAnna Cobb"
+        ],
+        "tam": [
+            "Kendle Coffey",
+            " Taylor Russell",
+            " Andr\u00e9 Holland",
+            " Ellie Parker",
+            " Madeleine Hall",
+            " Christine DyeMark RylanceTimoth\u00e9e ChalametSean BridgersAnna Cobb"
+        ],
+        "chi": [
+            "Kendle Coffey",
+            " Taylor Russell",
+            " Andr\u00e9 Holland",
+            " Ellie Parker",
+            " Madeleine Hall",
+            " Christine DyeMark RylanceTimoth\u00e9e ChalametSean BridgersAnna Cobb"
+        ],
+        "tha": [
+            "Kendle Coffey",
+            " Taylor Russell",
+            " Andr\u00e9 Holland",
+            " Ellie Parker",
+            " Madeleine Hall",
+            " Christine DyeMark RylanceTimoth\u00e9e ChalametSean BridgersAnna Cobb"
+        ],
+        "ind": [
+            "Kendle Coffey",
+            " Taylor Russell",
+            " Andr\u00e9 Holland",
+            " Ellie Parker",
+            " Madeleine Hall",
+            " Christine DyeMark RylanceTimoth\u00e9e ChalametSean BridgersAnna Cobb"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Luca Guadagnino"
+        ],
+        "may": [
+            "Luca Guadagnino"
+        ],
+        "tam": [
+            "Luca Guadagnino"
+        ],
+        "chi": [
+            "Luca Guadagnino"
+        ],
+        "tha": [
+            "Luca Guadagnino"
+        ],
+        "ind": [
+            "Luca Guadagnino"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Timoth\u00e9e Chalamet",
+            " Marco Colombo",
+            " Giovanni Corrado",
+            " Luca Guadagnino",
+            " David Kajganich",
+            " Francesco Melzi d'ErilLorenzo MieliJonathan MontepareMarco MorabitoGabriele Moratti"
+        ],
+        "may": [
+            "Timoth\u00e9e Chalamet",
+            " Marco Colombo",
+            " Giovanni Corrado",
+            " Luca Guadagnino",
+            " David Kajganich",
+            " Francesco Melzi d'ErilLorenzo MieliJonathan MontepareMarco MorabitoGabriele Moratti"
+        ],
+        "tam": [
+            "Timoth\u00e9e Chalamet",
+            " Marco Colombo",
+            " Giovanni Corrado",
+            " Luca Guadagnino",
+            " David Kajganich",
+            " Francesco Melzi d'ErilLorenzo MieliJonathan MontepareMarco MorabitoGabriele Moratti"
+        ],
+        "chi": [
+            "Timoth\u00e9e Chalamet",
+            " Marco Colombo",
+            " Giovanni Corrado",
+            " Luca Guadagnino",
+            " David Kajganich",
+            " Francesco Melzi d'ErilLorenzo MieliJonathan MontepareMarco MorabitoGabriele Moratti"
+        ],
+        "tha": [
+            "Timoth\u00e9e Chalamet",
+            " Marco Colombo",
+            " Giovanni Corrado",
+            " Luca Guadagnino",
+            " David Kajganich",
+            " Francesco Melzi d'ErilLorenzo MieliJonathan MontepareMarco MorabitoGabriele Moratti"
+        ],
+        "ind": [
+            "Timoth\u00e9e Chalamet",
+            " Marco Colombo",
+            " Giovanni Corrado",
+            " Luca Guadagnino",
+            " David Kajganich",
+            " Francesco Melzi d'ErilLorenzo MieliJonathan MontepareMarco MorabitoGabriele Moratti"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "tam": " Horror",
+                    "chi": " Horror",
+                    "tha": " Horror",
+                    "ind": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/BONESANDALL_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/BONESANDALL_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/BONESANDALL_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "6.8",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

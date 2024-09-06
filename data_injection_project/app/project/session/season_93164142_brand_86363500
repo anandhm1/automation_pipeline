@@ -1,0 +1,227 @@
+{
+    "externalId": "AggregatedSeason_1125ccf0-dea1-5d33-8e2a-8374a912b17a",
+    "clientContentId": "PACK0000000008764945",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "chi": "Comedy",
+                    "tam": "Comedy",
+                    "ind": "Comedy",
+                    "tha": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "chi": "Comedy",
+                    "tam": "Comedy",
+                    "ind": "Comedy",
+                    "tha": "Comedy"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "7.7",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Faiz Khan",
+            " Kira Narayanan",
+            " Aisha Ahmed"
+        ],
+        "may": [
+            "Faiz Khan",
+            " Kira Narayanan",
+            " Aisha Ahmed"
+        ],
+        "chi": [
+            "Faiz Khan",
+            " Kira Narayanan",
+            " Aisha Ahmed"
+        ],
+        "tam": [
+            "Faiz Khan",
+            " Kira Narayanan",
+            " Aisha Ahmed"
+        ],
+        "ind": [
+            "Faiz Khan",
+            " Kira Narayanan",
+            " Aisha Ahmed"
+        ],
+        "tha": [
+            "Faiz Khan",
+            " Kira Narayanan",
+            " Aisha Ahmed"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Shubham Yogi"
+        ],
+        "may": [
+            "Shubham Yogi"
+        ],
+        "chi": [
+            "Shubham Yogi"
+        ],
+        "tam": [
+            "Shubham Yogi"
+        ],
+        "ind": [
+            "Shubham Yogi"
+        ],
+        "tha": [
+            "Shubham Yogi"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Shubham Yogi"
+        ],
+        "may": [
+            "Shubham Yogi"
+        ],
+        "chi": [
+            "Shubham Yogi"
+        ],
+        "tam": [
+            "Shubham Yogi"
+        ],
+        "ind": [
+            "Shubham Yogi"
+        ],
+        "tha": [
+            "Shubham Yogi"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_474a2767-c5e3-5723-b6bc-67462fac1458",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Minus One S01 EP01",
+            "may": "Minus One S01 EP01",
+            "chi": "Minus One S01 EP01",
+            "tam": "Minus One S01 EP01",
+            "ind": "Minus One S01 EP01",
+            "tha": "Minus One S01 EP01"
+        },
+        "long": {
+            "eng": "Minus One S01 EP01",
+            "may": "Minus One S01 EP01",
+            "chi": "Minus One S01 EP01",
+            "tam": "Minus One S01 EP01",
+            "ind": "Minus One S01 EP01",
+            "tha": "Minus One S01 EP01"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "may": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "chi": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "tam": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "ind": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "tha": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates."
+        },
+        "long": {
+            "eng": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "may": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "chi": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "tam": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "ind": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates.",
+            "tha": "Riya(Aisha Ahmed) and Varun(Ayush Mehra) used to live together as a couple in New Delhi BUT then they broke up. Now they live together as flatmates."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/MinusOne_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/MinusOne_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/MinusOne_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

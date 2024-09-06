@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedMovie_c170e3c1-dca1-537f-a311-726c1ed5ccb6",
+    "clientContentId": "PACK0000000002518440",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Memory (2022)",
+            "may": "Memory (2022)",
+            "tam": "Memory (2022)",
+            "chi": "Memory (2022)",
+            "tha": "Memory (2022)",
+            "ind": "Memory (2022)"
+        },
+        "long": {
+            "eng": "Memory (2022)",
+            "may": "Memory (2022)",
+            "tam": "Memory (2022)",
+            "chi": "Memory (2022)",
+            "tha": "Memory (2022)",
+            "ind": "Memory (2022)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "An assassin-for-hire finds that he's become a target after he refuses to complete a job for a dangerous criminal organization.",
+            "may": "An assassin-for-hire finds that he's become a target after he refuses to complete a job for a dangerous criminal organization.",
+            "tam": "An assassin-for-hire finds that he's become a target after he refuses to complete a job for a dangerous criminal organization.",
+            "chi": "An assassin-for-hire finds that he's become a target after he refuses to complete a job for a dangerous criminal organization.",
+            "tha": "An assassin-for-hire finds that he's become a target after he refuses to complete a job for a dangerous criminal organization.",
+            "ind": "An assassin-for-hire finds that he's become a target after he refuses to complete a job for a dangerous criminal organization."
+        },
+        "long": {
+            "eng": "An assassin-for-hire finds that he's become a target after he refuses to complete a job for a dangerous criminal organization.",
+            "may": "An assassin-for-hire finds that he's become a target after he refuses to complete a job for a dangerous criminal organization.",
+            "tam": "An assassin-for-hire finds that he's become a target after he refuses to complete a job for a dangerous criminal organization.",
+            "chi": "An assassin-for-hire finds that he's become a target after he refuses to complete a job for a dangerous criminal organization.",
+            "tha": "An assassin-for-hire finds that he's become a target after he refuses to complete a job for a dangerous criminal organization.",
+            "ind": "An assassin-for-hire finds that he's become a target after he refuses to complete a job for a dangerous criminal organization."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Liam Neeson",
+            " Guy Pearce",
+            " Taj Atwal",
+            " Harold Torres",
+            " Ray Fearon",
+            " Monica BellucciRay StevensonMia SanchezDaniel De BourgNatalie Anderson"
+        ],
+        "may": [
+            "Liam Neeson",
+            " Guy Pearce",
+            " Taj Atwal",
+            " Harold Torres",
+            " Ray Fearon",
+            " Monica BellucciRay StevensonMia SanchezDaniel De BourgNatalie Anderson"
+        ],
+        "tam": [
+            "Liam Neeson",
+            " Guy Pearce",
+            " Taj Atwal",
+            " Harold Torres",
+            " Ray Fearon",
+            " Monica BellucciRay StevensonMia SanchezDaniel De BourgNatalie Anderson"
+        ],
+        "chi": [
+            "Liam Neeson",
+            " Guy Pearce",
+            " Taj Atwal",
+            " Harold Torres",
+            " Ray Fearon",
+            " Monica BellucciRay StevensonMia SanchezDaniel De BourgNatalie Anderson"
+        ],
+        "tha": [
+            "Liam Neeson",
+            " Guy Pearce",
+            " Taj Atwal",
+            " Harold Torres",
+            " Ray Fearon",
+            " Monica BellucciRay StevensonMia SanchezDaniel De BourgNatalie Anderson"
+        ],
+        "ind": [
+            "Liam Neeson",
+            " Guy Pearce",
+            " Taj Atwal",
+            " Harold Torres",
+            " Ray Fearon",
+            " Monica BellucciRay StevensonMia SanchezDaniel De BourgNatalie Anderson"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Martin Campbell"
+        ],
+        "may": [
+            "Martin Campbell"
+        ],
+        "tam": [
+            "Martin Campbell"
+        ],
+        "chi": [
+            "Martin Campbell"
+        ],
+        "tha": [
+            "Martin Campbell"
+        ],
+        "ind": [
+            "Martin Campbell"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Peter Bouckaert",
+            " Marilyn Brindis",
+            " Paula Crickard",
+            " Moshe Diamant",
+            " Rudy Durand",
+            " Michael HeimlerRupert MaconickJames MascielloBernard MazauricTom Ortenberg"
+        ],
+        "may": [
+            "Peter Bouckaert",
+            " Marilyn Brindis",
+            " Paula Crickard",
+            " Moshe Diamant",
+            " Rudy Durand",
+            " Michael HeimlerRupert MaconickJames MascielloBernard MazauricTom Ortenberg"
+        ],
+        "tam": [
+            "Peter Bouckaert",
+            " Marilyn Brindis",
+            " Paula Crickard",
+            " Moshe Diamant",
+            " Rudy Durand",
+            " Michael HeimlerRupert MaconickJames MascielloBernard MazauricTom Ortenberg"
+        ],
+        "chi": [
+            "Peter Bouckaert",
+            " Marilyn Brindis",
+            " Paula Crickard",
+            " Moshe Diamant",
+            " Rudy Durand",
+            " Michael HeimlerRupert MaconickJames MascielloBernard MazauricTom Ortenberg"
+        ],
+        "tha": [
+            "Peter Bouckaert",
+            " Marilyn Brindis",
+            " Paula Crickard",
+            " Moshe Diamant",
+            " Rudy Durand",
+            " Michael HeimlerRupert MaconickJames MascielloBernard MazauricTom Ortenberg"
+        ],
+        "ind": [
+            "Peter Bouckaert",
+            " Marilyn Brindis",
+            " Paula Crickard",
+            " Moshe Diamant",
+            " Rudy Durand",
+            " Michael HeimlerRupert MaconickJames MascielloBernard MazauricTom Ortenberg"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "tam": "Action",
+                    "chi": "Action",
+                    "tha": "Action",
+                    "ind": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Crime",
+                    "may": " Crime",
+                    "tam": " Crime",
+                    "chi": " Crime",
+                    "tha": " Crime",
+                    "ind": " Crime"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Memory_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Memory_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Memory_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "5.7",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

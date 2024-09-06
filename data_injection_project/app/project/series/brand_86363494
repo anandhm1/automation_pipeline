@@ -1,0 +1,319 @@
+{
+    "externalId": "AggregatedSeries_774a679e-4374-559f-a385-b09bc355a8b0",
+    "clientContentId": "PACK0000000003011405",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "School Spirits",
+            "may": "School Spirits",
+            "tam": "School Spirits",
+            "chi": "School Spirits",
+            "tha": "School Spirits",
+            "ind": "School Spirits"
+        },
+        "long": {
+            "eng": "School Spirits",
+            "may": "School Spirits",
+            "tam": "School Spirits",
+            "chi": "School Spirits",
+            "tha": "School Spirits",
+            "ind": "School Spirits"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Maddie, a teen stuck in the afterlife investigating her own disappearance, goes on a crime-solving journey as she adjusts to high school purgatory.",
+            "may": "Maddie, a teen stuck in the afterlife investigating her own disappearance, goes on a crime-solving journey as she adjusts to high school purgatory.",
+            "tam": "Maddie, a teen stuck in the afterlife investigating her own disappearance, goes on a crime-solving journey as she adjusts to high school purgatory.",
+            "chi": "Maddie, a teen stuck in the afterlife investigating her own disappearance, goes on a crime-solving journey as she adjusts to high school purgatory.",
+            "tha": "Maddie, a teen stuck in the afterlife investigating her own disappearance, goes on a crime-solving journey as she adjusts to high school purgatory.",
+            "ind": "Maddie, a teen stuck in the afterlife investigating her own disappearance, goes on a crime-solving journey as she adjusts to high school purgatory."
+        },
+        "long": {
+            "eng": "Maddie, a teen stuck in the afterlife investigating her own disappearance, goes on a crime-solving journey as she adjusts to high school purgatory.",
+            "may": "Maddie, a teen stuck in the afterlife investigating her own disappearance, goes on a crime-solving journey as she adjusts to high school purgatory.",
+            "tam": "Maddie, a teen stuck in the afterlife investigating her own disappearance, goes on a crime-solving journey as she adjusts to high school purgatory.",
+            "chi": "Maddie, a teen stuck in the afterlife investigating her own disappearance, goes on a crime-solving journey as she adjusts to high school purgatory.",
+            "tha": "Maddie, a teen stuck in the afterlife investigating her own disappearance, goes on a crime-solving journey as she adjusts to high school purgatory.",
+            "ind": "Maddie, a teen stuck in the afterlife investigating her own disappearance, goes on a crime-solving journey as she adjusts to high school purgatory."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Kristian Flores",
+            " Milo Manheim",
+            " Spencer Macpherson",
+            " Kiara Pichardo",
+            " Sarah Yarkin",
+            " Nick Pugliese",
+            " Rainbow Wedell",
+            " Josh Zuckerman",
+            " Maria Dizzia",
+            " Peyton List"
+        ],
+        "may": [
+            "Kristian Flores",
+            " Milo Manheim",
+            " Spencer Macpherson",
+            " Kiara Pichardo",
+            " Sarah Yarkin",
+            " Nick Pugliese",
+            " Rainbow Wedell",
+            " Josh Zuckerman",
+            " Maria Dizzia",
+            " Peyton List"
+        ],
+        "tam": [
+            "Kristian Flores",
+            " Milo Manheim",
+            " Spencer Macpherson",
+            " Kiara Pichardo",
+            " Sarah Yarkin",
+            " Nick Pugliese",
+            " Rainbow Wedell",
+            " Josh Zuckerman",
+            " Maria Dizzia",
+            " Peyton List"
+        ],
+        "chi": [
+            "Kristian Flores",
+            " Milo Manheim",
+            " Spencer Macpherson",
+            " Kiara Pichardo",
+            " Sarah Yarkin",
+            " Nick Pugliese",
+            " Rainbow Wedell",
+            " Josh Zuckerman",
+            " Maria Dizzia",
+            " Peyton List"
+        ],
+        "tha": [
+            "Kristian Flores",
+            " Milo Manheim",
+            " Spencer Macpherson",
+            " Kiara Pichardo",
+            " Sarah Yarkin",
+            " Nick Pugliese",
+            " Rainbow Wedell",
+            " Josh Zuckerman",
+            " Maria Dizzia",
+            " Peyton List"
+        ],
+        "ind": [
+            "Kristian Flores",
+            " Milo Manheim",
+            " Spencer Macpherson",
+            " Kiara Pichardo",
+            " Sarah Yarkin",
+            " Nick Pugliese",
+            " Rainbow Wedell",
+            " Josh Zuckerman",
+            " Maria Dizzia",
+            " Peyton List"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Oran Zegman",
+            " Brian Dannelly",
+            " Hannah Macpherson",
+            " Max Winkler"
+        ],
+        "may": [
+            "Oran Zegman",
+            " Brian Dannelly",
+            " Hannah Macpherson",
+            " Max Winkler"
+        ],
+        "tam": [
+            "Oran Zegman",
+            " Brian Dannelly",
+            " Hannah Macpherson",
+            " Max Winkler"
+        ],
+        "chi": [
+            "Oran Zegman",
+            " Brian Dannelly",
+            " Hannah Macpherson",
+            " Max Winkler"
+        ],
+        "tha": [
+            "Oran Zegman",
+            " Brian Dannelly",
+            " Hannah Macpherson",
+            " Max Winkler"
+        ],
+        "ind": [
+            "Oran Zegman",
+            " Brian Dannelly",
+            " Hannah Macpherson",
+            " Max Winkler"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Donald Petersen",
+            " Austin Bedell",
+            " Don Dunn",
+            " Joyce Sawa",
+            " Max Winkler",
+            " Oliver Goldstick",
+            " Megan Trinrud",
+            " Nate Trinrud"
+        ],
+        "may": [
+            "Donald Petersen",
+            " Austin Bedell",
+            " Don Dunn",
+            " Joyce Sawa",
+            " Max Winkler",
+            " Oliver Goldstick",
+            " Megan Trinrud",
+            " Nate Trinrud"
+        ],
+        "tam": [
+            "Donald Petersen",
+            " Austin Bedell",
+            " Don Dunn",
+            " Joyce Sawa",
+            " Max Winkler",
+            " Oliver Goldstick",
+            " Megan Trinrud",
+            " Nate Trinrud"
+        ],
+        "chi": [
+            "Donald Petersen",
+            " Austin Bedell",
+            " Don Dunn",
+            " Joyce Sawa",
+            " Max Winkler",
+            " Oliver Goldstick",
+            " Megan Trinrud",
+            " Nate Trinrud"
+        ],
+        "tha": [
+            "Donald Petersen",
+            " Austin Bedell",
+            " Don Dunn",
+            " Joyce Sawa",
+            " Max Winkler",
+            " Oliver Goldstick",
+            " Megan Trinrud",
+            " Nate Trinrud"
+        ],
+        "ind": [
+            "Donald Petersen",
+            " Austin Bedell",
+            " Don Dunn",
+            " Joyce Sawa",
+            " Max Winkler",
+            " Oliver Goldstick",
+            " Megan Trinrud",
+            " Nate Trinrud"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/SchoolSpiritsS01Ep01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/SchoolSpiritsS01Ep01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/SchoolSpiritsS01Ep01_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "6",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2023,
+    "maxConcurrentStreams": 0
+}

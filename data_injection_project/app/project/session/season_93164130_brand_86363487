@@ -1,0 +1,341 @@
+{
+    "externalId": "AggregatedSeason_4d48b2d1-f848-5d9d-894e-ea5a7b111ea0",
+    "clientContentId": "PACK0000000003897555",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "chi": "Action",
+                    "tam": "Action",
+                    "ind": "Action",
+                    "tha": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "chi": " Adventure",
+                    "tam": " Adventure",
+                    "ind": " Adventure",
+                    "tha": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-14",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Ruby Cruz",
+            " Ellie Bamber",
+            " Tony Revolori",
+            " Erin Kellyman",
+            " Amar Chadha-Patel",
+            " Warwick Davis",
+            " Dempsey Bryk",
+            " Joonas Suotamo",
+            " Claudia Hughes",
+            " Joanne Whalley"
+        ],
+        "may": [
+            "Ruby Cruz",
+            " Ellie Bamber",
+            " Tony Revolori",
+            " Erin Kellyman",
+            " Amar Chadha-Patel",
+            " Warwick Davis",
+            " Dempsey Bryk",
+            " Joonas Suotamo",
+            " Claudia Hughes",
+            " Joanne Whalley"
+        ],
+        "chi": [
+            "Ruby Cruz",
+            " Ellie Bamber",
+            " Tony Revolori",
+            " Erin Kellyman",
+            " Amar Chadha-Patel",
+            " Warwick Davis",
+            " Dempsey Bryk",
+            " Joonas Suotamo",
+            " Claudia Hughes",
+            " Joanne Whalley"
+        ],
+        "tam": [
+            "Ruby Cruz",
+            " Ellie Bamber",
+            " Tony Revolori",
+            " Erin Kellyman",
+            " Amar Chadha-Patel",
+            " Warwick Davis",
+            " Dempsey Bryk",
+            " Joonas Suotamo",
+            " Claudia Hughes",
+            " Joanne Whalley"
+        ],
+        "ind": [
+            "Ruby Cruz",
+            " Ellie Bamber",
+            " Tony Revolori",
+            " Erin Kellyman",
+            " Amar Chadha-Patel",
+            " Warwick Davis",
+            " Dempsey Bryk",
+            " Joonas Suotamo",
+            " Claudia Hughes",
+            " Joanne Whalley"
+        ],
+        "tha": [
+            "Ruby Cruz",
+            " Ellie Bamber",
+            " Tony Revolori",
+            " Erin Kellyman",
+            " Amar Chadha-Patel",
+            " Warwick Davis",
+            " Dempsey Bryk",
+            " Joonas Suotamo",
+            " Claudia Hughes",
+            " Joanne Whalley"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Philippa Lowthorpe",
+            " Debs Paterson",
+            " Stephen Woolfenden",
+            " Jamie Childs"
+        ],
+        "may": [
+            "Philippa Lowthorpe",
+            " Debs Paterson",
+            " Stephen Woolfenden",
+            " Jamie Childs"
+        ],
+        "chi": [
+            "Philippa Lowthorpe",
+            " Debs Paterson",
+            " Stephen Woolfenden",
+            " Jamie Childs"
+        ],
+        "tam": [
+            "Philippa Lowthorpe",
+            " Debs Paterson",
+            " Stephen Woolfenden",
+            " Jamie Childs"
+        ],
+        "ind": [
+            "Philippa Lowthorpe",
+            " Debs Paterson",
+            " Stephen Woolfenden",
+            " Jamie Childs"
+        ],
+        "tha": [
+            "Philippa Lowthorpe",
+            " Debs Paterson",
+            " Stephen Woolfenden",
+            " Jamie Childs"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Julia Cooperman",
+            " Tommy Harper",
+            " Jonathan Kasdan",
+            " Roopesh Parekh",
+            " Hameed Shaukat",
+            " Rob Bredow",
+            " Bob Dolman",
+            " Samie Kim Falvey",
+            " Hannah Friedman",
+            " Ron Howard"
+        ],
+        "may": [
+            "Julia Cooperman",
+            " Tommy Harper",
+            " Jonathan Kasdan",
+            " Roopesh Parekh",
+            " Hameed Shaukat",
+            " Rob Bredow",
+            " Bob Dolman",
+            " Samie Kim Falvey",
+            " Hannah Friedman",
+            " Ron Howard"
+        ],
+        "chi": [
+            "Julia Cooperman",
+            " Tommy Harper",
+            " Jonathan Kasdan",
+            " Roopesh Parekh",
+            " Hameed Shaukat",
+            " Rob Bredow",
+            " Bob Dolman",
+            " Samie Kim Falvey",
+            " Hannah Friedman",
+            " Ron Howard"
+        ],
+        "tam": [
+            "Julia Cooperman",
+            " Tommy Harper",
+            " Jonathan Kasdan",
+            " Roopesh Parekh",
+            " Hameed Shaukat",
+            " Rob Bredow",
+            " Bob Dolman",
+            " Samie Kim Falvey",
+            " Hannah Friedman",
+            " Ron Howard"
+        ],
+        "ind": [
+            "Julia Cooperman",
+            " Tommy Harper",
+            " Jonathan Kasdan",
+            " Roopesh Parekh",
+            " Hameed Shaukat",
+            " Rob Bredow",
+            " Bob Dolman",
+            " Samie Kim Falvey",
+            " Hannah Friedman",
+            " Ron Howard"
+        ],
+        "tha": [
+            "Julia Cooperman",
+            " Tommy Harper",
+            " Jonathan Kasdan",
+            " Roopesh Parekh",
+            " Hameed Shaukat",
+            " Rob Bredow",
+            " Bob Dolman",
+            " Samie Kim Falvey",
+            " Hannah Friedman",
+            " Ron Howard"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_c1f2ea85-b8d8-5d1e-b319-735cd9149ce1",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Willow Season 1",
+            "may": "Willow Season 1",
+            "chi": "Willow Season 1",
+            "tam": "Willow Season 1",
+            "ind": "Willow Season 1",
+            "tha": "Willow Season 1"
+        },
+        "long": {
+            "eng": "Willow Season 1",
+            "may": "Willow Season 1",
+            "chi": "Willow Season 1",
+            "tam": "Willow Season 1",
+            "ind": "Willow Season 1",
+            "tha": "Willow Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "may": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "chi": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "tam": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "ind": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "tha": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown."
+        },
+        "long": {
+            "eng": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "may": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "chi": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "tam": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "ind": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+            "tha": "20 years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/WillowSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/WillowSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/WillowSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

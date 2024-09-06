@@ -1,0 +1,359 @@
+{
+    "externalId": "AggregatedSeason_af9a2b2a-f02a-5ac6-8868-f09cd28f2b40",
+    "clientContentId": "PACK0000000008290778",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "chi": "Action",
+                    "tam": "Action",
+                    "ind": "Action",
+                    "tha": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "chi": " Adventure",
+                    "tam": " Adventure",
+                    "ind": " Adventure",
+                    "tha": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2023,
+    "rating": "16+",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Pedro Pascal",
+            " Bella Ramsey",
+            " Anna Torv",
+            " Lamar Johnson",
+            " Melanie Lynskey",
+            " Merle Dandridge",
+            " Nico Parker",
+            " Keivonn Woodard",
+            " Jeffrey Pierce",
+            " John Getz"
+        ],
+        "may": [
+            "Pedro Pascal",
+            " Bella Ramsey",
+            " Anna Torv",
+            " Lamar Johnson",
+            " Melanie Lynskey",
+            " Merle Dandridge",
+            " Nico Parker",
+            " Keivonn Woodard",
+            " Jeffrey Pierce",
+            " John Getz"
+        ],
+        "chi": [
+            "Pedro Pascal",
+            " Bella Ramsey",
+            " Anna Torv",
+            " Lamar Johnson",
+            " Melanie Lynskey",
+            " Merle Dandridge",
+            " Nico Parker",
+            " Keivonn Woodard",
+            " Jeffrey Pierce",
+            " John Getz"
+        ],
+        "tam": [
+            "Pedro Pascal",
+            " Bella Ramsey",
+            " Anna Torv",
+            " Lamar Johnson",
+            " Melanie Lynskey",
+            " Merle Dandridge",
+            " Nico Parker",
+            " Keivonn Woodard",
+            " Jeffrey Pierce",
+            " John Getz"
+        ],
+        "ind": [
+            "Pedro Pascal",
+            " Bella Ramsey",
+            " Anna Torv",
+            " Lamar Johnson",
+            " Melanie Lynskey",
+            " Merle Dandridge",
+            " Nico Parker",
+            " Keivonn Woodard",
+            " Jeffrey Pierce",
+            " John Getz"
+        ],
+        "tha": [
+            "Pedro Pascal",
+            " Bella Ramsey",
+            " Anna Torv",
+            " Lamar Johnson",
+            " Melanie Lynskey",
+            " Merle Dandridge",
+            " Nico Parker",
+            " Keivonn Woodard",
+            " Jeffrey Pierce",
+            " John Getz"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Ali Abbasi",
+            " Jeremy Webb",
+            " Neil Druckmann",
+            " Peter Hoar",
+            " Liza Johnson",
+            " Craig Mazin",
+            " Jasmila Zbanic"
+        ],
+        "may": [
+            "Ali Abbasi",
+            " Jeremy Webb",
+            " Neil Druckmann",
+            " Peter Hoar",
+            " Liza Johnson",
+            " Craig Mazin",
+            " Jasmila Zbanic"
+        ],
+        "chi": [
+            "Ali Abbasi",
+            " Jeremy Webb",
+            " Neil Druckmann",
+            " Peter Hoar",
+            " Liza Johnson",
+            " Craig Mazin",
+            " Jasmila Zbanic"
+        ],
+        "tam": [
+            "Ali Abbasi",
+            " Jeremy Webb",
+            " Neil Druckmann",
+            " Peter Hoar",
+            " Liza Johnson",
+            " Craig Mazin",
+            " Jasmila Zbanic"
+        ],
+        "ind": [
+            "Ali Abbasi",
+            " Jeremy Webb",
+            " Neil Druckmann",
+            " Peter Hoar",
+            " Liza Johnson",
+            " Craig Mazin",
+            " Jasmila Zbanic"
+        ],
+        "tha": [
+            "Ali Abbasi",
+            " Jeremy Webb",
+            " Neil Druckmann",
+            " Peter Hoar",
+            " Liza Johnson",
+            " Craig Mazin",
+            " Jasmila Zbanic"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Neil Druckmann",
+            " Rose Lam",
+            " Jacqueline Lesko",
+            " Craig Mazin",
+            " Cecil O'Connor",
+            " Asad Qizilbash",
+            " Greg Spence",
+            " Carolyn Strauss",
+            " Carter Swan",
+            " Evan Wells"
+        ],
+        "may": [
+            "Neil Druckmann",
+            " Rose Lam",
+            " Jacqueline Lesko",
+            " Craig Mazin",
+            " Cecil O'Connor",
+            " Asad Qizilbash",
+            " Greg Spence",
+            " Carolyn Strauss",
+            " Carter Swan",
+            " Evan Wells"
+        ],
+        "chi": [
+            "Neil Druckmann",
+            " Rose Lam",
+            " Jacqueline Lesko",
+            " Craig Mazin",
+            " Cecil O'Connor",
+            " Asad Qizilbash",
+            " Greg Spence",
+            " Carolyn Strauss",
+            " Carter Swan",
+            " Evan Wells"
+        ],
+        "tam": [
+            "Neil Druckmann",
+            " Rose Lam",
+            " Jacqueline Lesko",
+            " Craig Mazin",
+            " Cecil O'Connor",
+            " Asad Qizilbash",
+            " Greg Spence",
+            " Carolyn Strauss",
+            " Carter Swan",
+            " Evan Wells"
+        ],
+        "ind": [
+            "Neil Druckmann",
+            " Rose Lam",
+            " Jacqueline Lesko",
+            " Craig Mazin",
+            " Cecil O'Connor",
+            " Asad Qizilbash",
+            " Greg Spence",
+            " Carolyn Strauss",
+            " Carter Swan",
+            " Evan Wells"
+        ],
+        "tha": [
+            "Neil Druckmann",
+            " Rose Lam",
+            " Jacqueline Lesko",
+            " Craig Mazin",
+            " Cecil O'Connor",
+            " Asad Qizilbash",
+            " Greg Spence",
+            " Carolyn Strauss",
+            " Carter Swan",
+            " Evan Wells"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_37b8543a-9a9d-547c-bbbe-b1f893f781b5",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Last of Us Season 1",
+            "may": "The Last of Us Season 1",
+            "chi": "The Last of Us Season 1",
+            "tam": "The Last of Us Season 1",
+            "ind": "The Last of Us Season 1",
+            "tha": "The Last of Us Season 1"
+        },
+        "long": {
+            "eng": "The Last of Us Season 1",
+            "may": "The Last of Us Season 1",
+            "chi": "The Last of Us Season 1",
+            "tam": "The Last of Us Season 1",
+            "ind": "The Last of Us Season 1",
+            "tha": "The Last of Us Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "may": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "chi": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "tam": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "ind": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "tha": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope."
+        },
+        "long": {
+            "eng": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "may": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "chi": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "tam": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "ind": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+            "tha": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheLastofUsSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheLastofUsSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheLastofUsSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

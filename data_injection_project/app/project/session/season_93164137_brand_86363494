@@ -1,0 +1,329 @@
+{
+    "externalId": "AggregatedSeason_17b44b56-1354-5fc5-914a-dce7886d0976",
+    "clientContentId": "PACK0000000004345825",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "chi": "Drama",
+                    "tam": "Drama",
+                    "ind": "Drama",
+                    "tha": "Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2023,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Kristian Flores",
+            " Milo Manheim",
+            " Spencer Macpherson",
+            " Kiara Pichardo",
+            " Sarah Yarkin",
+            " Nick Pugliese",
+            " Rainbow Wedell",
+            " Josh Zuckerman",
+            " Maria Dizzia",
+            " Peyton List"
+        ],
+        "may": [
+            "Kristian Flores",
+            " Milo Manheim",
+            " Spencer Macpherson",
+            " Kiara Pichardo",
+            " Sarah Yarkin",
+            " Nick Pugliese",
+            " Rainbow Wedell",
+            " Josh Zuckerman",
+            " Maria Dizzia",
+            " Peyton List"
+        ],
+        "chi": [
+            "Kristian Flores",
+            " Milo Manheim",
+            " Spencer Macpherson",
+            " Kiara Pichardo",
+            " Sarah Yarkin",
+            " Nick Pugliese",
+            " Rainbow Wedell",
+            " Josh Zuckerman",
+            " Maria Dizzia",
+            " Peyton List"
+        ],
+        "tam": [
+            "Kristian Flores",
+            " Milo Manheim",
+            " Spencer Macpherson",
+            " Kiara Pichardo",
+            " Sarah Yarkin",
+            " Nick Pugliese",
+            " Rainbow Wedell",
+            " Josh Zuckerman",
+            " Maria Dizzia",
+            " Peyton List"
+        ],
+        "ind": [
+            "Kristian Flores",
+            " Milo Manheim",
+            " Spencer Macpherson",
+            " Kiara Pichardo",
+            " Sarah Yarkin",
+            " Nick Pugliese",
+            " Rainbow Wedell",
+            " Josh Zuckerman",
+            " Maria Dizzia",
+            " Peyton List"
+        ],
+        "tha": [
+            "Kristian Flores",
+            " Milo Manheim",
+            " Spencer Macpherson",
+            " Kiara Pichardo",
+            " Sarah Yarkin",
+            " Nick Pugliese",
+            " Rainbow Wedell",
+            " Josh Zuckerman",
+            " Maria Dizzia",
+            " Peyton List"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Oran Zegman",
+            " Brian Dannelly",
+            " Hannah Macpherson",
+            " Max Winkler"
+        ],
+        "may": [
+            "Oran Zegman",
+            " Brian Dannelly",
+            " Hannah Macpherson",
+            " Max Winkler"
+        ],
+        "chi": [
+            "Oran Zegman",
+            " Brian Dannelly",
+            " Hannah Macpherson",
+            " Max Winkler"
+        ],
+        "tam": [
+            "Oran Zegman",
+            " Brian Dannelly",
+            " Hannah Macpherson",
+            " Max Winkler"
+        ],
+        "ind": [
+            "Oran Zegman",
+            " Brian Dannelly",
+            " Hannah Macpherson",
+            " Max Winkler"
+        ],
+        "tha": [
+            "Oran Zegman",
+            " Brian Dannelly",
+            " Hannah Macpherson",
+            " Max Winkler"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Donald Petersen",
+            " Austin Bedell",
+            " Don Dunn",
+            " Joyce Sawa",
+            " Max Winkler",
+            " Oliver Goldstick",
+            " Megan Trinrud",
+            " Nate Trinrud"
+        ],
+        "may": [
+            "Donald Petersen",
+            " Austin Bedell",
+            " Don Dunn",
+            " Joyce Sawa",
+            " Max Winkler",
+            " Oliver Goldstick",
+            " Megan Trinrud",
+            " Nate Trinrud"
+        ],
+        "chi": [
+            "Donald Petersen",
+            " Austin Bedell",
+            " Don Dunn",
+            " Joyce Sawa",
+            " Max Winkler",
+            " Oliver Goldstick",
+            " Megan Trinrud",
+            " Nate Trinrud"
+        ],
+        "tam": [
+            "Donald Petersen",
+            " Austin Bedell",
+            " Don Dunn",
+            " Joyce Sawa",
+            " Max Winkler",
+            " Oliver Goldstick",
+            " Megan Trinrud",
+            " Nate Trinrud"
+        ],
+        "ind": [
+            "Donald Petersen",
+            " Austin Bedell",
+            " Don Dunn",
+            " Joyce Sawa",
+            " Max Winkler",
+            " Oliver Goldstick",
+            " Megan Trinrud",
+            " Nate Trinrud"
+        ],
+        "tha": [
+            "Donald Petersen",
+            " Austin Bedell",
+            " Don Dunn",
+            " Joyce Sawa",
+            " Max Winkler",
+            " Oliver Goldstick",
+            " Megan Trinrud",
+            " Nate Trinrud"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_774a679e-4374-559f-a385-b09bc355a8b0",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "School Spirits S01 Ep01",
+            "may": "School Spirits S01 Ep01",
+            "chi": "School Spirits S01 Ep01",
+            "tam": "School Spirits S01 Ep01",
+            "ind": "School Spirits S01 Ep01",
+            "tha": "School Spirits S01 Ep01"
+        },
+        "long": {
+            "eng": "School Spirits S01 Ep01",
+            "may": "School Spirits S01 Ep01",
+            "chi": "School Spirits S01 Ep01",
+            "tam": "School Spirits S01 Ep01",
+            "ind": "School Spirits S01 Ep01",
+            "tha": "School Spirits S01 Ep01"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Know what this is about?",
+            "may": "Know what this is about?",
+            "chi": "Know what this is about?",
+            "tam": "Know what this is about?",
+            "ind": "Know what this is about?",
+            "tha": "Know what this is about?"
+        },
+        "long": {
+            "eng": "Know what this is about?",
+            "may": "Know what this is about?",
+            "chi": "Know what this is about?",
+            "tam": "Know what this is about?",
+            "ind": "Know what this is about?",
+            "tha": "Know what this is about?"
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/SchoolSpiritsS01Ep01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/SchoolSpiritsS01Ep01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/SchoolSpiritsS01Ep01_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

@@ -1,0 +1,217 @@
+{
+    "externalId": "AggregatedSeries_9052b5dd-94f3-5b28-a91b-1fa6d4425bcb",
+    "clientContentId": "PACK0000000002748139",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Love Island UK",
+            "may": "Love Island UK",
+            "tam": "Love Island UK",
+            "chi": "Love Island UK",
+            "tha": "Love Island UK",
+            "ind": "Love Island UK"
+        },
+        "long": {
+            "eng": "Love Island UK",
+            "may": "Love Island UK",
+            "tam": "Love Island UK",
+            "chi": "Love Island UK",
+            "tha": "Love Island UK",
+            "ind": "Love Island UK"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "may": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "tam": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "chi": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "tha": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "ind": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another."
+        },
+        "long": {
+            "eng": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "may": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "tam": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "chi": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "tha": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.",
+            "ind": "U.S. version of the British show 'Love Island' where a group of singles come to stay in a villa for a few weeks and have to couple up with one another."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Matthew Hoffman",
+            " Iain Stirling",
+            " Zeta Morrison"
+        ],
+        "may": [
+            "Matthew Hoffman",
+            " Iain Stirling",
+            " Zeta Morrison"
+        ],
+        "tam": [
+            "Matthew Hoffman",
+            " Iain Stirling",
+            " Zeta Morrison"
+        ],
+        "chi": [
+            "Matthew Hoffman",
+            " Iain Stirling",
+            " Zeta Morrison"
+        ],
+        "tha": [
+            "Matthew Hoffman",
+            " Iain Stirling",
+            " Zeta Morrison"
+        ],
+        "ind": [
+            "Matthew Hoffman",
+            " Iain Stirling",
+            " Zeta Morrison"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Paul Newton"
+        ],
+        "may": [
+            "Paul Newton"
+        ],
+        "tam": [
+            "Paul Newton"
+        ],
+        "chi": [
+            "Paul Newton"
+        ],
+        "tha": [
+            "Paul Newton"
+        ],
+        "ind": [
+            "Paul Newton"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Paul Newton"
+        ],
+        "may": [
+            "Paul Newton"
+        ],
+        "tam": [
+            "Paul Newton"
+        ],
+        "chi": [
+            "Paul Newton"
+        ],
+        "tha": [
+            "Paul Newton"
+        ],
+        "ind": [
+            "Paul Newton"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Reality-TV",
+                    "may": "Reality-TV",
+                    "tam": "Reality-TV",
+                    "chi": "Reality-TV",
+                    "tha": "Reality-TV",
+                    "ind": "Reality-TV"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Reality-TV",
+                    "may": "Reality-TV",
+                    "tam": "Reality-TV",
+                    "chi": "Reality-TV",
+                    "tha": "Reality-TV",
+                    "ind": "Reality-TV"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/LoveIslandUKSeason7_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/LoveIslandUKSeason7_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/VOD/lionsgate/webseries/LoveIslandUKSeason7_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "9",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2019,
+    "maxConcurrentStreams": 0
+}

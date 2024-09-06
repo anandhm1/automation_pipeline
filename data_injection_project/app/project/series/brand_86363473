@@ -1,0 +1,295 @@
+{
+    "externalId": "AggregatedSeries_bbb33e91-f3ac-5f16-bb34-74ed3db8c093",
+    "clientContentId": "PACK0000000008260254",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "The Walking Dead",
+            "may": "The Walking Dead",
+            "tam": "The Walking Dead",
+            "chi": "The Walking Dead",
+            "tha": "The Walking Dead",
+            "ind": "The Walking Dead"
+        },
+        "long": {
+            "eng": "The Walking Dead",
+            "may": "The Walking Dead",
+            "tam": "The Walking Dead",
+            "chi": "The Walking Dead",
+            "tha": "The Walking Dead",
+            "ind": "The Walking Dead"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
+            "may": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
+            "tam": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
+            "chi": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
+            "tha": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
+            "ind": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive."
+        },
+        "long": {
+            "eng": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
+            "may": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
+            "tam": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
+            "chi": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
+            "tha": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
+            "ind": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 2,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Norman Reedus",
+            " Melissa McBride",
+            " Lauren Cohan",
+            " Christian Serratos",
+            " Josh McDermitt",
+            " Danai GuriraSeth GilliamAndrew LincolnRoss MarquandChandler Riggs"
+        ],
+        "may": [
+            "Norman Reedus",
+            " Melissa McBride",
+            " Lauren Cohan",
+            " Christian Serratos",
+            " Josh McDermitt",
+            " Danai GuriraSeth GilliamAndrew LincolnRoss MarquandChandler Riggs"
+        ],
+        "tam": [
+            "Norman Reedus",
+            " Melissa McBride",
+            " Lauren Cohan",
+            " Christian Serratos",
+            " Josh McDermitt",
+            " Danai GuriraSeth GilliamAndrew LincolnRoss MarquandChandler Riggs"
+        ],
+        "chi": [
+            "Norman Reedus",
+            " Melissa McBride",
+            " Lauren Cohan",
+            " Christian Serratos",
+            " Josh McDermitt",
+            " Danai GuriraSeth GilliamAndrew LincolnRoss MarquandChandler Riggs"
+        ],
+        "tha": [
+            "Norman Reedus",
+            " Melissa McBride",
+            " Lauren Cohan",
+            " Christian Serratos",
+            " Josh McDermitt",
+            " Danai GuriraSeth GilliamAndrew LincolnRoss MarquandChandler Riggs"
+        ],
+        "ind": [
+            "Norman Reedus",
+            " Melissa McBride",
+            " Lauren Cohan",
+            " Christian Serratos",
+            " Josh McDermitt",
+            " Danai GuriraSeth GilliamAndrew LincolnRoss MarquandChandler Riggs"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Greg Nicotero",
+            " Michael E. Satrazemis",
+            " David Boyd",
+            " Ernest R. Dickerson",
+            " Guy Ferland",
+            " Billy GierhartLaura BelseyJeffrey F. JanuaryMichael CudlitzSharat Raju"
+        ],
+        "may": [
+            "Greg Nicotero",
+            " Michael E. Satrazemis",
+            " David Boyd",
+            " Ernest R. Dickerson",
+            " Guy Ferland",
+            " Billy GierhartLaura BelseyJeffrey F. JanuaryMichael CudlitzSharat Raju"
+        ],
+        "tam": [
+            "Greg Nicotero",
+            " Michael E. Satrazemis",
+            " David Boyd",
+            " Ernest R. Dickerson",
+            " Guy Ferland",
+            " Billy GierhartLaura BelseyJeffrey F. JanuaryMichael CudlitzSharat Raju"
+        ],
+        "chi": [
+            "Greg Nicotero",
+            " Michael E. Satrazemis",
+            " David Boyd",
+            " Ernest R. Dickerson",
+            " Guy Ferland",
+            " Billy GierhartLaura BelseyJeffrey F. JanuaryMichael CudlitzSharat Raju"
+        ],
+        "tha": [
+            "Greg Nicotero",
+            " Michael E. Satrazemis",
+            " David Boyd",
+            " Ernest R. Dickerson",
+            " Guy Ferland",
+            " Billy GierhartLaura BelseyJeffrey F. JanuaryMichael CudlitzSharat Raju"
+        ],
+        "ind": [
+            "Greg Nicotero",
+            " Michael E. Satrazemis",
+            " David Boyd",
+            " Ernest R. Dickerson",
+            " Guy Ferland",
+            " Billy GierhartLaura BelseyJeffrey F. JanuaryMichael CudlitzSharat Raju"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "David Alpert",
+            " Gale Anne Hurd",
+            " Denise M. Huth",
+            " Robert Kirkman",
+            " Greg Nicotero",
+            " Scott M. GimpleAngela KangCaleb WombleTom LuseCorey Reed"
+        ],
+        "may": [
+            "David Alpert",
+            " Gale Anne Hurd",
+            " Denise M. Huth",
+            " Robert Kirkman",
+            " Greg Nicotero",
+            " Scott M. GimpleAngela KangCaleb WombleTom LuseCorey Reed"
+        ],
+        "tam": [
+            "David Alpert",
+            " Gale Anne Hurd",
+            " Denise M. Huth",
+            " Robert Kirkman",
+            " Greg Nicotero",
+            " Scott M. GimpleAngela KangCaleb WombleTom LuseCorey Reed"
+        ],
+        "chi": [
+            "David Alpert",
+            " Gale Anne Hurd",
+            " Denise M. Huth",
+            " Robert Kirkman",
+            " Greg Nicotero",
+            " Scott M. GimpleAngela KangCaleb WombleTom LuseCorey Reed"
+        ],
+        "tha": [
+            "David Alpert",
+            " Gale Anne Hurd",
+            " Denise M. Huth",
+            " Robert Kirkman",
+            " Greg Nicotero",
+            " Scott M. GimpleAngela KangCaleb WombleTom LuseCorey Reed"
+        ],
+        "ind": [
+            "David Alpert",
+            " Gale Anne Hurd",
+            " Denise M. Huth",
+            " Robert Kirkman",
+            " Greg Nicotero",
+            " Scott M. GimpleAngela KangCaleb WombleTom LuseCorey Reed"
+        ],
+        "image": null
+    },
+    "showType": "series",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Drama",
+                    "may": "Drama",
+                    "tam": "Drama",
+                    "chi": "Drama",
+                    "tha": "Drama",
+                    "ind": "Drama"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "tam": " Horror",
+                    "chi": " Horror",
+                    "tha": " Horror",
+                    "ind": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheWalkingDeadS11E01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheWalkingDeadS11E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheWalkingDeadS11E01_Banner_16x9.jpg"
+        }
+    ],
+    "boxsetIds": [],
+    "rating": "6",
+    "operatorLabels": [],
+    "isEnabled": true,
+    "isOpenSeries": null,
+    "yearOfRelease": 2010,
+    "maxConcurrentStreams": 0
+}

@@ -1,0 +1,341 @@
+{
+    "externalId": "AggregatedSeason_60b1f014-3bf0-5942-9eb1-b32adad73ead",
+    "clientContentId": "PACK0000000007047948",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Action",
+                    "may": "Action",
+                    "chi": "Action",
+                    "tam": "Action",
+                    "ind": "Action",
+                    "tha": "Action"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Horror",
+                    "may": " Horror",
+                    "chi": " Horror",
+                    "tam": " Horror",
+                    "ind": " Horror",
+                    "tha": " Horror"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2022,
+    "rating": "TV-MA",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Ella Balinska",
+            " Tamara Smart",
+            " Siena Agudong",
+            " Adeline Rudolph",
+            " Paola N\u00fa\u00f1ez",
+            " Lance Reddick",
+            " Connor Gosatti",
+            " Anthony Oseyemi",
+            " Ahad Raza Mir",
+            " Pedro De Tavira"
+        ],
+        "may": [
+            "Ella Balinska",
+            " Tamara Smart",
+            " Siena Agudong",
+            " Adeline Rudolph",
+            " Paola N\u00fa\u00f1ez",
+            " Lance Reddick",
+            " Connor Gosatti",
+            " Anthony Oseyemi",
+            " Ahad Raza Mir",
+            " Pedro De Tavira"
+        ],
+        "chi": [
+            "Ella Balinska",
+            " Tamara Smart",
+            " Siena Agudong",
+            " Adeline Rudolph",
+            " Paola N\u00fa\u00f1ez",
+            " Lance Reddick",
+            " Connor Gosatti",
+            " Anthony Oseyemi",
+            " Ahad Raza Mir",
+            " Pedro De Tavira"
+        ],
+        "tam": [
+            "Ella Balinska",
+            " Tamara Smart",
+            " Siena Agudong",
+            " Adeline Rudolph",
+            " Paola N\u00fa\u00f1ez",
+            " Lance Reddick",
+            " Connor Gosatti",
+            " Anthony Oseyemi",
+            " Ahad Raza Mir",
+            " Pedro De Tavira"
+        ],
+        "ind": [
+            "Ella Balinska",
+            " Tamara Smart",
+            " Siena Agudong",
+            " Adeline Rudolph",
+            " Paola N\u00fa\u00f1ez",
+            " Lance Reddick",
+            " Connor Gosatti",
+            " Anthony Oseyemi",
+            " Ahad Raza Mir",
+            " Pedro De Tavira"
+        ],
+        "tha": [
+            "Ella Balinska",
+            " Tamara Smart",
+            " Siena Agudong",
+            " Adeline Rudolph",
+            " Paola N\u00fa\u00f1ez",
+            " Lance Reddick",
+            " Connor Gosatti",
+            " Anthony Oseyemi",
+            " Ahad Raza Mir",
+            " Pedro De Tavira"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Rachel Goldberg",
+            " Bronwen Hughes",
+            " Rob Seidenglanz",
+            " Batan Silva"
+        ],
+        "may": [
+            "Rachel Goldberg",
+            " Bronwen Hughes",
+            " Rob Seidenglanz",
+            " Batan Silva"
+        ],
+        "chi": [
+            "Rachel Goldberg",
+            " Bronwen Hughes",
+            " Rob Seidenglanz",
+            " Batan Silva"
+        ],
+        "tam": [
+            "Rachel Goldberg",
+            " Bronwen Hughes",
+            " Rob Seidenglanz",
+            " Batan Silva"
+        ],
+        "ind": [
+            "Rachel Goldberg",
+            " Bronwen Hughes",
+            " Rob Seidenglanz",
+            " Batan Silva"
+        ],
+        "tha": [
+            "Rachel Goldberg",
+            " Bronwen Hughes",
+            " Rob Seidenglanz",
+            " Batan Silva"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Oliver Berben",
+            " Andrew Dabb",
+            " Bronwen Hughes",
+            " Robert Kulzer",
+            " Martin Moszkowicz",
+            " Colin Scully",
+            " Mary Leah Sutton",
+            " Pablito Tancinco",
+            " Dylan Tarason",
+            " Alexander Hamilton Westmore"
+        ],
+        "may": [
+            "Oliver Berben",
+            " Andrew Dabb",
+            " Bronwen Hughes",
+            " Robert Kulzer",
+            " Martin Moszkowicz",
+            " Colin Scully",
+            " Mary Leah Sutton",
+            " Pablito Tancinco",
+            " Dylan Tarason",
+            " Alexander Hamilton Westmore"
+        ],
+        "chi": [
+            "Oliver Berben",
+            " Andrew Dabb",
+            " Bronwen Hughes",
+            " Robert Kulzer",
+            " Martin Moszkowicz",
+            " Colin Scully",
+            " Mary Leah Sutton",
+            " Pablito Tancinco",
+            " Dylan Tarason",
+            " Alexander Hamilton Westmore"
+        ],
+        "tam": [
+            "Oliver Berben",
+            " Andrew Dabb",
+            " Bronwen Hughes",
+            " Robert Kulzer",
+            " Martin Moszkowicz",
+            " Colin Scully",
+            " Mary Leah Sutton",
+            " Pablito Tancinco",
+            " Dylan Tarason",
+            " Alexander Hamilton Westmore"
+        ],
+        "ind": [
+            "Oliver Berben",
+            " Andrew Dabb",
+            " Bronwen Hughes",
+            " Robert Kulzer",
+            " Martin Moszkowicz",
+            " Colin Scully",
+            " Mary Leah Sutton",
+            " Pablito Tancinco",
+            " Dylan Tarason",
+            " Alexander Hamilton Westmore"
+        ],
+        "tha": [
+            "Oliver Berben",
+            " Andrew Dabb",
+            " Bronwen Hughes",
+            " Robert Kulzer",
+            " Martin Moszkowicz",
+            " Colin Scully",
+            " Mary Leah Sutton",
+            " Pablito Tancinco",
+            " Dylan Tarason",
+            " Alexander Hamilton Westmore"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_991a38be-0d1d-5402-8002-395e7d0b72d9",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "Resident Evil S01E01",
+            "may": "Resident Evil S01E01",
+            "chi": "Resident Evil S01E01",
+            "tam": "Resident Evil S01E01",
+            "ind": "Resident Evil S01E01",
+            "tha": "Resident Evil S01E01"
+        },
+        "long": {
+            "eng": "Resident Evil S01E01",
+            "may": "Resident Evil S01E01",
+            "chi": "Resident Evil S01E01",
+            "tam": "Resident Evil S01E01",
+            "ind": "Resident Evil S01E01",
+            "tha": "Resident Evil S01E01"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "may": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "chi": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "tam": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "ind": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "tha": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything."
+        },
+        "long": {
+            "eng": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "may": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "chi": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "tam": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "ind": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything.",
+            "tha": "When the Wesker kids move to New Raccoon City, the secrets they uncover might just be the end of everything."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ResidentEvilS01E01_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ResidentEvilS01E01_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/ResidentEvilS01E01_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

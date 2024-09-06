@@ -1,0 +1,397 @@
+{
+    "externalId": "AggregatedTvShow_683c26dc-3e17-5543-bc9e-8cf151244502",
+    "clientContentId": "PACK0000000006116563",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Alexa & Katie - Trailer",
+            "may": "Alexa & Katie - Trailer",
+            "tam": "Alexa & Katie - Trailer",
+            "chi": "Alexa & Katie - Trailer",
+            "tha": "Alexa & Katie - Trailer",
+            "ind": "Alexa & Katie - Trailer"
+        },
+        "long": {
+            "eng": "Alexa & Katie - Trailer",
+            "may": "Alexa & Katie - Trailer",
+            "tam": "Alexa & Katie - Trailer",
+            "chi": "Alexa & Katie - Trailer",
+            "tha": "Alexa & Katie - Trailer",
+            "ind": "Alexa & Katie - Trailer"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "may": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "tam": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "chi": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "tha": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "ind": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most."
+        },
+        "long": {
+            "eng": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "may": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "tam": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "chi": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "tha": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most.",
+            "ind": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-01T00:00:00Z",
+            "offerEndDate": "2033-12-31T00:00:00Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5313,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013745/PACK0000000001013745/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013745",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013745"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Paris Berelc",
+            " Isabel May",
+            " Jolie Jenkins",
+            " Emery Kelly",
+            " Eddie Shin",
+            " Finn Carr",
+            " Tiffani Thiessen",
+            " Merit Leighton",
+            " Iman Benson",
+            " Kerri Medders"
+        ],
+        "may": [
+            "Paris Berelc",
+            " Isabel May",
+            " Jolie Jenkins",
+            " Emery Kelly",
+            " Eddie Shin",
+            " Finn Carr",
+            " Tiffani Thiessen",
+            " Merit Leighton",
+            " Iman Benson",
+            " Kerri Medders"
+        ],
+        "tam": [
+            "Paris Berelc",
+            " Isabel May",
+            " Jolie Jenkins",
+            " Emery Kelly",
+            " Eddie Shin",
+            " Finn Carr",
+            " Tiffani Thiessen",
+            " Merit Leighton",
+            " Iman Benson",
+            " Kerri Medders"
+        ],
+        "chi": [
+            "Paris Berelc",
+            " Isabel May",
+            " Jolie Jenkins",
+            " Emery Kelly",
+            " Eddie Shin",
+            " Finn Carr",
+            " Tiffani Thiessen",
+            " Merit Leighton",
+            " Iman Benson",
+            " Kerri Medders"
+        ],
+        "tha": [
+            "Paris Berelc",
+            " Isabel May",
+            " Jolie Jenkins",
+            " Emery Kelly",
+            " Eddie Shin",
+            " Finn Carr",
+            " Tiffani Thiessen",
+            " Merit Leighton",
+            " Iman Benson",
+            " Kerri Medders"
+        ],
+        "ind": [
+            "Paris Berelc",
+            " Isabel May",
+            " Jolie Jenkins",
+            " Emery Kelly",
+            " Eddie Shin",
+            " Finn Carr",
+            " Tiffani Thiessen",
+            " Merit Leighton",
+            " Iman Benson",
+            " Kerri Medders"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Trevor Kirschner",
+            " Victor Gonzalez",
+            " Kelly Park",
+            " Jody Margolin Hahn",
+            " Andy Cadiff",
+            " Jeff Melman",
+            " Katy Garretson",
+            " Phill Lewis",
+            " Erika Kaestle",
+            " Gloria Calder\u00f3n Kellett"
+        ],
+        "may": [
+            "Trevor Kirschner",
+            " Victor Gonzalez",
+            " Kelly Park",
+            " Jody Margolin Hahn",
+            " Andy Cadiff",
+            " Jeff Melman",
+            " Katy Garretson",
+            " Phill Lewis",
+            " Erika Kaestle",
+            " Gloria Calder\u00f3n Kellett"
+        ],
+        "tam": [
+            "Trevor Kirschner",
+            " Victor Gonzalez",
+            " Kelly Park",
+            " Jody Margolin Hahn",
+            " Andy Cadiff",
+            " Jeff Melman",
+            " Katy Garretson",
+            " Phill Lewis",
+            " Erika Kaestle",
+            " Gloria Calder\u00f3n Kellett"
+        ],
+        "chi": [
+            "Trevor Kirschner",
+            " Victor Gonzalez",
+            " Kelly Park",
+            " Jody Margolin Hahn",
+            " Andy Cadiff",
+            " Jeff Melman",
+            " Katy Garretson",
+            " Phill Lewis",
+            " Erika Kaestle",
+            " Gloria Calder\u00f3n Kellett"
+        ],
+        "tha": [
+            "Trevor Kirschner",
+            " Victor Gonzalez",
+            " Kelly Park",
+            " Jody Margolin Hahn",
+            " Andy Cadiff",
+            " Jeff Melman",
+            " Katy Garretson",
+            " Phill Lewis",
+            " Erika Kaestle",
+            " Gloria Calder\u00f3n Kellett"
+        ],
+        "ind": [
+            "Trevor Kirschner",
+            " Victor Gonzalez",
+            " Kelly Park",
+            " Jody Margolin Hahn",
+            " Andy Cadiff",
+            " Jeff Melman",
+            " Katy Garretson",
+            " Phill Lewis",
+            " Erika Kaestle",
+            " Gloria Calder\u00f3n Kellett"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Nancy Cohen",
+            " Heather Wordham",
+            " Max Burnett",
+            " Eric Horsted",
+            " Ray Lancon",
+            " Lucas Brown Eyes",
+            " Leo Chu",
+            " Eric Garcia",
+            " Laura Gibson",
+            " Grant Levy"
+        ],
+        "may": [
+            "Nancy Cohen",
+            " Heather Wordham",
+            " Max Burnett",
+            " Eric Horsted",
+            " Ray Lancon",
+            " Lucas Brown Eyes",
+            " Leo Chu",
+            " Eric Garcia",
+            " Laura Gibson",
+            " Grant Levy"
+        ],
+        "tam": [
+            "Nancy Cohen",
+            " Heather Wordham",
+            " Max Burnett",
+            " Eric Horsted",
+            " Ray Lancon",
+            " Lucas Brown Eyes",
+            " Leo Chu",
+            " Eric Garcia",
+            " Laura Gibson",
+            " Grant Levy"
+        ],
+        "chi": [
+            "Nancy Cohen",
+            " Heather Wordham",
+            " Max Burnett",
+            " Eric Horsted",
+            " Ray Lancon",
+            " Lucas Brown Eyes",
+            " Leo Chu",
+            " Eric Garcia",
+            " Laura Gibson",
+            " Grant Levy"
+        ],
+        "tha": [
+            "Nancy Cohen",
+            " Heather Wordham",
+            " Max Burnett",
+            " Eric Horsted",
+            " Ray Lancon",
+            " Lucas Brown Eyes",
+            " Leo Chu",
+            " Eric Garcia",
+            " Laura Gibson",
+            " Grant Levy"
+        ],
+        "ind": [
+            "Nancy Cohen",
+            " Heather Wordham",
+            " Max Burnett",
+            " Eric Horsted",
+            " Ray Lancon",
+            " Lucas Brown Eyes",
+            " Leo Chu",
+            " Eric Garcia",
+            " Laura Gibson",
+            " Grant Levy"
+        ],
+        "image": null
+    },
+    "showType": "tv_show",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "ind"
+        ],
+        "may": [
+            "ind"
+        ],
+        "tam": [
+            "ind"
+        ],
+        "chi": [
+            "ind"
+        ],
+        "tha": [
+            "ind"
+        ],
+        "ind": [
+            "ind"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Comedy",
+                    "may": "Comedy",
+                    "tam": "Comedy",
+                    "chi": "Comedy",
+                    "tha": "Comedy",
+                    "ind": "Comedy"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Alexa&KatieSeason1_3x4.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Alexa&KatieSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/Alexa&KatieSeason1_3x4.jpg"
+        }
+    ],
+    "seriesId": "AggregatedSeries_21721135-be03-5c5a-a10c-d2407337ca01",
+    "seasonId": "AggregatedSeason_b9888dd8-0483-5148-835a-84f8a93ec9c8",
+    "boxsetIds": [],
+    "episodeNumber": "1.0",
+    "seasonNumber": "1",
+    "yearOfRelease": 2018,
+    "rating": "TV-PG",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

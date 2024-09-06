@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_9e2840e9-8047-51fb-8ae0-d0cad1fc5d14",
+    "clientContentId": "PACK0000000003939425",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Dig 2022",
+            "may": "Dig 2022",
+            "tam": "Dig 2022",
+            "chi": "Dig 2022",
+            "tha": "Dig 2022",
+            "ind": "Dig 2022"
+        },
+        "long": {
+            "eng": "Dig 2022",
+            "may": "Dig 2022",
+            "tam": "Dig 2022",
+            "chi": "Dig 2022",
+            "tha": "Dig 2022",
+            "ind": "Dig 2022"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "A widowed father and his daughter whose house is up for demolition, are taken hostage by a dangerous couple, who won't stop until they retrieve what lies beneath the property.",
+            "may": "A widowed father and his daughter whose house is up for demolition, are taken hostage by a dangerous couple, who won't stop until they retrieve what lies beneath the property.",
+            "tam": "A widowed father and his daughter whose house is up for demolition, are taken hostage by a dangerous couple, who won't stop until they retrieve what lies beneath the property.",
+            "chi": "A widowed father and his daughter whose house is up for demolition, are taken hostage by a dangerous couple, who won't stop until they retrieve what lies beneath the property.",
+            "tha": "A widowed father and his daughter whose house is up for demolition, are taken hostage by a dangerous couple, who won't stop until they retrieve what lies beneath the property.",
+            "ind": "A widowed father and his daughter whose house is up for demolition, are taken hostage by a dangerous couple, who won't stop until they retrieve what lies beneath the property."
+        },
+        "long": {
+            "eng": "A widowed father and his daughter whose house is up for demolition, are taken hostage by a dangerous couple, who won't stop until they retrieve what lies beneath the property.",
+            "may": "A widowed father and his daughter whose house is up for demolition, are taken hostage by a dangerous couple, who won't stop until they retrieve what lies beneath the property.",
+            "tam": "A widowed father and his daughter whose house is up for demolition, are taken hostage by a dangerous couple, who won't stop until they retrieve what lies beneath the property.",
+            "chi": "A widowed father and his daughter whose house is up for demolition, are taken hostage by a dangerous couple, who won't stop until they retrieve what lies beneath the property.",
+            "tha": "A widowed father and his daughter whose house is up for demolition, are taken hostage by a dangerous couple, who won't stop until they retrieve what lies beneath the property.",
+            "ind": "A widowed father and his daughter whose house is up for demolition, are taken hostage by a dangerous couple, who won't stop until they retrieve what lies beneath the property."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5315,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013749/PACK0000000001013749/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013749",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013749"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Thomas Jane",
+            " Liana Liberato",
+            " Harlow Jane",
+            " Emile Hirsch",
+            " Makana David",
+            " Diego Romero",
+            " Michael Vincent Berry",
+            " Arthur Rodriguez",
+            " Ramona DuBarry",
+            " Ashleigh Domangue"
+        ],
+        "may": [
+            "Thomas Jane",
+            " Liana Liberato",
+            " Harlow Jane",
+            " Emile Hirsch",
+            " Makana David",
+            " Diego Romero",
+            " Michael Vincent Berry",
+            " Arthur Rodriguez",
+            " Ramona DuBarry",
+            " Ashleigh Domangue"
+        ],
+        "tam": [
+            "Thomas Jane",
+            " Liana Liberato",
+            " Harlow Jane",
+            " Emile Hirsch",
+            " Makana David",
+            " Diego Romero",
+            " Michael Vincent Berry",
+            " Arthur Rodriguez",
+            " Ramona DuBarry",
+            " Ashleigh Domangue"
+        ],
+        "chi": [
+            "Thomas Jane",
+            " Liana Liberato",
+            " Harlow Jane",
+            " Emile Hirsch",
+            " Makana David",
+            " Diego Romero",
+            " Michael Vincent Berry",
+            " Arthur Rodriguez",
+            " Ramona DuBarry",
+            " Ashleigh Domangue"
+        ],
+        "tha": [
+            "Thomas Jane",
+            " Liana Liberato",
+            " Harlow Jane",
+            " Emile Hirsch",
+            " Makana David",
+            " Diego Romero",
+            " Michael Vincent Berry",
+            " Arthur Rodriguez",
+            " Ramona DuBarry",
+            " Ashleigh Domangue"
+        ],
+        "ind": [
+            "Thomas Jane",
+            " Liana Liberato",
+            " Harlow Jane",
+            " Emile Hirsch",
+            " Makana David",
+            " Diego Romero",
+            " Michael Vincent Berry",
+            " Arthur Rodriguez",
+            " Ramona DuBarry",
+            " Ashleigh Domangue"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "K. Asher Levin"
+        ],
+        "may": [
+            "K. Asher Levin"
+        ],
+        "tam": [
+            "K. Asher Levin"
+        ],
+        "chi": [
+            "K. Asher Levin"
+        ],
+        "tha": [
+            "K. Asher Levin"
+        ],
+        "ind": [
+            "K. Asher Levin"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Banipal Ablakhad",
+            " Benhur Ablakhad",
+            " Jason Armstrong",
+            " Grady Craig",
+            " Daniel Cummings",
+            " Robert Dean",
+            " Clay Epstein",
+            " David Gendron",
+            " Rob Goodrich",
+            " Matthew Helderman"
+        ],
+        "may": [
+            "Banipal Ablakhad",
+            " Benhur Ablakhad",
+            " Jason Armstrong",
+            " Grady Craig",
+            " Daniel Cummings",
+            " Robert Dean",
+            " Clay Epstein",
+            " David Gendron",
+            " Rob Goodrich",
+            " Matthew Helderman"
+        ],
+        "tam": [
+            "Banipal Ablakhad",
+            " Benhur Ablakhad",
+            " Jason Armstrong",
+            " Grady Craig",
+            " Daniel Cummings",
+            " Robert Dean",
+            " Clay Epstein",
+            " David Gendron",
+            " Rob Goodrich",
+            " Matthew Helderman"
+        ],
+        "chi": [
+            "Banipal Ablakhad",
+            " Benhur Ablakhad",
+            " Jason Armstrong",
+            " Grady Craig",
+            " Daniel Cummings",
+            " Robert Dean",
+            " Clay Epstein",
+            " David Gendron",
+            " Rob Goodrich",
+            " Matthew Helderman"
+        ],
+        "tha": [
+            "Banipal Ablakhad",
+            " Benhur Ablakhad",
+            " Jason Armstrong",
+            " Grady Craig",
+            " Daniel Cummings",
+            " Robert Dean",
+            " Clay Epstein",
+            " David Gendron",
+            " Rob Goodrich",
+            " Matthew Helderman"
+        ],
+        "ind": [
+            "Banipal Ablakhad",
+            " Benhur Ablakhad",
+            " Jason Armstrong",
+            " Grady Craig",
+            " Daniel Cummings",
+            " Robert Dean",
+            " Clay Epstein",
+            " David Gendron",
+            " Rob Goodrich",
+            " Matthew Helderman"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Thriller",
+                    "may": "Thriller",
+                    "tam": "Thriller",
+                    "chi": "Thriller",
+                    "tha": "Thriller",
+                    "ind": "Thriller"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": "Thriller",
+                    "may": "Thriller",
+                    "tam": "Thriller",
+                    "chi": "Thriller",
+                    "tha": "Thriller",
+                    "ind": "Thriller"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Dig_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Dig_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Dig_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "4.3",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}

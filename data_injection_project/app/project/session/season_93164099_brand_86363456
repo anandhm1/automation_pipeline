@@ -1,0 +1,323 @@
+{
+    "externalId": "AggregatedSeason_d262c361-509a-5fe2-844e-d862df45c9ad",
+    "clientContentId": "PACK0000000003248493",
+    "provider": null,
+    "offers": [
+        {
+            "contractType": "SVOD",
+            "offerStartDate": "2023-05-17T00:00:00Z",
+            "offerEndDate": "2024-03-31T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 0,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ]
+            }
+        }
+    ],
+    "showType": "season",
+    "keywords": [
+        "time machine",
+        "Matt Lanter",
+        "adventure",
+        "time travel",
+        "Malcolm Barrett",
+        "Abigail Spencer",
+        "Action"
+    ],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Animation",
+                    "may": "Animation",
+                    "chi": "Animation",
+                    "tam": "Animation",
+                    "ind": "Animation",
+                    "tha": "Animation"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Adventure",
+                    "may": " Adventure",
+                    "chi": " Adventure",
+                    "tam": " Adventure",
+                    "ind": " Adventure",
+                    "tha": " Adventure"
+                },
+                "image": null
+            }
+        ]
+    },
+    "yearOfRelease": 2019,
+    "rating": "TV-Y7-FV",
+    "maxConcurrentStreams": 0,
+    "playUrls": [],
+    "actor": {
+        "eng": [
+            "Nick Wolfhard",
+            " Charles Demers",
+            " Garland Whitt",
+            " Montse Hernandez",
+            " Brian Drummond",
+            " Giles Panton",
+            " Mark Hamill",
+            " Catherine O'Hara",
+            " Bruce Campbell",
+            " Keith David"
+        ],
+        "may": [
+            "Nick Wolfhard",
+            " Charles Demers",
+            " Garland Whitt",
+            " Montse Hernandez",
+            " Brian Drummond",
+            " Giles Panton",
+            " Mark Hamill",
+            " Catherine O'Hara",
+            " Bruce Campbell",
+            " Keith David"
+        ],
+        "chi": [
+            "Nick Wolfhard",
+            " Charles Demers",
+            " Garland Whitt",
+            " Montse Hernandez",
+            " Brian Drummond",
+            " Giles Panton",
+            " Mark Hamill",
+            " Catherine O'Hara",
+            " Bruce Campbell",
+            " Keith David"
+        ],
+        "tam": [
+            "Nick Wolfhard",
+            " Charles Demers",
+            " Garland Whitt",
+            " Montse Hernandez",
+            " Brian Drummond",
+            " Giles Panton",
+            " Mark Hamill",
+            " Catherine O'Hara",
+            " Bruce Campbell",
+            " Keith David"
+        ],
+        "ind": [
+            "Nick Wolfhard",
+            " Charles Demers",
+            " Garland Whitt",
+            " Montse Hernandez",
+            " Brian Drummond",
+            " Giles Panton",
+            " Mark Hamill",
+            " Catherine O'Hara",
+            " Bruce Campbell",
+            " Keith David"
+        ],
+        "tha": [
+            "Nick Wolfhard",
+            " Charles Demers",
+            " Garland Whitt",
+            " Montse Hernandez",
+            " Brian Drummond",
+            " Giles Panton",
+            " Mark Hamill",
+            " Catherine O'Hara",
+            " Bruce Campbell",
+            " Keith David"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Steve Rolston",
+            " William Lau",
+            " Darren Bachynski"
+        ],
+        "may": [
+            "Steve Rolston",
+            " William Lau",
+            " Darren Bachynski"
+        ],
+        "chi": [
+            "Steve Rolston",
+            " William Lau",
+            " Darren Bachynski"
+        ],
+        "tam": [
+            "Steve Rolston",
+            " William Lau",
+            " Darren Bachynski"
+        ],
+        "ind": [
+            "Steve Rolston",
+            " William Lau",
+            " Darren Bachynski"
+        ],
+        "tha": [
+            "Steve Rolston",
+            " William Lau",
+            " Darren Bachynski"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Jennifer Twiner McCarron",
+            " Scott D. Peterson",
+            " Matthew Berkowitz",
+            " Joel Bradley",
+            " Max Brallier",
+            " Kevin Gamble",
+            " Deacon Publicover",
+            " Tini Wider"
+        ],
+        "may": [
+            "Jennifer Twiner McCarron",
+            " Scott D. Peterson",
+            " Matthew Berkowitz",
+            " Joel Bradley",
+            " Max Brallier",
+            " Kevin Gamble",
+            " Deacon Publicover",
+            " Tini Wider"
+        ],
+        "chi": [
+            "Jennifer Twiner McCarron",
+            " Scott D. Peterson",
+            " Matthew Berkowitz",
+            " Joel Bradley",
+            " Max Brallier",
+            " Kevin Gamble",
+            " Deacon Publicover",
+            " Tini Wider"
+        ],
+        "tam": [
+            "Jennifer Twiner McCarron",
+            " Scott D. Peterson",
+            " Matthew Berkowitz",
+            " Joel Bradley",
+            " Max Brallier",
+            " Kevin Gamble",
+            " Deacon Publicover",
+            " Tini Wider"
+        ],
+        "ind": [
+            "Jennifer Twiner McCarron",
+            " Scott D. Peterson",
+            " Matthew Berkowitz",
+            " Joel Bradley",
+            " Max Brallier",
+            " Kevin Gamble",
+            " Deacon Publicover",
+            " Tini Wider"
+        ],
+        "tha": [
+            "Jennifer Twiner McCarron",
+            " Scott D. Peterson",
+            " Matthew Berkowitz",
+            " Joel Bradley",
+            " Max Brallier",
+            " Kevin Gamble",
+            " Deacon Publicover",
+            " Tini Wider"
+        ],
+        "image": null
+    },
+    "seriesId": "AggregatedSeries_6dde5500-f499-53b2-9faf-2c66b30df1a3",
+    "seasonNumber": "1",
+    "boxsetIds": [],
+    "sortOrder": 1,
+    "audienceLabel": "test",
+    "operatorLabels": [],
+    "title": {
+        "short": {
+            "eng": "The Last Kids on Earth Season 1",
+            "may": "The Last Kids on Earth Season 1",
+            "chi": "The Last Kids on Earth Season 1",
+            "tam": "The Last Kids on Earth Season 1",
+            "ind": "The Last Kids on Earth Season 1",
+            "tha": "The Last Kids on Earth Season 1"
+        },
+        "long": {
+            "eng": "The Last Kids on Earth Season 1",
+            "may": "The Last Kids on Earth Season 1",
+            "chi": "The Last Kids on Earth Season 1",
+            "tam": "The Last Kids on Earth Season 1",
+            "ind": "The Last Kids on Earth Season 1",
+            "tha": "The Last Kids on Earth Season 1"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "Young teenager Jack Sullivan and a group of friends live in a decked-out tree house, playing video games, eating candy, and fighting zombies in the aftermath of a monster apocalypse.",
+            "may": "Young teenager Jack Sullivan and a group of friends live in a decked-out tree house, playing video games, eating candy, and fighting zombies in the aftermath of a monster apocalypse.",
+            "chi": "Young teenager Jack Sullivan and a group of friends live in a decked-out tree house, playing video games, eating candy, and fighting zombies in the aftermath of a monster apocalypse.",
+            "tam": "Young teenager Jack Sullivan and a group of friends live in a decked-out tree house, playing video games, eating candy, and fighting zombies in the aftermath of a monster apocalypse.",
+            "ind": "Young teenager Jack Sullivan and a group of friends live in a decked-out tree house, playing video games, eating candy, and fighting zombies in the aftermath of a monster apocalypse.",
+            "tha": "Young teenager Jack Sullivan and a group of friends live in a decked-out tree house, playing video games, eating candy, and fighting zombies in the aftermath of a monster apocalypse."
+        },
+        "long": {
+            "eng": "Young teenager Jack Sullivan and a group of friends live in a decked-out tree house, playing video games, eating candy, and fighting zombies in the aftermath of a monster apocalypse.",
+            "may": "Young teenager Jack Sullivan and a group of friends live in a decked-out tree house, playing video games, eating candy, and fighting zombies in the aftermath of a monster apocalypse.",
+            "chi": "Young teenager Jack Sullivan and a group of friends live in a decked-out tree house, playing video games, eating candy, and fighting zombies in the aftermath of a monster apocalypse.",
+            "tam": "Young teenager Jack Sullivan and a group of friends live in a decked-out tree house, playing video games, eating candy, and fighting zombies in the aftermath of a monster apocalypse.",
+            "ind": "Young teenager Jack Sullivan and a group of friends live in a decked-out tree house, playing video games, eating candy, and fighting zombies in the aftermath of a monster apocalypse.",
+            "tha": "Young teenager Jack Sullivan and a group of friends live in a decked-out tree house, playing video games, eating candy, and fighting zombies in the aftermath of a monster apocalypse."
+        }
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheLastKidsonEarthSeason1_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheLastKidsonEarthSeason1_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/webseries/TheLastKidsonEarthSeason1_Banner_16x9.jpg"
+        }
+    ],
+    "isEnabled": true
+}

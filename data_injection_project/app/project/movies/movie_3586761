@@ -1,0 +1,343 @@
+{
+    "externalId": "AggregatedMovie_f454b639-b7a9-53e1-bcf7-2257639c64ae",
+    "clientContentId": "PACK0000000009682962",
+    "provider": null,
+    "title": {
+        "short": {
+            "eng": "Mindcage (2022)",
+            "may": "Mindcage (2022)",
+            "tam": "Mindcage (2022)",
+            "chi": "Mindcage (2022)",
+            "tha": "Mindcage (2022)",
+            "ind": "Mindcage (2022)"
+        },
+        "long": {
+            "eng": "Mindcage (2022)",
+            "may": "Mindcage (2022)",
+            "tam": "Mindcage (2022)",
+            "chi": "Mindcage (2022)",
+            "tha": "Mindcage (2022)",
+            "ind": "Mindcage (2022)"
+        }
+    },
+    "description": {
+        "short": {
+            "eng": "When a copycat strikes, two detectives ask a top serial killer for help.",
+            "may": "When a copycat strikes, two detectives ask a top serial killer for help.",
+            "tam": "When a copycat strikes, two detectives ask a top serial killer for help.",
+            "chi": "When a copycat strikes, two detectives ask a top serial killer for help.",
+            "tha": "When a copycat strikes, two detectives ask a top serial killer for help.",
+            "ind": "When a copycat strikes, two detectives ask a top serial killer for help."
+        },
+        "long": {
+            "eng": "When a copycat strikes, two detectives ask a top serial killer for help.",
+            "may": "When a copycat strikes, two detectives ask a top serial killer for help.",
+            "tam": "When a copycat strikes, two detectives ask a top serial killer for help.",
+            "chi": "When a copycat strikes, two detectives ask a top serial killer for help.",
+            "tha": "When a copycat strikes, two detectives ask a top serial killer for help.",
+            "ind": "When a copycat strikes, two detectives ask a top serial killer for help."
+        }
+    },
+    "offers": [
+        {
+            "contractType": "TVOD",
+            "offerStartDate": "2024-02-27T16:01:00Z",
+            "offerEndDate": "2025-05-26T23:59:59Z",
+            "offerRegion": "Malaysia",
+            "rentalExpiry": 30,
+            "entitlements": [
+                "dummy_entitlement1",
+                "dummy_entitlement2"
+            ],
+            "adsEnabled": false,
+            "adsType": {
+                "adsPreRoll": null,
+                "adsMidRoll": null,
+                "adsPostRoll": null
+            },
+            "adsSupplier": null,
+            "allowedOnApplicationDevices": {
+                "sooka": [
+                    "Mobile",
+                    "Web",
+                    "SmartTV",
+                    "Dongle"
+                ],
+                "astroGo": null
+            }
+        }
+    ],
+    "playUrls": [
+        {
+            "contentType": "Full Asset",
+            "duration": 5217,
+            "hls": {
+                "fairplay": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.m3u8"
+            },
+            "dash": {
+                "playready": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd",
+                "widevine": "https://vod.bpk.dev.xp.irdeto.com/bpk-vod/irexp-intg/output/PACK0000000001013748/PACK0000000001013748/index.mpd"
+            },
+            "licenseAcquisitionUrl": {
+                "playready": "https://irexp-integration.test.ott.irdeto.com/licenseServer/playready/v1/irexp-integration/license?contentId=PACK0000000001013748",
+                "widevine": "https://irexp-integration.test.ott.irdeto.com/licenseServer/widevine/v1/irexp-integration/license?contentId=PACK0000000001013748"
+            }
+        }
+    ],
+    "actor": {
+        "eng": [
+            "Martin Lawrence",
+            " Melissa Roxburgh",
+            " John Malkovich",
+            " Robert Knepper",
+            " Neb Chupin",
+            " Jacob Grodnik",
+            " Chris Mullinax",
+            " Ritchie Montgomery",
+            " Nellie Sciutto",
+            " Aiden Turner"
+        ],
+        "may": [
+            "Martin Lawrence",
+            " Melissa Roxburgh",
+            " John Malkovich",
+            " Robert Knepper",
+            " Neb Chupin",
+            " Jacob Grodnik",
+            " Chris Mullinax",
+            " Ritchie Montgomery",
+            " Nellie Sciutto",
+            " Aiden Turner"
+        ],
+        "tam": [
+            "Martin Lawrence",
+            " Melissa Roxburgh",
+            " John Malkovich",
+            " Robert Knepper",
+            " Neb Chupin",
+            " Jacob Grodnik",
+            " Chris Mullinax",
+            " Ritchie Montgomery",
+            " Nellie Sciutto",
+            " Aiden Turner"
+        ],
+        "chi": [
+            "Martin Lawrence",
+            " Melissa Roxburgh",
+            " John Malkovich",
+            " Robert Knepper",
+            " Neb Chupin",
+            " Jacob Grodnik",
+            " Chris Mullinax",
+            " Ritchie Montgomery",
+            " Nellie Sciutto",
+            " Aiden Turner"
+        ],
+        "tha": [
+            "Martin Lawrence",
+            " Melissa Roxburgh",
+            " John Malkovich",
+            " Robert Knepper",
+            " Neb Chupin",
+            " Jacob Grodnik",
+            " Chris Mullinax",
+            " Ritchie Montgomery",
+            " Nellie Sciutto",
+            " Aiden Turner"
+        ],
+        "ind": [
+            "Martin Lawrence",
+            " Melissa Roxburgh",
+            " John Malkovich",
+            " Robert Knepper",
+            " Neb Chupin",
+            " Jacob Grodnik",
+            " Chris Mullinax",
+            " Ritchie Montgomery",
+            " Nellie Sciutto",
+            " Aiden Turner"
+        ],
+        "image": null
+    },
+    "director": {
+        "eng": [
+            "Mauro Borrelli"
+        ],
+        "may": [
+            "Mauro Borrelli"
+        ],
+        "tam": [
+            "Mauro Borrelli"
+        ],
+        "chi": [
+            "Mauro Borrelli"
+        ],
+        "tha": [
+            "Mauro Borrelli"
+        ],
+        "ind": [
+            "Mauro Borrelli"
+        ],
+        "image": null
+    },
+    "producer": {
+        "eng": [
+            "Cassandra Gava",
+            " Oscar Generale",
+            " Tyler Gould",
+            " Daniel Grodnik",
+            " Matthew Helderman",
+            " Phil Hunt",
+            " Robert Knepper",
+            " Compton Ross",
+            " Luke Taylor",
+            " Charli Traylor"
+        ],
+        "may": [
+            "Cassandra Gava",
+            " Oscar Generale",
+            " Tyler Gould",
+            " Daniel Grodnik",
+            " Matthew Helderman",
+            " Phil Hunt",
+            " Robert Knepper",
+            " Compton Ross",
+            " Luke Taylor",
+            " Charli Traylor"
+        ],
+        "tam": [
+            "Cassandra Gava",
+            " Oscar Generale",
+            " Tyler Gould",
+            " Daniel Grodnik",
+            " Matthew Helderman",
+            " Phil Hunt",
+            " Robert Knepper",
+            " Compton Ross",
+            " Luke Taylor",
+            " Charli Traylor"
+        ],
+        "chi": [
+            "Cassandra Gava",
+            " Oscar Generale",
+            " Tyler Gould",
+            " Daniel Grodnik",
+            " Matthew Helderman",
+            " Phil Hunt",
+            " Robert Knepper",
+            " Compton Ross",
+            " Luke Taylor",
+            " Charli Traylor"
+        ],
+        "tha": [
+            "Cassandra Gava",
+            " Oscar Generale",
+            " Tyler Gould",
+            " Daniel Grodnik",
+            " Matthew Helderman",
+            " Phil Hunt",
+            " Robert Knepper",
+            " Compton Ross",
+            " Luke Taylor",
+            " Charli Traylor"
+        ],
+        "ind": [
+            "Cassandra Gava",
+            " Oscar Generale",
+            " Tyler Gould",
+            " Daniel Grodnik",
+            " Matthew Helderman",
+            " Phil Hunt",
+            " Robert Knepper",
+            " Compton Ross",
+            " Luke Taylor",
+            " Charli Traylor"
+        ],
+        "image": null
+    },
+    "showType": "movie",
+    "keywords": [],
+    "audioLanguages": {
+        "eng": [
+            "eng"
+        ],
+        "may": [
+            "eng"
+        ],
+        "tam": [
+            "eng"
+        ],
+        "chi": [
+            "eng"
+        ],
+        "tha": [
+            "eng"
+        ],
+        "ind": [
+            "eng"
+        ]
+    },
+    "genre": {
+        "primary": [
+            {
+                "name": {
+                    "eng": "Crime",
+                    "may": "Crime",
+                    "tam": "Crime",
+                    "chi": "Crime",
+                    "tha": "Crime",
+                    "ind": "Crime"
+                },
+                "image": null
+            }
+        ],
+        "secondary": [
+            {
+                "name": {
+                    "eng": " Drama",
+                    "may": " Drama",
+                    "tam": " Drama",
+                    "chi": " Drama",
+                    "tha": " Drama",
+                    "ind": " Drama"
+                },
+                "image": null
+            }
+        ]
+    },
+    "images": [
+        {
+            "type": "boxcover",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Mindcage_Banner_16x9.jpg"
+        },
+        {
+            "type": "poster",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Mindcage_3x4.jpg"
+        },
+        {
+            "type": "thumbnail",
+            "url": "https://datastore.videoready.int.xp.irdeto.com/image/movies/Mindcage_Banner_16x9.jpg"
+        }
+    ],
+    "seriesId": null,
+    "seasonId": null,
+    "boxsetIds": [],
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "yearOfRelease": 2022,
+    "rating": "4.5",
+    "isEnabled": true,
+    "isAutoplayEnabled": false,
+    "isWMAuthEnabled": false,
+    "isCDNAuthEnabled": false,
+    "skipIntroStart": "",
+    "skipIntroEnd": "",
+    "skipCreditStart": "",
+    "skipCreditEnd": "",
+    "skipRecapStart": "",
+    "skipRecapEnd": "",
+    "contentCreateDate": 0,
+    "contentUpdateDate": 0,
+    "operatorLabels": [],
+    "maxConcurrentStreams": 0
+}
